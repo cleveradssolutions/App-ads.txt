@@ -1,4 +1,4 @@
-# CleverAdsSolutions-iOS SDK Integration 
+# CleverAdsSolutions App-ads.txt
 
 [![Updated](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/cleveradssolutions/App-ads.txt/master/Shield.json)](https://github.com/cleveradssolutions/App-ads.txt)
 
