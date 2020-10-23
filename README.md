@@ -5,10 +5,10 @@
 > If you do not know what settings you need to use for your application, please contact support.
 
 #### Target Audience: Children
-[Children/app-ads.txt](Children/app--ads.txt)
+[Children/app-ads.txt](/Children/app--ads.txt)
 
 #### Target Audience: Older Users
-[Older Users/app-ads.txt](Older-Users/app--ads.txt)
+[Older Users/app-ads.txt](/Older-Users/app--ads.txt)
 
 ### "App-ads.txt: How to Make It & Why You Need It"
 
