@@ -1,15 +1,15 @@
-#Last updated November 25, 2020
-#AdMob
+#Last updated November 30, 2020
+#=== AdMob
 google.com, pub-2871335254532484, DIRECT, f08c47fec0942fa0
-#AdMob Obsoleted
+#=== AdMob Obsoleted
 google.com, pub-7022579750037037, DIRECT, f08c47fec0942fa0
-#FacebookAN
+#=== FacebookAN
 facebook.com, 805069172997110, RESELLER, c3e20eee3f780d68
-#AdColony
+#=== AdColony
 adcolony.com, 4f99f033452c0143c565ad88578f8264, DIRECT, 1ad675c9de6b5176
 adcolony.com, 50bec21c1751f6f6fa9a4b241dcd4a9, DIRECT, 1ad675c9de6b5176
 adcolony.com, 60292ba3fc7acddf31598729fac2dcee, DIRECT, 1ad675c9de6b5176
-#Vungle Nov 24, 2020
+#=== Vungle Nov 30, 2020
 vungle.com, 5730c2af2270cba25f000066, DIRECT, c107d686becd2d77
 adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
 adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
@@ -130,7 +130,13 @@ spotxchange.com, 117872, RESELLER, 7842df1d2fe2db34
 spotx.tv, 117872, RESELLER, 7842df1d2fe2db34
 freewheel.tv, 1058753, DIRECT
 freewheel.tv, 1058769, RESELLER
-#IronSource Nov 24, 2020
+axonix.com, 56222, RESELLER
+rubiconproject.com, 12186, RESELLER, 0bfd66d529a55807
+e-planning.net, 2af6560b926d20f9, RESELLER, c1ba615865ed87b2
+improvedigital.com, 1556, RESELLER
+openx.com, 541031350, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 156631, RESELLER, 5d62403b186f2ace
+#=== IronSource Nov 30, 2020
 ironsrc.com, 218335, DIRECT, 79929e88b2ba73bc
 appnexus.com, 2480, RESELLER, f5ab79cb980f11d1
 improvedigital.com, 1114, RESELLER
@@ -178,7 +184,8 @@ pubmatic.com, 156425, RESELLER, 5d62403b186f2ace
 smartadserver.com, 3020, RESELLER
 yieldlab.net, 2172218, RESELLER
 appnexus.com, 3368, RESELLER
-#UnityAds Nov 24, 2020
+verve.com, 14561, RESELLER, 0c8f5958fc2d6270
+#=== UnityAds Nov 24, 2020
 unity.com, 1773786, DIRECT, 96cabb5fbdde37a7
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
@@ -208,7 +215,7 @@ google.com, pub-9493002888945144, RESELLER
 google.com, pub-5253778207650191, RESELLER
 telaria.com, rwd19-1773786, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-1773786, RESELLER, 1a4e959a1b50034a
-#Chartboost Oct 05, 2020
+#=== Chartboost Oct 05, 2020
 chartboost.com, 5730bb1a04b0165b75d2e564, DIRECT
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
 bidmachine.io, 98, RESELLER
@@ -243,7 +250,7 @@ admixer.net, 8e380da6-31ba-488c-939c-290c48d577e4, RESELLER
 onetag.com, 59aa7be4921bac8, RESELLER
 advertising.com, 28246, RESELLER
 sonobi.com, eaec54c63f, RESELLER, d1a215d9eb5aee9e
-#AppLovin July 16, 2020
+#=== AppLovin July 16, 2020
 applovin.com, 4d391c28b8c9b08646600303640192ea, DIRECT
 adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
 rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
@@ -253,7 +260,7 @@ pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
 pubnative.net, 1007170, RESELLER, d641df8625486a7b
 Verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 indexexchange.com, 191086, RESELLER
-#Kidoz June 29, 2020
+#=== Kidoz Nov 30, 2020
 google.com, pub-5781531207509232, DIRECT, f08c47fec0942fa0
 adtech.com, 4596, DIRECT # AOL video
 appnexus.com, 806, DIRECT, f5ab79cb980f11d1 # Appnexus video
@@ -377,7 +384,7 @@ tappx.com,pub-51227-android-7293,RESELLER
 rubiconproject.com, 16978, RESELLER, 0bfd66d529a55807
 improvedigital.com, 1604, RESELLER
 appnexus.com, 11826, RESELLER
-pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159501, DIRECT, 5d62403b186f2ace
 mopub.com, 6cef2952d5c24866b9ae066521bbdf84, DIRECT, 74b46c0ea83967ca
 google.com, pub-1256482085642647, DIRECT, f08c47fec0942fa0
 spotxchange.com, 101831, RESELLER, 7842df1d2fe2db34
@@ -386,13 +393,13 @@ rubiconproject.com, 20152, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 20182, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 14980, RESELLER, 0bfd66d529a55807
 appnexus.com, 3584, RESELLER, f5ab79cb980f11d1
-#SuperAwesome July 16, 2020
+#=== SuperAwesome July 16, 2020
 superawesome.tv, 422, DIRECT, 706a53c9da3b4cee
 rubiconproject.com, 20152, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 20182, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 14980, RESELLER, 0bfd66d529a55807
 Appnexus.com, 3584, RESELLER
-#StartApp Nov 10, 2020
+#=== StartApp Nov 10, 2020
 startapp.com, 9ca2d9ea7d0ecf2d39260d2659e6d3a3, DIRECT
 pubmatic.com, 157559, RESELLER, 5d62403b186f2ace
 yahoo.com, 1510636, RESELLER
@@ -484,7 +491,7 @@ freewheel.tv, 1160929, RESELLER
 pubnative.net, 1007455, RESELLER, d641df8625486a7b
 bidmachine.io, 138, RESELLER
 admixer.net, 8e380da6-31ba-488c-939c-290c48d577e4, RESELLER
-#InMobi Nov 10, 2020
+#=== InMobi Nov 10, 2020
 inmobi.com, 5abb702fde844f7cadd2090b3c7d61db, DIRECT, 83e75a7ae333ca9d
 inmobi.com, fafa1521dbdb43f69b1eb199a0b007fd, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 3af76ebd8ed44d04b01d827c6f3bb5b4, RESELLER, 83e75a7ae333ca9d
@@ -541,7 +548,7 @@ smartadserver.com, 3564, RESELLER
 indexexchange.com, 184738, RESELLER
 freewheel.tv, 1158193, RESELLER
 rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807
-#Lemma
+#=== Lemma
 lemmatechnologies.com,102,DIRECT
 pubmatic.com, 158189, DIRECT, 5d62403b186f2ace
 pubmatic.com, 156849, DIRECT, 5d62403b186f2ace
@@ -549,7 +556,7 @@ pubmatic.com, 157882, DIRECT, 5d62403b186f2ace
 rubiconproject.com, 20208, DIRECT, 0bfd66d529a5580
 tremorhub.com, umrto, DIRECT, 1a4e959a1b50034a
 advertising.com, 22924, DIRECT
-#StreamKey Nov 25, 2020
+#=== StreamKey Nov 25, 2020
 streamkey.tv, 1002, DIRECT, f5ab793he40f11d1
 beachfront.com, 8195, RESELLER, e2541279e8e2ca4d
 freewheel.tv, 733634, RESELLER
@@ -560,7 +567,7 @@ gumgum.com,14166, DIRECT, ffdef49475d318a9
 indexexchange.com, 177754, RESELLER, 50b1c356f2c5c8fc
 openx.com, 537149485, RESELLER, 6a698e2ec38604c6
 triplelift.com, 9789, DIRECT, 6c33edb13117fd86
-#TAKE1 Oct 19, 2020
+#=== TAKE1 Oct 19, 2020
 beachfront.com, 5278, RESELLER, e2541279e8e2ca4d #GDM Group | Take1
 beachfront.com, 10402, RESELLER, e2541279e8e2ca4d
 freewheel.tv, 1055169, RESELLER
@@ -572,7 +579,7 @@ pubmatic.com, 157568, RESELLER, 5d62403b186f2ace
 contextweb.com, 561289, RESELLER
 improvedigital.com, 1397, RESELLER
 take1ads.com, 91 , RESELLER
-#Gowithmedia
+#=== Gowithmedia
 gowithmedia, 73581, DIRECT
 springserve.com, 305, RESELLER, a24eb641fc82e93d
 lkqd.net, 390, RESELLER, 59c49fa9598a0117
@@ -584,7 +591,7 @@ contextweb.com, 561483, RESELLER ,89ff185a4c4e857c
 improvedigital.com, 1409, RESELLER
 rhythmone.com, 2503445986, RESELLER, a670c89d4a324e47
 EMXDGT.com,1455 , RESELLER, 1e1d41537f7cad7f
-#NomNom
+#=== NomNom
 contextweb.com, 562005, RESELLER
 openx.com, 540839403, RESELLER, 6a698e2ec38604c6
 rhythmone.com, 830687536, RESELLER, a670c89d4a324e47
@@ -604,7 +611,7 @@ cedato.com, 100878910, RESELLER
 adtelligent.com, 309040, RESELLER, 7de89dc7742b5b11
 advertising.com, 28441, RESELLER
 adtech.com, 28441, RESELLER
-#MyTarget Nov 10, 2020
+#=== MyTarget Nov 10, 2020
 target.my.com, 3584173, DIRECT
 admixer.com, 3584173, RESELLER
 pubmatic.com, 3584173, RESELLER
@@ -624,7 +631,7 @@ rhythmone.com, 3880497124, RESELLER
 rubiconproject.com, 19724, RESELLER
 rubiconproject.com, 20744, RESELLER
 sovrn.com, 273644, RESELLER
-#MobFox Nob 24, 2020
+#=== MobFox Nob 24, 2020
 mobfox.com, 303-b4484, DIRECT, 5529a3d1f59865be
 appnexus.com, 2637, RESELLER, f5ab79cb980f11d1
 smartyads.com, 188, RESELLER
