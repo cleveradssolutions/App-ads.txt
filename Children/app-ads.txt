@@ -1,4 +1,4 @@
-#Last updated November 30, 2020
+#Last updated Dec 4, 2020
 #=== AdMob
 google.com, pub-8858162097015410, DIRECT, f08c47fec0942fa0
 #=== FacebookAN
@@ -258,7 +258,7 @@ pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
 pubnative.net, 1007170, RESELLER, d641df8625486a7b
 Verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 indexexchange.com, 191086, RESELLER
-#=== Kidoz Nov 30, 2020
+#=== Kidoz Dec 1, 2020
 google.com, pub-5781531207509232, DIRECT, f08c47fec0942fa0
 adtech.com, 4596, DIRECT # AOL video
 appnexus.com, 806, DIRECT, f5ab79cb980f11d1 # Appnexus video
@@ -337,25 +337,6 @@ pubmatic.com, 92509, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 13856, RESELLER, 0bfd66d529a55807
 smartadserver.com, 1692, RESELLER
 lkqd.net, 469, RESELLER, 59c49fa9598a0117
-vidrider.com, 2020, DIRECT
-admixer.net, 34ccbbd8-fdac-421d-beba-fb49797ea336, RESELLER
-improvedigital.com, 1523, RESELLER
-loopme.com, 11242, RESELLER, 6c8d5f95897a5a3b
-inmobi.com, f552e29662174bea871f791b6a8f9faf, RESELLER, 83e75a7ae333ca9d
-rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 12266, RESELLER, 0bfd66d529a55807
-tappx.com, 32818, DIRECT, 9f375a07da0318ec
-tappx.com, 33065, RESELLER, 9f375a07da0318ec
-loopme.com, 11227, RESELLER, 6c8d5f95897a5a3b
-pubmatic.com, 156435, RESELLER, 5d62403b186f2ace
-rubiconproject.com, 13856, RESELLER, 0bfd66d529a55807
-appnexus.com, 10824, RESELLER
-pubmatic.com, 158112, RESELLER, 5d62403b186f2ace
-chartboost.com, 5da62a1035b91e0aff190bf7, RESELLER
-ssp.smartyads.com, 5Gz14876rYt7, DIRECT
-telaria.com, s92od-u4sw5, RESELLER, 1a4e959a1b50034a
-tremorhub.com, s92od-u4sw5, RESELLER, 1a4e959a1b50034a
-whildey.com, 2016, DIRECT
 google.com, pub-5967470543517808, DIRECT, f08c47fec0942fa0 #AdMob
 spotxchange.com, 153598, RESELLER, 7842df1d2fe2db34
 spotx.tv, 153598, RESELLER, 7842df1d2fe2db34
@@ -382,7 +363,7 @@ tappx.com,pub-51227-android-7293,RESELLER
 rubiconproject.com, 16978, RESELLER, 0bfd66d529a55807
 improvedigital.com, 1604, RESELLER
 appnexus.com, 11826, RESELLER
-pubmatic.com, 159501, DIRECT, 5d62403b186f2ace
+pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
 mopub.com, 6cef2952d5c24866b9ae066521bbdf84, DIRECT, 74b46c0ea83967ca
 google.com, pub-1256482085642647, DIRECT, f08c47fec0942fa0
 spotxchange.com, 101831, RESELLER, 7842df1d2fe2db34
