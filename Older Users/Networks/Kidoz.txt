@@ -1,0 +1,121 @@
+#=== Kidoz Mar 9, 2021
+google.com, pub-5781531207509232, DIRECT, f08c47fec0942fa0
+adtech.com, 4596, DIRECT # AOL video
+appnexus.com, 806, DIRECT, f5ab79cb980f11d1 # Appnexus video
+aolcloud.net, 4596, DIRECT # AOL video
+sonobi.com, 116da9d98c, DIRECT # Sonobi video
+indexexchange.com, 183921, DIRECT # Index video
+improvedigital.com, 1012, DIRECT # ImproveD video
+districtm.io, 100749, DIRECT #DM direct video
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 #DM reseller video
+appnexus.com, 7944, RESELLER, f5ab79cb980f11d1 #DM reseller video
+conversantmedia.com, 41150, DIRECT # Conversant video
+sovrn.com, 237754, DIRECT, fafdf38b16bf6b2b # Sovrn video
+openx.com, 537144009, DIRECT, 6a698e2ec38604c6 #OpneX video
+rubiconproject.com, 13762, DIRECT, 0bfd66d529a55807 # Rubicon video
+rubiconproject.com, 19582, DIRECT, 0bfd66d529a55807 # Rubicon AU video
+rhythmone.com, 1155926068, DIRECT, a670c89d4a324e47 #Rone video
+rhythmone.com, 608304513, DIRECT, a670c89d4a324e47 #Rone video
+advertising.com, 2694, DIRECT #video
+adtech.com, 2694, DIRECT #video
+aolcloud.net, 2694, DIRECT #video
+freewheel.tv, 1953, DIRECT #video
+lkqd.net, 304, DIRECT, 59c49fa9598a0117 #video
+lkqd.com, 304, RESELLER, 59c49fa9598a0117 #video
+spotx.tv, 141412, DIRECT, 7842df1d2fe2db34 #video
+tremorhub.com, hpwve, RESELLER, 1a4e959a1b50034a #video
+telaria.com, hpwve, RESELLER, 1a4e959a1b50034a #video
+tremorhub.com, zksge-09nus, RESELLER, 1a4e959a1b50034a #video AU
+tremorhub.com, zksge-kzhxp, RESELLER, 1a4e959a1b50034a #video AU
+telaria.com, zksge-09nus, RESELLER, 1a4e959a1b50034a #video AU
+telaria.com, zksge-kzhxp, RESELLER, 1a4e959a1b50034a #video AU
+spotxchange.com, 141412, DIRECT, 7842df1d2fe2db34 #video
+pubmatic.com, 156715, DIRECT, 5d62403b186f2ace #video
+freewheel.tv, 187721, DIRECT #video
+freewheel.tv, 211121, DIRECT #video
+freewheel.tv, 196129, DIRECT #video
+freewheel.tv, 228641, DIRECT #video
+freewheel.tv, 187865, DIRECT #video
+freewheel.tv, 211129, DIRECT #video
+freewheel.tv, 196145, DIRECT #video
+freewheel.tv, 228649, DIRECT #video
+teads.tv, 16676, DIRECT, 15a9c44f6d26cbe1 #video
+loopme.com, 10509, DIRECT, 6c8d5f95897a5a3b #LoopMe
+loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b #LoopMe
+loopme.com, 11002, RESELLER, 6c8d5f95897a5a3b #LoopMe
+loopme.com, 6576, RESELLER, 6c8d5f95897a5a3b #LoopMe
+loopme.com, 10925, RESELLER, 6c8d5f95897a5a3b #LoopMe
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b #LoopMe
+google.com, pub-5060663379040713, DIRECT, f08c47fec0942fa0
+indexexchange.com, 184081, RESELLER
+media.net, 8CU756X1Y, DIRECT
+media.net, 8CU4IVL54, DIRECT
+spotxchange.com, 149886, DIRECT, 7842df1d2fe2db34
+spotx.tv, 71426, RESELLER, 7842df1d2fe2db34
+playwire, 63066, DIRECT
+advertising.com, 8893, DIRECT #video
+lkqd.net, 44, Direct, 59c49fa9598a0117 #video
+pubmatic.com, 156793, RESELLER, 5d62403b186f2ace #video
+pubmatic.com, 157382, RESELLER, 5d62403b186f2ace #video
+improvedigital.com, 1087, RESELLER #video
+freewheel.tv, 440961, RESELLER #video
+contextweb.com, 560860, RESELLER, 89ff185a4c4e857c #video
+tappx.com, 32320, DIRECT, 9f375a07da0318ec #video
+beachfront.com, 4171, RESELLER #video
+rhythmone.com, 1755648630, RESELLER, a670c89d4a324e47 #video
+loopme.com, 5641, RESELLER, 6c8d5f95897a5a3b #LoopMe video
+telaria.com, jd9ih, RESELLER, 1a4e959a1b50034a #video
+tappx.com, 32818, DIRECT, 9f375a07da0318ec
+adcolony.com, c490f6e7399a25d6, RESELLER, 1ad675c9de6b5176
+appnexus.com, 10824, RESELLER, f5ab79cb980f11d1
+appnexus.com, 9569, RESELLER, f5ab79cb980f11d1
+chartboost.com, 5da62a1035b91e0aff190bf7, RESELLER
+districtm.io, 101649, RESELLER, 3fd707be9c4527c3
+groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a
+inmobi.com, ec6f6ceb8bb1440ba5455644ec96c275, RESELLER, 83e75a7ae333ca9d
+pubmatic.com, 158112, RESELLER, 5d62403b186f2ace
+pubmatic.com, 92509, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 13856, RESELLER, 0bfd66d529a55807
+smartadserver.com, 1692, RESELLER
+lkqd.net, 469, RESELLER, 59c49fa9598a0117
+google.com, pub-5967470543517808, DIRECT, f08c47fec0942fa0 #AdMob
+spotxchange.com, 153598, RESELLER, 7842df1d2fe2db34
+spotx.tv, 153598, RESELLER, 7842df1d2fe2db34
+google.com, pub-1313834454494130, RESELLER, f08c47fec0942fa0
+google.com, pub-2316275586951220, RESELLER, f08c47fec0942fa0
+google.com, pub-5192618204358860, RESELLER, f08c47fec0942fa0
+improvedigital.com, 545, RESELLER
+improvedigital.com, 1394, RESELLER
+improvedigital.com, 1299, RESELLER
+appnexus.com, 9994, RESELLER, f5ab79cb980f11d1
+indexexchange.com, 188249, RESELLER
+pubmatic.com, 156946, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158452, RESELLER, 5d62403b186f2ace
+advertising.com, 27287, RESELLER
+rubiconproject.com, 17394, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 21426, RESELLER, 0bfd66d529a55807
+openx.com, 539366975, RESELLER, 6a698e2ec38604c6
+openx.com, 540471883, RESELLER, 6a698e2ec38604c6
+kidozpro.com, 19692020, DIRECT
+kidoz.net, 19692013, DIRECT
+tappx.com,pub-51192-android-6421,RESELLER
+tappx.com,pub-51228-android-7321,RESELLER
+tappx.com,pub-51227-android-7293,RESELLER
+rubiconproject.com, 16978, RESELLER, 0bfd66d529a55807
+improvedigital.com, 1604, RESELLER
+appnexus.com, 11826, RESELLER
+pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160536, RESELLER, 5d62403b186f2ace
+mopub.com, 6cef2952d5c24866b9ae066521bbdf84, DIRECT, 74b46c0ea83967ca
+google.com, pub-1256482085642647, DIRECT, f08c47fec0942fa0
+spotxchange.com, 101831, RESELLER, 7842df1d2fe2db34
+spotx.tv, 101831, RESELLER, 7842df1d2fe2db34
+rubiconproject.com, 20152, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20182, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 14980, RESELLER, 0bfd66d529a55807
+appnexus.com, 3584, RESELLER, f5ab79cb980f11d1
+google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0
+google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
+appnexus.com, 9684, DIRECT, f5ab79cb980f11d1
+openx.com, 541073624, RESELLER, 6a698e2ec38604c6
+openx.com, 541180797, RESELLER, 6a698e2ec38604c6

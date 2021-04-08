@@ -1,0 +1,23 @@
+#=== MyTarget Apr 8, 2021
+target.my.com, 3584173, DIRECT
+admixer.com, 3584173, RESELLER
+admixer.net, 2878f07c-cc3f-4f8a-a26c-8e6033a539a6, RESELLER
+betweendigital.com, 43092, RESELLER
+betweendigital.com, 43651, RESELLER
+betweendigital.com, 43871, RESELLER
+e-planning.net, ec771b05828a67fa, RESELLER
+improvedigital.com, 1532, RESELLER
+lijit.com, 273644, RESELLER
+loopme.com, 11278, RESELLER
+onetag.com, 59d216e971852f2, RESELLER
+onetag.com, 5d1628750185ace, RESELLER
+openx.com, 540298543, RESELLER
+openx.com, 541031350, RESELLER
+openx.com, 541177349, RESELLER
+pubmatic.com, 156631, RESELLER
+pubmatic.com, 158154, RESELLER
+pubmatic.com, 159668, RESELLER
+rhythmone.com, 3880497124, RESELLER
+rubiconproject.com, 19724, RESELLER
+rubiconproject.com, 20744, RESELLER
+sovrn.com, 273644, RESELLER

@@ -1,0 +1,56 @@
+#=== IronSource Apr 08, 2021
+ironsrc.com, 218335, DIRECT, 79929e88b2ba73bc
+admanmedia.com, 9, RESELLER
+advertising.com, 8693, RESELLER
+aol.com, 25910, RESELLER
+appads.in, 105536, RESELLER
+appnexus.com, 2234, RESELLER, f5ab79cb980f11d1
+appnexus.com, 2480, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3368, RESELLER
+appnexus.com, 7445, RESELLER
+conversantmedia.com, 100234, RESELLER, 03113cd04947736d
+google.com, pub-7452201096415972, RESELLER, f08c47fec0942fa0
+improvedigital.com, 1114, RESELLER
+improvedigital.com, 1532, RESELLER
+indexexchange.com, 185996, RESELLER
+inmobi.com, 3af76ebd8ed44d04b01d827c6f3bb5b4, RESELLER, 83e75a7ae333ca9d
+loopme.com, 10287, RESELLER, 6c8d5f95897a5a3b
+ninthdecimal.com, 6364d3f0f495b6ab9dcf8d3b5c6e0b01, RESELLER, 3aff2148687b274b
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6
+openx.com, 539363588, RESELLER, 6a698e2ec38604c6
+openx.com, 540298543, RESELLER, 6a698e2ec38604c6
+openx.com, 540311484, RESELLER, 6a698e2ec38604c6
+openx.com, 540421297, RESELLER, 6a698e2ec38604c6
+pokkt.com, 5536, RESELLER, c45702d9311e25fd
+pubmatic.com, 156177, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156372, RESELLER, 5d62403b186f2ace 
+pubmatic.com, 156425, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159087, RESELLER,5d62403b186f2ace
+pubmatic.com, 160456, RESELLER, 5d62403b186f2ace
+pubnative.net, 1007007, RESELLER, d641df8625486a7b
+rhythmone.com, 3169196794, RESELLER, a670c89d4a324e47
+rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 15526, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 16676, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 18364, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20942, RESELLER, 0bfd66d529a55807
+smaato.com, 1100040398, RESELLER, 07bcf65f187117b4
+smartadserver.com, 3020, RESELLER
+smartclip.net, 411, RESELLER
+Smartclip.net, 9394, RESELLER
+smartstream.tv, 417, RESELLER
+sonobi.com, 0d53936254, RESELLER, d1a215d9eb5aee9e
+spotx.tv, 139784, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 139784, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 202100, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 307720, RESELLER, 7842df1d2fe2db34
+ssp.logan.ai, AJxF6R2a9M6CaTvK, RESELLER
+stroeer.com, 17355, RESELLER
+telaria.com, 7wy0w, RESELLER, 1a4e959a1b50034a
+tremorhub.com, 7wy0w, RESELLER, 1a4e959a1b50034a
+undertone.com, 3635, RESELLER
+verve.com, 14561, RESELLER, 0c8f5958fc2d6270
+video.unrulymedia.com, 3169196794, RESELLER
+xad.com, 241, RESELLER, 81cbf0a75a5e0e9a
+yieldlab.net, 2172218, RESELLER

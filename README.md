@@ -2,49 +2,61 @@
 
 [![Updated](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/cleveradssolutions/App-ads.txt/master/Shield.json)](https://github.com/cleveradssolutions/App-ads.txt)
 
-#### If you do not know what settings you need to use for your application, please contact support.
+The Interactive Advertising Bureau (IAB) developed ads.txt in 2017. Ads.txt is a framework that defines how publishers should list their authorized monetization partners. Using this file, the buy-side can identify which sellers the publisher has authorized to sell their inventory.  
+
+The IAB released the app version for ads.txt called app-ads.txt. The specification is an extension of ads.txt.  
+
+The simple app-ads.txt standard helps prevent the unauthorized selling of in-app inventory and app domain spoofing.
 
 #### Target Audience: Children
-[Children/app-ads.txt](/Children/app-ads.txt)
+A ready to use file that includes settings for all networks:  
+[Children/app-ads.txt](/Children/app-ads.txt)  
+Separated settings for each network:  
+[Children/Networks](/Children/Networks)  
 
 #### Target Audience: Older Users
+A ready to use file that includes settings for all networks:  
 [Older Users/app-ads.txt](/Older%20Users/app-ads.txt)
+Separated settings for each network:  
+[Older Users/Networks](/Older%20Users/Networks)  
 
-### "App-ads.txt: How to Make It & Why You Need It"
+> If your application target to Mixed Audience or yout do not know what settings you need to use, please contact [support](#support).
 
-Last year, the ad tech industry struck back at one of its most elusive problems — widespread domain spoofing that let unauthorized developers sell premium inventory they didn’t actually have. The solution? Over two million developers adopted ads.txt — a simple-text public record of Authorized Digital Sellers for a particular publisher’s inventory — to make sure they didn’t lose money from DSPs and programmatic buyers who avoid noncompliant publishers. Thanks to buyers’ ability to [crawl ads.txt and verify seller authenticity](https://iabtechlab.com/ads-txt-about/), this has quickly become a standard for protecting brands. Ad fraud reduced by 11% in 2019 due to these efforts and publisher’s ability to implement more fraud prevention techniques.  
+## Updating/Adding a Developer Website
+It is important to pay attention to the instructions below before beginning the app-ads.txt process.
+- You must list your **Developer Website URL** in the iTunes and GooglePlay app stores, as relevant.
+- There must be a valid developer website URL in all app stores hosting your apps.
+- This app-ads.txt guide only addresses Apple's App Store and Google Play stores, with both you can fully comply with the specs of app-ads.txt.
+- The Developer Website URL is used by advertising platforms to locate the app-ads.txt file.  
 
-The time has come for ads.text to evolve in-app. The introduction of apps-ads.txt is an important method for mobile app devs to similarly eliminate fraud and improve transparency.
+Listing developer websites and completing every step for the [AppStore](#appstore) or [GooglePlay](#googleplay) operating system is mandatory to complete app-ads.txt implementation. 
 
-### What is app-ads.txt?
+### AppStore
+Developer page is listed under **Developer Website**:  
+![image](https://user-images.githubusercontent.com/22005013/114005460-3b122e00-9868-11eb-92bb-e8dce76b1b12.png)  
 
-Like ads.txt, apps-ads.txt is a text file that app devs upload to their publisher website. It lists all ad sources authorized to sell that publisher’s inventory. [The IAB created a system](https://iabtechlab.com/press-releases/app-ads-txt-released-for-public-comment-as-next-step-to-fight-digital-advertising-inventory-fraud/) that allows buyers to distinguish the authorized sellers for specific in-app inventory, weeding out the undesirables.
+Follow these instructions to either update or add a developer website to the App Store page:
+1. On the Apple Developer Program page, click App Store Connect.
+2. Select the app for which you want to add a new version.
+3. Inside the app, click **+** for **Version or Platform**
+4. In the new version add the **Marketing URL**
+5. Post the `/app-ads.txt` file on the root folder of your developer website, listing all authorized sellers of their app inventory.  
 
-### How does app-ads.txt work for mobile apps?
+> Contact your internal webmaster to post the .txt file on your developer website including all direct and indirect authorized sellers of your inventory.
 
-A DSP wanting to bid on an app’s inventory crawls the app-ads.txt file on a developer’s website to verify which ad sources are authorized to sell that app’s inventory. The DSP will only accept bid requests from ad sources listed on the file and authorized by the app developer.
+### GooglePlay
+The developer page is listed under **Visit Website**:  
+![image](https://user-images.githubusercontent.com/22005013/114006234-f1761300-9868-11eb-952f-176b1937308a.png)  
 
-### How does app-ads.txt help mobile app developers capture more ad revenue?
+Follow these instructions to either update or add a developer website to Google Play:
+1. On the **Google Play Console** select the game for which you want to add a website
+2. On the left menu bar click **Store Presence >> Store Listing**
+3. Enter the details of your app
+4. Enter your contact details including the **Website**.
+5. Post the `/app-ads.txt` file on the root folder of your developer website, listing all authorized sellers of their app inventory.
 
-**Authorized in-app inventory**. An ever-increasing amount of brands are looking to advertise in-app today. Brand buyers now rely on an adherence to app-ads.txt to make sure they don’t buy unauthorized inventory from app developers and negatively impact campaign performance. Developers who don’t implement app-ads.txt can be removed from any brand buyer’s target media list. That’s why joining the app-ads.txt movement is crucial for publishers to maintain their revenue.
-
-**Ad fraud prevention**. App-ads.txt blocks unauthorized developers who impersonate legitimate apps and mislead DSPs into spending brand budgets on fake inventory. With fraud instances minimized, authentic developers can retain more of the ad revenue from inventory genuinely targeted to their app.
-
-### How do I create an app-ads.txt?
-
-You must list your **Developer Website URL** in the GooglePlay and iTunes app stores. There must be a valid developer website URL in all app stores hosting your apps.
-
-Make sure that your publisher website URL (not app specific URL)  is added in your app store listings. Advertising platforms will use this site to verify the app-ads.txt file.
-
-We have made it easier for you to include CAS list of entries so that don’t have to construct it on your own. Please copy and paste the following text block and include in your txt file along with entries you may have from your other monetization partners.
+> Contact your internal webmaster to post the .txt file on your developer website including all direct and indirect authorized sellers of your inventory.
 
 ## Support
-Site: [https://cleveradssolutions.com](https://cleveradssolutions.com)
-
-Technical support: Max  
-Skype: m.shevchenko_15  
-
-Network support: Vitaly  
-Skype: zanzavital  
-
 mailto:support@cleveradssolutions.com  
+Support Vitaly Skype: `zanzavital`
