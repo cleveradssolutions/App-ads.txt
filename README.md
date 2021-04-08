@@ -8,19 +8,21 @@ The IAB released the app version for ads.txt called app-ads.txt. The specificati
 
 The simple app-ads.txt standard helps prevent the unauthorized selling of in-app inventory and app domain spoofing.
 
-#### Target Audience: Children
+### Target Audience: Children
 A ready to use file that includes settings for all networks:  
 [Children/app-ads.txt](/Children/app-ads.txt)  
 Separated settings for each network:  
 [Children/Networks](/Children/Networks)  
 
-#### Target Audience: Older Users
+### Target Audience: Older Users
 A ready to use file that includes settings for all networks:  
 [Older Users/app-ads.txt](/Older%20Users/app-ads.txt)
 Separated settings for each network:  
 [Older Users/Networks](/Older%20Users/Networks)  
 
-> If your application target to Mixed Audience or yout do not know what settings you need to use, please contact [support](#support).
+> If your application target to Mixed Audience or yout do not know what settings you need to use, please contact [support](#support).  
+
+> Subscribe not to miss the app-ads.txt update. [![Subscribe](https://img.shields.io/github/watchers/cleveradssolutions/App-ads.txt?label=Subscribe&style=social)](https://github.com/cleveradssolutions/App-ads.txt/subscription)
 
 ## Updating/Adding a Developer Website
 It is important to pay attention to the instructions below before beginning the app-ads.txt process.
