@@ -2,3 +2,14 @@
 adcolony.com, 4f99f033452c0143c565ad88578f8264, DIRECT, 1ad675c9de6b5176
 adcolony.com, 50bec21c1751f6f6fa9a4b241dcd4a9, DIRECT, 1ad675c9de6b5176
 adcolony.com, 60292ba3fc7acddf31598729fac2dcee, DIRECT, 1ad675c9de6b5176
+#=== AdColony partner 1
+pubnative.net, 1007112, RESELLER, d641df8625486a7b
+pubnative.net, 1005686, RESELLER, d641df8625486a7b
+peak226.com, 12920, RESELLER
+peak226.com, 12921, RESELLER
+pubmatic.com, 156584, RESELLER, 5d62403b186f2ace
+loopme.com, 9219, RESELLER, 6c8d5f95897a5a3b
+appnexus.com, 3756, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+openx.com, 540298543, RESELLER, 6a698e2ec38604c6
+betweendigital.com, 43956, RESELLER

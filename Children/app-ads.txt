@@ -1,4 +1,4 @@
-#Last update Apr 08, 2021
+#Last update Apr 29, 2021
 #=== AdMob
 google.com, pub-8858162097015410, DIRECT, f08c47fec0942fa0
 #=== FacebookAN
@@ -7,6 +7,17 @@ facebook.com, 805069172997110, RESELLER, c3e20eee3f780d68
 adcolony.com, 4f99f033452c0143c565ad88578f8264, DIRECT, 1ad675c9de6b5176
 adcolony.com, 50bec21c1751f6f6fa9a4b241dcd4a9, DIRECT, 1ad675c9de6b5176
 adcolony.com, 60292ba3fc7acddf31598729fac2dcee, DIRECT, 1ad675c9de6b5176
+#=== AdColony partner 1
+pubnative.net, 1007112, RESELLER, d641df8625486a7b
+pubnative.net, 1005686, RESELLER, d641df8625486a7b
+peak226.com, 12920, RESELLER
+peak226.com, 12921, RESELLER
+pubmatic.com, 156584, RESELLER, 5d62403b186f2ace
+loopme.com, 9219, RESELLER, 6c8d5f95897a5a3b
+appnexus.com, 3756, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+openx.com, 540298543, RESELLER, 6a698e2ec38604c6
+betweendigital.com, 43956, RESELLER
 #=== MoPub
 mopub.com, 54fa9e946b6f4ab5bbfc975946c46797, DIRECT, 74b46c0ea83967ca
 #=== IronSource Apr 08, 2021
@@ -371,7 +382,7 @@ rubiconproject.com, 20152, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 20182, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 14980, RESELLER, 0bfd66d529a55807
 Appnexus.com, 3584, RESELLER
-#=== Kidoz Mar 9, 2021
+#=== Kidoz Apr 29, 2021
 google.com, pub-5781531207509232, DIRECT, f08c47fec0942fa0
 adtech.com, 4596, DIRECT # AOL video
 appnexus.com, 806, DIRECT, f5ab79cb980f11d1 # Appnexus video
@@ -425,7 +436,7 @@ media.net, 8CU756X1Y, DIRECT
 media.net, 8CU4IVL54, DIRECT
 spotxchange.com, 149886, DIRECT, 7842df1d2fe2db34
 spotx.tv, 71426, RESELLER, 7842df1d2fe2db34
-playwire, 63066, DIRECT
+playwire.com, 63066, DIRECT
 advertising.com, 8893, DIRECT #video
 lkqd.net, 44, Direct, 59c49fa9598a0117 #video
 pubmatic.com, 156793, RESELLER, 5d62403b186f2ace #video
@@ -492,6 +503,53 @@ google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
 appnexus.com, 9684, DIRECT, f5ab79cb980f11d1
 openx.com, 541073624, RESELLER, 6a698e2ec38604c6
 openx.com, 541180797, RESELLER, 6a698e2ec38604c6
+google.com, pub-4030342039766444, DIRECT, f08c47fec0942fa0
+aniview.com, 5f2063121d82c82557194737, RESELLER, 78b21b97965ec3f8
+advertising.com, 23089, RESELLER                       
+appnexus.com, 9382, RESELLER, f5ab79cb980f11d1
+google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0
+google.com, pub-4586415728471297, RESELLER, f08c47fec0942fa0
+pubmatic.com, 159941, RESELLER, 5d62403b186f2ace
+appnexus.com, 7445, DIRECT
+google.com, pub-7452201096415972, DIRECT, f08c47fec0942fa0
+smartclip.net, 8153, DIRECT
+spotxchange.com, 245212, DIRECT, 7842df1d2fe2db34
+spotx.tv, 245212, DIRECT, 7842df1d2fe2db34
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+openx.com, 540298543, RESELLER, 6a698e2ec38604c6
+ironsrc.com, 5fa94677b2db6a00015b22a9, DIRECT
+ironsrc.com, 5a169d7d9515390002000001, DIRECT
+openx.com, 537140488, Direct, 6a698e2ec38604c6
+Pubmatic.com, 159087, DIRECT, 5d62403b186f2ace
+Advertising.com, 8693, DIRECT
+openx.com, 540134228, DIRECT, 6a698e2ec38604c6
+openx.com, 540634629, DIRECT, 6a698e2ec38604c6
+pubmatic.com,159234,DIRECT,5d62403b186f2ace
+pubmatic.com, 160552, RESELLER, 5d62403b186f2ace
+contextweb.com, 561787, DIRECT, 89ff185a4c4e857c
+richaudience.com, 1XvIoD5o0S, DIRECT
+risecodes.com, 5fa94677b2db6a00015b22a9, DIRECT
+rubiconproject.com, 17902  , RESELLER, 0bfd66d529a55807
+smartadserver.com, 3490, DIRECT
+pubmatic.com, 156439, RESELLER, 5d62403b186f2ace
+pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+springserve.com, 550, DIRECT, a24eb641fc82e93d
+beachfront.com, 4969, RESELLER, e2541279e8e2ca4d
+advertising.com, 26282, RESELLER
+pubmatic.com, 157310, RESELLER, 5d62403b186f2ace
+rhythmone.com, 2968119028, RESELLER, a670c89d4a324e47
+spotxchange.com, 239904, RESELLER, 7842df1d2fe2db34
+spotx.tv, 239904, RESELLER, 7842df1d2fe2db34
+contextweb.com, 561910, RESELLER, 89ff185a4c4e857c
+openx.com, 540226160, RESELLER, 6a698e2ec38604c6
+openx.com, 540255318, RESELLER, 6a698e2ec38604c6
+ssp.ynxs.io, 185, RESELLER
+video.unrulymedia.com, UNRX-PUB-29dad46b-9bec-43c7-b950-c59d09cc8c71, DIRECT
+video.unrulymedia.com, 985572675, DIRECT         
+rhythmone.com, 2864567592, DIRECT, a670c89d4a324e47
 #=== InMobi Apr 8, 2021
 inmobi.com, 30ff09752f2b48eb9974d28116cf9ff0, DIRECT, 83e75a7ae333ca9d
 inmobi.com, fafa1521dbdb43f69b1eb199a0b007fd, RESELLER, 83e75a7ae333ca9d
