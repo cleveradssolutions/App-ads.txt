@@ -16,7 +16,7 @@ Separated settings for each network:
 
 ### Target Audience: Older Users
 A ready to use file that includes settings for all networks:  
-[Older Users/app-ads.txt](/Older%20Users/app-ads.txt)
+[Older Users/app-ads.txt](/Older%20Users/app-ads.txt)  
 Separated settings for each network:  
 [Older Users/Networks](/Older%20Users/Networks)  
 
