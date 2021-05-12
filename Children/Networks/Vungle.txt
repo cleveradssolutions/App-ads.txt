@@ -1,4 +1,4 @@
-#=== Vungle Mar 05, 2021
+#=== Vungle Mar 12, 2021
 vungle.com, 5730c2af2270cba25f000066, DIRECT, c107d686becd2d77
 adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
 adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
@@ -199,3 +199,20 @@ spotx.tv, 285547, RESELLER, 7842df1d2fe2db34
 pubmatic.com, 159277, RESELLER, 5d62403b186f2ace
 advertising.com, 28605, RESELLER
 improvedigital.com, 1699, RESELLER
+meitu.com, 622, RESELLER
+adcolony.com, f858ba060bce51ad, RESELLER, 1ad675c9de6b5176
+openx.com, 540899687, RESELLER, 6a698e2ec38604c6
+onetag.com, 66cff8e37d871be, RESELLER
+smaato.com, 1100042823, RESELLER, 07bcf65f187117b4
+smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
+adcolony.com, 496220845654deec, RESELLER, 1ad675c9de6b5176
+appnexus.com, 1752, RESELLER, f5ab79cb980f11d1
+Pubmatic.com, 158565, RESELLER, 5d62403b186f2ace
+openx.com, 540421297, RESELLER, 6a698e2ec38604c6
+inmobi.com, 3d54d7dda27a4552a8184e9120251b9f, RESELLER, 83e75a7ae333ca9d
+inmobi.com, 55049d2e109d4ac1820ca1432dda4e13, RESELLER, 83e75a7ae333ca9d
+inmobi.com, 22e5354e453f49348325184e25464adb, RESELLER, 83e75a7ae333ca9d
+inmobi.com, 74cf0a83cd8e402484ef0f202e925fc7, RESELLER, 83e75a7ae333ca9d
+improvedigital.com, 1662, RESELLER
+smartadserver.com, 4039, RESELLER
+appnexus.com, 2579, RESELLER, f5ab79cb980f11d1

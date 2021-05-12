@@ -1,4 +1,4 @@
-#=== UnityAds Apr 8, 2021
+#=== UnityAds Mar 12, 2021
 unity.com, 1049822, DIRECT, 96cabb5fbdde37a7
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
@@ -35,7 +35,9 @@ bidmachine.io, 113, RESELLER
 rhythmone.com, 3630748062, RESELLER, a670c89d4a324e47
 video.unrulymedia.com, 3630748062, RESELLER, a670c89d4a324e47
 google.com, pub-9493002888945144, RESELLER
-google.com, pub-7955322303263231, RESELLER
 google.com, pub-7251712046059526, RESELLER
+google.com, pub-7955322303263231, RESELLER
+google.com, pub-6858099697624852, RESELLER
+google.com, pub-1181863428023087, RESELLER
 telaria.com, rwd19-1049822, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-1049822, RESELLER, 1a4e959a1b50034a
