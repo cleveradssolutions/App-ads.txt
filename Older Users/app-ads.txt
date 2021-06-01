@@ -18,7 +18,8 @@ loopme.com, 9219, RESELLER, 6c8d5f95897a5a3b
 appnexus.com, 3756, RESELLER, f5ab79cb980f11d1
 rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
 openx.com, 540298543, RESELLER, 6a698e2ec38604c6
-betweendigital.com, 43956, RESELLER#=== MoPub
+betweendigital.com, 43956, RESELLER
+#=== MoPub
 mopub.com, 54fa9e946b6f4ab5bbfc975946c46797, DIRECT, 74b46c0ea83967ca
 #=== IronSource Apr 08, 2021
 ironsrc.com, 218335, DIRECT, 79929e88b2ba73bc
