@@ -1,2 +1,0 @@
-#=== MoPub
-mopub.com, 54fa9e946b6f4ab5bbfc975946c46797, DIRECT, 74b46c0ea83967ca

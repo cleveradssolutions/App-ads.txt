@@ -13,7 +13,6 @@ cat AdMob.txt \
     SuperAwesome.txt \
     Kidoz.txt \
     InMobi.txt \
-    TapJoy.txt \
     MyTarget.txt \
     StartIo.txt \
     Chartboost.txt \

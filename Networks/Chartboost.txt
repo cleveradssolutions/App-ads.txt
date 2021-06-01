@@ -1,4 +1,4 @@
-#=== Chartboost Oct 05, 2020
+#=== Chartboost Jun 1, 2021
 chartboost.com, 5730bb1a04b0165b75d2e564, DIRECT
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
 bidmachine.io, 98, RESELLER
@@ -33,3 +33,19 @@ admixer.net, 8e380da6-31ba-488c-939c-290c48d577e4, RESELLER
 onetag.com, 59aa7be4921bac8, RESELLER
 advertising.com, 28246, RESELLER
 sonobi.com, eaec54c63f, RESELLER, d1a215d9eb5aee9e
+video.unrulymedia.com, 1605779867, RESELLER
+lunamedia.io, 193bca549318aed0434226d4d73e13f3, RESELLER, 524ecb396915caaf
+themediagrid.com, R28I9J, RESELLER, 35d5010d7789b49d
+pubmatic.com, 160492, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160493, RESELLER, 5d62403b186f2ace
+loopme.com, 11367, RESELLER, 6c8d5f95897a5a3b
+meitu.com, 621, RESELLER
+algorix.co, 60055, RESELLER, 5b394c12fea27a1d
+admixer.net, 75e4a586-442d-47c3-ac85-0b5b00547cdd, RESELLER
+tappx.com, 36909, RESELLER, 9f375a07da0318ec
+pubmatic.com, 92509, RESELLER, 5d62403b186f2ace
+groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a
+smartadserver.com, 1692, RESELLER
+adcolony.com, c490f6e7399a25d6, RESELLER, 1ad675c9de6b5176
+loopme.com, 11322, RESELLER, 6c8d5f95897a5a3b
+mars.media, 1010380, RESELLER, 8624339f102fb076

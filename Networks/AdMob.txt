@@ -1,3 +1,4 @@
 #=== AdMob
+google.com, pub-8858162097015410, DIRECT, f08c47fec0942fa0
 google.com, pub-2871335254532484, DIRECT, f08c47fec0942fa0
 google.com, pub-7022579750037037, DIRECT, f08c47fec0942fa0
