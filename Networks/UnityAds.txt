@@ -1,4 +1,4 @@
-#=== UnityAds Jun 1, 2021
+#=== UnityAds Jun 28, 2021
 unity.com, 1049822, DIRECT, 96cabb5fbdde37a7
 unity.com, 1773786, DIRECT, 96cabb5fbdde37a7
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
@@ -51,3 +51,6 @@ google.com, pub-5253778207650191, RESELLER
 google.com, pub-2493109115450682, RESELLER
 telaria.com, rwd19-1773786, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-1773786, RESELLER, 1a4e959a1b50034a
+google.com, pub-1826012253454952, RESELLER
+google.com, pub-8004254555988622, RESELLER
+google.com, pub-6783397722379457, RESELLER

@@ -1,2 +1,2 @@
 #=== FacebookAN
-facebook.com, 805069172997110, RESELLER, c3e20eee3f780d68
+facebook.com, 805069172997110, DIRECT, c3e20eee3f780d68
