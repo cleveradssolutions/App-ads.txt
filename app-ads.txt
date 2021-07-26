@@ -1,8 +1,9 @@
-#Last update Jun 29, 2021
+#Last update Jul 26, 2021
 #=== AdMob
 google.com, pub-8858162097015410, DIRECT, f08c47fec0942fa0
 google.com, pub-2871335254532484, DIRECT, f08c47fec0942fa0
 google.com, pub-7022579750037037, DIRECT, f08c47fec0942fa0
+google.com, pub-5636049984270410, DIRECT, f08c47fec0942fa0
 #=== FacebookAN
 facebook.com, 805069172997110, DIRECT, c3e20eee3f780d68
 #=== AdColony
@@ -20,13 +21,18 @@ openx.com, 540298543, RESELLER, 6a698e2ec38604c6
 betweendigital.com, 43956, RESELLER
 #=== MoPub
 mopub.com, 54fa9e946b6f4ab5bbfc975946c46797, DIRECT, 74b46c0ea83967ca
-#=== IronSource Apr 08, 2021
+#=== IronSource Jul 26, 2021
 ironsrc.com, 218335, DIRECT, 79929e88b2ba73bc
+rubiconproject.com, 22412, RESLLER, 0bfd66d529a55807
+pubmatic.com, 160318, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160319, RESELLER, 5d62403b186f2ace
 admanmedia.com, 9, RESELLER
+smartclip.net, 8153, RESELLER
+stroeer.com, 17105, RESELLER
+appnexus.com, 7445, RESELLER
 advertising.com, 8693, RESELLER
 aol.com, 25910, RESELLER
 appads.in, 105536, RESELLER
-appnexus.com, 2234, RESELLER, f5ab79cb980f11d1
 appnexus.com, 2480, RESELLER, f5ab79cb980f11d1
 appnexus.com, 3368, RESELLER
 appnexus.com, 7445, RESELLER
@@ -62,15 +68,11 @@ smartadserver.com, 3020, RESELLER
 smartclip.net, 411, RESELLER
 Smartclip.net, 9394, RESELLER
 smartstream.tv, 417, RESELLER
-sonobi.com, 0d53936254, RESELLER, d1a215d9eb5aee9e
 spotx.tv, 139784, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 139784, RESELLER, 7842df1d2fe2db34
-spotxchange.com, 202100, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 307720, RESELLER, 7842df1d2fe2db34
 ssp.logan.ai, AJxF6R2a9M6CaTvK, RESELLER
 stroeer.com, 17355, RESELLER
-telaria.com, 7wy0w, RESELLER, 1a4e959a1b50034a
-tremorhub.com, 7wy0w, RESELLER, 1a4e959a1b50034a
 undertone.com, 3635, RESELLER
 verve.com, 14561, RESELLER, 0c8f5958fc2d6270
 video.unrulymedia.com, 3169196794, RESELLER
@@ -133,7 +135,7 @@ startapp.com, inr, RESELLER
 ucfunnel.com, par-BE7E29B3B48DE66BC7DDDA24E6267E29, RESELLER
 verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 video.unrulymedia.com, 2169000724, RESELLER
-#=== UnityAds Jun 28, 2021
+#=== UnityAds Jul 26, 2021
 unity.com, 1049822, DIRECT, 96cabb5fbdde37a7
 unity.com, 1773786, DIRECT, 96cabb5fbdde37a7
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
@@ -189,6 +191,10 @@ tremorhub.com, rwd19-1773786, RESELLER, 1a4e959a1b50034a
 google.com, pub-1826012253454952, RESELLER
 google.com, pub-8004254555988622, RESELLER
 google.com, pub-6783397722379457, RESELLER
+google.com, pub-4440810421343988, RESELLER
+google.com, pub-8875007976898779, RESELLER
+google.com, pub-5651850640527805, RESELLER
+google.com, pub-5492453082520992, RESELLER
 #=== Vungle Mar 12, 2021
 vungle.com, 5730c2af2270cba25f000066, DIRECT, c107d686becd2d77
 adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176

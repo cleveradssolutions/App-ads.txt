@@ -1,10 +1,15 @@
-#=== IronSource Apr 08, 2021
+#=== IronSource Jul 26, 2021
 ironsrc.com, 218335, DIRECT, 79929e88b2ba73bc
+rubiconproject.com, 22412, RESLLER, 0bfd66d529a55807
+pubmatic.com, 160318, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160319, RESELLER, 5d62403b186f2ace
 admanmedia.com, 9, RESELLER
+smartclip.net, 8153, RESELLER
+stroeer.com, 17105, RESELLER
+appnexus.com, 7445, RESELLER
 advertising.com, 8693, RESELLER
 aol.com, 25910, RESELLER
 appads.in, 105536, RESELLER
-appnexus.com, 2234, RESELLER, f5ab79cb980f11d1
 appnexus.com, 2480, RESELLER, f5ab79cb980f11d1
 appnexus.com, 3368, RESELLER
 appnexus.com, 7445, RESELLER
@@ -40,15 +45,11 @@ smartadserver.com, 3020, RESELLER
 smartclip.net, 411, RESELLER
 Smartclip.net, 9394, RESELLER
 smartstream.tv, 417, RESELLER
-sonobi.com, 0d53936254, RESELLER, d1a215d9eb5aee9e
 spotx.tv, 139784, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 139784, RESELLER, 7842df1d2fe2db34
-spotxchange.com, 202100, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 307720, RESELLER, 7842df1d2fe2db34
 ssp.logan.ai, AJxF6R2a9M6CaTvK, RESELLER
 stroeer.com, 17355, RESELLER
-telaria.com, 7wy0w, RESELLER, 1a4e959a1b50034a
-tremorhub.com, 7wy0w, RESELLER, 1a4e959a1b50034a
 undertone.com, 3635, RESELLER
 verve.com, 14561, RESELLER, 0c8f5958fc2d6270
 video.unrulymedia.com, 3169196794, RESELLER
