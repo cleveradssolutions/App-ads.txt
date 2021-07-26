@@ -627,7 +627,8 @@ ingeniousplex.com, 5767, RESELLER, 8728b7e97e589da4
 tpmn.io, 430, RESELLER
 inmobi.com, ab915bcef5b24940bf745f1a8f427bec, RESELLER, 83e75a7ae333ca9d
 rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
-yahoo.com, 50987, RESELLER#=== Chartboost Jun 1, 2021
+yahoo.com, 50987, RESELLER
+#=== Chartboost Jun 1, 2021
 chartboost.com, 5730bb1a04b0165b75d2e564, DIRECT
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
 bidmachine.io, 98, RESELLER
