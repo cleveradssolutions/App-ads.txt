@@ -1,4 +1,4 @@
-#Last update Jul 26, 2021
+#Last update Jul 28, 2021
 #=== AdMob
 google.com, pub-8858162097015410, DIRECT, f08c47fec0942fa0
 google.com, pub-2871335254532484, DIRECT, f08c47fec0942fa0
@@ -135,7 +135,7 @@ startapp.com, inr, RESELLER
 ucfunnel.com, par-BE7E29B3B48DE66BC7DDDA24E6267E29, RESELLER
 verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 video.unrulymedia.com, 2169000724, RESELLER
-#=== UnityAds Jul 26, 2021
+#=== UnityAds Jul 28, 2021
 unity.com, 1049822, DIRECT, 96cabb5fbdde37a7
 unity.com, 1773786, DIRECT, 96cabb5fbdde37a7
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
@@ -172,29 +172,22 @@ indexexchange.com, 194080, RESELLER, 50b1c356f2c5c8fc
 bidmachine.io, 113, RESELLER
 rhythmone.com, 3630748062, RESELLER, a670c89d4a324e47
 video.unrulymedia.com, 3630748062, RESELLER, a670c89d4a324e47
-google.com, pub-9493002888945144, RESELLER
-google.com, pub-7251712046059526, RESELLER
 google.com, pub-7955322303263231, RESELLER
-google.com, pub-6858099697624852, RESELLER
-google.com, pub-1181863428023087, RESELLER
+google.com, pub-7251712046059526, RESELLER
+google.com, pub-9493002888945144, RESELLER
+google.com, pub-8004254555988622, RESELLER
+google.com, pub-1826012253454952, RESELLER
 telaria.com, rwd19-1049822, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-1049822, RESELLER, 1a4e959a1b50034a
-google.com, pub-8004254555988622, RESELLER
-google.com, pub-2253595142996441, RESELLER
-google.com, pub-8561210710558038, RESELLER
+google.com, pub-5651850640527805, RESELLER
+google.com, pub-8875007976898779, RESELLER
 google.com, pub-7908061663766255, RESELLER
-google.com, pub-3343507559212087, RESELLER
-google.com, pub-5253778207650191, RESELLER
 google.com, pub-2493109115450682, RESELLER
+google.com, pub-4440810421343988, RESELLER
+google.com, pub-6783397722379457, RESELLER
+google.com, pub-8561210710558038, RESELLER
 telaria.com, rwd19-1773786, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-1773786, RESELLER, 1a4e959a1b50034a
-google.com, pub-1826012253454952, RESELLER
-google.com, pub-8004254555988622, RESELLER
-google.com, pub-6783397722379457, RESELLER
-google.com, pub-4440810421343988, RESELLER
-google.com, pub-8875007976898779, RESELLER
-google.com, pub-5651850640527805, RESELLER
-google.com, pub-5492453082520992, RESELLER
 #=== Vungle Mar 12, 2021
 vungle.com, 5730c2af2270cba25f000066, DIRECT, c107d686becd2d77
 adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
@@ -565,7 +558,7 @@ rhythmone.com, 3880497124, RESELLER
 rubiconproject.com, 19724, RESELLER
 rubiconproject.com, 20744, RESELLER
 sovrn.com, 273644, RESELLER
-#=== StartIo Jul 26, 2021
+#=== StartIo Jul 28, 2021
 startapp.com, 174388014, DIRECT
 start.io, 174388014, DIRECT
 pubmatic.com, 157559, RESELLER, 5d62403b186f2ace
@@ -628,6 +621,11 @@ tpmn.io, 430, RESELLER
 inmobi.com, ab915bcef5b24940bf745f1a8f427bec, RESELLER, 83e75a7ae333ca9d
 rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
 yahoo.com, 50987, RESELLER
+lkqd.net, 647, RESELLER, 59c49fa9598a0117
+lkqd.net, 654, RESELLER, 59c49fa9598a0117
+bidmachine.io, 138, RESELLER
+sonobi.com, eaec54c63f, RESELLER, d1a215d9eb5aee9e
+onetag.com, 59aa7be4921bac8, RESELLER 
 #=== Chartboost Jun 1, 2021
 chartboost.com, 5730bb1a04b0165b75d2e564, DIRECT
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
