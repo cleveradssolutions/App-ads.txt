@@ -2,7 +2,6 @@
 ironsrc.com, 218335, DIRECT, 79929e88b2ba73bc
 rubiconproject.com, 22412, RESLLER, 0bfd66d529a55807
 pubmatic.com, 160318, RESELLER, 5d62403b186f2ace
-pubmatic.com, 160319, RESELLER, 5d62403b186f2ace
 admanmedia.com, 9, RESELLER
 smartclip.net, 8153, RESELLER
 stroeer.com, 17105, RESELLER

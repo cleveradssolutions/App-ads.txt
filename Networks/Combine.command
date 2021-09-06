@@ -5,6 +5,7 @@ cat AdMob.txt \
     FBAudienceNetwork.txt \
     AdColony.txt \
     MoPup.txt \
+    Pangle.txt \
     IronSource.txt \
     AppLovin.txt \
     FyberFairBid.txt \
