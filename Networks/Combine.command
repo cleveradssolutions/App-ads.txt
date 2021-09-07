@@ -18,6 +18,7 @@ cat AdMob.txt \
     StartIo.txt \
     Chartboost.txt \
     Mintegral.txt \
+    Smaato.txt \
     Others.txt > app-ads.txt
 curr_date=$(date +'%b %d, %Y')
 echo "Update ${curr_date}"
