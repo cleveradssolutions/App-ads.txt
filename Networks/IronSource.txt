@@ -1,11 +1,6 @@
-#=== IronSource Jul 26, 2021
+#=== IronSource Dec 16, 2021
 ironsrc.com, 218335, DIRECT, 79929e88b2ba73bc
-rubiconproject.com, 22412, RESLLER, 0bfd66d529a55807
-pubmatic.com, 160318, RESELLER, 5d62403b186f2ace
 admanmedia.com, 9, RESELLER
-smartclip.net, 8153, RESELLER
-stroeer.com, 17105, RESELLER
-appnexus.com, 7445, RESELLER
 advertising.com, 8693, RESELLER
 aol.com, 25910, RESELLER
 appads.in, 105536, RESELLER
@@ -27,7 +22,7 @@ openx.com, 540311484, RESELLER, 6a698e2ec38604c6
 openx.com, 540421297, RESELLER, 6a698e2ec38604c6
 pokkt.com, 5536, RESELLER, c45702d9311e25fd
 pubmatic.com, 156177, RESELLER, 5d62403b186f2ace
-pubmatic.com, 156372, RESELLER, 5d62403b186f2ace 
+pubmatic.com, 156372, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156425, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159087, RESELLER,5d62403b186f2ace
 pubmatic.com, 160456, RESELLER, 5d62403b186f2ace
@@ -54,3 +49,8 @@ verve.com, 14561, RESELLER, 0c8f5958fc2d6270
 video.unrulymedia.com, 3169196794, RESELLER
 xad.com, 241, RESELLER, 81cbf0a75a5e0e9a
 yieldlab.net, 2172218, RESELLER
+smartclip.net, 8153, RESELLER
+Pubnative.net, 1006856, RESELLER, d641df8625486a7b
+rubiconproject.com, 22412, RESELLER, 0bfd66d529a55807
+pubmatic.com, 160318, RESELLER, 5d62403b186f2ace
+stroeer.com, 17379, RESELLER

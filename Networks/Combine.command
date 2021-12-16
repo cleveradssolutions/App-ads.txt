@@ -4,7 +4,6 @@ rm -f app-ads.txt
 cat AdMob.txt \
     FBAudienceNetwork.txt \
     AdColony.txt \
-    MoPup.txt \
     Pangle.txt \
     IronSource.txt \
     AppLovin.txt \
@@ -15,10 +14,7 @@ cat AdMob.txt \
     Kidoz.txt \
     InMobi.txt \
     MyTarget.txt \
-    StartIo.txt \
-    Chartboost.txt \
     Mintegral.txt \
-    Smaato.txt \
     Others.txt > app-ads.txt
 curr_date=$(date +'%b %d, %Y')
 echo "Update ${curr_date}"

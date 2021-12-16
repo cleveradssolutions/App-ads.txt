@@ -1,4 +1,4 @@
-#=== Kidoz Jun 28, 2021
+#=== Kidoz Dec 16, 2021
 #14446
 google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0
 google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
@@ -8,7 +8,7 @@ google.com, pub-1386280613967939, DIRECT, f08c47fec0942fa0
 appnexus.com, 11826, RESELLER
 improvedigital.com,1604, RESELLER,
 pubmatic.com, 160536, RESELLER, 5d62403b186f2ace
-pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159501, DIRECT, 5d62403b186f2ace
 spotx.tv, 287468, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 287468, RESELLER, 7842df1d2fe2db34
 #13933
