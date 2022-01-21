@@ -1,4 +1,4 @@
-#=== UnityAds Dec 16, 2021
+#=== UnityAds Jan 21, 2022
 unity.com, 1773786, DIRECT, 96cabb5fbdde37a7
 unity.com, 1049822, DIRECT, 96cabb5fbdde37a7
 google.com, pub-8728712656723745, RESELLER
@@ -23,6 +23,8 @@ google.com, pub-8681080530564387, RESELLER
 google.com, pub-9588206629745782, RESELLER
 google.com, pub-4998785064586472, RESELLER
 google.com, pub-9234989892882774, RESELLER
+google.com, pub-5188297580419562, RESELLER
+google.com, pub-1215742997833293, RESELLER
 telaria.com, rwd19-1773786, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-1773786, RESELLER, 1a4e959a1b50034a
 appads.in, 106246, RESELLER
@@ -59,6 +61,7 @@ pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160456, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160846, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156494, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161372, RESELLER, 5d62403b186f2ace
 velismedia.com, 725, RESELLER
 velismedia.com, 1137, RESELLER
 webeyemob.com, 70097, RESELLER
@@ -83,6 +86,10 @@ yandex.com, 40427798, RESELLER
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
 adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
 inmobi.com, 61d733c3779d43e590c51c8bc078e10c, RESELLER, 83e75a7ae333ca9d
+inmobi.com, 062029933580429f9920bad476d8d70a, RESELLER, 83e75a7ae333ca9d
 spotx.tv, 117872, RESELLER, 7842df1d2fe2db34
 telaria.com, rwd19-1049822, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-1049822, RESELLER, 1a4e959a1b50034a
+mintegral.com, 10038, RESELLER
+liftoff.io, 7f6945815e6, RESELLER
+criteo.com, B-057955, RESELLER, 9fac4a4a87c2a44f

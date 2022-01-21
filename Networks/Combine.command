@@ -15,6 +15,7 @@ cat AdMob.txt \
     InMobi.txt \
     MyTarget.txt \
     Mintegral.txt \
+    Tapjoy.txt \
     Others.txt > app-ads.txt
 curr_date=$(date +'%b %d, %Y')
 echo "Update ${curr_date}"
