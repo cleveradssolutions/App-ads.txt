@@ -39,11 +39,8 @@ criteo.com, B-063105, DIRECT, 9fac4a4a87c2a44f
 indexexchange.com, 191497, RESELLER
 sonobi.com, 7b37f8ccbc, RESELLER, d1a215d9eb5aee9e
 inmobi.com, 3a4f7da341dd490cbb7dde02b126275e, RESELLER, 83e75a7ae333ca9d
-video.unrulymedia.com, 3948367200, Reseller
+video.unrulymedia.com, 3948367200, RESELLER
 rhythmone.com, 3948367200, RESELLER, a670c89d4a324e47
-adx-dre.op.hicloud.com, PUB_HW_1003, RESELLER
-adx-dra.op.hicloud.com, PUB_HW_1003, RESELLER
-adx-drru.op.hicloud.com, PUB_HW_1003, RESELLER
 bidmachine.io, 114, DIRECT
 bidmachine.io, 67, DIRECT
 liftoff.io, 7f6945815e6, RESELLER
@@ -159,10 +156,9 @@ openx.com, 540679900,RESELLER, 6a698e2ec38604c6
 adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
 pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
 meitu.com, 663, RESELLER
-acd.op.hicloud.com, PUB_HW_1003, RESELLER
-adx-dre.op.hicloud.com，PUB_HW_1003, RESELLER
-adx-dra.op.hicloud.com，PUB_HW_1003, RESELLER
-adx-drru.op.hicloud.com，PUB_HW_1003, RESELLER
+adx-dre.op.hicloud.com, PUB_HW_1003, RESELLER
+adx-dra.op.hicloud.com, PUB_HW_1003, RESELLER
+adx-drru.op.hicloud.com, PUB_HW_1003, RESELLER
 bigo.sg, 128, DIRECT
 ignitemediatech.com, pub_61118, DIRECT
 admixer.net, 2f833c20-7378-4b86-9b73-a2b56263d4d4, RESELLER
