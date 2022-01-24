@@ -1,4 +1,4 @@
-+#=== Mintegral Jan 21, 2022
+#=== Mintegral Jan 21, 2022
 mintegral.com, 25008, DIRECT, 0aeed750c80d6423
 pokkt.com, 7139, DIRECT, c45702d9311e25fd
 appads.in, 107139, DIRECT
@@ -21,7 +21,7 @@ inmobi.com, ebc44eef6c104f7fbf7bc52ee29f7939, RESELLER, 83e75a7ae333ca9d
 adcolony.com, 7d04a18a58085918, RESELLER, 1ad675c9de6b5176
 contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
 pokkt.com, 7606, RESELLER, c45702d9311e25fd
-appads.in, 107606, RESELLER"
+appads.in, 107606, RESELLER
 admanmedia.com, 894, DIRECT
 rubiconproject.com, 14558, RESELLER, 0bfd66d529a55807
 contextweb.com, 561913, RESELLER, 89ff185a4c4e857c
@@ -170,7 +170,7 @@ algorix.co, 60204, RESELLER, 5b394c12fea27a1d
 inmobi.com, 062029933580429f9920bad476d8d70a, RESELLER, 83e75a7ae333ca9d
 loopme.com, 11295, RESELLER, 6c8d5f95897a5a3b
 openx.com, 542281387, RESELLER, 6a698e2ec38604c6
-pubmatic.com, 160849, RESELLER 5d62403b186f2ace
+pubmatic.com, 160849, RESELLER, 5d62403b186f2ace
 pubnative.net, 1007334, DIRECT, d641df8625486a7b
 pubnative.net, 1007615, RESELLER, d641df8625486a7b
 silvermob.com, 464, RESELLER
@@ -184,7 +184,7 @@ webeyemob.com, 70098, DIRECT
 openx.com, 540679900, DIRECT, 6a698e2ec38604c6
 adcolony.com, 801e49d1be83b5f9, DIRECT, 1ad675c9de6b5176
 pubmatic.com, 158060, DIRECT, 5d62403b186f2ace
-meitu.com, 663, DIRECT，
+meitu.com, 663, DIRECT
 admixer.co.kr, 1317, DIRECT
 onetag.com, 66cff8e37d871be, RESELLER
 indexexchange.com, 192806, RESELLER, 50b1c356f2c5c8fc

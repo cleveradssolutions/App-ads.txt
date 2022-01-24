@@ -6,7 +6,7 @@ appnexus.com, 7445, RESELLER
 google.com, pub-7452201096415972, RESELLER, f08c47fec0942fa0
 smartclip.net, 8153, RESELLER
 stroeer.com, 17379, RESELLER
-algorix.co, 54400, Reseller, 5b394c12fea27a1d
+algorix.co, 54400, RESELLER, 5b394c12fea27a1d
 openx.com, 540838151, RESELLER, 6a698e2ec38604c6
 aralego.com, par-627DA26297666D280EA8323E33ABAED7, RESELLER
 rubiconproject.com, 20050, RESELLER, 0bfd66d529a55807
@@ -14,7 +14,7 @@ appnexus.com, 2480, RESELLER, f5ab79cb980f11d1
 rubiconproject.com, 18364, RESELLER, 0bfd66d529a55807
 conversantmedia.com, 100234, RESELLER, 03113cd04947736d
 smartadserver.com, 3020, RESELLER
-gamoshi.io ,267-b4808 ,DIRECT ,20e30b2ae1f670f2
+gamoshi.io, 267-b4808, DIRECT, 20e30b2ae1f670f2
 yahoo.com, 59468, RESELLER
 improvedigital.com, 1114, RESELLER
 indexexchange.com, 185996, RESELLER
@@ -33,8 +33,8 @@ appads.in, 105536, RESELLER
 pokkt.com, 5536, RESELLER, c45702d9311e25fd
 pubmatic.com, 160456, RESELLER, 5d62403b186f2ace
 spotxchange.com, 307720, RESELLER, 7842df1d2fe2db34
-Pubnative.net, 1006856, RESELLER, d641df8625486a7b
-pubmatic.com, 156372, RESELLER, 5d62403b186f2ace 
+pubnative.net, 1006856, RESELLER, d641df8625486a7b
+pubmatic.com, 156372, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159087, RESELLER,5d62403b186f2ace
 pubnative.net, 1007007, RESELLER, d641df8625486a7b
 rhythmone.com, 3169196794, RESELLER, a670c89d4a324e47
@@ -49,7 +49,7 @@ xad.com, 241, RESELLER, 81cbf0a75a5e0e9a
 smartadserver.com, 4237, RESELLER
 smartadserver.com, 4016, RESELLER
 smartclip.net, 411, RESELLER
-Smartclip.net, 9394, RESELLER
+smartclip.net, 9394, RESELLER
 appnexus.com, 3368, RESELLER
 smartstream.tv, 417, RESELLER
 yieldlab.net, 2172218, RESELLER

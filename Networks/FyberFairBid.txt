@@ -1,5 +1,5 @@
 #=== Fyber FairBid Sep 6, 2021
-fyber.com, 214373, DIRECT 
+fyber.com, 214373, DIRECT
 adcolony.com, 2851dffbb0d51b5e, RESELLER, 1ad675c9de6b5176
 adcolony.com, 3dcf9f51638afe2c, RESELLER, 1ad675c9de6b5176
 admanmedia.com, 26, RESELLER
