@@ -29,18 +29,6 @@ pubmatic.com, 157568, RESELLER, 5d62403b186f2ace
 contextweb.com, 561289, RESELLER
 improvedigital.com, 1397, RESELLER
 take1ads.com, 91 , RESELLER
-#=== Gowithmedia
-gowithmedia, 73581, DIRECT
-springserve.com, 305, RESELLER, a24eb641fc82e93d
-lkqd.net, 390, RESELLER, 59c49fa9598a0117
-lkqd.com, 390, RESELLER, 59c49fa9598a0117
-Cedato.com, 78840953, RESELLER
-beachfront.com, 11046, RESELLER, e2541279e8e2ca4d
-advertising.com, 21494, RESELLER
-contextweb.com, 561483, RESELLER ,89ff185a4c4e857c
-improvedigital.com, 1409, RESELLER
-rhythmone.com, 2503445986, RESELLER, a670c89d4a324e47
-EMXDGT.com, 1455, RESELLER, 1e1d41537f7cad7f
 #=== NomNom
 contextweb.com, 562005, RESELLER
 openx.com, 540839403, RESELLER, 6a698e2ec38604c6

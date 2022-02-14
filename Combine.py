@@ -65,8 +65,6 @@ if "--update" in sys.argv:
         exit()
 
     tempFileName = sys.argv[tempFileNameIndex]
-    if '.' not in tempFileName:
-        tempFileName += ".txt"
 
     tempFileNameIndex += 1
     if tempFileNameIndex >= len(sys.argv) or sys.argv[tempFileNameIndex].startswith('-'):
@@ -75,14 +73,14 @@ if "--update" in sys.argv:
     else:
         networkFileName = sys.argv[tempFileNameIndex]
         if '.' not in tempFileName:
-            networkFileName += ".txt"
-
+            tempFileName += ".txt"
+        
     duplicate = 0
     forceGenerate = "--force" in sys.argv
     keepInventories = []
     keepDomain = ""
 
-    with open(rootDir + "/Networks/" + networkFileName, 'r') as sourceFile:
+    with open(rootDir + "/Networks/" + networkFileName + ".txt", 'r') as sourceFile:
         for line in sourceFile:
             line = toUniqueLine(line, networkFileName)
             if line.startswith('#'):

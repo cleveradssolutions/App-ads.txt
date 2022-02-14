@@ -1,5 +1,6 @@
-#=== Vungle Jan 25, 2022
+#=== Vungle Feb 14, 2022
 vungle.com, 5730c2af2270cba25f000066, DIRECT, c107d686becd2d77
+vungle.com, 5c657afed9e6e60012bab5d9, DIRECT, c107d686becd2d77
 acexchange.co.kr, 1017355401, RESELLER
 acexchange.co.kr, 1081983882, RESELLER
 acexchange.co.kr, 1618149085, RESELLER
