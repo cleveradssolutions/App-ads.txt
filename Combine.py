@@ -20,10 +20,10 @@ sources = [
     "InMobi.txt",
     "MyTarget.txt",
     "Tapjoy.txt",
+    "Chartboost.txt", 
     "FyberFairBid.txt",
     "Others.txt",
     #Deprecated:
-    #Chartboost.txt, 
     #Smaato.txt,
     #StartIo.txt,
 ]

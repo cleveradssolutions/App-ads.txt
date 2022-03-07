@@ -1,4 +1,4 @@
-#=== UnityAds Feb 14, 2022
+#=== UnityAds Mar 07, 2022
 unity.com, 1049822, DIRECT, 96cabb5fbdde37a7
 unity.com, 1773786, DIRECT, 96cabb5fbdde37a7
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
@@ -24,6 +24,8 @@ google.com, pub-1826012253454952, RESELLER
 google.com, pub-2253595142996441, RESELLER
 google.com, pub-2493109115450682, RESELLER
 google.com, pub-3507477244480558, RESELLER
+google.com, pub-3660974792769361, RESELLER
+google.com, pub-3765889686835115, RESELLER
 google.com, pub-4422714874742922, RESELLER
 google.com, pub-4440810421343988, RESELLER
 google.com, pub-4517278042246720, RESELLER
@@ -103,3 +105,4 @@ video.unrulymedia.com, 3630748062, RESELLER, a670c89d4a324e47
 webeyemob.com, 70097, RESELLER
 xandr.com, 7353, RESELLER
 yandex.com, 40427798, RESELLER
+yeahmobi.com, 5135195, RESELLER
