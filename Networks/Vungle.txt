@@ -1,4 +1,4 @@
-#=== Vungle Mar 07, 2022
+#=== Vungle Mar 18, 2022
 vungle.com, 5730c2af2270cba25f000066, DIRECT, c107d686becd2d77
 vungle.com, 5c657afed9e6e60012bab5d9, DIRECT, c107d686becd2d77
 acexchange.co.kr, 1017355401, RESELLER
@@ -27,6 +27,7 @@ admixer.net, de2ae535-59eb-4f0b-95e3-89f821933d47, RESELLER
 adtiming.com, a-126, RESELLER, bf66753b8f380142
 advertising.com, 28246, RESELLER
 adview.com, 32076181, RESELLER, 1b2cc038a11ea319
+advlion.com, 3117, RESELLER
 adwmg.com, 8676470, RESELLER
 adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER, 4ad745ead2958bf7
 algorix.co, 54250, RESELLER
@@ -96,6 +97,7 @@ gothamads.com, 1339, RESELLER, d9c86e5dec870222
 groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a
 gumgum.com, 13706, RESELLER, ffdef49475d318a9
 hitapps.com, 8613985ec49eb8f757ae6439e879bb2a6784, RESELLER
+ignitemediatech.com, pub_61112, RESELLER
 improvedigital.com, 1210, RESELLER
 improvedigital.com, 1221, RESELLER
 improvedigital.com, 1331, RESELLER

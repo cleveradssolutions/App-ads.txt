@@ -21,6 +21,7 @@ sources = [
     "MyTarget.txt",
     "Tapjoy.txt",
     "Chartboost.txt", 
+    "YandexAds.txt",
     "FyberFairBid.txt",
     "Others.txt",
     #Deprecated:
