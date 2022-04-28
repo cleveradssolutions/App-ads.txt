@@ -1,4 +1,4 @@
-#=== YandexAds Mar 18, 2022
+#=== YandexAds Apr 18, 2022
 yandex.com, 66051405, DIRECT
 152media.info, 152M238, RESELLER
 aceex.io, 491, RESELLER, b1cf3c874d5c6682
@@ -280,7 +280,7 @@ video.unrulymedia.com, 3734122830, RESELLER
 video.unrulymedia.com, 456081263, RESELLER
 video.unrulymedia.com, 564934834, RESELLER
 videoheroes.tv, 212450, RESELLER, 064bc410192443d8
-vindicosuite.com, 6612, RESELLER
+vindicosuite.com, 6612, RESELLER, #ViantUS
 webeyemob.com, 70085, RESELLER
 webeyemob.com, 70100, RESELLER
 xad.com, 589, RESELLER, 81cbf0a75a5e0e9a
@@ -290,6 +290,7 @@ yahoo.com, 1662359, RESELLER
 yahoo.com, 57872, DIRECT
 yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
 yahoo.com, 59025, RESELLER, e1a5b5b6e3255540
+yandex.com, 66051405, DIRECT
 yeahmobi.com, 5135315, RESELLER
 yeahmobi.com, 5135322, RESELLER
 yieldmo.com, 2850137996525511226, RESELLER

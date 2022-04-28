@@ -1,4 +1,4 @@
-#=== Mintegral Mar 18, 2022
+#=== Mintegral Apr 28, 2022
 mintegral.com, 25008, DIRECT, 0aeed750c80d6423
 acd.op.hicloud.com, PUB_HW_1003, RESELLER
 adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
@@ -114,6 +114,7 @@ indexexchange.com, 182257, RESELLER
 indexexchange.com, 191332, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 191497, RESELLER
 indexexchange.com, 192806, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8fc#Verve
 indexexchange.com, 193747, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 194730, RESELLER
