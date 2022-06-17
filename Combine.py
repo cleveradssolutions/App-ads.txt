@@ -22,7 +22,7 @@ sources = [
     "Tapjoy.txt",
     "Chartboost.txt", 
     "YandexAds.txt",
-    "FyberFairBid.txt",
+    "Fyber.txt",
     "Others.txt",
     #Deprecated:
     #Smaato.txt,
