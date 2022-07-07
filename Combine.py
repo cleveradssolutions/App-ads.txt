@@ -38,7 +38,7 @@ def printHelpBlock():
     print("      --force - Force update network inventories")
 
 def toUniqueLine(line, source):
-    if not line or line.startswith('#'):
+    if not line or not line.strip() or line.startswith('#'):
         return line
     pattern = line.split(',')
     if len(pattern) == 3 or len(pattern) == 4:
@@ -83,9 +83,9 @@ if "--update" in sys.argv:
 
     with open(rootDir + "/Networks/" + networkFileName + ".txt", 'r') as sourceFile:
         for line in sourceFile:
-            line = toUniqueLine(line, networkFileName)
-            if line.startswith('#'):
+            if not line or not line.strip() or line.startswith('#'):
                 continue
+            line = toUniqueLine(line, networkFileName)
             if line in uniqueSet:
                 duplicate += 1
                 print("Duplicate in source: " + line[:-1])
@@ -102,7 +102,7 @@ if "--update" in sys.argv:
     with open(rootDir + "/" + tempFileName, 'r') as updateFile:
         updateCount = 0
         for line in updateFile:
-            if not line or line.startswith('#') or line.startswith('/'):
+            if not line or not line.strip() or line.startswith('#') or line.startswith('/'):
                 continue
             updateCount += 1
             line = toUniqueLine(line, tempFileName)

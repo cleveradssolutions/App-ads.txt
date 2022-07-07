@@ -1,4 +1,4 @@
-#=== Chartboost Jun 17, 2022
+#=== Chartboost Jul 07, 2022
 chartboost.com, 5730bb1a04b0165b75d2e564, DIRECT
 acd.op.hicloud.com, PUB_HW_1003, RESELLER
 adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
@@ -33,6 +33,7 @@ inmobi.com, f3924290136e4129a5c082ff982c3a58, RESELLER, 83e75a7ae333ca9d
 loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11446, RESELLER, 6c8d5f95897a5a3b
 meitu.com, 699, RESELLER
+mintegral.com, 10005, RESELLER
 mobfox.com, 82593, RESELLER, 5529a3d1f59865be
 olaex.biz, 100131, RESELLER
 onetag.com, 59aa7be4921bac8, RESELLER
@@ -66,3 +67,4 @@ yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
 yahoo.com, 59663, RESELLER, e1a5b5b6e3255540
 yahoo.com, 59875, RESELLER, e1a5b5b6e3255540
 yandex.com, 97539269, RESELLER
+yeahmobi.com, 5135302, RESELLER
