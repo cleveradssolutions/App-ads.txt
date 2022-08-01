@@ -1,4 +1,4 @@
-#=== Kidoz Jun 17, 2022
+#=== Kidoz Aug 01, 2022
 google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0
 google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
 google.com, pub-1386280613967939, DIRECT, f08c47fec0942fa0
@@ -17,13 +17,14 @@ freewheel.tv, 187721, DIRECT
 freewheel.tv, 187865, DIRECT
 freewheel.tv, 196129, DIRECT
 freewheel.tv, 196145, DIRECT
+google.com, pub-1386280613967939, RESELLER, f08c47fec0942fa0
 google.com, pub-1513287762611009, RESELLER, f08c47fec0942fa0
 improvedigital.com, 1604, RESELLER
 improvedigital.com, 2052, RESELLER
 indexexchange.com, 196447, RESELLER, 50b1c356f2c5c8fc
 leanback.digital, ESS-C130, DIRECT, b1d30350acaf0176
 playwire.com, 1018531, DIRECT
-pubmatic.com, 159501, DIRECT, 5d62403b186f2ace
+pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159659, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160222, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160536, RESELLER, 5d62403b186f2ace
@@ -38,12 +39,15 @@ safex.tv, 5004, RESELLER
 smartclip.net, 13564, RESELLER
 spotx.tv, 101831, RESELLER, 7842df1d2fe2db34
 spotx.tv, 141412, RESELLER, 7842df1d2fe2db34
+spotx.tv, 149886, DIRECT, 7842df1d2fe2db34
 spotx.tv, 287468, RESELLER, 7842df1d2fe2db34
+spotx.tv, 71426, DIRECT, 7842df1d2fe2db34
 spotx.tv, 71426, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 101831, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 141412, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 149886, DIRECT, 7842df1d2fe2db34
 spotxchange.com, 287468, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 71426, DIRECT, 7842df1d2fe2db34
 superawesome.tv, 177, DIRECT, 706a53c9da3b4cee
 synacor.com, 82510, RESELLER, e108f11b2cdf7d5b
 venatusmedia.com, 607eeeb6a1ede81658152b4f, DIRECT

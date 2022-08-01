@@ -1,4 +1,4 @@
-#Last update Jul 18, 2022
+#Last update Aug 01, 2022
 #=== AdMob
 google.com, pub-8858162097015410, DIRECT, f08c47fec0942fa0
 google.com, pub-1022958838828668, DIRECT, f08c47fec0942fa0
@@ -114,9 +114,10 @@ openx.com, 540785403, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
 pubnative.net, 1007170, RESELLER, d641df8625486a7b
 verve.com, 15290, RESELLER, 0c8f5958fc2d6270
-#=== UnityAds Jul 12, 2022
+#=== UnityAds Aug 01, 2022
 unity.com, 1049822, DIRECT, 96cabb5fbdde37a7
 unity.com, 1773786, DIRECT, 96cabb5fbdde37a7
+unity.com, 1119860, DIRECT, 96cabb5fbdde37a7
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
 adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
 adelement.com, 30167, RESELLER
@@ -124,6 +125,7 @@ admanmedia.com, 613, RESELLER
 admixer.net, 4ca083cd-412f-49fe-b832-5b66ee490d9a, RESELLER
 admixplay.com, 2012, RESELLER
 adview.com, 48045325, RESELLER, 1b2cc038a11ea319
+advlion.com, 5140, RESELLER
 algorix.co, 54616, RESELLER, 5b394c12fea27a1d
 algorix.co, 60016, RESELLER, 5b394c12fea27a1d
 appads.in, 106246, RESELLER
@@ -141,59 +143,7 @@ bidmachine.io, 67, RESELLER
 criteo.com, B-057601, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-057955, RESELLER, 9fac4a4a87c2a44f
 exchange.admazing.co, AM3, RESELLER
-google.com, pub-1013485393911790, RESELLER
-google.com, pub-1215742997833293, RESELLER
-google.com, pub-1595066453385282, RESELLER
-google.com, pub-1659064195378707, RESELLER
-google.com, pub-1826012253454952, RESELLER
-google.com, pub-2253595142996441, RESELLER
-google.com, pub-2269125232848094, RESELLER
-google.com, pub-2325887327686636, RESELLER
-google.com, pub-2493109115450682, RESELLER
-google.com, pub-2668775909938515, RESELLER
-google.com, pub-2919220497411405, RESELLER
-google.com, pub-2998410516729558, RESELLER
-google.com, pub-3255465637506671, RESELLER
-google.com, pub-3507477244480558, RESELLER
-google.com, pub-3660974792769361, RESELLER
-google.com, pub-3765889686835115, RESELLER
-google.com, pub-4187186130738756, RESELLER
-google.com, pub-4440810421343988, RESELLER
-google.com, pub-4552621568396668, RESELLER
-google.com, pub-4698365653575572, RESELLER
-google.com, pub-4998785064586472, RESELLER
-google.com, pub-5042487473516404, RESELLER
-google.com, pub-5074074040793204, RESELLER
-google.com, pub-5188297580419562, RESELLER
-google.com, pub-5492453082520992, RESELLER
-google.com, pub-5509723511493515, RESELLER
-google.com, pub-5935046103054497, RESELLER
-google.com, pub-6171158072399476, RESELLER
-google.com, pub-6691318530454629, RESELLER
-google.com, pub-6783397722379457, RESELLER
-google.com, pub-6872746964647837, RESELLER
-google.com, pub-6984268361302936, RESELLER
-google.com, pub-7140337539960654, RESELLER
 google.com, pub-7251712046059526, RESELLER
-google.com, pub-7713554155373117, RESELLER
-google.com, pub-7785702204750154, RESELLER
-google.com, pub-7908061663766255, RESELLER
-google.com, pub-7955322303263231, RESELLER
-google.com, pub-8004254555988622, RESELLER
-google.com, pub-8405300361376570, RESELLER
-google.com, pub-8461229634400913, RESELLER
-google.com, pub-8681080530564387, RESELLER
-google.com, pub-8728712656723745, RESELLER
-google.com, pub-8875007976898779, RESELLER
-google.com, pub-8932882235595224, RESELLER
-google.com, pub-9103920728187422, RESELLER
-google.com, pub-9138791592323988, RESELLER
-google.com, pub-9493002888945144, RESELLER
-google.com, pub-9547705812108245, RESELLER
-google.com, pub-9588206629745782, RESELLER
-google.com, pub-9625533917870481, RESELLER
-google.com, pub-9720247190287446, RESELLER
-google.com, pub-9923391443733005, RESELLER
 indexexchange.com, 186081, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 186684, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 194080, RESELLER, 50b1c356f2c5c8fc
@@ -225,7 +175,9 @@ pubmatic.com, 159906, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160113, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160846, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160974, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161018, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161136, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161344, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161372, RESELLER, 5d62403b186f2ace
 pubnative.net, 1003601, RESELLER, d641df8625486a7b
 pubnative.net, 1006955, RESELLER, d641df8625486a7b
@@ -240,14 +192,15 @@ rubiconproject.com, 20014, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 21526, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24362, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24526, RESELLER, 0bfd66d529a55807
+se7en.es, 212499, RESELLER, 064bc410192443d8
 spotx.tv, 117872, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 117872, RESELLER, 7842df1d2fe2db34
-telaria.com, rwd19-1049822, RESELLER, 1a4e959a1b50034a
+telaria.com, rwd19-1119860, RESELLER, 1a4e959a1b50034a
 telaria.com, rwd19-1773786, RESELLER, 1a4e959a1b50034a
 thebrave.io, 1234594, RESELLER, c25b2154543746ac
 thebrave.io, 9840732, RESELLER, c25b2154543746ac
 themediagrid.com, SWH94X, RESELLER, 35d5010d7789b49d
-tremorhub.com, rwd19-1049822, RESELLER, 1a4e959a1b50034a
+tremorhub.com, rwd19-1119860, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-1773786, RESELLER, 1a4e959a1b50034a
 velismedia.com, 1137, RESELLER
 velismedia.com, 725, RESELLER
@@ -446,7 +399,6 @@ pubmatic.com, 160065, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160145, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160194, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160849, RESELLER, 5d62403b186f2ace
-pubmatic.com, 161018, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161151, RESELLER, 5d62403b186f2ace
 pubmatic.com, 92509, RESELLER, 5d62403b186f2ace
 pubnative.net, 1007215, RESELLER, d641df8625486a7b
@@ -614,7 +566,7 @@ rubiconproject.com, 20152, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 20182, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 14980, RESELLER, 0bfd66d529a55807
 appnexus.com, 3584, RESELLER
-#=== Kidoz Jun 17, 2022
+#=== Kidoz Aug 01, 2022
 google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0
 google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
 google.com, pub-1386280613967939, DIRECT, f08c47fec0942fa0
@@ -632,13 +584,14 @@ freewheel.tv, 187721, DIRECT
 freewheel.tv, 187865, DIRECT
 freewheel.tv, 196129, DIRECT
 freewheel.tv, 196145, DIRECT
+google.com, pub-1386280613967939, RESELLER, f08c47fec0942fa0
 google.com, pub-1513287762611009, RESELLER, f08c47fec0942fa0
 improvedigital.com, 1604, RESELLER
 improvedigital.com, 2052, RESELLER
 indexexchange.com, 196447, RESELLER, 50b1c356f2c5c8fc
 leanback.digital, ESS-C130, DIRECT, b1d30350acaf0176
 playwire.com, 1018531, DIRECT
-pubmatic.com, 159501, DIRECT, 5d62403b186f2ace
+pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159659, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160222, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160536, RESELLER, 5d62403b186f2ace
@@ -650,12 +603,15 @@ safex.tv, 5004, RESELLER
 smartclip.net, 13564, RESELLER
 spotx.tv, 101831, RESELLER, 7842df1d2fe2db34
 spotx.tv, 141412, RESELLER, 7842df1d2fe2db34
+spotx.tv, 149886, DIRECT, 7842df1d2fe2db34
 spotx.tv, 287468, RESELLER, 7842df1d2fe2db34
+spotx.tv, 71426, DIRECT, 7842df1d2fe2db34
 spotx.tv, 71426, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 101831, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 141412, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 149886, DIRECT, 7842df1d2fe2db34
 spotxchange.com, 287468, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 71426, DIRECT, 7842df1d2fe2db34
 superawesome.tv, 177, DIRECT, 706a53c9da3b4cee
 synacor.com, 82510, RESELLER, e108f11b2cdf7d5b
 venatusmedia.com, 607eeeb6a1ede81658152b4f, DIRECT
