@@ -1,10 +1,11 @@
-#=== MyTarget Jul 12, 2022
+#=== MyTarget Nov 01, 2022
 target.my.com, 3584173, DIRECT
 adcolony.com, 1efc6603710003ea, RESELLER
 adcolony.com, 29b7f4a14dc689eb, RESELLER
 adelement.com, 30273, RESELLER
 admixer.com, 3584173, RESELLER
 admixer.net, 2878f07c-cc3f-4f8a-a26c-8e6033a539a6, RESELLER
+advlion.com, 3584173, DIRECT
 adwmg.com, 3584173, RESELLER
 algorix.co, 60322, RESELLER
 appnexus.com, 1356, RESELLER
@@ -22,7 +23,9 @@ e-planning.net, ec771b05828a67fa, RESELLER
 emxdgt.com, 2047, RESELLER
 eskimi.com, eas-2020000005, RESELLER
 gamoshi.io, 267-b4800, RESELLER
+google.com, pub-2843405949989126, RESELLER
 hybrid.ai, 3584173, DIRECT
+hyperad.tech, 41, RESELLER
 improvedigital.com, 1532, RESELLER
 indexexchange.com, 191332, RESELLER
 indexexchange.com, 192806, RESELLER

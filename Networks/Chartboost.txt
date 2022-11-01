@@ -1,4 +1,4 @@
-#=== Chartboost Jul 07, 2022
+#=== Chartboost Nov 01, 2022
 chartboost.com, 5730bb1a04b0165b75d2e564, DIRECT
 acd.op.hicloud.com, PUB_HW_1003, RESELLER
 adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
@@ -7,6 +7,10 @@ admanmedia.com, 990, RESELLER
 admixer.net, 8e380da6-31ba-488c-939c-290c48d577e4, RESELLER
 advertising.com, 28246, RESELLER
 adview.com, 33633363, RESELLER, 1b2cc038a11ea319
+advlion.com, 3054, RESELLER
+advlion.com, 3083, RESELLER
+advlion.com, 3108, RESELLER
+advlion.com, 584, RESELLER
 adx-dra.op.hicloud.com, PUB_HW_1003, RESELLER
 adx-dre.op.hicloud.com, PUB_HW_1003, RESELLER
 adx-drru.op.hicloud.com, PUB_HW_1003, RESELLER

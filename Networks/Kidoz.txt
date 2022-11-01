@@ -1,4 +1,4 @@
-#=== Kidoz Aug 01, 2022
+#=== Kidoz Nov 01, 2022
 google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0
 google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
 google.com, pub-1386280613967939, DIRECT, f08c47fec0942fa0
@@ -9,21 +9,24 @@ aniview.com, 5f2063121d82c82557194737, RESELLER, 78b21b97965ec3f8
 appnexus.com, 11826, RESELLER
 appnexus.com, 13363, RESELLER, f5ab79cb980f11d1
 appnexus.com, 3584, RESELLER
-appnexus.com, 806, DIRECT
+appnexus.com, 806, RESELLER
 emxdgt.com, 1972, RESELLER, 1e1d41537f7cad7f
-freewheel.tv, 1389714, DIRECT
+freewheel.tv, 1389714, RESELLER
 freewheel.tv, 1389746, RESELLER
-freewheel.tv, 187721, DIRECT
-freewheel.tv, 187865, DIRECT
-freewheel.tv, 196129, DIRECT
-freewheel.tv, 196145, DIRECT
+freewheel.tv, 187721, RESELLER
+freewheel.tv, 187865, RESELLER
+freewheel.tv, 196129, RESELLER
+freewheel.tv, 196145, RESELLER
 google.com, pub-1386280613967939, RESELLER, f08c47fec0942fa0
 google.com, pub-1513287762611009, RESELLER, f08c47fec0942fa0
+google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa0
+google.com, pub-5781531207509232, RESELLER, f08c47fec0942fa0
 improvedigital.com, 1604, RESELLER
 improvedigital.com, 2052, RESELLER
+improvedigital.com, 22852136, RESELLER
 indexexchange.com, 196447, RESELLER, 50b1c356f2c5c8fc
-leanback.digital, ESS-C130, DIRECT, b1d30350acaf0176
-playwire.com, 1018531, DIRECT
+leanback.digital, ESS-C130, RESELLER, b1d30350acaf0176
+playwire.com, 1018531, RESELLER
 pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159659, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160222, RESELLER, 5d62403b186f2ace
@@ -39,18 +42,17 @@ safex.tv, 5004, RESELLER
 smartclip.net, 13564, RESELLER
 spotx.tv, 101831, RESELLER, 7842df1d2fe2db34
 spotx.tv, 141412, RESELLER, 7842df1d2fe2db34
-spotx.tv, 149886, DIRECT, 7842df1d2fe2db34
+spotx.tv, 149886, RESELLER, 7842df1d2fe2db34
 spotx.tv, 287468, RESELLER, 7842df1d2fe2db34
-spotx.tv, 71426, DIRECT, 7842df1d2fe2db34
 spotx.tv, 71426, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 101831, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 141412, RESELLER, 7842df1d2fe2db34
-spotxchange.com, 149886, DIRECT, 7842df1d2fe2db34
+spotxchange.com, 149886, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 287468, RESELLER, 7842df1d2fe2db34
-spotxchange.com, 71426, DIRECT, 7842df1d2fe2db34
-superawesome.tv, 177, DIRECT, 706a53c9da3b4cee
+spotxchange.com, 71426, RESELLER, 7842df1d2fe2db34
+superawesome.tv, 177, RESELLER, 706a53c9da3b4cee
 synacor.com, 82510, RESELLER, e108f11b2cdf7d5b
-venatusmedia.com, 607eeeb6a1ede81658152b4f, DIRECT
+venatusmedia.com, 607eeeb6a1ede81658152b4f, RESELLER
 xandr.com, 7445, RESELLER
 yieldlab.net, 2172218, RESELLER
 yieldlab.net, 227224, RESELLER

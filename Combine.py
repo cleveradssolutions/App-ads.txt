@@ -36,6 +36,7 @@ def printHelpBlock():
     print("      SourceName - file name with new App-ads inventories")
     print("      NetworkName - file name with current network inventories from `Networks` directory.")
     print("      --force - Force update network inventories")
+    print(" --init - Create TempUpdate.txt file")
 
 def toUniqueLine(line, source):
     if not line or not line.strip() or line.startswith('#'):
@@ -56,6 +57,10 @@ def toUniqueLine(line, source):
 
 if "--help" in sys.argv:
     printHelpBlock()
+    exit()
+
+if "--init" in sys.argv:
+    open(rootDir + "/TempUpdate.txt", 'w+').close()
     exit()
 
 if "--update" in sys.argv:
