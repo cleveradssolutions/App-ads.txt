@@ -1,4 +1,4 @@
-#=== IronSource Nov 01, 2022
+#=== IronSource Dec 02, 2022
 ironsrc.com, 218335, DIRECT
 ironsrc.com, 406326, DIRECT
 adbility-media.com, 187, RESELLER
@@ -81,4 +81,5 @@ yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
 yahoo.com, 59262, RESELLER
 yahoo.com, 59318, RESELLER
 yandex.com, 37982190, RESELLER
+yeahmobi.com, 5135347, RESELLER
 yieldlab.net, 2172218, RESELLER
