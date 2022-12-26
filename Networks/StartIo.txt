@@ -40,7 +40,6 @@ waardex.com, 113507, DIRECT
 loopme.com, 11318, RESELLER, 6c8d5f95897a5a3b
 rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
 openx.com, 540298543, RESELLER, 6a698e2ec38604c6
-google.com, pub-4236520483129668, DIRECT, f08c47fec0942fa0
 onetag.com, 6049d2c92852238, DIRECT
 freewheel.tv, 1160817, RESELLER
 freewheel.tv, 1160929, RESELLER

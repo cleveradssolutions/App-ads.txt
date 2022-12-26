@@ -1,4 +1,4 @@
-#=== Tapjoy Jan 21, 2021
+#=== Tapjoy Dec 26, 2021
 tapjoy.com, f6b21ada21ca497bb49079ad6b9952f1, DIRECT, 29e595b1aeb5904d
 rubiconproject.com, 12286, RESELLER, 0bfd66d529a55807
 webeyemob.com, 70096, RESELLER
@@ -20,3 +20,4 @@ synacor.com, 82460, DIRECT, e108f11b2cdf7d5b
 aol.com, 58935, RESELLER, e1a5b5b6e3255540
 yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
 opera.com, pub4007008646336, RESELLER, 55a0c5fd61378de3
+opera.com, pub6584435113344, DIRECT, 55a0c5fd61378de3
