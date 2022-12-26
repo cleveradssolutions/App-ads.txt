@@ -1,16 +1,16 @@
-#=== Vungle Dec 02, 2022
+#=== Vungle Dec 26, 2022
 vungle.com, 5730c2af2270cba25f000066, DIRECT, c107d686becd2d77
 vungle.com, 5c657afed9e6e60012bab5d9, DIRECT, c107d686becd2d77
 acexchange.co.kr, 1416775282, RESELLER
 adcolony.com, 496220845654deec, RESELLER, 1ad675c9de6b5176
 adcolony.com, c7b2bb9f944ae42a, RESELLER, 1ad675c9de6b5176
 adelement.com, 30208, RESELLER
-adiiix.com, par-AA7B236BA32DD484C838E249362437B8, RESELLER
+adiiix.com, par-aa7b236ba32dd484c838e249362437b8, RESELLER
 admixer.co.kr, 1094, RESELLER
 admixer.co.kr, 1610, RESELLER
 adswizz.com, consumable, RESELLER
 adtiming.com, a-126, RESELLER, bf66753b8f380142
-adtonos.com, PUB3603521960, RESELLER
+adtonos.com, pub3603521960, RESELLER
 adview.com, 06667060, RESELLER, 1b2cc038a11ea319
 adview.com, 32076181, RESELLER, 1b2cc038a11ea319
 advlion.com, 3117, RESELLER
@@ -24,7 +24,7 @@ appnexus.com, 4052, RESELLER
 appnexus.com, 6849, RESELLER
 appnexus.com, 7351, RESELLER, f5ab79cb980f11d1
 appnexus.com, 9316, RESELLER, f5ab79cb980f11d1
-aralego.com, par-AA7B236BA32DD484C838E249362437B8, RESELLER
+aralego.com, par-aa7b236ba32dd484c838e249362437b8, RESELLER
 betweendigital.com, 43092, RESELLER
 betweendigital.com, 43843, RESELLER
 betweendigital.com, 44917, RESELLER
@@ -54,10 +54,6 @@ freewheel.tv, 1157729, RESELLER
 freewheel.tv, 1157777, RESELLER
 freewheel.tv, 1446674, RESELLER
 gitberry.com, 90scb, RESELLER
-google.com, pub-3769010358500643, RESELLER, f08c47fec0942fa0
-google.com, pub-4568609371004228, RESELLER, f08c47fec0942fa0
-google.com, pub-7214269347534569, RESELLER, f08c47fec0942fa0
-google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
 ignitemediatech.com, pub_61112, RESELLER
 indexexchange.com, 183920, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 184270, RESELLER, 50b1c356f2c5c8fc
@@ -81,8 +77,8 @@ inmobi.com, ddb41d8a9f434a918d05a0fc9999d9f9, RESELLER, 83e75a7ae333ca9d
 inmobi.com, ec6f6ceb8bb1440ba5455644ec96c275, RESELLER, 83e75a7ae333ca9d
 inmobi.com, f3924290136e4129a5c082ff982c3a58, RESELLER, 83e75a7ae333ca9d
 inmobi.com, f71b28e30a8249c3b08a9bca1a5cfbb7, RESELLER, 83e75a7ae333ca9d
-iqzone.com, IQ39, RESELLER
-iqzone.com, IQ97, RESELLER
+iqzone.com, iq39, RESELLER
+iqzone.com, iq97, RESELLER
 loopme.com, 10999, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11322, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
@@ -91,7 +87,7 @@ loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b
 lunamedia.io, 95ed51edc1cb499baaf3476fcb6fa463, RESELLER, 524ecb396915caaf
 mars.media, 1010422, RESELLER, 8624339f102fb076
 mars.media, 107876, RESELLER, 8624339f102fb076
-media.net, 8CUP1N1F2, RESELLER
+media.net, 8cup1n1f2, RESELLER
 meitu.com, 149, RESELLER
 meitu.com, 179, RESELLER
 meitu.com, 253, RESELLER
@@ -193,7 +189,7 @@ spotx.tv, 283422, RESELLER, 7842df1d2fe2db34
 spotx.tv, 82068, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 283422, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 82068, RESELLER, 7842df1d2fe2db34
-ssp.e-volution.ai, AJxF6R189a9M6CaTvK, RESELLER
+ssp.e-volution.ai, ajxf6r189a9m6catvk, RESELLER
 target.my.com, 8676470, RESELLER
 targetspot.com, 297, RESELLER, feb28ed826dcf532
 thebrave.io, 1234632, RESELLER, c25b2154543746ac
@@ -202,7 +198,7 @@ tremorhub.com, s92od-u4sw5, RESELLER, 1a4e959a1b50034a
 triplelift.com, 10522, RESELLER, 6c33edb13117fd86
 triplelift.com, 2792, RESELLER, 6c33edb13117fd86
 tritondigital.com, 106423, RESELLER, 19b4454d0b87b58b
-ucfunnel.com, par-AA7B236BA32DD484C838E249362437B8, RESELLER
+ucfunnel.com, par-aa7b236ba32dd484c838e249362437b8, RESELLER
 uis.mobfox.com, 1750, RESELLER, 5529a3d1f59865be
 verve.com, 14619, RESELLER, 0c8f5958fc2d6270
 verve.com, 15503, RESELLER, 0c8f5958fc2d6270
