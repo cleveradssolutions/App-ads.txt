@@ -1,4 +1,4 @@
-#Last update Dec 26, 2022
+#Last update Dec 28, 2022
 #=== Admob Aug 23, 2022
 google.com, pub-8858162097015410, DIRECT, f08c47fec0942fa0
 google.com, pub-1022958838828668, DIRECT, f08c47fec0942fa0
@@ -686,7 +686,7 @@ rubiconproject.com, 20152, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 20182, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 14980, RESELLER, 0bfd66d529a55807
 appnexus.com, 3584, RESELLER
-#=== Kidoz Dec 26, 2022
+#=== Kidoz Dec 28, 2022
 aniview.com, 5f2063121d82c82557194737, RESELLER, 78b21b97965ec3f8
 appnexus.com, 13363, RESELLER, f5ab79cb980f11d1
 appnexus.com, 806, RESELLER
@@ -697,11 +697,6 @@ freewheel.tv, 187721, RESELLER
 freewheel.tv, 187865, RESELLER
 freewheel.tv, 196129, RESELLER
 freewheel.tv, 196145, RESELLER
-google.com, pub-1386280613967939, RESELLER, f08c47fec0942fa0
-google.com, pub-1513287762611009, RESELLER, f08c47fec0942fa0
-google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa0
-google.com, pub-5781531207509232, RESELLER, f08c47fec0942fa0
-google.com, pub-6437111524977299, RESELLER, f08c47fec0942fa0
 improvedigital.com, 1604, RESELLER
 improvedigital.com, 2052, RESELLER
 improvedigital.com, 22852136, RESELLER

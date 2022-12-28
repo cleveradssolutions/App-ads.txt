@@ -138,7 +138,7 @@ def updateNetwork(networkName, force):
             updateCount += 1
             line = toUniqueLine(line, tempFileName)
             if line not in uniqueSet:
-                if isDomainAllowed(line):
+                if isDomainAllowed(line, networkName):
                     if not force:
                         print("New inventory:\n" + line)
                     uniqueSet.add(line)
@@ -156,7 +156,7 @@ def updateNetwork(networkName, force):
                 result = list(uniqueSet)
                 result.sort()
                 for line in result:
-                    if isDomainAllowed(line):
+                    if isDomainAllowed(line, networkName):
                         sourceFile.write(line)
             print("Updated " + networkName + " with " + str(len(uniqueSet) + len(keepInventories)) + " inventories.")
     else:
