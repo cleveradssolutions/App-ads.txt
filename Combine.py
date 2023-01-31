@@ -54,7 +54,9 @@ def isDomainAllowed(line, source):
     return True
 
 def toUniqueLine(line, source):
-    if not line or not line.strip() or line.startswith('#'):
+    if not line or not line.strip() or line.startswith('/'):
+        return ""
+    if line.startswith('#'):
         return line
     pattern = line.split(',')
     if len(pattern) == 3 or len(pattern) == 4:
@@ -71,15 +73,17 @@ def toUniqueLine(line, source):
                     certificationIdLen = len(certificationId)
                     if certificationIdLen != 9 and certificationIdLen != 16:
                         print(line)
-                        print("   Certification authority ID is invalid. It may only contain numbers and lowercase letters, and must be 9 or 16 characters.")
-                    
+                        print("   Error: Certification authority ID is invalid. It may only contain numbers and lowercase letters, and must be 9 or 16 characters.")
+                        return ""
             line += '\n'
         else:
             print(line)
-            print("   Invalid pattern in " + source + ". Must be RESELLER or DIRECT only.")
+            print("   Error: Invalid pattern in " + source + ". Must be RESELLER or DIRECT only.")
+            return ""
     else:
         print(line)
-        print("   Invalid pattern in " + source + ". It may only contain 3 or 4 segments.")
+        print("   Error: Invalid pattern in " + source + ". It may only contain 3 or 4 segments.")
+        return ""
     return line
 
 def release():
@@ -90,7 +94,7 @@ def release():
             with open(rootDir + "/Networks/" + source, 'r') as sourceFile:
                 for line in sourceFile:
                     line = toUniqueLine(line, source)
-                    if line not in uniqueSet:
+                    if line and line not in uniqueSet:
                         appAdsFile.write(line)
                         uniqueSet.add(line)
 
@@ -114,9 +118,9 @@ def updateNetwork(networkName, force):
 
     with open(rootDir + "/Networks/" + networkName + ".txt", 'r') as sourceFile:
         for line in sourceFile:
-            if not line or not line.strip() or line.startswith('#'):
-                continue
             line = toUniqueLine(line, networkName)
+            if not line or line.startswith('#'):
+                continue
             if line in uniqueSet:
                 duplicate += 1
                 print("Duplicate in source: " + line[:-1])
@@ -133,11 +137,11 @@ def updateNetwork(networkName, force):
     with open(rootDir + "/" + tempFileName, 'r') as updateFile:
         updateCount = 0
         for line in updateFile:
-            if not line or not line.strip() or line.startswith('#') or line.startswith('/'):
+            line = toUniqueLine(line, tempFileName)
+            if not line or line.startswith('#'):
                 continue
             updateCount += 1
-            line = toUniqueLine(line, tempFileName)
-            if line not in uniqueSet:
+            if line and line not in uniqueSet:
                 if isDomainAllowed(line, networkName):
                     if not force:
                         print("New inventory:\n" + line)
