@@ -15,7 +15,6 @@ def printHelpBlock():
     print("   help    - Print help inforamtion") 
 
 rootDir = os.path.dirname(os.path.abspath(__file__))
-uniqueSet = set()
 sources = [ 
     "AdMob.txt",
     "FBAudienceNetwork.txt",
@@ -87,6 +86,7 @@ def toUniqueLine(line, source):
     return line
 
 def release():
+    uniqueSet = set()
     currentDate = date.today().strftime("%b %d, %Y")
     with open(rootDir + "/app-ads.txt", 'w+') as appAdsFile:
         appAdsFile.write("#Last update " + currentDate + '\n')
@@ -113,56 +113,61 @@ def release():
 def updateNetwork(networkName, force):
     tempFileName = 'TempUpdate.txt'
     duplicate = 0
+    foundNews = False
     keepInventories = []
     keepDomain = ""
+    sourceSet = set()
+    newsSet = set()
 
     with open(rootDir + "/Networks/" + networkName + ".txt", 'r') as sourceFile:
         for line in sourceFile:
             line = toUniqueLine(line, networkName)
             if not line or line.startswith('#'):
                 continue
-            if line in uniqueSet:
+            if line in sourceSet:
                 duplicate += 1
                 print("Duplicate in source: " + line[:-1])
-            elif not keepInventories:
+                continue
+            if not keepInventories:
                 keepDomain = line.split(',')[0]
                 keepInventories.append(line)
             elif line.startswith(keepDomain):
                 keepInventories.append(line)
-            elif force:
-                break
-            uniqueSet.add(line)
+            sourceSet.add(line)
 
-    sourcesCount = len(uniqueSet)
     with open(rootDir + "/" + tempFileName, 'r') as updateFile:
-        updateCount = 0
         for line in updateFile:
             line = toUniqueLine(line, tempFileName)
             if not line or line.startswith('#'):
                 continue
-            updateCount += 1
-            if line and line not in uniqueSet:
-                if isDomainAllowed(line, networkName):
-                    if not force:
-                        print("New inventory:\n" + line)
-                    uniqueSet.add(line)
+            if line and isDomainAllowed(line, networkName):
+                newsSet.add(line)
+                if line not in sourceSet:
+                    print("New inventory:\n" + line)
+                    foundNews = True
 
-    if sourcesCount < len(uniqueSet) or duplicate > 0:
-        userSelect = 'y' if force else raw_input("Write Y when you want update sources or N to exit: ")
+
+    if foundNews or duplicate > 0 or len(newsSet) > len(sourceSet):
+        userSelect = 'f' if force else raw_input("Enter Y (to add new inventories), F (to force remove obsolute inventories) or N (to exit): ")
+
+        if userSelect.lower() == 'f':
+            force = True
+        else:
+            newsSet.update(sourceSet)
 
         if force or userSelect.lower() == 'y':
             with open(rootDir + "/Networks/" + networkName + ".txt", 'w') as sourceFile:
                 sourceFile.write("#=== " + networkName + " " + date.today().strftime("%b %d, %Y") + '\n')
                 for line in keepInventories:
                     sourceFile.write(line)
-                    uniqueSet.remove(line)
+                    newsSet.remove(line)
 
-                result = list(uniqueSet)
+                result = list(newsSet)
                 result.sort()
                 for line in result:
                     if isDomainAllowed(line, networkName):
                         sourceFile.write(line)
-            print("Updated " + networkName + " with " + str(len(uniqueSet) + len(keepInventories)) + " inventories.")
+            print("Updated " + networkName + " with " + str(len(result) + len(keepInventories)) + " inventories.")
     else:
         print("No found inventories to update.")
 
