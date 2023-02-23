@@ -33,7 +33,7 @@ sources = [
     "Chartboost.txt", 
     "YandexAds.txt",
     "Fyber.txt",
-    "Others.txt",
+    #"Others.txt",
     #Deprecated:
     #Smaato.txt,
     #StartIo.txt,
@@ -160,7 +160,7 @@ def updateNetwork(networkName, force):
                 sourceFile.write("#=== " + networkName + " " + date.today().strftime("%b %d, %Y") + '\n')
                 for line in keepInventories:
                     sourceFile.write(line)
-                    newsSet.remove(line)
+                    newsSet.discard(line)
 
                 result = list(newsSet)
                 result.sort()

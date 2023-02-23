@@ -1,23 +1,29 @@
-#=== Tapjoy Dec 26, 2021
+#=== Tapjoy Feb 23, 2023
 tapjoy.com, f6b21ada21ca497bb49079ad6b9952f1, DIRECT, 29e595b1aeb5904d
-rubiconproject.com, 12286, RESELLER, 0bfd66d529a55807
-webeyemob.com, 70096, RESELLER
-openx.com, 540679900, RESELLER, 6a698e2ec38604c6
 adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
-pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
-video.unrulymedia.com, 123476257, RESELLER
-indexexchange.com, 182257, RESELLER
-appnexus.com, 6849, RESELLER
-rubiconproject.com, 15268, RESELLER
-rhythmone.com, 123476257, RESELLER, a670c89d4a324e47
-pubmatic.com, 160565, RESELLER, 5d62403b186f2ace
-pubmatic.com, 160565, DIRECT, 5d62403b186f2ace
-pangleglobal.com, 9898, DIRECT
-rubiconproject.com, 17608, RESELLER, 0bfd66d529a55807
-triplelift.com, 10522, RESELLER, 6c33edb13117fd86
-smartadserver.com, 4052, RESELLER
-synacor.com, 82460, DIRECT, e108f11b2cdf7d5b
 aol.com, 58935, RESELLER, e1a5b5b6e3255540
-yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
+appnexus.com, 13227, RESELLER
+appnexus.com, 6849, RESELLER
+contextweb.com, 562791, RESELLER, 89ff185a4c4e857c
+conversantmedia.com, 100269, RESELLER, 03113cd04947736d
+indexexchange.com, 182257, RESELLER
+openx.com, 540679900, RESELLER, 6a698e2ec38604c6
 opera.com, pub4007008646336, RESELLER, 55a0c5fd61378de3
 opera.com, pub6584435113344, DIRECT, 55a0c5fd61378de3
+pangleglobal.com, 9898, DIRECT
+pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160565, DIRECT, 5d62403b186f2ace
+pubmatic.com, 160565, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162223, DIRECT, 5d62403b186f2ace
+rhythmone.com, 123476257, RESELLER, a670c89d4a324e47
+rubiconproject.com, 12286, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 15268, RESELLER
+rubiconproject.com, 17608, RESELLER, 0bfd66d529a55807
+smaato.com, 1100042823, RESELLER, 07bcf65f187117b4
+smartadserver.com, 4052, RESELLER
+smartadserver.com, 4140, RESELLER
+synacor.com, 82460, DIRECT, e108f11b2cdf7d5b
+triplelift.com, 10522, RESELLER, 6c33edb13117fd86
+video.unrulymedia.com, 123476257, RESELLER
+webeyemob.com, 70096, RESELLER
+yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
