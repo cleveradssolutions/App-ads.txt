@@ -53,6 +53,8 @@ Follow these instructions to either update or add a developer website to Google 
 
 ## Ensure your app-ads.txt files can be crawled
 To ensure your app-ads.txt file can be crawled, we recommend working through the following troubleshooting steps.  
+
+> **Note**  
 > The following information was taken from a [Google Support resource](https://support.google.com/admob/answer/9679128).
 
 ### Confirm that the file is reachable from the root domain
