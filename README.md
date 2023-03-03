@@ -20,13 +20,11 @@ We’ve made it easier for you to include CleverAdsSolutions list of entries so 
 > Subscribe so you don't miss app-ads.txt updates. [![Subscribe](https://img.shields.io/github/watchers/cleveradssolutions/App-ads.txt?label=Subscribe&style=social)](https://github.com/cleveradssolutions/App-ads.txt/subscription)  
 
 ## Updating a Developer Website
-It is important to pay attention to the instructions below before beginning the app-ads.txt process.
+It is important to pay attention to the instructions below before beginning the app-ads.txt implementation.
 - You must list your **Developer Website URL** in the iTunes and GooglePlay app stores, as relevant.
 - There must be a valid developer website URL in all app stores hosting your apps.
 - This app-ads.txt guide only addresses Apple's App Store and Google Play stores, with both you can fully comply with the specs of app-ads.txt.
 - The Developer Website URL is used by advertising platforms to locate the app-ads.txt file.  
-
-Listing developer websites and completing every step for the [AppStore](#appstore) or [GooglePlay](#googleplay) operating system is mandatory to complete app-ads.txt implementation. 
 
 ### AppStore
 Developer page is listed under **Developer Website**:  
