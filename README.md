@@ -14,6 +14,7 @@ A ready to use file that includes settings for all networks:
 Separated settings for each network:  
 [Networks](/Networks)  
 
+> **Note**  
 > Subscribe not to miss the app-ads.txt update. [![Subscribe](https://img.shields.io/github/watchers/cleveradssolutions/App-ads.txt?label=Subscribe&style=social)](https://github.com/cleveradssolutions/App-ads.txt/subscription)  
 
 ## Updating/Adding a Developer Website
@@ -36,8 +37,6 @@ Follow these instructions to either update or add a developer website to the App
 4. In the new version add the **Marketing URL**
 5. Post the `/app-ads.txt` file on the root folder of your developer website, listing all authorized sellers of their app inventory.  
 
-> Contact your internal webmaster to post the .txt file on your developer website including all direct and indirect authorized sellers of your inventory.
-
 ### GooglePlay
 The developer page is listed under **Visit Website**:  
 ![image](https://user-images.githubusercontent.com/22005013/114006234-f1761300-9868-11eb-952f-176b1937308a.png)  
@@ -49,6 +48,7 @@ Follow these instructions to either update or add a developer website to Google 
 4. Enter your contact details including the **Website**.
 5. Post the `/app-ads.txt` file on the root folder of your developer website, listing all authorized sellers of their app inventory.
 
+> **Note**  
 > Contact your internal webmaster to post the .txt file on your developer website including all direct and indirect authorized sellers of your inventory.
 
 ## Ensure your app-ads.txt files can be crawled
@@ -58,7 +58,8 @@ To ensure your app-ads.txt file can be crawled, we recommend working through the
 ### Confirm that the file is reachable from the root domain
 Redirects from `domain.com/app-ads.txt` to `www.domain.com/app-ads.txt` are fairly common. App-ads.txt crawling will start at the root domain. The root domain needs to return from, or redirect to, the app-ads.txt file.  
 
-⚠️ An app-ads.txt file on `www.domain.com/app-ads.txt` will only be crawled if `domain.com/app-ads.txt` redirects to it.
+> **Warning**  
+> An app-ads.txt file on `www.domain.com/app-ads.txt` will only be crawled if `domain.com/app-ads.txt` redirects to it.
 
 ### Confirm the file is not temporarily unavailable
 If a previously seen app-ads.txt file is unavailable on a subsequent re-crawl, the previously seen entries will be:
@@ -73,14 +74,4 @@ While a request for an app-ads.txt file may return the contents of the file in t
 Make sure the file has an HTTP 200 OK status code.
 
 ### Ensure there are no formatting errors or invalid characters in the file
-Formatting errors, such as invalid whitespace characters, may be difficult to detect but can make an app-ads.txt file difficult to parse by a crawler, and may therefore result in a file being ignored. Avoid copying and pasting app-ads.txt entries from a rich text editor; we recommend a plain text editor. You can also check for invalid UTF-8 characters in your app-ads.txt file using a HEX editor.
-
-### Make an app-ads.txt file reachable via both HTTP and HTTPS
-The Google crawler attempts to crawl all app-ads.txt files on both HTTP and HTTPS. However, a 404 (or 40X) response causes previously crawled entries to be purged, even though an app-ads.txt file is crawled via HTTP. Therefore, if crawling via HTTPS returns a 404 (or 40X):  
-The previously crawled entry will be purged.  
-
-Please ensure the app-ads.txt is accessible via both HTTP and HTTPS.  
-
-## Support
-mailto:support@cleveradssolutions.com  
-Support Vitaly Skype: `zanzavital`
+Formatting errors, such as invalid whitespace characters, may be difficult to detect but can make an app-ads.txt file difficult to parse by a crawler, and may therefore result in a file being ignored. Avoid copying and pasting app-ads.txt entries from a rich text editor; we recommend a plain text editor. You can also check for invalid UTF-8 characters in your app-ads.txt file using a HEX editor. 
