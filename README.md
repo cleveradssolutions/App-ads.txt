@@ -15,7 +15,7 @@ Separated settings for each network:
 [Networks](/Networks)  
 
 > **Note**  
-> Subscribe not to miss the app-ads.txt update. [![Subscribe](https://img.shields.io/github/watchers/cleveradssolutions/App-ads.txt?label=Subscribe&style=social)](https://github.com/cleveradssolutions/App-ads.txt/subscription)  
+> Subscribe so you don't miss app-ads.txt updates. [![Subscribe](https://img.shields.io/github/watchers/cleveradssolutions/App-ads.txt?label=Subscribe&style=social)](https://github.com/cleveradssolutions/App-ads.txt/subscription)  
 
 ## Updating/Adding a Developer Website
 It is important to pay attention to the instructions below before beginning the app-ads.txt process.
