@@ -2,22 +2,24 @@
 
 [![Updated](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/cleveradssolutions/App-ads.txt/master/Shield.json)](https://github.com/cleveradssolutions/App-ads.txt)
 
-The Interactive Advertising Bureau (IAB) developed ads.txt in 2017. Ads.txt is a framework that defines how publishers should list their authorized monetization partners. Using this file, the buy-side can identify which sellers the publisher has authorized to sell their inventory.  
+App-ads.txt is a text file app developers upload to their developer website, which lists the ad sources authorized to sell that developer’s inventory. Just like on web, the IAB created a system which allows buyers to know who is authorized to buy and sell specific in-app ad inventory, and who isn’t. This is an important step towards eliminating certain types of fraud, and improving the transparency and efficiency of the overall ecosystem. Most savvy brand marketers and demand side platforms won’t buy inventory that doesn’t have ads.txt implemented. 
+A DSP looking to bid on app inventory scans the app-ads.txt file on a developer’s website to verify which ad sources are authorized to sell that app’s inventory. The DSP will only accept bid requests from ad sources listed on the file and authorized by the app developer.  
+You can read more about it here: https://iabtechlab.com/ads-txt
 
-The IAB released the app version for ads.txt called app-ads.txt. The specification is an extension of ads.txt.  
+> **Warning**  
+> If you don't implement app-ads.txt, it may hurt your eCPMs because there will be less advertisers willing to pay you for ads.
 
-The simple app-ads.txt standard helps prevent the unauthorized selling of in-app inventory and app domain spoofing.
-
-A ready to use file that includes settings for all networks:  
+We’ve made it easier for you to include CleverAdsSolutions list of entries so that you will never miss any budgets from ironSource’s top brands partners. 
+- Combined file including sources from all mediation partners:     
 [app-ads.txt](/app-ads.txt)
-
-Separated settings for each network:  
+- File-separated sources for each partner can be found below:  
 [Networks](/Networks)  
 
 > **Note**  
+> Don’t forget to keep track of the list since it is updated from time to time.  
 > Subscribe so you don't miss app-ads.txt updates. [![Subscribe](https://img.shields.io/github/watchers/cleveradssolutions/App-ads.txt?label=Subscribe&style=social)](https://github.com/cleveradssolutions/App-ads.txt/subscription)  
 
-## Updating/Adding a Developer Website
+## Updating a Developer Website
 It is important to pay attention to the instructions below before beginning the app-ads.txt process.
 - You must list your **Developer Website URL** in the iTunes and GooglePlay app stores, as relevant.
 - There must be a valid developer website URL in all app stores hosting your apps.
