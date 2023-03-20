@@ -1,4 +1,4 @@
-#=== Fyber Jan 31, 2023
+#=== Fyber Mar 20, 2023
 fyber.com, 214373, DIRECT
 acd.op.hicloud.com, pub_hw_1003, RESELLER
 adcolony.com, 2851dffbb0d51b5e, RESELLER, 1ad675c9de6b5176
@@ -9,6 +9,7 @@ advertising.com, 28650, RESELLER
 adx-dra.op.hicloud.com, pub_hw_1003, RESELLER
 adx-dre.op.hicloud.com, pub_hw_1003, RESELLER
 adx-drru.op.hicloud.com, pub_hw_1003, RESELLER
+airnowplatform.com, 7000208, RESELLER
 algorix.co, 54236, RESELLER, 5b394c12fea27a1d
 algorix.co, 60082, RESELLER, 5b394c12fea27a1d
 algorix.co, 60086, RESELLER, 5b394c12fea27a1d
@@ -34,6 +35,7 @@ inmobi.com, 1e13a47050bc40e29ef24c145820180d, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 22e5354e453f49348325184e25464adb, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 7c9e112a810a4b639bb6af3fa397233e, RESELLER, 83e75a7ae333ca9d
 inmobi.com, ebc44eef6c104f7fbf7bc52ee29f7939, RESELLER, 83e75a7ae333ca9d
+instreamatic.com, 99, RESELLER
 loopme.com, 5176, RESELLER, 6c8d5f95897a5a3b
 mars.media, 103116, RESELLER
 mediaverse.ai, 302149932, RESELLER
@@ -78,24 +80,26 @@ sharethrough.com, 6qlnf8sy, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, k6tb2um1, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, pll9clon, RESELLER, d53b998a7bd4ecd2
 showheroes.com, 6018, RESELLER
+smartadserver.com, 3020, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4210, RESELLER
 smartclip.net, 12358, RESELLER
 smartclip.net, 12422, RESELLER
 smartstream.tv, 667, RESELLER
 startapp.com, inr, RESELLER
 thebrave.io, 1234585, RESELLER, c25b2154543746ac
 thebrave.io, 1234598, RESELLER, c25b2154543746ac
-triplelift.com, 10522, RESELLER, 6c33edb13117fd86
-triplelift.com, 11656, RESELLER, 6c33edb13117fd86
 triplelift.com, 12456, RESELLER, 6c33edb13117fd86
 triplelift.com, 8844, RESELLER, 6c33edb13117fd86
 ucfunnel.com, par-be7e29b3b48de66bc7ddda24e6267e29, RESELLER
 undertone.com, 4102, RESELLER
 verve.com, 14592, RESELLER, 0c8f5958fc2d6270
 video.unrulymedia.com, 123476257, RESELLER
+video.unrulymedia.com, 2613193077, RESELLER
 video.unrulymedia.com, 649652654350370180, RESELLER
 video.unrulymedia.com, 7823643795310613975, RESELLER
 videoheroes.tv, 212504, RESELLER, 064bc410192443d8
 visiblemeasures.com, 1001, RESELLER
+whildey.com, 2129553945, RESELLER
 xad.com, 556, RESELLER, 81cbf0a75a5e0e9a
 xandr.com, 13709, RESELLER
 xandr.com, 13799, RESELLER
