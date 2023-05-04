@@ -1,4 +1,4 @@
-#=== Fyber Mar 20, 2023
+#=== Fyber May 04, 2023
 fyber.com, 214373, DIRECT
 acd.op.hicloud.com, pub_hw_1003, RESELLER
 adcolony.com, 2851dffbb0d51b5e, RESELLER, 1ad675c9de6b5176
@@ -60,6 +60,7 @@ pubmatic.com, 160145, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160318, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160319, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160974, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161771, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162195, RESELLER, 5d62403b186f2ace
 pubnative.net, 1007055, RESELLER, d641df8625486a7b
 rhebus.works, 3370572591, RESELLER
@@ -84,6 +85,7 @@ smartadserver.com, 3020, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4210, RESELLER
 smartclip.net, 12358, RESELLER
 smartclip.net, 12422, RESELLER
+smartclip.net, 14275, RESELLER
 smartstream.tv, 667, RESELLER
 startapp.com, inr, RESELLER
 thebrave.io, 1234585, RESELLER, c25b2154543746ac
