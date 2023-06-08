@@ -27,6 +27,8 @@ It is important to pay attention to the instructions below before beginning the 
 - The Developer Website URL is used by advertising platforms to locate the app-ads.txt file.  
 
 ### AppStore
+<details>
+
 Developer page is listed under **Developer Website**:  
 ![image](https://user-images.githubusercontent.com/22005013/114005460-3b122e00-9868-11eb-92bb-e8dce76b1b12.png)  
 
@@ -36,8 +38,11 @@ Follow these instructions to either update or add a developer website to the App
 3. Inside the app, click **+** for **Version or Platform**
 4. In the new version add the **Marketing URL**
 5. Post the `/app-ads.txt` file on the root folder of your developer website, listing all authorized sellers of their app inventory.  
+</details>
 
 ### GooglePlay
+<details>
+
 The developer page is listed under **Visit Website**:  
 ![image](https://user-images.githubusercontent.com/22005013/114006234-f1761300-9868-11eb-952f-176b1937308a.png)  
 
@@ -47,6 +52,8 @@ Follow these instructions to either update or add a developer website to Google 
 3. Enter the details of your app
 4. Enter your contact details including the **Website**.
 5. Post the `/app-ads.txt` file on the root folder of your developer website, listing all authorized sellers of their app inventory.
+
+</details>
 
 > **Note**  
 > Contact your internal webmaster to post the .txt file on your developer website including all direct and indirect authorized sellers of your inventory.
