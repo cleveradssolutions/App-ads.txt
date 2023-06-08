@@ -148,8 +148,13 @@ def updateNetwork(networkName, force):
 
 
     if foundNews or duplicate > 0 or len(newsSet) > len(sourceSet):
-        userSelect = 'f' if force else raw_input("Enter Y (to add new inventories), F (to force remove obsolute inventories) or N (to exit): ")
-
+        if force:
+            userSelect = 'f'
+        elif sys.version_info[0] < 3:
+            userSelect = raw_input("Enter Y (to add new inventories), F (to force remove obsolute inventories) or N (to exit): ")
+        else:
+            userSelect = input("Enter Y (to add new inventories), F (to force remove obsolute inventories) or N (to exit): ")
+            
         if userSelect.lower() == 'f':
             force = True
         else:
