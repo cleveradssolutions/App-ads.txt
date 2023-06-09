@@ -40,7 +40,7 @@ sources = [
 ]
 bannedDomains = [
     # (Reserved by Network name, Banned domain for other Networks)
-    ("AdMob", "google.com")
+    #("AdMob", "google.com")
 ]
 
 def printNetworks():
