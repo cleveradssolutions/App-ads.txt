@@ -1,4 +1,4 @@
-#=== IronSource Jun 08, 2023
+#=== IronSource Jun 09, 2023
 ironsrc.com, 218335, DIRECT
 ironsrc.com, 406326, DIRECT
 ironsrc.com, 445197, DIRECT
@@ -23,6 +23,7 @@ freewheel.tv, 1137745, RESELLER
 freewheel.tv, 1138513, RESELLER
 gamoshi.io, 267-b4808, RESELLER, 20e30b2ae1f670f2
 gitberry.com, ig3s1b, RESELLER
+google.com, pub-2843405949989126, RESELLER, f08c47fec0942fa0
 hyperad.tech, 35, RESELLER
 improvedigital.com, 1114, RESELLER
 indexexchange.com, 185996, RESELLER

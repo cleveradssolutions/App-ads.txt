@@ -1,4 +1,4 @@
-#=== Chartboost Jun 08, 2023
+#=== Chartboost Jun 09, 2023
 chartboost.com, 5730bb1a04b0165b75d2e564, DIRECT
 acd.op.hicloud.com, pub_hw_1003, RESELLER
 adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
@@ -39,6 +39,9 @@ freewheel.tv, 1235183, RESELLER
 freewheel.tv, 1235279, RESELLER
 freewheel.tv, 1568906, RESELLER
 freewheel.tv, 1568907, RESELLER
+google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0
+google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0
+google.com, pub-6346866704322274, RESELLER, f08c47fec0942fa0
 improvedigital.com, 1366, RESELLER
 indexexchange.com, 185578, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8fc

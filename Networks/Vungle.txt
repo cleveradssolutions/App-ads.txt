@@ -1,4 +1,4 @@
-#=== Vungle Jun 08, 2023
+#=== Vungle Jun 09, 2023
 vungle.com, 5730c2af2270cba25f000066, DIRECT, c107d686becd2d77
 vungle.com, 5c657afed9e6e60012bab5d9, DIRECT, c107d686becd2d77
 152media.info, 152m312, RESELLER
@@ -64,6 +64,10 @@ freewheel.tv, 1157729, RESELLER
 freewheel.tv, 1157777, RESELLER
 freewheel.tv, 1446674, RESELLER
 gitberry.com, 90scb, RESELLER
+google.com, pub-3769010358500643, RESELLER, f08c47fec0942fa0
+google.com, pub-4568609371004228, RESELLER, f08c47fec0942fa0
+google.com, pub-7214269347534569, RESELLER, f08c47fec0942fa0
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
 gothamads.com, 1236, RESELLER, d9c86e5dec870222
 hyperad.tech, 172, RESELLER
 ignitemediatech.com, pub_61112, RESELLER

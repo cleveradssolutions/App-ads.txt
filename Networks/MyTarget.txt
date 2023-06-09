@@ -1,4 +1,4 @@
-#=== MyTarget May 04, 2023
+#=== MyTarget Jun 09, 2023
 target.my.com, 3584173, DIRECT
 adcolony.com, 1efc6603710003ea, RESELLER
 adcolony.com, 29b7f4a14dc689eb, RESELLER
@@ -29,6 +29,7 @@ e-planning.net, ec771b05828a67fa, RESELLER
 emxdgt.com, 2047, RESELLER
 eskimi.com, eas-2020000005, RESELLER
 gamoshi.io, 267-b4800, RESELLER
+google.com, pub-2843405949989126, RESELLER
 hyperad.tech, 41, RESELLER
 improvedigital.com, 1532, RESELLER
 indexexchange.com, 191332, RESELLER

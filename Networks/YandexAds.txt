@@ -1,4 +1,4 @@
-#=== YandexAds Jun 08, 2023
+#=== YandexAds Jun 09, 2023
 yandex.com, 66051405, DIRECT
 152media.info, 152m241, RESELLER
 152media.info, 152m312, RESELLER
@@ -105,6 +105,9 @@ gamoshi.io, 267-b4627, RESELLER
 gamoshi.io, 267-b5428, RESELLER, 20e30b2ae1f670f2
 gamoshi.io, 267-b850, RESELLER, 20e30b2ae1f670f2
 getmediamx.com, 1220999, RESELLER
+google.com, pub-2843405949989126, RESELLER, f08c47fec0942fa0
+google.com, pub-5289985627731322, RESELLER, f08c47fec0942fa0
+google.com, pub-9417114411593463, RESELLER, f08c47fec0942fa0
 gothamads.com, 1912, RESELLER, d9c86e5dec870222
 gumgum.com, 14158, RESELLER, ffdef49475d318a9
 ignitemediatech.com, 61119, RESELLER
