@@ -1,4 +1,4 @@
-#Last update Jun 08, 2023
+#Last update Jun 09, 2023
 #=== AdMob Apr 13, 2023
 google.com, pub-8858162097015410, DIRECT, f08c47fec0942fa0
 google.com, pub-1022958838828668, DIRECT, f08c47fec0942fa0
@@ -102,7 +102,7 @@ openx.com, 540298543, RESELLER, 6a698e2ec38604c6
 betweendigital.com, 43956, RESELLER
 #=== Pangle
 pangleglobal.com, 86231, DIRECT
-#=== IronSource Jun 08, 2023
+#=== IronSource Jun 09, 2023
 ironsrc.com, 218335, DIRECT
 ironsrc.com, 406326, DIRECT
 ironsrc.com, 445197, DIRECT
@@ -126,6 +126,7 @@ freewheel.tv, 1137745, RESELLER
 freewheel.tv, 1138513, RESELLER
 gamoshi.io, 267-b4808, RESELLER, 20e30b2ae1f670f2
 gitberry.com, ig3s1b, RESELLER
+google.com, pub-2843405949989126, RESELLER, f08c47fec0942fa0
 hyperad.tech, 35, RESELLER
 improvedigital.com, 1114, RESELLER
 indexexchange.com, 185996, RESELLER
@@ -187,13 +188,14 @@ yahoo.com, 59318, RESELLER
 yandex.com, 37982190, RESELLER
 yeahmobi.com, 5135347, RESELLER
 yieldlab.net, 2172218, RESELLER
-#=== AppLovin May 04, 2023
+#=== AppLovin Jun 09, 2023
 applovin.com, 4d391c28b8c9b08646600303640192ea, DIRECT
 applovin.com, f17e2a01debcc4f46927e0a075b90711, DIRECT
 applovin.com, 1b46f5e3cf2242caea5c383ca959e5dd, DIRECT
+applovin.com, c0240449e33b7431936ee54233b9ffc9, DIRECT
 loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
 media.net, 8cud06z68, RESELLER
-#=== UnityAds May 04, 2023
+#=== UnityAds Jun 09, 2023
 unity.com, 1049822, DIRECT, 96cabb5fbdde37a7
 unity.com, 1773786, DIRECT, 96cabb5fbdde37a7
 unity.com, 1119860, DIRECT, 96cabb5fbdde37a7
@@ -230,6 +232,90 @@ criteo.com, b-057601, RESELLER, 9fac4a4a87c2a44f
 criteo.com, b-057955, RESELLER, 9fac4a4a87c2a44f
 criteo.com, b-063105, RESELLER, 9fac4a4a87c2a44f
 exchange.admazing.co, am3, RESELLER
+google.com, pub-1013485393911790, RESELLER
+google.com, pub-1023350223411108, RESELLER
+google.com, pub-1151074018745018, RESELLER
+google.com, pub-1265384243578755, RESELLER
+google.com, pub-1403452928441784, RESELLER
+google.com, pub-1577221370690437, RESELLER
+google.com, pub-1595066453385282, RESELLER
+google.com, pub-1607564087904923, RESELLER
+google.com, pub-1659064195378707, RESELLER
+google.com, pub-1689093998563762, RESELLER
+google.com, pub-1826012253454952, RESELLER
+google.com, pub-1917406534499253, RESELLER
+google.com, pub-1936504549063619, RESELLER
+google.com, pub-2004351292399105, RESELLER
+google.com, pub-2253595142996441, RESELLER
+google.com, pub-2269125232848094, RESELLER
+google.com, pub-2325887327686636, RESELLER
+google.com, pub-2440311687448832, RESELLER
+google.com, pub-2493109115450682, RESELLER
+google.com, pub-2794531912652583, RESELLER
+google.com, pub-2804566694470227, RESELLER
+google.com, pub-2822102740625914, RESELLER
+google.com, pub-2870500493553166, RESELLER
+google.com, pub-2898675669744275, RESELLER
+google.com, pub-2998410516729558, RESELLER
+google.com, pub-3243947256243614, RESELLER
+google.com, pub-3277537432900344, RESELLER
+google.com, pub-3357809309522484, RESELLER
+google.com, pub-3507477244480558, RESELLER
+google.com, pub-3635537627664462, RESELLER
+google.com, pub-4187186130738756, RESELLER
+google.com, pub-4425242881736351, RESELLER
+google.com, pub-4440810421343988, RESELLER
+google.com, pub-4505419348308024, RESELLER
+google.com, pub-4698365653575572, RESELLER
+google.com, pub-4787298663558909, RESELLER
+google.com, pub-4835122629916655, RESELLER
+google.com, pub-4872997479566695, RESELLER
+google.com, pub-4913051809160143, RESELLER
+google.com, pub-4937961413369484, RESELLER
+google.com, pub-4998785064586472, RESELLER
+google.com, pub-5042487473516404, RESELLER
+google.com, pub-5167955715792896, RESELLER
+google.com, pub-5416278885486616, RESELLER
+google.com, pub-5509723511493515, RESELLER
+google.com, pub-5629880836843082, RESELLER
+google.com, pub-5801001320794449, RESELLER
+google.com, pub-5841114682134698, RESELLER
+google.com, pub-5915693900038274, RESELLER
+google.com, pub-5935046103054497, RESELLER
+google.com, pub-6107724524699640, RESELLER
+google.com, pub-6171158072399476, RESELLER
+google.com, pub-6297892205842949, RESELLER
+google.com, pub-6598368046582176, RESELLER
+google.com, pub-6691318530454629, RESELLER
+google.com, pub-6723180664154618, RESELLER
+google.com, pub-6750915678865756, RESELLER
+google.com, pub-6783397722379457, RESELLER
+google.com, pub-6858917008917992, RESELLER
+google.com, pub-6872746964647837, RESELLER
+google.com, pub-6926478389814885, RESELLER
+google.com, pub-7140337539960654, RESELLER
+google.com, pub-7251712046059526, RESELLER
+google.com, pub-7256988727587394, RESELLER
+google.com, pub-7324876441205021, RESELLER
+google.com, pub-7713554155373117, RESELLER
+google.com, pub-7860456680878755, RESELLER
+google.com, pub-7908061663766255, RESELLER
+google.com, pub-7955322303263231, RESELLER
+google.com, pub-8004254555988622, RESELLER
+google.com, pub-8236665230625728, RESELLER
+google.com, pub-8405300361376570, RESELLER
+google.com, pub-8728712656723745, RESELLER
+google.com, pub-8875007976898779, RESELLER
+google.com, pub-9059573970340131, RESELLER
+google.com, pub-9103920728187422, RESELLER
+google.com, pub-9435471391718199, RESELLER
+google.com, pub-9439955762320168, RESELLER
+google.com, pub-9493002888945144, RESELLER
+google.com, pub-9547705812108245, RESELLER
+google.com, pub-9593546322660461, RESELLER
+google.com, pub-9625533917870481, RESELLER
+google.com, pub-9895708113547113, RESELLER
+google.com, pub-9917434341153334, RESELLER
 indexexchange.com, 186081, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 186684, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 194080, RESELLER, 50b1c356f2c5c8fc
@@ -307,7 +393,7 @@ yandex.com, 40427798, RESELLER
 yandex.com, 95746987, RESELLER
 yandex.com, 97539269, RESELLER
 yeahmobi.com, 5135195, RESELLER
-#=== Mintegral Jun 08, 2023
+#=== Mintegral Jun 09, 2023
 mintegral.com, 25008, DIRECT, 0aeed750c80d6423
 acd.op.hicloud.com, pub_hw_1003, RESELLER
 adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
@@ -420,6 +506,7 @@ gitberry.com, 325100011, RESELLER
 gitberry.com, 325100012, RESELLER
 gitberry.com, 3oj, RESELLER
 gitberry.com, 42knb, RESELLER
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
 gothamads.com, 1236, RESELLER, d9c86e5dec870222
 gothamads.com, 399, RESELLER, d9c86e5dec870222
 groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a
@@ -634,7 +721,7 @@ yeahmobi.com, 5135315, RESELLER
 yieldmo.com, 2807970144171533194, RESELLER
 yieldmo.com, 3036313774475649025, RESELLER
 yieldnexus.com, 96204, RESELLER
-#=== Vungle Jun 08, 2023
+#=== Vungle Jun 09, 2023
 vungle.com, 5730c2af2270cba25f000066, DIRECT, c107d686becd2d77
 vungle.com, 5c657afed9e6e60012bab5d9, DIRECT, c107d686becd2d77
 152media.info, 152m312, RESELLER
@@ -682,6 +769,9 @@ freewheel.tv, 1157729, RESELLER
 freewheel.tv, 1157777, RESELLER
 freewheel.tv, 1446674, RESELLER
 gitberry.com, 90scb, RESELLER
+google.com, pub-3769010358500643, RESELLER, f08c47fec0942fa0
+google.com, pub-4568609371004228, RESELLER, f08c47fec0942fa0
+google.com, pub-7214269347534569, RESELLER, f08c47fec0942fa0
 hyperad.tech, 172, RESELLER
 ignitemediatech.com, pub_61112, RESELLER
 improvedigital.com, 1795, RESELLER
@@ -814,12 +904,12 @@ rubiconproject.com, 20152, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 20182, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 14980, RESELLER, 0bfd66d529a55807
 appnexus.com, 3584, RESELLER
-#=== Kidoz May 04, 2023
+#=== Kidoz Jun 09, 2023
 appnexus.com, 13363, RESELLER, f5ab79cb980f11d1
 appnexus.com, 806, RESELLER
+appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
 152media.info, 152m324, RESELLER
 aniview.com, 5f2063121d82c82557194737, RESELLER, 78b21b97965ec3f8
-appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
 emxdgt.com, 1972, RESELLER, 1e1d41537f7cad7f
 freewheel.tv, 1389714, RESELLER
 freewheel.tv, 1389746, RESELLER
@@ -827,6 +917,11 @@ freewheel.tv, 187721, RESELLER
 freewheel.tv, 187865, RESELLER
 freewheel.tv, 196129, RESELLER
 freewheel.tv, 196145, RESELLER
+google.com, pub-1386280613967939, RESELLER, f08c47fec0942fa0
+google.com, pub-1513287762611009, RESELLER, f08c47fec0942fa0
+google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa0
+google.com, pub-5781531207509232, RESELLER, f08c47fec0942fa0
+google.com, pub-6437111524977299, RESELLER, f08c47fec0942fa0
 improvedigital.com, 1604, RESELLER
 improvedigital.com, 2052, RESELLER
 improvedigital.com, 22852136, RESELLER
@@ -858,7 +953,7 @@ yieldlab.net, 5494672, RESELLER
 yieldlab.net, 5798882, RESELLER
 yieldlab.net, 6374282, RESELLER
 yieldlab.net, 781119, RESELLER
-#=== InMobi Jun 08, 2023
+#=== InMobi Jun 09, 2023
 inmobi.com, 5abb702fde844f7cadd2090b3c7d61db, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 5bd38f94aca34db383536c454f001b40, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 7c9e112a810a4b639bb6af3fa397233e, RESELLER, 83e75a7ae333ca9d
@@ -866,6 +961,7 @@ inmobi.com, a5e661acdc384e91a79a58eb3418e99f, RESELLER, 83e75a7ae333ca9d
 inmobi.com, cec065af8e36462f8c33dc5a1f9781f7, RESELLER, 83e75a7ae333ca9d
 inmobi.com, fafa1521dbdb43f69b1eb199a0b007fd, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 30ff09752f2b48eb9974d28116cf9ff0, DIRECT, 83e75a7ae333ca9d
+inmobi.com, 952e02aa1cd2454c940889663df0a902, RESELLER, 83e75a7ae333ca9d
 9dotsmedia.com, 122262, RESELLER, 45ff185b4c4e857d
 acexchange.co.kr, 1562884725, RESELLER
 adcolony.com, 197af3936679d34e, RESELLER, 1ad675c9de6b5176
@@ -896,11 +992,11 @@ eskimi.com, 2020000030, RESELLER
 freewheel.tv, 1585652, RESELLER
 freewheel.tv, 1585681, RESELLER
 gamaigroup.com, 320201, RESELLER
+google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
 growintech.co, 102275, RESELLER
 improvedigital.com, 2174, RESELLER
 improvedigital.com, 2181, RESELLER
 indexexchange.com, 184738, RESELLER
-inmobi.com, 952e02aa1cd2454c940889663df0a902, RESELLER, 83e75a7ae333ca9d
 instreamatic.com, 137, RESELLER
 iqzone.com, iq87, RESELLER
 lemmatechnologies.com, 89, RESELLER, 7829010c5bebd1fb
@@ -973,7 +1069,7 @@ webeyemob.com, 70130, RESELLER
 xandr.com, 13167, RESELLER
 xapads.com, 106073, RESELLER
 yahoo.com, 59961, RESELLER, e1a5b5b6e3255540
-#=== MyTarget May 04, 2023
+#=== MyTarget Jun 09, 2023
 target.my.com, 3584173, DIRECT
 adcolony.com, 1efc6603710003ea, RESELLER
 adcolony.com, 29b7f4a14dc689eb, RESELLER
@@ -1001,6 +1097,7 @@ e-planning.net, b9165ad221c51225, RESELLER
 e-planning.net, ec771b05828a67fa, RESELLER
 emxdgt.com, 2047, RESELLER
 gamoshi.io, 267-b4800, RESELLER
+google.com, pub-2843405949989126, RESELLER
 hyperad.tech, 41, RESELLER
 indexexchange.com, 191332, RESELLER
 indexexchange.com, 192806, RESELLER
@@ -1063,7 +1160,7 @@ pubmatic.com, 162223, DIRECT, 5d62403b186f2ace
 rubiconproject.com, 12286, RESELLER, 0bfd66d529a55807
 synacor.com, 82460, DIRECT, e108f11b2cdf7d5b
 webeyemob.com, 70096, RESELLER
-#=== Chartboost Jun 08, 2023
+#=== Chartboost Jun 09, 2023
 chartboost.com, 5730bb1a04b0165b75d2e564, DIRECT
 adform.com, 2904, RESELLER
 adview.com, 33633363, RESELLER, 1b2cc038a11ea319
@@ -1076,6 +1173,9 @@ e-planning.net, bce51a8513581788, RESELLER, c1ba615865ed87b2
 e-planning.net, e1028cf4f3301b90, RESELLER, c1ba615865ed87b2
 freewheel.tv, 1568906, RESELLER
 freewheel.tv, 1568907, RESELLER
+google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0
+google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0
+google.com, pub-6346866704322274, RESELLER, f08c47fec0942fa0
 loopme.com, 11446, RESELLER, 6c8d5f95897a5a3b
 lunamedia.io, 193bca549318aed0434226d4d73e13f3, RESELLER, 524ecb396915caaf
 lunamedia.io, a49272ae78e0ed4beb713268644928f0, RESELLER, 524ecb396915caaf
@@ -1102,7 +1202,7 @@ yahoo.com, 59674, RESELLER, e1a5b5b6e3255540
 yahoo.com, 59875, RESELLER, e1a5b5b6e3255540
 yahoo.com, 60013, RESELLER, e1a5b5b6e3255540
 yeahmobi.com, 5135302, RESELLER
-#=== YandexAds Jun 08, 2023
+#=== YandexAds Jun 09, 2023
 yandex.com, 66051405, DIRECT
 152media.info, 152m241, RESELLER
 152media.info, 152m499, RESELLER
@@ -1172,6 +1272,8 @@ gamoshi.io, 267-b4627, RESELLER
 gamoshi.io, 267-b5428, RESELLER, 20e30b2ae1f670f2
 gamoshi.io, 267-b850, RESELLER, 20e30b2ae1f670f2
 getmediamx.com, 1220999, RESELLER
+google.com, pub-5289985627731322, RESELLER, f08c47fec0942fa0
+google.com, pub-9417114411593463, RESELLER, f08c47fec0942fa0
 gothamads.com, 1912, RESELLER, d9c86e5dec870222
 gumgum.com, 14158, RESELLER, ffdef49475d318a9
 ignitemediatech.com, pub_61128, RESELLER
@@ -1280,7 +1382,7 @@ yahoo.com, 59966, RESELLER, e1a5b5b6e3255540
 yeahmobi.com, 5135322, RESELLER
 yieldmo.com, 2757543169808605705, RESELLER
 yieldmo.com, 2850137996525511226, RESELLER
-#=== Fyber Jun 08, 2023
+#=== Fyber Jun 09, 2023
 fyber.com, 214373, DIRECT
 adcolony.com, 2851dffbb0d51b5e, RESELLER, 1ad675c9de6b5176
 adcolony.com, 3dcf9f51638afe2c, RESELLER, 1ad675c9de6b5176
@@ -1320,18 +1422,26 @@ pubmatic.com, 156557, RESELLER
 pubmatic.com, 157899, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158291, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158723, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159351, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160319, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161368, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161559, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162195, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162402, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162449, RESELLER, 5d62403b186f2ace
 pubnative.net, 1007055, RESELLER, d641df8625486a7b
 rhebus.works, 3370572591, RESELLER
 rubiconproject.com, 15320, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24204, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24908, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24914, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24960, RESELLER, 0bfd66d529a55807
 sharethrough.com, k6tb2um1, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, pll9clon, RESELLER, d53b998a7bd4ecd2
 showheroes.com, 6018, RESELLER
 smartadserver.com, 3020, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4625, RESELLER, 060d053dcf45cbf3
 smartclip.net, 12422, RESELLER
 smartstream.tv, 667, RESELLER
 smartstream.tv, 679, RESELLER

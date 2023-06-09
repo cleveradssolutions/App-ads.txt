@@ -1,4 +1,4 @@
-#=== Fyber Jun 08, 2023
+#=== Fyber Jun 09, 2023
 fyber.com, 214373, DIRECT
 acd.op.hicloud.com, pub_hw_1003, RESELLER
 adcolony.com, 2851dffbb0d51b5e, RESELLER, 1ad675c9de6b5176
@@ -17,6 +17,7 @@ algorix.co, 60082, RESELLER, 5b394c12fea27a1d
 algorix.co, 60086, RESELLER, 5b394c12fea27a1d
 alpineinteractivegroup.com, 8113111129, RESELLER
 appnexus.com, 13258, RESELLER
+appnexus.com, 13293, RESELLER
 appnexus.com, 14077, RESELLER
 appnexus.com, 14228, RESELLER
 appnexus.com, 14423, RESELLER, f5ab79cb980f11d1
@@ -32,6 +33,9 @@ conversantmedia.com, 100432, RESELLER, 03113cd04947736d
 freewheel.tv, 1137745, RESELLER
 freewheel.tv, 1138513, RESELLER
 gitberry.com, 345100012, RESELLER
+google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0
+google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0
+google.com, pub-6346866704322274, RESELLER, f08c47fec0942fa0
 improvedigital.com, 2110, RESELLER
 indexexchange.com, 191572, RESELLER
 indexexchange.com, 194730, RESELLER
@@ -62,13 +66,17 @@ pubmatic.com, 158271, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158291, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158481, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158723, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159351, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160145, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160318, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160319, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160974, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161368, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161559, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161771, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162195, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162402, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162449, RESELLER, 5d62403b186f2ace
 pubnative.net, 1007055, RESELLER, d641df8625486a7b
 rhebus.works, 3370572591, RESELLER
 rhythmone.com, 4173858586, RESELLER, a670c89d4a324e47
@@ -85,12 +93,16 @@ rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 22412, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24204, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24448, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24908, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24914, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24960, RESELLER, 0bfd66d529a55807
 sharethrough.com, 6qlnf8sy, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, k6tb2um1, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, pll9clon, RESELLER, d53b998a7bd4ecd2
 showheroes.com, 6018, RESELLER
 smartadserver.com, 3020, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4210, RESELLER
+smartadserver.com, 4625, RESELLER, 060d053dcf45cbf3
 smartclip.net, 12358, RESELLER
 smartclip.net, 12422, RESELLER
 smartclip.net, 14275, RESELLER
@@ -99,6 +111,7 @@ smartstream.tv, 679, RESELLER
 startapp.com, inr, RESELLER
 thebrave.io, 1234585, RESELLER, c25b2154543746ac
 thebrave.io, 1234598, RESELLER, c25b2154543746ac
+triplelift.com, 12158, RESELLER, 6c33edb13117fd86
 triplelift.com, 12456, RESELLER, 6c33edb13117fd86
 triplelift.com, 8844, RESELLER, 6c33edb13117fd86
 ucfunnel.com, par-be7e29b3b48de66bc7ddda24e6267e29, RESELLER
