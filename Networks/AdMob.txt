@@ -1,4 +1,4 @@
-#=== AdMob Apr 13, 2023
+#=== AdMob Jun 15, 2023
 google.com, pub-8858162097015410, DIRECT, f08c47fec0942fa0
 google.com, pub-1022958838828668, DIRECT, f08c47fec0942fa0
 google.com, pub-2871335254532484, DIRECT, f08c47fec0942fa0
