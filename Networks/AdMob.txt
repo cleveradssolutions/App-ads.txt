@@ -9,6 +9,7 @@ google.com, pub-2532668741646097, DIRECT, f08c47fec0942fa0
 google.com, pub-4382598503065232, DIRECT, f08c47fec0942fa0
 google.com, pub-1996624513447219, DIRECT, f08c47fec0942fa0
 google.com, pub-9041187040625593, DIRECT, f08c47fec0942fa0
+google.com, pub-6480664593997158, DIRECT, f08c47fec0942fa0
 adcolony.com, 496220845654deec, RESELLER, 1ad675c9de6b5176
 adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
 adingo.jp, 24544, DIRECT
