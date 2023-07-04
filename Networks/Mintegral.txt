@@ -1,4 +1,4 @@
-#=== Mintegral Jun 09, 2023
+#=== Mintegral Jul 04, 2023
 mintegral.com, 25008, DIRECT, 0aeed750c80d6423
 acd.op.hicloud.com, pub_hw_1003, RESELLER
 adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
@@ -93,6 +93,7 @@ contextweb.com, 562329, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562724, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562791, RESELLER, 89ff185a4c4e857c
+contextweb.com, 562794, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562878, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562954, RESELLER, 89ff185a4c4e857c
 conversantmedia.com, 100097, RESELLER, 03113cd04947736d
@@ -103,6 +104,7 @@ conversantmedia.com, 100322, RESELLER, 03113cd04947736d
 conversantmedia.com, 100519, RESELLER, 03113cd04947736d
 criteo.com, b-057955, RESELLER, 9fac4a4a87c2a44f
 criteo.com, b-063105, RESELLER, 9fac4a4a87c2a44f
+criteo.com, b-064322, RESELLER, 9fac4a4a87c2a44f
 districtm.io, 101649, RESELLER, 3fd707be9c4527c3
 e-planning.net, 9522026ef023606d, RESELLER, c1ba615865ed87b2
 e-planning.net, af5a107262468954, RESELLER, c1ba615865ed87b2
@@ -120,6 +122,7 @@ freewheel.tv, 1138513, RESELLER
 freewheel.tv, 1220655, RESELLER
 freewheel.tv, 1235183, RESELLER
 freewheel.tv, 1235279, RESELLER
+freewheel.tv, 1585279, RESELLER
 freewheel.tv, 741650, RESELLER
 gitberry.com, 325100011, RESELLER
 gitberry.com, 325100012, RESELLER
@@ -142,6 +145,7 @@ improvedigital.com, 1361, RESELLER
 improvedigital.com, 1366, RESELLER
 improvedigital.com, 1532, RESELLER
 improvedigital.com, 1751, RESELLER
+improvedigital.com, 1805, RESELLER
 improvedigital.com, 1863, RESELLER
 improvedigital.com, 1880, RESELLER
 improvedigital.com, 2110, RESELLER
@@ -308,11 +312,13 @@ rubiconproject.com, 23822, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24170, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24362, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24526, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 25060, RESELLER, 0bfd66d529a55807
 sabio.us, 100032, RESELLER, 96ed93aaa9795702
 se7en.es, 212450, RESELLER, 064bc410192443d8
 se7en.es, 212503, RESELLER, 064bc410192443d8
 sharethrough.com, 3blzyyks, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 6qlnf8sy, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, k5wdgasp, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, oaw69fon, RESELLER, d53b998a7bd4ecd2
 silvermob.com, 464, RESELLER
 smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
@@ -336,6 +342,7 @@ smartyads.com, 897, RESELLER, fd2bde0ff2e62c5d
 sonobi.com, 2b51f34067, RESELLER, d1a215d9eb5aee9e
 sonobi.com, 7b37f8ccbc, RESELLER, d1a215d9eb5aee9e
 sonobi.com, ac6f1a9ded, RESELLER, d1a215d9eb5aee9e
+sonobi.com, c58cf86903, RESELLER, d1a215d9eb5aee9e
 sonobi.com, eaec54c63f, RESELLER, d1a215d9eb5aee9e
 sovrn.com, 273644, RESELLER, fafdf38b16bf6b2b
 spotx.tv, 117872, RESELLER, 7842df1d2fe2db34
@@ -369,6 +376,7 @@ verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 verve.com, 15503, RESELLER, 0c8f5958fc2d6270
 vidazoo.com, 1773068026, RESELLER, b6ada874b4d7d0b2
 video.unrulymedia.com, 123476257, RESELLER
+video.unrulymedia.com, 170071695, RESELLER
 video.unrulymedia.com, 1876793108340587286, RESELLER
 video.unrulymedia.com, 2564526802, RESELLER
 video.unrulymedia.com, 2613193077, RESELLER, 6f752381ad5ec0e5
@@ -378,6 +386,7 @@ video.unrulymedia.com, 3948367200, RESELLER
 video.unrulymedia.com, 4631344382657206988, RESELLER
 videoheroes.tv, 212450, RESELLER, 064bc410192443d8
 videoheroes.tv, 212503, RESELLER, 064bc410192443d8
+videoheroes.tv, 212581, RESELLER, 064bc410192443d8
 webeyemob.com, 70098, RESELLER
 webeyemob.com, 70100, RESELLER
 xad.com, 958, RESELLER, 81cbf0a75a5e0e9a
