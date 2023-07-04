@@ -1,4 +1,4 @@
-#=== MyTarget Jun 09, 2023
+#=== MyTarget Jul 04, 2023
 target.my.com, 3584173, DIRECT
 adcolony.com, 1efc6603710003ea, RESELLER
 adcolony.com, 29b7f4a14dc689eb, RESELLER
@@ -6,6 +6,7 @@ adelement.com, 30273, RESELLER
 admanmedia.com, 1009, RESELLER
 admixer.com, 3584173, RESELLER
 admixer.net, 2878f07c-cc3f-4f8a-a26c-8e6033a539a6, RESELLER
+adview.com, 53849096, RESELLER
 adwmg.com, 3584173, RESELLER
 algorix.co, 60322, RESELLER
 appnexus.com, 1356, RESELLER
@@ -16,10 +17,12 @@ betweendigital.com, 43092, RESELLER
 betweendigital.com, 43651, RESELLER
 betweendigital.com, 43871, RESELLER
 betweendigital.com, 44088, RESELLER
+betweendigital.com, 44229, RESELLER
 bid-matrix.com, 3584173, DIRECT
 bidmachine.io, 138, RESELLER
 bigo.sg, 3584173, DIRECT
 brightcom.com, 29559, RESELLER
+chocolateplatform.com, 14630, RESELLER
 contextweb.com, 562499, RESELLER
 contextweb.com, 562827, RESELLER
 conversantmedia.com, 100246, RESELLER
@@ -42,6 +45,7 @@ loopme.com, 11278, RESELLER
 loopme.com, 11322, RESELLER
 loopme.com, 11352, RESELLER
 loopme.com, 11424, RESELLER
+lunamedia.io, bfacf5e017bb11edb41173b0ca2c748c, RESELLER
 marversal.com, 116, RESELLER
 meitu.com, 654, RESELLER
 onetag.com, 59d216e971852f2, RESELLER
@@ -91,4 +95,5 @@ verve.com, 15290, RESELLER
 verve.com, 15503, RESELLER
 video.unrulymedia.com, 3880497124, RESELLER
 vidoomy.com, 9148331, RESELLER
+xapads.com, 144307, RESELLER
 yeahmobi.com, 113772, RESELLER
