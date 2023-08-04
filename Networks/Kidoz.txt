@@ -1,4 +1,4 @@
-#=== Kidoz Jun 09, 2023
+#=== Kidoz Aug 04, 2023
 appnexus.com, 11826, RESELLER
 appnexus.com, 13363, RESELLER, f5ab79cb980f11d1
 appnexus.com, 3584, RESELLER
@@ -6,6 +6,7 @@ appnexus.com, 806, RESELLER
 appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
 152media.info, 152m324, RESELLER
 aniview.com, 5f2063121d82c82557194737, RESELLER, 78b21b97965ec3f8
+e-planning.net, acb21c99c0c98b46, RESELLER, c1ba615865ed87b2
 emxdgt.com, 1972, RESELLER, 1e1d41537f7cad7f
 freewheel.tv, 1389714, RESELLER
 freewheel.tv, 1389746, RESELLER
@@ -30,9 +31,11 @@ pubmatic.com, 160222, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160536, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161112, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161599, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 12556, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 13762, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 14980, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 17902, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 18202, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 20152, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 20182, RESELLER, 0bfd66d529a55807
 safex.tv, 5004, RESELLER
