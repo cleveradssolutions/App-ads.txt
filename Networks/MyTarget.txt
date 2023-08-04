@@ -1,4 +1,4 @@
-#=== MyTarget Jul 04, 2023
+#=== myTarget Aug 04, 2023
 target.my.com, 3584173, DIRECT
 adcolony.com, 1efc6603710003ea, RESELLER
 adcolony.com, 29b7f4a14dc689eb, RESELLER
@@ -47,6 +47,7 @@ loopme.com, 11352, RESELLER
 loopme.com, 11424, RESELLER
 lunamedia.io, bfacf5e017bb11edb41173b0ca2c748c, RESELLER
 marversal.com, 116, RESELLER
+mediasniper.ru, 3584173, DIRECT
 meitu.com, 654, RESELLER
 onetag.com, 59d216e971852f2, RESELLER
 onetag.com, 5d1628750185ace, RESELLER

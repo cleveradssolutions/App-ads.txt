@@ -16,23 +16,24 @@ def printHelpBlock():
 
 rootDir = os.path.dirname(os.path.abspath(__file__))
 sources = [ 
-    "AdMob.txt",
-    "FBAudienceNetwork.txt",
+    "CASExchange.txt",
+    "GoogleAds.txt",
+    "AudienceNetwork.txt",
     "AdColony.txt",
     "Pangle.txt",
     "IronSource.txt",
     "AppLovin.txt",
     "UnityAds.txt",
     "Mintegral.txt",
-    "Vungle.txt",
+    "LiftoffMonetize.txt",
     "SuperAwesome.txt",
     "Kidoz.txt",
     "InMobi.txt",
-    "MyTarget.txt",
+    "myTarget.txt",
     "Tapjoy.txt",
     "Chartboost.txt", 
     "YandexAds.txt",
-    "Fyber.txt",
+    "DTExchange.txt",
     #"Others.txt",
     #Deprecated:
     #Smaato.txt,
@@ -89,7 +90,7 @@ def release():
     uniqueSet = set()
     currentDate = date.today().strftime("%b %d, %Y")
     with open(rootDir + "/app-ads.txt", 'w+') as appAdsFile:
-        appAdsFile.write("#Last update " + currentDate + '\n')
+        appAdsFile.write("# CAS.ai Updated " + currentDate + ', support@cleveradssolutions.com\n')
         for source in sources:
             with open(rootDir + "/Networks/" + source, 'r') as sourceFile:
                 for line in sourceFile:
