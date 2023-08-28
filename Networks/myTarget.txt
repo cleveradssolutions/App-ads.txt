@@ -1,4 +1,4 @@
-#=== myTarget Aug 04, 2023
+#=== myTarget Aug 28, 2023
 target.my.com, 3584173, DIRECT
 adcolony.com, 1efc6603710003ea, RESELLER
 adcolony.com, 29b7f4a14dc689eb, RESELLER
@@ -33,11 +33,13 @@ emxdgt.com, 2047, RESELLER
 eskimi.com, eas-2020000005, RESELLER
 gamoshi.io, 267-b4800, RESELLER
 google.com, pub-2843405949989126, RESELLER
+hybrid.ai, 3584173, DIRECT
 hyperad.tech, 41, RESELLER
 improvedigital.com, 1532, RESELLER
 indexexchange.com, 191332, RESELLER
 indexexchange.com, 192806, RESELLER
 inmobi.com, 22e5354e453f49348325184e25464adb, RESELLER
+inmobi.com, 86357825a302443d9a99c0b5dda0eafa, RESELLER
 lijit.com, 273644, RESELLER
 lkqd.net, 647, RESELLER
 lkqd.net, 654, RESELLER
@@ -49,6 +51,8 @@ lunamedia.io, bfacf5e017bb11edb41173b0ca2c748c, RESELLER
 marversal.com, 116, RESELLER
 mediasniper.ru, 3584173, DIRECT
 meitu.com, 654, RESELLER
+myfeature.tv, sjp0ajhe3offp6hputtc, RESELLER
+omnifytv.com, oj5tjgvierrbmxaq, RESELLER
 onetag.com, 59d216e971852f2, RESELLER
 onetag.com, 5d1628750185ace, RESELLER
 openx.com, 537152826, RESELLER

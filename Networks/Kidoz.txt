@@ -1,8 +1,8 @@
-#=== Kidoz Aug 04, 2023
-appnexus.com, 11826, RESELLER
+#=== Kidoz Aug 28, 2023
+appnexus.com, 11826, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13363, RESELLER, f5ab79cb980f11d1
-appnexus.com, 3584, RESELLER
-appnexus.com, 806, RESELLER
+appnexus.com, 3584, RESELLER, f5ab79cb980f11d1
+appnexus.com, 806, RESELLER, f5ab79cb980f11d1
 appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
 152media.info, 152m324, RESELLER
 aniview.com, 5f2063121d82c82557194737, RESELLER, 78b21b97965ec3f8

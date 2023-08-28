@@ -1,4 +1,4 @@
-#=== InMobi Aug 04, 2023
+#=== InMobi Aug 28, 2023
 inmobi.com, 5abb702fde844f7cadd2090b3c7d61db, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 3af76ebd8ed44d04b01d827c6f3bb5b4, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 5bd38f94aca34db383536c454f001b40, RESELLER, 83e75a7ae333ca9d
@@ -10,17 +10,19 @@ inmobi.com, fafa1521dbdb43f69b1eb199a0b007fd, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 30ff09752f2b48eb9974d28116cf9ff0, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 3a4f7da341dd490cbb7dde02b126275e, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 952e02aa1cd2454c940889663df0a902, RESELLER, 83e75a7ae333ca9d
+inmobi.com, 1e5e69fd2ff340dbb07654d0c6b826ef, RESELLER, 83e75a7ae333ca9d
+inmobi.com, 300bb0e4e3704cd495136c09d57448b9, RESELLER, 83e75a7ae333ca9d
 9dotsmedia.com, 122262, RESELLER, 45ff185b4c4e857d
 acexchange.co.kr, 1562884725, RESELLER
 adcolony.com, 197af3936679d34e, RESELLER, 1ad675c9de6b5176
 added.tv, 3d20ca0f, RESELLER
 adelement.com, 30020, RESELLER
-adform.com, 2664, RESELLER
+adform.com, 2664, RESELLER, 9f5210a2f0999e32
 adform.com, 2845, RESELLER, 9f5210a2f0999e32
 adform.com, 2995, RESELLER, 9f5210a2f0999e32
 adform.com, 3006, RESELLER, 9f5210a2f0999e32
-adform.com, 3016, RESELLER
-adform.com, 3041, RESELLER
+adform.com, 3016, RESELLER, 9f5210a2f0999e32
+adform.com, 3041, RESELLER, 9f5210a2f0999e32
 adiiix.com, par-aa7b236ba32dd484c838e249362437b8, RESELLER
 admanmedia.com, 2027, RESELLER
 admanmedia.com, 2050, RESELLER
@@ -43,7 +45,7 @@ algorix.co, 60197, RESELLER, 5b394c12fea27a1d
 algorix.co, 60216, RESELLER, 5b394c12fea27a1d
 algorix.co, 60367, RESELLER, 5b394c12fea27a1d
 appnerve.com, 187287, RESELLER
-appnexus.com, 11879, RESELLER
+appnexus.com, 11879, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12061, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12501, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12878, RESELLER, f5ab79cb980f11d1
@@ -70,7 +72,7 @@ contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562569, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562950, RESELLER, 89ff185a4c4e857c
 conversantmedia.com, 100358, RESELLER, 03113cd04947736d
-conversantmedia.com, 100432, RESELLER
+conversantmedia.com, 100432, RESELLER, 03113cd04947736d
 conversantmedia.com, 100521, RESELLER, 03113cd04947736d
 conversantmedia.com, 100527, RESELLER, 03113cd04947736d
 conversantmedia.com, 40881, RESELLER, 03113cd04947736d
@@ -93,8 +95,7 @@ improvedigital.com, 2291, RESELLER
 indexexchange.com, 184738, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 191332, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 194730, RESELLER, 50b1c356f2c5c8fc
-inmobi.com, 1e5e69fd2ff340dbb07654d0c6b826ef, RESELLER, 83e75a7ae333ca9d
-inmobi.com, 300bb0e4e3704cd495136c09d57448b9, RESELLER, 83e75a7ae333ca9d
+inmobi.com, 22e5354e453f49348325184e25464adb, RESELLER, 83e75a7ae333ca9d
 instreamatic.com, 137, RESELLER
 instreamatic.com, 78, RESELLER
 iqzone.com, iq87, RESELLER
@@ -162,7 +163,7 @@ rubiconproject.com, 14558, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 15278, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 16418, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 16824, RESELLER
+rubiconproject.com, 16824, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 16928, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 20050, RESELLER, 0bfd66d529a55807
@@ -238,8 +239,8 @@ visiblemeasures.com, 1020, RESELLER
 waardex.com, 99236, RESELLER
 webeyemob.com, 70104, RESELLER
 webeyemob.com, 70130, RESELLER
-xandr.com, 13167, RESELLER
-xandr.com, 13799, RESELLER
+xandr.com, 13167, RESELLER, f5ab79cb980f11d1
+xandr.com, 13799, RESELLER, f5ab79cb980f11d1
 xandr.com, 14884, RESELLER, f5ab79cb980f11d1
 xandr.com, 7847, RESELLER, f5ab79cb980f11d1
 xapads.com, 106073, RESELLER
