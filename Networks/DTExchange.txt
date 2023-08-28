@@ -1,4 +1,4 @@
-#=== DTExchange Aug 04, 2023
+#=== DTExchange Aug 28, 2023
 fyber.com, 214373, DIRECT
 acd.op.hicloud.com, pub_hw_1003, RESELLER
 adcolony.com, 3dcf9f51638afe2c, RESELLER, 1ad675c9de6b5176
@@ -14,9 +14,9 @@ algorix.co, 54236, RESELLER, 5b394c12fea27a1d
 algorix.co, 60082, RESELLER, 5b394c12fea27a1d
 algorix.co, 60086, RESELLER, 5b394c12fea27a1d
 alpineinteractivegroup.com, 8113111129, RESELLER
-appnexus.com, 13258, RESELLER
-appnexus.com, 13293, RESELLER
-appnexus.com, 14077, RESELLER
+appnexus.com, 13258, RESELLER, f5ab79cb980f11d1
+appnexus.com, 13293, RESELLER, f5ab79cb980f11d1
+appnexus.com, 14077, RESELLER, f5ab79cb980f11d1
 appnexus.com, 14423, RESELLER, f5ab79cb980f11d1
 aralego.com, par-6272b92a28d87a77ce3e44d466486424, RESELLER
 axonix.com, 56716, RESELLER
@@ -91,7 +91,7 @@ rubiconproject.com, 24960, RESELLER, 0bfd66d529a55807
 sharethrough.com, 6qlnf8sy, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, dqqogebz, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, k6tb2um1, RESELLER, d53b998a7bd4ecd2
-smartadserver.com, 4210, RESELLER
+smartadserver.com, 4210, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4457, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4625, RESELLER, 060d053dcf45cbf3
 smartclip.net, 12358, RESELLER
@@ -115,8 +115,8 @@ video.unrulymedia.com, 7823643795310613975, RESELLER
 videoheroes.tv, 212504, RESELLER, 064bc410192443d8
 whildey.com, 2129553945, RESELLER
 xad.com, 556, RESELLER, 81cbf0a75a5e0e9a
-xandr.com, 13709, RESELLER
-xandr.com, 13799, RESELLER
+xandr.com, 13709, RESELLER, f5ab79cb980f11d1
+xandr.com, 13799, RESELLER, f5ab79cb980f11d1
 xandr.com, 15278, RESELLER, f5ab79cb980f11d1
 yahoo.com, 59333, RESELLER, e1a5b5b6e3255540
 yahoo.com, 59781, RESELLER, e1a5b5b6e3255540
