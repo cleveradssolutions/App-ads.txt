@@ -1,9 +1,12 @@
+from functools import total_ordering
 import os
+import re
 import sys
 import json
 import argparse
 from datetime import date
 
+rootDir = os.path.dirname(os.path.abspath(__file__))
 
 arg_parser = argparse.ArgumentParser(
         prog='python Combine.py',
@@ -32,13 +35,6 @@ arg_release.set_defaults(file=False, network=None, unique_id=False)
 
 args = arg_parser.parse_args()
 
-def print_warning(str):
-    print('\033[93m   Warning: ' + str + '\033[0m')
-
-def fatal_error(error):
-    sys.exit('\033[91m   Error: ' + error + '\033[0m')
-
-rootDir = os.path.dirname(os.path.abspath(__file__))
 sources = [ 
     "CASExchange.txt",
     "GoogleAds.txt",
@@ -57,81 +53,128 @@ sources = [
     "Chartboost.txt", 
     "YandexAds.txt",
     "DTExchange.txt",
-    #"Others.txt",
-    #Deprecated:
-    #Smaato.txt,
-    #StartIo.txt,
 ]
 bannedDomains = [
     # (Reserved by Network name, Banned domain for other Networks)
     #("AdMob", "google.com")
 ]
-inventorySet = dict()
+domainPattern = re.compile("^((?!-)[A-Za-z0-9-]" + "{1,63}(?<!-)\\.)" + "+[A-Za-z]{2,6}")
+inventorySet = set()
 certificateMap = dict()
-certificateInvalidMap = set()
 
-def is_domain_allowed(line, source):
-    for domain in bannedDomains:
-        if source != domain[0] and line.startswith(domain[1]):
-            return False
-    return True
+def print_warning(warning, inventory):
+    print('\033[93m   Warning: ' + warning + '\n      ' + inventory + '\033[0m')
 
-def convert_to_unique(line, source):
-    if not line or not line.strip() or line.startswith('/'):
-        return ("", None)
-    if line.startswith('#'):
-        return (line, None)
-    pattern = line.split(',')
-    if len(pattern) != 3 and len(pattern) != 4:
-        fatal_error("Invalid pattern in " + source + ". It may only contain 3 or 4 segments.\n" + line)
+def fatal_error(error, inventory):
+    sys.exit('\033[91m   Error: ' + error + '\n      ' + inventory + '\033[0m')
 
-    accountType = pattern[2].strip().upper()
-    if accountType != 'RESELLER' and accountType != 'DIRECT':
-        fatal_error("Invalid pattern in " + source + ". Must be RESELLER or DIRECT only.\n" + line)
 
-    domainName = pattern[0].strip().lower()
-    publisherId = pattern[1].strip().lower()
-    result = domainName + ', ' + publisherId + ', ' + accountType
+@total_ordering
+class Inventory:
+    def __init__(self, line, source):
+        self.source = source
+        self.domain = None
+        self.identifier = None
+        self.comment = None
+        self.certification = None
+        if not line or not line.strip() or line.startswith('/'):
+            return
+        if line.startswith('#'):
+            self.comment = line
+            return
+        pattern = line.split(',')
+        if len(pattern) != 3 and len(pattern) != 4:
+            fatal_error("Invalid pattern in " + source + ". It may only contain 3 or 4 segments.", line)
 
-    if len(pattern) == 4:
-        endOfLine = pattern[3].split('#')
-        certificationId = endOfLine[0].strip().lower()
-        if certificationId:
-            if len(certificationId) != 9 and len(certificationId) != 16:
-                fatal_error("Certification authority ID is invalid in " + source + ". It may only contain numbers and lowercase letters, and must be 9 or 16 characters.\n" + line)
-                return (result, None)
-            if domainName in certificateMap:
-                if certificateMap[domainName] != certificationId:
-                    print_warning("Certification authority ID not mach with " + certificateMap[domainName] + " in " + source + ". All certificate ids will be removed for folowing domain.\n" + line)
-                    certificateInvalidMap.add(domainName)
-            else:
-                if args.unique_id:
+        self.domain = pattern[0].strip().lower()
+        if not re.search(domainPattern, self.domain):
+            fatal_error("Invalid domain in " + source, line)
+        
+        for banDomain in bannedDomains:
+            if source != banDomain[0] and self.domain == banDomain[1]:
+                self.domain = None
+                return
+            
+        self.type = pattern[2].split('#')[0].strip().upper()
+        if self.type != 'RESELLER' and self.type != 'DIRECT':
+            fatal_error("Invalid pattern in " + source + ". Must be RESELLER or DIRECT only.", line)
+
+        self.identifier = pattern[1].strip().lower()
+
+        if len(pattern) == 4:
+            certification = pattern[3].split('#')[0].strip().lower()
+            if certification:
+                self.certification = certification
+                if len(certification) != 9 and len(certification) != 16:
+                    if self.domain in certificateMap:
+                        fatal_error("Certification authority ID for " + self.domain + " is " + certificateMap[self.domain], line)
+                    else:    
+                        fatal_error("Certification authority ID is invalid in " + source + ".\nIt may only contain numbers and lowercase letters, and must be 9 or 16 characters.", line)
+                elif self.domain in certificateMap:
+                    if certificateMap[self.domain] != certification:
+                        print_warning("Certification authority ID not mach with " + certificateMap[self.domain] + " in " + source, line)
+                elif args.unique_id:
                     try:
-                        readyDomain = certificateMap.values().index(certificationId)
+                        readyDomain = certificateMap.values().index(certification)
                         print_warning("Certification authority ID is already taken by " + 
-                                (certificateMap.keys()[readyDomain]) + " domain. In " + source + ":\n" + line)
+                                (certificateMap.keys()[readyDomain]) + " domain. In " + source, line)
                     except ValueError:
-                        certificateMap[domainName] = certificationId
+                        certificateMap[self.domain] = certification
                 else:
-                    certificateMap[domainName] = certificationId
-            return (result, certificationId)
+                    certificateMap[self.domain] = certification
 
-    return (result, None)
+    def __eq__(self, other):
+        if (isinstance(other, Inventory)
+            and self.domain == other.domain 
+            and self.identifier == other.identifier
+            and self.comment == other.comment):
+            if self.type != other.type:
+                print_warning("Relationship is already set " + self.type + " by " + self.source + 
+                              "\nPlease fix conflict with " + other.source, other.to_line())
+            return True
+        return False
 
-def convert_for_file(line):
-    if line.startswith('#'):
-        return line
-    domain = line.split(',')[0].strip()
-    if domain not in certificateInvalidMap and domain in certificateMap:
-        line +=  ', ' + certificateMap[domain]
-    return line + '\n'
+    def __lt__(self, other):
+        if not isinstance(other, Inventory):
+            return NotImplemented
+        if self.domain != other.domain:
+            return self.domain < other.domain
+        if self.type != other.type:
+            return self.type < other.type
+        return self.identifier < other.identifier
 
-def convert_for_file(line, certificate):
-    if line.startswith('#'):
-        return line
-    if certificate:
-        line +=  ', ' + certificate
-    return line + '\n'
+    def __hash__(self):
+        if self.comment:
+            return hash(self.comment)
+        if not self.domain:
+            return hash("")
+        return hash(hash(self.domain) + hash(self.identifier))
+    
+    def is_comment(self):
+        return self.comment
+    
+    def is_empty(self):
+        return not self.domain and not self.comment
+    
+    def to_line(self, fillCertificate=False):
+        if self.comment:
+            return self.comment
+        result = self.domain + ', ' + self.identifier + ', ' + self.type
+        if self.certification:
+            result += ', ' + self.certification
+        elif fillCertificate and self.domain in certificateMap:
+            result += ', ' + certificateMap[self.domain]
+        return result + '\n'
+
+def read_certifications():
+    path = rootDir + "/CertificationIds.json"
+    if os.path.exists(path):
+        with open(path, "r") as file:
+            certificateMap.update(json.load(file))
+
+def save_certifications():
+    with open(rootDir + "/CertificationIds.json", "w+") as file:
+        json.dump(certificateMap, file, indent=2)
 
 def release():
     currentDate = date.today().strftime("%b %d, %Y")
@@ -145,10 +188,10 @@ def release():
         for source in sources:
             with open(rootDir + "/Networks/" + source, 'r') as sourceFile:
                 for line in sourceFile:
-                    line, certificate = convert_to_unique(line, source)
-                    if line and line not in inventorySet:
-                        inventorySet[line] = certificate
-                        appAdsFile.write(convert_for_file(line, certificate))
+                    inventory = Inventory(line, source)
+                    if not inventory.is_empty() and inventory not in inventorySet:
+                        inventorySet.add(inventory)
+                        appAdsFile.write(inventory.to_line())
             
     shiledInfo = {
         "schemaVersion": 1,
@@ -168,37 +211,33 @@ def update(networkName, force):
     foundNews = False
     keepDomain = None
     fillCertificate = args.fillCertificate
-    keepInventories = dict()
-    newInventories = dict()
+    keepInventories = set()
+    newInventories = set()
 
     with open(rootDir + "/Networks/" + networkName + ".txt", 'r') as sourceFile:
         for line in sourceFile:
-            line, certificate = convert_to_unique(line, networkName)
-            if not line or line.startswith('#'):
+            inventory = Inventory(line, networkName)
+            if inventory.is_empty() or inventory.is_comment():
                 continue
-            if line in inventorySet:
+            if inventory in inventorySet:
                 duplicate += 1
-                print("Duplicate in source: " + line[:-1])
+                print_warning("Duplicate in " + networkName, inventory.to_line())
                 continue
             if not keepDomain:
-                keepDomain = line.split(',')[0]
-            if line.startswith(keepDomain):
-                keepInventories[line] = certificate
-            inventorySet[line] = certificate
-
-    if force:
-        certificateMap.clear()
+                keepDomain = inventory.domain
+            if inventory.domain == keepDomain:
+                keepInventories.add(inventory)
+            inventorySet.add(inventory)
 
     with open(rootDir + "/" + tempFileName, 'r') as updateFile:
         for line in updateFile:
-            line, certificate = convert_to_unique(line, tempFileName)
-            if not line or line.startswith('#'):
+            inventory = Inventory(line, tempFileName)
+            if inventory.is_empty() or inventory.is_comment():
                 continue
-            if line and is_domain_allowed(line, networkName):
-                newInventories[line] = certificate
-                if line not in inventorySet:
-                    print("New inventory:\n" + line)
-                    foundNews = True
+            newInventories.add(inventory)
+            if inventory not in inventorySet:
+                print("New inventory:\n   " + inventory.to_line())
+                foundNews = True
 
 
     if not force and not foundNews and duplicate == 0 and len(newInventories) <= len(inventorySet):
@@ -219,21 +258,16 @@ def update(networkName, force):
     if force or userSelect.lower() == 'y':
         with open(rootDir + "/Networks/" + networkName + ".txt", 'w') as sourceFile:
             sourceFile.write("#=== " + networkName + " " + date.today().strftime("%b %d, %Y") + '\n')
-            for line, certificate in keepInventories:
-                sourceFile.write(convert_for_file(line, certificate))
-                newInventories.pop(line, None)
+            for inventory in sorted(keepInventories):
+                sourceFile.write(inventory.to_line())
+                newInventories.discard(inventory)
 
-            result = list(newInventories.keys())
-            result.sort()
-            for line in result:
-                if not is_domain_allowed(line, networkName):
-                    continue
-                if fillCertificate:
-                    sourceFile.write(convert_for_file(line))
-                else:
-                    sourceFile.write(convert_for_file(line, newInventories[line]))
+            #result = list(newInventories)
+            #result.sort()
+            for inventory in sorted(newInventories):
+                sourceFile.write(inventory.to_line(fillCertificate))
 
-        print("Updated " + networkName + " with " + str(len(result) + len(keepInventories)) + " inventories.")
+        print("Updated " + networkName + " with " + str(len(newInventories) + len(keepInventories)) + " inventories.")
         return True
     return False
 
@@ -243,7 +277,8 @@ if args.file == True:
 
     if args.list == True:
         print("Available networks: " + ", ".join(map(lambda net: os.path.splitext(net)[0], sources)))
-
+else:
+    read_certifications()
 
 if args.network is not None:
     if update(args.network, args.force) and args.release:
@@ -251,3 +286,6 @@ if args.network is not None:
 
 if args.release is True:
     release()
+
+if args.file == False:
+    save_certifications()
