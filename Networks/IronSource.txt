@@ -1,4 +1,4 @@
-#=== IronSource Aug 28, 2023
+#=== IronSource Aug 29, 2023
 ironsrc.com, 218335, DIRECT
 ironsrc.com, 406326, DIRECT
 ironsrc.com, 445197, DIRECT
@@ -6,7 +6,7 @@ adbility-media.com, 187, RESELLER
 adform.com, 2995, RESELLER, 9f5210a2f0999e32
 advertising.com, 8693, RESELLER
 algorix.co, 54400, RESELLER, 5b394c12fea27a1d
-aol.com, 25910, RESELLER
+aol.com, 25910, RESELLER, e1a5b5b6e3255540
 app-stock.com, 256917, RESELLER
 appads.in, 105536, RESELLER
 appnexus.com, 13074, RESELLER, f5ab79cb980f11d1
@@ -34,8 +34,8 @@ indexexchange.com, 197137, RESELLER, 50b1c356f2c5c8fc
 inmobi.com, 3af76ebd8ed44d04b01d827c6f3bb5b4, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 59c7922793a3477b9419f0854d1da7e9, RESELLER, 83e75a7ae333ca9d
 iqzone.com, iq163, RESELLER
-loopme.com, 10287, RESELLER
-mars.media, 1010463, RESELLER
+loopme.com, 10287, RESELLER, 6c8d5f95897a5a3b
+mars.media, 1010463, RESELLER, 8624339f102fb076
 media.net, 8cuo7p3wk, RESELLER
 openx.com, 537153564, RESELLER, 6a698e2ec38604c6
 openx.com, 539363588, RESELLER, 6a698e2ec38604c6
@@ -72,11 +72,11 @@ rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24752, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 25064, RESELLER, 0bfd66d529a55807
 smaato.com, 1100040398, RESELLER, 07bcf65f187117b4
-smartadserver.com, 3020, RESELLER
-smartadserver.com, 4016, RESELLER
-smartadserver.com, 4140, RESELLER
-smartadserver.com, 4237, RESELLER
-smartadserver.com, 4354, RESELLER
+smartadserver.com, 3020, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4016, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4140, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4237, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4354, RESELLER, 060d053dcf45cbf3
 smartclip.net, 411, RESELLER
 smartclip.net, 8153, RESELLER
 smartclip.net, 9394, RESELLER
@@ -94,9 +94,9 @@ video.unrulymedia.com, 3169196794, RESELLER
 videoheroes.tv, 212550, RESELLER, 064bc410192443d8
 webeyemob.com, 70174, RESELLER
 xad.com, 241, RESELLER, 81cbf0a75a5e0e9a
-xandr.com, 13799, RESELLER
+xandr.com, 13799, RESELLER, f5ab79cb980f11d1
 xapads.com, 163819, RESELLER
 yabbi.me, f12bd731-2eb9-487c-9260-0c350e2d312b, DIRECT
-yahoo.com, 59262, RESELLER
+yahoo.com, 59262, RESELLER, e1a5b5b6e3255540
 yandex.com, 37982190, RESELLER
 yeahmobi.com, 5135347, RESELLER

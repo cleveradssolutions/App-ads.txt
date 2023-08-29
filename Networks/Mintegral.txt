@@ -1,4 +1,4 @@
-#=== Mintegral Aug 28, 2023
+#=== Mintegral Aug 29, 2023
 mintegral.com, 25008, DIRECT, 0aeed750c80d6423
 acd.op.hicloud.com, pub_hw_1003, RESELLER
 adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
@@ -12,7 +12,7 @@ adelement.com, 20056, RESELLER
 adelement.com, 20210, RESELLER
 adelement.com, 30018, RESELLER
 adelement.com, 30019, RESELLER
-adform.com, 2671, RESELLER
+adform.com, 2671, RESELLER, 9f5210a2f0999e32
 admanmedia.com, 2050, RESELLER
 admanmedia.com, 594, RESELLER
 admanmedia.com, 613, RESELLER
@@ -64,8 +64,8 @@ appnexus.com, 8178, RESELLER, f5ab79cb980f11d1
 appnexus.com, 9569, RESELLER, f5ab79cb980f11d1
 aralego.com, par-d2346aab7abd36b4cdd7bbd264ba92e2, RESELLER
 aralego.com, par-e2b2bb3e89be87a2f774b768beed62a2, RESELLER
-axonix.com, 57264, RESELLER
-axonix.com, 57869, RESELLER
+axonix.com, 57264, RESELLER, bc385f2b4a87b721
+axonix.com, 57869, RESELLER, bc385f2b4a87b721
 beachfront.com, 7300, RESELLER
 bematterfull.com, 562499, RESELLER
 betweendigital.com, 43740, RESELLER
@@ -382,7 +382,7 @@ targetspot.com, 270, RESELLER, feb28ed826dcf532
 thebrave.io, 1234585, RESELLER, c25b2154543746ac
 thebrave.io, 9840732, RESELLER, c25b2154543746ac
 themediagrid.com, ng9stc, RESELLER, 35d5010d7789b49d
-themediagrid.com, r28i9j, DIRECT, 35d5010d7789b49d
+themediagrid.com, r28i9j, RESELLER, 35d5010d7789b49d
 thunder-monetize.com, 4588767099, RESELLER
 toponad.com, 16385e313a271a, DIRECT, 1d49fe424a1a456d
 tpmn.io, 415, RESELLER
@@ -398,15 +398,15 @@ ucfunnel.com, par-e2b2bb3e89be87a2f774b768beed62a2, RESELLER
 verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 verve.com, 15503, RESELLER, 0c8f5958fc2d6270
 vidazoo.com, 1773068026, RESELLER, b6ada874b4d7d0b2
-video.unrulymedia.com, 123476257, RESELLER
-video.unrulymedia.com, 170071695, RESELLER
-video.unrulymedia.com, 1876793108340587286, RESELLER
-video.unrulymedia.com, 2564526802, RESELLER
-video.unrulymedia.com, 2613193077, RESELLER
-video.unrulymedia.com, 3383599585, RESELLER
-video.unrulymedia.com, 3704396951, RESELLER
-video.unrulymedia.com, 3948367200, RESELLER
-video.unrulymedia.com, 4631344382657206988, RESELLER
+video.unrulymedia.com, 123476257, RESELLER, 6f752381ad5ec0e5
+video.unrulymedia.com, 170071695, RESELLER, 6f752381ad5ec0e5
+video.unrulymedia.com, 1876793108340587286, RESELLER, 6f752381ad5ec0e5
+video.unrulymedia.com, 2564526802, RESELLER, 6f752381ad5ec0e5
+video.unrulymedia.com, 2613193077, RESELLER, 6f752381ad5ec0e5
+video.unrulymedia.com, 3383599585, RESELLER, 6f752381ad5ec0e5
+video.unrulymedia.com, 3704396951, RESELLER, 6f752381ad5ec0e5
+video.unrulymedia.com, 3948367200, RESELLER, 6f752381ad5ec0e5
+video.unrulymedia.com, 4631344382657206988, RESELLER, 6f752381ad5ec0e5
 videoheroes.tv, 212450, RESELLER, 064bc410192443d8
 videoheroes.tv, 212503, RESELLER, 064bc410192443d8
 videoheroes.tv, 212581, RESELLER, 064bc410192443d8
