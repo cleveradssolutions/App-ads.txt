@@ -1,4 +1,4 @@
-#=== Mintegral Aug 29, 2023
+#=== Mintegral Sep 01, 2023
 mintegral.com, 25008, DIRECT, 0aeed750c80d6423
 acd.op.hicloud.com, pub_hw_1003, RESELLER
 adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
@@ -352,6 +352,7 @@ smartadserver.com, 4210, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4457, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4539, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4573, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4762, RESELLER, 060d053dcf45cbf3
 smartclip.net, 13039, RESELLER
 smartclip.net, 14275, RESELLER
 smartstream.tv, 679, RESELLER

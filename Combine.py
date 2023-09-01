@@ -174,7 +174,7 @@ def read_certifications():
 
 def save_certifications():
     with open(rootDir + "/CertificationIds.json", "w+") as file:
-        json.dump(certificateMap, file, indent=2)
+        json.dump(certificateMap, file, indent=2, sort_keys=True)
 
 def release():
     currentDate = date.today().strftime("%b %d, %Y")
