@@ -1,4 +1,4 @@
-#=== YandexAds Aug 29, 2023
+#=== YandexAds Sep 26, 2023
 yandex.com, 66051405, DIRECT
 152media.info, 152m241, RESELLER
 152media.info, 152m312, RESELLER
@@ -15,7 +15,6 @@ adelement.com, 30272, RESELLER
 adform.com, 2664, RESELLER, 9f5210a2f0999e32
 adform.com, 2742, RESELLER, 9f5210a2f0999e32
 adform.com, 2795, RESELLER, 9f5210a2f0999e32
-admanmedia.com, 34, RESELLER
 admanmedia.com, 894, RESELLER
 admixer.co.kr, 1610, RESELLER
 admixer.co.kr, 1629, RESELLER
@@ -76,7 +75,6 @@ castify.ai, 1210421, RESELLER
 cgnl.io, k18s, RESELLER, d9819e7b540bd6e3
 conso.la, 3992, RESELLER
 consumable.com, 2001470, RESELLER, aefcd3d2f45b5070
-contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
 contextweb.com, 561849, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562122, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562329, RESELLER, 89ff185a4c4e857c
@@ -93,8 +91,7 @@ conversantmedia.com, 100322, RESELLER, 03113cd04947736d
 conversantmedia.com, 100339, RESELLER, 03113cd04947736d
 conversantmedia.com, 100342, RESELLER, 03113cd04947736d
 criteo.com, b-057955, RESELLER, 9fac4a4a87c2a44f
-display.io, 156748, RESELLER
-displayio.cloud, 156748, RESELLER
+display.io, 2474, RESELLER
 e-planning.net, 45845eaf076148f9, RESELLER, c1ba615865ed87b2
 e-planning.net, 53f866af404c4b62, RESELLER, c1ba615865ed87b2
 e-planning.net, b9165ad221c51225, RESELLER, c1ba615865ed87b2
@@ -136,6 +133,7 @@ inmobi.com, 867c89bb53994aaeb9dae3ce75b03e78, RESELLER, 83e75a7ae333ca9d
 inmobi.com, a5e661acdc384e91a79a58eb3418e99f, RESELLER, 83e75a7ae333ca9d
 inmobi.com, a980ed60d7ea4bbabb6173d2cd9d4db9, RESELLER, 83e75a7ae333ca9d
 inmobi.com, ab915bcef5b24940bf745f1a8f427bec, RESELLER, 83e75a7ae333ca9d
+inmobi.com, b164fef73b06493b92a9fae09941eef4, RESELLER, 83e75a7ae333ca9d
 inmobi.com, ddb41d8a9f434a918d05a0fc9999d9f9, RESELLER, 83e75a7ae333ca9d
 instal.com, 5a59277b-91e8-4b5c-a4b5-ee9a7a6c0644, RESELLER
 keenkale.com, 1957, RESELLER
@@ -143,6 +141,7 @@ krushmedia.com, ajxf6r196a9m6catvk, RESELLER
 lijit.com, 273644, RESELLER, fafdf38b16bf6b2b
 lkqd.net, 647, RESELLER, 59c49fa9598a0117
 loopme.com, 10178, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 11229, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11278, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11295, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11318, RESELLER, 6c8d5f95897a5a3b
@@ -225,6 +224,7 @@ pubnative.net, 1007262, RESELLER, d641df8625486a7b
 pubnative.net, 1007334, RESELLER, d641df8625486a7b
 pubnative.net, 1007349, RESELLER, d641df8625486a7b
 pubnative.net, 1007615, RESELLER, d641df8625486a7b
+pubnative.net, 1008834, RESELLER, d641df8625486a7b
 readserver.net, 3992, RESELLER
 rhebus.works, 3905352096, RESELLER
 rhythmone.com, 123476257, RESELLER, a670c89d4a324e47
@@ -243,6 +243,7 @@ rubiconproject.com, 16824, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 16928, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 17608, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 19724, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 19938, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 20050, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 20736, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 23822, RESELLER, 0bfd66d529a55807
@@ -262,6 +263,7 @@ silvermob.com, 464, RESELLER
 smaato.com, 1100042823, RESELLER, 07bcf65f187117b4
 smaato.com, 1100044156, RESELLER, 07bcf65f187117b4
 smaato.com, 1100050531, RESELLER, 07bcf65f187117b4
+smaato.com, 1100051123, RESELLER, 07bcf65f187117b4
 smartadserver.com, 1247, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 3817, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4039, RESELLER, 060d053dcf45cbf3
@@ -275,7 +277,6 @@ smartclip.net, 13039, RESELLER
 smartyads.com, 100135, RESELLER, fd2bde0ff2e62c5d
 smartyads.com, 368, RESELLER, fd2bde0ff2e62c5d
 sonobi.com, 42a06dc622, RESELLER, d1a215d9eb5aee9e
-sonobi.com, 4980f2fde3, RESELLER, d1a215d9eb5aee9e
 sonobi.com, e128791470, RESELLER, d1a215d9eb5aee9e
 sovrn.com, 273644, RESELLER, fafdf38b16bf6b2b
 spinx.biz, spnx-1000021, RESELLER
@@ -320,10 +321,9 @@ video.unrulymedia.com, 2464975885, RESELLER, 6f752381ad5ec0e5
 video.unrulymedia.com, 2613193077, RESELLER, 6f752381ad5ec0e5
 video.unrulymedia.com, 3383599585, RESELLER, 6f752381ad5ec0e5
 video.unrulymedia.com, 3734122830, RESELLER, 6f752381ad5ec0e5
-video.unrulymedia.com, 3955616926, RESELLER, 6f752381ad5ec0e5
 video.unrulymedia.com, 456081263, RESELLER, 6f752381ad5ec0e5
 video.unrulymedia.com, 4631344382657206988, RESELLER, 6f752381ad5ec0e5
-video.unrulymedia.com, 524101463, RESELLER, 6f752381ad5ec0e5
+video.unrulymedia.com, 524101463, RESELLER, 29bc7d05d309e1bc
 video.unrulymedia.com, 564934834, RESELLER, 6f752381ad5ec0e5
 video.unrulymedia.com, 6694405583287859332, RESELLER, 6f752381ad5ec0e5
 vidoomy.com, 2536267, RESELLER

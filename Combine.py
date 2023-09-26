@@ -53,6 +53,8 @@ sources = [
     "Chartboost.txt", 
     "YandexAds.txt",
     "DTExchange.txt",
+    "HyprMX.txt",
+    "Smaato.txt"
 ]
 bannedDomains = [
     # (Reserved by Network name, Banned domain for other Networks)
