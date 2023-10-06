@@ -1,4 +1,4 @@
-#=== myTarget Aug 29, 2023
+#=== MyTarget Oct 06, 2023
 target.my.com, 3584173, DIRECT
 adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
 adcolony.com, 29b7f4a14dc689eb, RESELLER, 1ad675c9de6b5176
@@ -6,6 +6,7 @@ adelement.com, 30273, RESELLER
 admanmedia.com, 1009, RESELLER
 admixer.com, 3584173, RESELLER
 admixer.net, 2878f07c-cc3f-4f8a-a26c-8e6033a539a6, RESELLER
+ads.vk.com, 3584173, DIRECT
 adview.com, 53849096, RESELLER, 1b2cc038a11ea319
 adwmg.com, 3584173, RESELLER
 algorix.co, 60322, RESELLER, 5b394c12fea27a1d
