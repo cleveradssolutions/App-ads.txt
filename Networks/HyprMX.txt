@@ -1,4 +1,4 @@
-#=== HyprMX Sep 26, 2023
+#=== HyprMX Oct 06, 2023
 hyprmx.com, 25810370412, DIRECT, 79540da20c07237e
 152media.info, 152m499, RESELLER
 152media.info, 152m5, RESELLER
@@ -44,7 +44,7 @@ leanback.digital, 567824, RESELLER, b1d30350acaf0176
 loopme.com, 11520, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11569, RESELLER, 6c8d5f95897a5a3b
 media.net, 8cut87eou, RESELLER
-onetag.com, 7d9af0b85b5070e, RESELLER
+onetag.com, 7d9af0b85b5070e, DIRECT
 openx.com, 537150004, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 156319, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162239, RESELLER, 5d62403b186f2ace
@@ -66,8 +66,8 @@ synacor.com, 82531, RESELLER, e108f11b2cdf7d5b
 triplelift.com, 12913, RESELLER, 6c33edb13117fd86
 tritondigital.com, 106423, RESELLER, 19b4454d0b87b58b
 uis.mobfox.com, 1869, RESELLER, 5529a3d1f59865be
-video.unrulymedia.com, 2736329702851206590, RESELLER, 6f752381ad5ec0e5
-video.unrulymedia.com, 8684225329543494896, RESELLER, 6f752381ad5ec0e5
-video.unrulymedia.com, 9085206363819624071, RESELLER, 6f752381ad5ec0e5
+video.unrulymedia.com, 2736329702851206590, RESELLER
+video.unrulymedia.com, 8684225329543494896, RESELLER
+video.unrulymedia.com, 9085206363819624071, RESELLER
 widesound.io, 10010283, RESELLER, 03facf30f100112b
 xapads.com, 165069, RESELLER

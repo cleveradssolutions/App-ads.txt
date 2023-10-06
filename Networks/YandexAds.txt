@@ -1,4 +1,4 @@
-#=== YandexAds Sep 26, 2023
+#=== YandexAds Oct 06, 2023
 yandex.com, 66051405, DIRECT
 152media.info, 152m241, RESELLER
 152media.info, 152m312, RESELLER
@@ -314,18 +314,18 @@ uis.mobfox.com, 165, RESELLER, 5529a3d1f59865be
 uis.mobfox.com, 1916, RESELLER, 5529a3d1f59865be
 verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 vidcrunch.com, 5fb267bc6e2dd520fd551415, RESELLER
-video.unrulymedia.com, 123476257, RESELLER, 6f752381ad5ec0e5
-video.unrulymedia.com, 144481089, RESELLER, 6f752381ad5ec0e5
-video.unrulymedia.com, 1738113756, RESELLER, 6f752381ad5ec0e5
-video.unrulymedia.com, 2464975885, RESELLER, 6f752381ad5ec0e5
-video.unrulymedia.com, 2613193077, RESELLER, 6f752381ad5ec0e5
-video.unrulymedia.com, 3383599585, RESELLER, 6f752381ad5ec0e5
-video.unrulymedia.com, 3734122830, RESELLER, 6f752381ad5ec0e5
-video.unrulymedia.com, 456081263, RESELLER, 6f752381ad5ec0e5
-video.unrulymedia.com, 4631344382657206988, RESELLER, 6f752381ad5ec0e5
-video.unrulymedia.com, 524101463, RESELLER, 29bc7d05d309e1bc
-video.unrulymedia.com, 564934834, RESELLER, 6f752381ad5ec0e5
-video.unrulymedia.com, 6694405583287859332, RESELLER, 6f752381ad5ec0e5
+video.unrulymedia.com, 123476257, RESELLER
+video.unrulymedia.com, 144481089, RESELLER
+video.unrulymedia.com, 1738113756, RESELLER
+video.unrulymedia.com, 2464975885, RESELLER
+video.unrulymedia.com, 2613193077, RESELLER
+video.unrulymedia.com, 3383599585, RESELLER
+video.unrulymedia.com, 3734122830, RESELLER
+video.unrulymedia.com, 456081263, RESELLER
+video.unrulymedia.com, 4631344382657206988, RESELLER
+video.unrulymedia.com, 524101463, RESELLER
+video.unrulymedia.com, 564934834, RESELLER
+video.unrulymedia.com, 6694405583287859332, RESELLER
 vidoomy.com, 2536267, RESELLER
 vidoomy.com, 6858194, RESELLER
 vindicosuite.com, 6612, RESELLER

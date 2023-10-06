@@ -1,4 +1,4 @@
-#=== Smaato Sep 26, 2023
+#=== Smaato Oct 06, 2023
 smaato.com, 1100020918, DIRECT, 07bcf65f187117b4
 smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
 adcolony.com, 496220845654deec, RESELLER, 1ad675c9de6b5176
@@ -53,7 +53,7 @@ smartyads.com, 100115, RESELLER, fd2bde0ff2e62c5d
 start.io, smt, RESELLER
 uis.mobfox.com, 1750, RESELLER, 5529a3d1f59865be
 verve.com, 14619, RESELLER, 0c8f5958fc2d6270
-video.unrulymedia.com, 4201299756, RESELLER, 6f752381ad5ec0e5
+video.unrulymedia.com, 4201299756, RESELLER
 videoheroes.tv, 212459, RESELLER, 064bc410192443d8
 vidoomy.com, 4350252, RESELLER
 webeyemob.com, 70107, RESELLER
