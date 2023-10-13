@@ -31,7 +31,8 @@ _SOURCES = [
     "YandexAds.txt",
     "DTExchange.txt",
     "HyprMX.txt",
-    "Smaato.txt"
+    "Smaato.txt",
+    "Bigo.txt"
 ]
 _BANS = [
     # (Reserved by Network name, Banned domain for other Networks)

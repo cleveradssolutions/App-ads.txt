@@ -1,4 +1,4 @@
-#=== CASExchange Oct 06, 2023
+#=== CASExchange Oct 13, 2023
 cas.ai, 11, DIRECT
 152media.info, 152m50, RESELLER
 adform.com, 2753, RESELLER, 9f5210a2f0999e32
@@ -21,13 +21,11 @@ dynadmic.com, 4133288916, RESELLER
 dyntrk.com, 4133288916, RESELLER
 freewheel.tv, 20393, RESELLER
 freewheel.tv, 24377, RESELLER
-google.com, pub-1067374679252537, RESELLER, f08c47fec0942fa0
-google.com, pub-2749054827332983, RESELLER, f08c47fec0942fa0
+google.com, pub-7996166086389760, DIRECT, f08c47fec0942fa0
 google.com, pub-3184487253168181, RESELLER, f08c47fec0942fa0
 google.com, pub-3619045887187031, RESELLER, f08c47fec0942fa0
 google.com, pub-6075174367631946, RESELLER, f08c47fec0942fa0
 google.com, pub-9977401292436073, RESELLER, f08c47fec0942fa0
-greedygame.com, 3020222838412388, DIRECT
 improvedigital.com, 1879, RESELLER
 improvedigital.com, 1969, RESELLER
 lijit.com, 245137, RESELLER, fafdf38b16bf6b2b
@@ -53,9 +51,7 @@ pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156378, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156439, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161332, RESELLER, 5d62403b186f2ace
-pubmatic.com, 161480, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
-pubmatic.com, 162539, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 15410, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 15478, RESELLER, 0bfd66d529a55807
