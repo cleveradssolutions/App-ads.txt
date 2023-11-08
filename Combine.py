@@ -38,7 +38,7 @@ _BANS = [
     # (Reserved by Network name, Banned domain for other Networks)
     #("AdMob", "google.com")
 ]
-_DOMAIN_PATTERN = re.compile("^((?!-)[A-Za-z0-9-]" + "{1,63}(?<!-)\\.)" + "+[A-Za-z]{2,6}")
+_DOMAIN_PATTERN = re.compile("^([a-z0-9-]{1,63}.)+[a-z]{2,6}\Z")
 
 inventorySet = set()
 certificateMap = dict()
@@ -94,7 +94,7 @@ class Inventory:
             fatal_error("Invalid pattern in " + source + ". It may only contain 3 or 4 segments.", line)
 
         self.domain = pattern[0].strip().lower()
-        if not re.search(_DOMAIN_PATTERN, self.domain):
+        if not re.match(_DOMAIN_PATTERN, self.domain):
             fatal_error("Invalid domain in " + source, line)
         
         for banDomain in _BANS:
@@ -219,7 +219,6 @@ def release():
 
 def update(networkName, force):
     duplicate = 0
-    foundNews = False
     keepDomain = None
     fillCertificate = args.fillCertificate
     keepInventories = set()
@@ -250,15 +249,19 @@ def update(networkName, force):
             if inventory.is_empty() or inventory.is_comment():
                 continue
             newInventories.add(inventory)
-            if inventory not in inventorySet:
-                print("New inventory:\n   " + inventory.to_line())
-                foundNews = True
 
+    diffInventories = newInventories - inventorySet
 
-    if not force and not foundNews and duplicate == 0 and len(newInventories) <= len(inventorySet):
+    if not force and len(diffInventories) == 0 and duplicate == 0:
         print("No found inventories to update.")
         return False
     
+    for inventory in keepInventories:
+        sys.stdout.write("[Keep] " + inventory.to_line())
+
+    for index, inventory in enumerate(diffInventories):
+        sys.stdout.write("[New " + str(index) + "] " + inventory.to_line())
+
     inputMessage = "- Y - to add new inventories\n- F - to remove obsolute inventories\n- N - to exit\nEnter: "
     if force:
         userSelect = 'f'
