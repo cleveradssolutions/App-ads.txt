@@ -1,4 +1,4 @@
-#=== UnityAds Oct 30, 2023
+#=== UnityAds Nov 23, 2023
 unity.com, 1049822, DIRECT, 96cabb5fbdde37a7
 unity.com, 1773786, DIRECT, 96cabb5fbdde37a7
 unity.com, 4527131, DIRECT, 96cabb5fbdde37a7
@@ -30,6 +30,7 @@ bidmachine.io, 113, RESELLER
 bidmachine.io, 114, RESELLER
 bidmachine.io, 162, RESELLER
 bidmachine.io, 67, RESELLER
+connekt.ai, 5585919044, RESELLER
 contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562791, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562842, RESELLER, 89ff185a4c4e857c
@@ -37,6 +38,7 @@ contextweb.com, 562944, RESELLER, 89ff185a4c4e857c
 criteo.com, b-057601, RESELLER, 9fac4a4a87c2a44f
 criteo.com, b-057955, RESELLER, 9fac4a4a87c2a44f
 criteo.com, b-063105, RESELLER, 9fac4a4a87c2a44f
+criteo.com, b-072395, RESELLER, 9fac4a4a87c2a44f
 exchange.admazing.co, am3, RESELLER
 google.com, pub-1186731530376692, RESELLER, f08c47fec0942fa0
 google.com, pub-1260664409402914, RESELLER, f08c47fec0942fa0
@@ -59,6 +61,7 @@ google.com, pub-3161841212371150, RESELLER, f08c47fec0942fa0
 google.com, pub-3243947256243614, RESELLER, f08c47fec0942fa0
 google.com, pub-3357809309522484, RESELLER, f08c47fec0942fa0
 google.com, pub-3507477244480558, RESELLER, f08c47fec0942fa0
+google.com, pub-3513331691937943, RESELLER, f08c47fec0942fa0
 google.com, pub-3551928902224496, RESELLER, f08c47fec0942fa0
 google.com, pub-3656237866431437, RESELLER, f08c47fec0942fa0
 google.com, pub-4030472399144186, RESELLER, f08c47fec0942fa0
@@ -76,12 +79,15 @@ google.com, pub-5509723511493515, RESELLER, f08c47fec0942fa0
 google.com, pub-5629880836843082, RESELLER, f08c47fec0942fa0
 google.com, pub-5695969995950994, RESELLER, f08c47fec0942fa0
 google.com, pub-5801001320794449, RESELLER, f08c47fec0942fa0
+google.com, pub-5884936481104896, RESELLER, f08c47fec0942fa0
+google.com, pub-5915693900038274, RESELLER, f08c47fec0942fa0
 google.com, pub-5935046103054497, RESELLER, f08c47fec0942fa0
 google.com, pub-6090998799859642, RESELLER, f08c47fec0942fa0
 google.com, pub-6107349517511107, RESELLER, f08c47fec0942fa0
 google.com, pub-6107724524699640, RESELLER, f08c47fec0942fa0
 google.com, pub-6192172704687164, RESELLER, f08c47fec0942fa0
 google.com, pub-6223688097277644, RESELLER, f08c47fec0942fa0
+google.com, pub-6743697787286293, RESELLER, f08c47fec0942fa0
 google.com, pub-6750915678865756, RESELLER, f08c47fec0942fa0
 google.com, pub-6777799555203678, RESELLER, f08c47fec0942fa0
 google.com, pub-6783397722379457, RESELLER, f08c47fec0942fa0
@@ -94,6 +100,7 @@ google.com, pub-7251712046059526, RESELLER, f08c47fec0942fa0
 google.com, pub-7691237610578883, RESELLER, f08c47fec0942fa0
 google.com, pub-7713554155373117, RESELLER, f08c47fec0942fa0
 google.com, pub-7860456680878755, RESELLER, f08c47fec0942fa0
+google.com, pub-7949055705030553, RESELLER, f08c47fec0942fa0
 google.com, pub-7955322303263231, RESELLER, f08c47fec0942fa0
 google.com, pub-8004254555988622, RESELLER, f08c47fec0942fa0
 google.com, pub-8236665230625728, RESELLER, f08c47fec0942fa0
@@ -155,6 +162,7 @@ pubmatic.com, 158565, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159906, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160113, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160295, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160456, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160536, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160846, RESELLER, 5d62403b186f2ace
@@ -178,8 +186,10 @@ pubnative.net, 1007501, RESELLER, d641df8625486a7b
 pubnative.net, 1008770, RESELLER, d641df8625486a7b
 reforge.in, 107, RESELLER
 reforge.in, 353, RESELLER
+rhebus.works, 3897070072, RESELLER
 rhythmone.com, 3383599585, RESELLER, a670c89d4a324e47
 rhythmone.com, 3630748062, RESELLER, a670c89d4a324e47
+risecodes.com, 6486c6155b231000010244b0, RESELLER
 rubiconproject.com, 12556, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 14334, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 15854, RESELLER, 0bfd66d529a55807
@@ -191,9 +201,11 @@ rubiconproject.com, 20050, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 20086, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 21526, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 23876, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24362, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24526, RESELLER, 0bfd66d529a55807
+sharethrough.com, bxzzb1br, RESELLER, d53b998a7bd4ecd2
 smartclip.net, 13564, RESELLER
 spotx.tv, 117872, RESELLER, 7842df1d2fe2db34
 spotx.tv, 149886, RESELLER, 7842df1d2fe2db34
@@ -203,9 +215,11 @@ spotxchange.com, 149886, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 71426, RESELLER, 7842df1d2fe2db34
 thebrave.io, 1234594, RESELLER, c25b2154543746ac
 thebrave.io, 1234634, RESELLER, c25b2154543746ac
+thebrave.io, 1234678, RESELLER, c25b2154543746ac
 thebrave.io, 9840732, RESELLER, c25b2154543746ac
 themediagrid.com, fh3tkj, RESELLER, 35d5010d7789b49d
 themediagrid.com, swh94x, RESELLER, 35d5010d7789b49d
+thunder-monetize.com, 3962740416, RESELLER
 triplelift.com, 13883, RESELLER, 6c33edb13117fd86
 velismedia.com, 1137, RESELLER
 velismedia.com, 725, RESELLER
@@ -214,17 +228,19 @@ video.unrulymedia.com, 170071695, RESELLER
 video.unrulymedia.com, 2464975885, RESELLER
 video.unrulymedia.com, 3383599585, RESELLER
 video.unrulymedia.com, 3630748062, RESELLER
+video.unrulymedia.com, 995298565, RESELLER
 videoheroes.tv, 212499, RESELLER, 064bc410192443d8
 webeyemob.com, 70097, RESELLER
 webeyemob.com, 70104, RESELLER
 xandr.com, 13167, RESELLER, f5ab79cb980f11d1
 xandr.com, 13297, RESELLER, f5ab79cb980f11d1
 xandr.com, 13799, RESELLER, f5ab79cb980f11d1
+xandr.com, 14082, RESELLER, f5ab79cb980f11d1
 xandr.com, 7353, RESELLER, f5ab79cb980f11d1
 xandr.com, 8804, RESELLER, f5ab79cb980f11d1
 xapads.com, 117219, RESELLER
 xapads.com, 155860, RESELLER
-yandex.com, 40427798, RESELLER
-yandex.com, 95746987, RESELLER
-yandex.com, 97539269, RESELLER
+yandex.com, 40427798, RESELLER, 7998eac5087f6110
+yandex.com, 95746987, RESELLER, 7998eac5087f6110
+yandex.com, 97539269, RESELLER, 7998eac5087f6110
 yeahmobi.com, 5135195, RESELLER
