@@ -1,4 +1,4 @@
-#=== IronSource Nov 23, 2023
+#=== IronSource Dec 11, 2023
 ironsrc.com, 218335, DIRECT
 ironsrc.com, 406326, DIRECT
 ironsrc.com, 445197, DIRECT
@@ -14,7 +14,7 @@ appads.in, 105536, RESELLER
 appnexus.com, 12878, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13074, RESELLER, f5ab79cb980f11d1
 appnexus.com, 3368, RESELLER, f5ab79cb980f11d1
-axonix.com, 59089, DIRECT, bc385f2b4a87b721
+axonix.com, 59089, RESELLER, bc385f2b4a87b721
 betweendigital.com, 45190, RESELLER
 bidmachine.io, 161, RESELLER
 bidmachine.io, 162, RESELLER
@@ -24,7 +24,7 @@ connekt.ai, 5585919044, RESELLER
 conversantmedia.com, 100234, RESELLER, 03113cd04947736d
 e-planning.net, af5a107262468954, RESELLER, c1ba615865ed87b2
 eskimi.com, 2020000030, RESELLER
-freewheel.tv, 741650, RESELLER
+freewheel.tv, 741650, RESELLER, 74e8e47458f74754
 google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
 google.com, pub-7452201096415972, RESELLER, f08c47fec0942fa0
 improvedigital.com, 1114, RESELLER
@@ -58,7 +58,6 @@ pubmatic.com, 156425, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156520, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158615, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159087, RESELLER, 5d62403b186f2ace
-pubmatic.com, 160145, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160295, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160318, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160456, RESELLER, 5d62403b186f2ace
@@ -68,13 +67,15 @@ pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162968, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163307, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163420, RESELLER, 5d62403b186f2ace
+pubnative.net, 1006856, RESELLER, d641df8625486a7b
+pubnative.net, 1007007, RESELLER, d641df8625486a7b
 pubnative.net, 1007501, RESELLER, d641df8625486a7b
 pubnative.net, 1008770, RESELLER, d641df8625486a7b
 rhebus.works, 3897070072, RESELLER
 rhythmone.com, 3169196794, RESELLER, a670c89d4a324e47
 risecodes.com, 6486c6155b231000010244b0, RESELLER
+rubiconproject.com, 15278, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 15526, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 17608, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 18364, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
@@ -107,6 +108,7 @@ thunder-monetize.com, 3962740416, RESELLER
 triplelift.com, 12652, RESELLER, 6c33edb13117fd86
 undertone.com, 4108, RESELLER
 ushareit.com, lc7dc692567a127a57, RESELLER
+verve.com, 15503, RESELLER, 0c8f5958fc2d6270
 video.unrulymedia.com, 2464975885, RESELLER
 video.unrulymedia.com, 3169196794, RESELLER
 webeyemob.com, 80070, RESELLER

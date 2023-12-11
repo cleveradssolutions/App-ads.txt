@@ -22,7 +22,7 @@ appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12061, RESELLER, f5ab79cb980f11d1
 appnexus.com, 14080, RESELLER, f5ab79cb980f11d1
 appnexus.com, 14423, RESELLER, f5ab79cb980f11d1
-axonix.com, 59089, DIRECT, bc385f2b4a87b721
+axonix.com, 59089, RESELLER, bc385f2b4a87b721
 axonix.com, 57869, RESELLER, bc385f2b4a87b721
 bematterfull.com, 898409509, RESELLER
 betweendigital.com, 43916, RESELLER

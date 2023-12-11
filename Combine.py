@@ -16,7 +16,6 @@ _SOURCES = [
     "CASExchange.txt",
     "GoogleAds.txt",
     "AudienceNetwork.txt",
-    "AdColony.txt",
     "Pangle.txt",
     "IronSource.txt",
     "AppLovin.txt",
@@ -32,7 +31,8 @@ _SOURCES = [
     "DTExchange.txt",
     "HyprMX.txt",
     "Smaato.txt",
-    "Bigo.txt"
+    "Bigo.txt",
+    "BidMachine.txt"
 ]
 _BANS = [
     # (Reserved by Network name, Banned domain for other Networks)
