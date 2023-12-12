@@ -2018,7 +2018,7 @@ sharethrough.com, pll9clon, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, uhepsr7t, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, upd4wjlm, RESELLER, d53b998a7bd4ecd2
 silvermob.com, 419, RESELLER
-singularads, 895023, RESELLER
+singularads.com, 895023, RESELLER
 smaato.com, 1100044650, RESELLER, 07bcf65f187117b4
 smaato.com, 1100046578, RESELLER, 07bcf65f187117b4
 smaato.com, 1100051000, RESELLER, 07bcf65f187117b4
