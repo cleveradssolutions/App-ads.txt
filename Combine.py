@@ -38,7 +38,7 @@ _BANS = [
     # (Reserved by Network name, Banned domain for other Networks)
     #("AdMob", "google.com")
 ]
-_DOMAIN_PATTERN = re.compile("^([a-z0-9-]{1,63}.)+[a-z]{2,6}\Z")
+_DOMAIN_PATTERN = re.compile("^([a-z0-9-]{1,63}\.)+[a-z]{2,9}\Z")
 
 inventorySet = set()
 certificateMap = dict()
