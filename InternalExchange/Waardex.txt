@@ -1,0 +1,7 @@
+## DSP
+waardex.com, 197122, DIRECT
+xandr.com, 13117, DIRECT
+rubiconproject.com, 24228, RESELLER, 0bfd66d529a55807
+152media.info,152M620, RESELLER
+xandr.com, 11924, RESELLER
+Contextweb.com, 562950, RESELLER, 89ff185a4c4e857c

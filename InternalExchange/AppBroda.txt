@@ -1,0 +1,8 @@
+appbroda.com, 926, DIRECT
+appbroda.com, 953, DIRECT
+google.com, pub-3184487253168181, RESELLER, f08c47fec0942fa0
+google.com, pub-3184487253168181, RESELLER, f08c47fec0942fa0
+google.com, pub-6075174367631946, RESELLER, f08c47fec0942fa0
+google.com, pub-1472835721311013, RESELLER, f08c47fec0942fa0
+google.com, pub-7710996147715002, RESELLER, f08c47fec0942fa0
+google.com, pub-5938970922136226, RESELLER, f08c47fec0942fa0

@@ -1,0 +1,14 @@
+reklamup.com, 5363011148, DIRECT
+google.com, pub-5610649146674306, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 23780, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 23778, DIRECT, 0bfd66d529a55807
+pubmatic.com, 161141, DIRECT, 5d62403b186f2ace
+criteo.com, B-062970, DIRECT, 9fac4a4a87c2a44f
+themediagrid.com, 81MGSH, DIRECT, 35d5010d7789b49d
+sharethrough.com, nJscjtOy, DIRECT, d53b998a7bd4ecd2
+indexexchange.com, 198783, RESELLER, 50b1c356f2c5c8fc
+smartadserver.com, 4313-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4313, RESELLER
+triplelift.com, 12193, RESELLER, 6c33edb13117fd86
+triplelift.com, 12193-EB, RESELLER, 6c33edb13117fd86
+inmobi.com, 445a21be4613492a9545763b8c4bc548, DIRECT, 83e75a7ae333ca9d

@@ -1,0 +1,14 @@
+# DSP
+brightcom.com, 20447, DIRECT
+appnexus.com, 15127, RESELLER
+pubmatic.com, 161332, RESELLER, 5d62403b186f2ace
+openx.com, 540857594, RESELLER, 6a698e2ec38604c6
+loopme.com, 11228, RESELLER, 6c8d5f95897a5a3b
+contextweb.com, 562981, RESELLER, 89ff185a4c4e857c
+video.unrulymedia.com, 6694405583287859332, RESELLER
+onetag.com, 52a5b73146950c0, RESELLER
+criteo.com, B-067384, RESELLER, 9fac4a4a87c2a44f
+themediagrid.com, IRK975, RESELLER, 35d5010d7789b49d
+sonobi.com, 87555b1b39, RESELLER, d1a215d9eb5aee9e
+media.net, 8CUB46Z7R, RESELLER
+adform.com, 2753, RESELLER
