@@ -1,4 +1,4 @@
-#=== Mintegral Dec 11, 2023
+#=== Mintegral Dec 19, 2023
 mintegral.com, 25008, DIRECT, 0aeed750c80d6423
 acd.op.hicloud.com, pub_hw_1003, RESELLER
 adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
@@ -210,6 +210,7 @@ lijit.com, 367217, RESELLER, fafdf38b16bf6b2b
 lijit.com, 400766, RESELLER, fafdf38b16bf6b2b
 lijit.com, 411121, RESELLER, fafdf38b16bf6b2b
 lijit.com, 473789, RESELLER, fafdf38b16bf6b2b
+lijit.com, 483304, RESELLER, fafdf38b16bf6b2b
 lkqd.net, 450, RESELLER, 59c49fa9598a0117
 lkqd.net, 647, RESELLER, 59c49fa9598a0117
 lkqd.net, 654, RESELLER, 59c49fa9598a0117

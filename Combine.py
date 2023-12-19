@@ -13,7 +13,6 @@ _ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 _NETS_DIR_NAME = "Networks"
 
 _SOURCES = [ 
-    "CASExchange.txt",
     "GoogleAds.txt",
     "AudienceNetwork.txt",
     "Pangle.txt",
@@ -25,14 +24,14 @@ _SOURCES = [
     "SuperAwesome.txt",
     "Kidoz.txt",
     "InMobi.txt",
-    "myTarget.txt",
     "Chartboost.txt", 
     "YandexAds.txt",
     "DTExchange.txt",
+    "Bigo.txt",
+    "myTarget.txt",
+    "DSPExchange.txt",
     "HyprMX.txt",
     "Smaato.txt",
-    "Bigo.txt",
-    "BidMachine.txt"
 ]
 _BANS = [
     # (Reserved by Network name, Banned domain for other Networks)

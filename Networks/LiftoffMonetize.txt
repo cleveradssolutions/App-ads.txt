@@ -1,4 +1,4 @@
-#=== LiftoffMonetize Dec 11, 2023
+#=== LiftoffMonetize Dec 19, 2023
 vungle.com, 5730c2af2270cba25f000066, DIRECT, c107d686becd2d77
 vungle.com, 5c657afed9e6e60012bab5d9, DIRECT, c107d686becd2d77
 152media.info, 152m312, RESELLER
@@ -61,6 +61,7 @@ contextweb.com, 562791, RESELLER, 89ff185a4c4e857c
 conversantmedia.com, 100246, RESELLER, 03113cd04947736d
 conversantmedia.com, 100269, RESELLER, 03113cd04947736d
 criteo.com, 186227, RESELLER, 9fac4a4a87c2a44f
+criteo.com, b-057601, RESELLER, 9fac4a4a87c2a44f
 digitalpiee.com, 161159, RESELLER
 display.io, 173162, RESELLER
 disqus.com, 998, RESELLER
@@ -247,6 +248,7 @@ target.my.com, 8676470, RESELLER
 targetspot.com, 297, RESELLER, feb28ed826dcf532
 thebrave.io, 1234585, RESELLER, c25b2154543746ac
 thebrave.io, 1234632, RESELLER, c25b2154543746ac
+themediagrid.com, swh94x, RESELLER, 35d5010d7789b49d
 tpmn.io, 532, RESELLER
 tremorhub.com, s92od-u4sw5, RESELLER, 1a4e959a1b50034a
 triplelift.com, 10522, RESELLER, 6c33edb13117fd86

@@ -1,4 +1,5 @@
-#=== Kidoz Nov 23, 2023
+#=== Kidoz Dec 19, 2023
+kidoz.net, 11645, DIRECT, a109366414b7335e
 smartclip.net, 13564, RESELLER
 152media.info, 152m324, RESELLER
 aniview.com, 5f2063121d82c82557194737, RESELLER, 78b21b97965ec3f8

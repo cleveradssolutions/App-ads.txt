@@ -1,9 +1,8 @@
-#=== CASExchange Nov 23, 2023
-cas.ai, 11, DIRECT
+#=== DSPExchange Dec 19, 2023
+a4g.com, 14245, DIRECT
 152media.info, 152m50, RESELLER
 152media.info, 152m620, RESELLER
 33across.com, 0013300001kqj2haas, RESELLER, bbea06d9c4d2853c
-a4g.com, 14245, DIRECT
 acexchange.co.kr, 1416775282, RESELLER
 adcolony.com, 197af3936679d34e, RESELLER, 1ad675c9de6b5176
 adelement.com, 30020, RESELLER
@@ -20,7 +19,7 @@ adsolut.in, 17069, DIRECT
 advertising.com, 28246, RESELLER
 adview.com, 33633363, RESELLER, 1b2cc038a11ea319
 advlion.com, 584, RESELLER
-adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER
+adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER, 4ad745ead2958bf7
 agon.mobi, 686, RESELLER
 algorix.co, 54190, RESELLER, 5b394c12fea27a1d
 algorix.co, 60016, RESELLER, 5b394c12fea27a1d
@@ -97,8 +96,8 @@ engagebdr.com, 16, RESELLER
 engagebdr.com, 7, RESELLER
 engagebdr.com, 84, RESELLER
 eskimi.com, eas-2020000005, RESELLER
-freewheel.tv, 20393, RESELLER
-freewheel.tv, 24377, RESELLER
+freewheel.tv, 20393, RESELLER, 74e8e47458f74754
+freewheel.tv, 24377, RESELLER, 74e8e47458f74754
 gamaigroup.com, 320201, RESELLER
 gamaigroup.com, 320203, RESELLER
 gitberry.com, 31mbg, RESELLER
@@ -109,6 +108,7 @@ google.com, pub-1472835721311013, RESELLER, f08c47fec0942fa0
 google.com, pub-3184487253168181, RESELLER, f08c47fec0942fa0
 google.com, pub-3619045887187031, RESELLER, f08c47fec0942fa0
 google.com, pub-4568609371004228, RESELLER, f08c47fec0942fa0
+google.com, pub-5572725367182117, RESELLER, f08c47fec0942fa0
 google.com, pub-5610649146674306, RESELLER, f08c47fec0942fa0
 google.com, pub-5938970922136226, RESELLER, f08c47fec0942fa0
 google.com, pub-6075174367631946, RESELLER, f08c47fec0942fa0
@@ -193,6 +193,8 @@ premiumads.net, 20477, DIRECT
 prequel.tv, 518, RESELLER
 pubmatic.com, 161141, DIRECT, 5d62403b186f2ace
 pubmatic.com, 163837, DIRECT, 5d62403b186f2ace
+pubmatic.com, 116521, RESELLER, 5d62403b186f2ace
+pubmatic.com, 126340, RESELLER, 5d62403b186f2ace
 pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
 pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
 pubmatic.com, 155495, RESELLER, 5d62403b186f2ace
@@ -271,6 +273,8 @@ sharethrough.com, k5wdgasp, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, nirsc9f2, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, oaw69fon, RESELLER, d53b998a7bd4ecd2
 smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
+smaato.com, 1100006126, RESELLER, 07bcf65f187117b4
+smaato.com, 1100027629, RESELLER, 07bcf65f187117b4
 smaato.com, 1100042823, RESELLER, 07bcf65f187117b4
 smaato.com, 1100044045, RESELLER, 07bcf65f187117b4
 smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
@@ -368,7 +372,7 @@ yahoo.com, 59531, RESELLER, e1a5b5b6e3255540
 yahoo.com, 59961, RESELLER, e1a5b5b6e3255540
 yahoo.com, 59974, RESELLER, e1a5b5b6e3255540
 yahoo.com, 60010, RESELLER, e1a5b5b6e3255540
-yandex.com, 94923424, RESELLER
-yandex.com, 95746987, RESELLER
+yandex.com, 94923424, RESELLER, 7998eac5087f6110
+yandex.com, 95746987, RESELLER, 7998eac5087f6110
 yieldmo.com, 2807970144171533194, RESELLER
 zoomd.com, 88478941, RESELLER
