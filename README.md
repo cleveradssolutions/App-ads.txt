@@ -8,7 +8,7 @@ The app-ads.txt files are publicly available and crawlable by exchanges, supply-
 
 A DSP looking to bid on app inventory scans the app-ads.txt file on a developer's website to verify which ad sources are authorized to sell that app's inventory. The DSP will only accept bid requests from ad sources listed on the file and authorized by the app developer.  
 
-> **Warning**  
+> [!Warning]
 > If you don't implement app-ads.txt, it may hurt your eCPMs because there will be less advertisers willing to pay you for ads.
 
 We've made it easier for you to include CleverAdsSolutions list of entries so that you will never miss any budgets from ironSource's top brands partners. 
@@ -17,7 +17,7 @@ We've made it easier for you to include CleverAdsSolutions list of entries so th
 - File-separated sources for each partner can be found below:  
 [Networks](/Networks)  
 
-> **Note**  
+> [!Note]
 > Don't forget to keep track of the list since it is updated from time to time.  
 > Subscribe so you don't miss app-ads.txt updates. [![Subscribe](https://img.shields.io/github/watchers/cleveradssolutions/App-ads.txt?label=Subscribe&style=social)](https://github.com/cleveradssolutions/App-ads.txt/subscription)  
 
@@ -57,19 +57,19 @@ Follow these instructions to either update or add a developer website to Google 
 
 </details>
 
-> **Note**  
+> [!Note]
 > Contact your internal webmaster to post the .txt file on your developer website including all direct and indirect authorized sellers of your inventory.
 
 ## Ensure your app-ads.txt files can be crawled
 To ensure your app-ads.txt file can be crawled, we recommend working through the following troubleshooting steps.  
 
-> **Note**  
+> [!Note] 
 > The following information was taken from a [Google Support resource](https://support.google.com/admob/answer/9679128).
 
 ### Confirm that the file is reachable from the root domain
 Redirects from `domain.com/app-ads.txt` to `www.domain.com/app-ads.txt` are fairly common. App-ads.txt crawling will start at the root domain. The root domain needs to return from, or redirect to, the app-ads.txt file.  
 
-> **Warning**  
+> [!Warning]
 > An app-ads.txt file on `www.domain.com/app-ads.txt` will only be crawled if `domain.com/app-ads.txt` redirects to it.
 
 ### Confirm the file is not temporarily unavailable
