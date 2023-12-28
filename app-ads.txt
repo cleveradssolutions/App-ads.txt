@@ -1,4 +1,4 @@
-# CAS.ai Updated Dec 19, 2023, support@cleveradssolutions.com
+# CAS.ai Updated Dec 28, 2023, support@cleveradssolutions.com
 #=== GoogleAds Sep 01, 2023
 google.com, pub-1022958838828668, DIRECT, f08c47fec0942fa0
 google.com, pub-2532668741646097, DIRECT, f08c47fec0942fa0
@@ -784,7 +784,7 @@ yeahmobi.com, 5135315, RESELLER
 yieldmo.com, 2807970144171533194, RESELLER
 yieldmo.com, 3036313774475649025, RESELLER
 yieldnexus.com, 96204, RESELLER
-#=== LiftoffMonetize Dec 19, 2023
+#=== LiftoffMonetize Dec 28, 2023
 vungle.com, 5730c2af2270cba25f000066, DIRECT, c107d686becd2d77
 vungle.com, 5c657afed9e6e60012bab5d9, DIRECT, c107d686becd2d77
 152media.info, 152m312, RESELLER
@@ -1513,7 +1513,7 @@ smartadserver.com, 3896, RESELLER, 060d053dcf45cbf3
 soloway.ru, 3584173, DIRECT
 video.unrulymedia.com, 3880497124, RESELLER
 yeahmobi.com, 113772, RESELLER
-#=== DSPExchange Dec 19, 2023
+#=== DSPExchange Dec 28, 2023
 a4g.com, 14245, DIRECT
 152media.info, 152m50, RESELLER
 152media.info, 152m620, RESELLER
@@ -1567,8 +1567,10 @@ gamaigroup.com, 320203, RESELLER
 gitberry.com, 31mbg, RESELLER
 google.com, pub-4586415728471297, DIRECT, f08c47fec0942fa0
 google.com, pub-7996166086389760, DIRECT, f08c47fec0942fa0
+google.com, pub-1067374679252537, RESELLER, f08c47fec0942fa0
 google.com, pub-1232265399417302, RESELLER, f08c47fec0942fa0
 google.com, pub-1472835721311013, RESELLER, f08c47fec0942fa0
+google.com, pub-2749054827332983, RESELLER, f08c47fec0942fa0
 google.com, pub-3184487253168181, RESELLER, f08c47fec0942fa0
 google.com, pub-3619045887187031, RESELLER, f08c47fec0942fa0
 google.com, pub-5572725367182117, RESELLER, f08c47fec0942fa0
@@ -1578,6 +1580,7 @@ google.com, pub-6075174367631946, RESELLER, f08c47fec0942fa0
 google.com, pub-7710996147715002, RESELLER, f08c47fec0942fa0
 google.com, pub-8129348556359650, RESELLER, f08c47fec0942fa0
 google.com, pub-9977401292436073, RESELLER, f08c47fec0942fa0
+greedygame.com, 3020222838412388, DIRECT
 improvedigital.com, 1879, RESELLER
 improvedigital.com, 1969, RESELLER
 indexexchange.com, 195450, RESELLER, 50b1c356f2c5c8fc
@@ -1626,7 +1629,9 @@ pubmatic.com, 158772, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161056, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161218, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161332, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161480, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162539, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163560, RESELLER, 5d62403b186f2ace
 reklamup.com, 5363011148, DIRECT
 rhythmone.com, 188404962, RESELLER, a670c89d4a324e47

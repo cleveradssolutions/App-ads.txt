@@ -1,4 +1,4 @@
-#=== DSPExchange Dec 19, 2023
+#=== DSPExchange Dec 28, 2023
 a4g.com, 14245, DIRECT
 152media.info, 152m50, RESELLER
 152media.info, 152m620, RESELLER
@@ -103,8 +103,10 @@ gamaigroup.com, 320203, RESELLER
 gitberry.com, 31mbg, RESELLER
 google.com, pub-4586415728471297, DIRECT, f08c47fec0942fa0
 google.com, pub-7996166086389760, DIRECT, f08c47fec0942fa0
+google.com, pub-1067374679252537, RESELLER, f08c47fec0942fa0
 google.com, pub-1232265399417302, RESELLER, f08c47fec0942fa0
 google.com, pub-1472835721311013, RESELLER, f08c47fec0942fa0
+google.com, pub-2749054827332983, RESELLER, f08c47fec0942fa0
 google.com, pub-3184487253168181, RESELLER, f08c47fec0942fa0
 google.com, pub-3619045887187031, RESELLER, f08c47fec0942fa0
 google.com, pub-4568609371004228, RESELLER, f08c47fec0942fa0
@@ -115,6 +117,7 @@ google.com, pub-6075174367631946, RESELLER, f08c47fec0942fa0
 google.com, pub-7710996147715002, RESELLER, f08c47fec0942fa0
 google.com, pub-8129348556359650, RESELLER, f08c47fec0942fa0
 google.com, pub-9977401292436073, RESELLER, f08c47fec0942fa0
+greedygame.com, 3020222838412388, DIRECT
 hyperad.tech, 221, RESELLER
 improvedigital.com, 1532, RESELLER
 improvedigital.com, 1795, RESELLER
@@ -223,8 +226,10 @@ pubmatic.com, 161218, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161332, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161372, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161373, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161480, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161748, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162539, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163560, RESELLER, 5d62403b186f2ace
 pubnative.net, 1006576, RESELLER, d641df8625486a7b
 pubnative.net, 1006951, RESELLER, d641df8625486a7b
