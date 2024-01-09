@@ -1,4 +1,4 @@
-#=== DTExchange Nov 23, 2023
+#=== DTExchange Jan 09, 2024
 fyber.com, 214373, DIRECT
 acd.op.hicloud.com, pub_hw_1003, RESELLER
 adcolony.com, 3dcf9f51638afe2c, RESELLER, 1ad675c9de6b5176
@@ -28,8 +28,8 @@ criteo.com, b-064366, RESELLER, 9fac4a4a87c2a44f
 e-planning.net, 667c9475a9c31b56, RESELLER, c1ba615865ed87b2
 e-planning.net, d5311f35d49d7865, RESELLER, c1ba615865ed87b2
 eskimi.com, 2020000205, RESELLER
-freewheel.tv, 1137745, RESELLER
-freewheel.tv, 1138513, RESELLER
+freewheel.tv, 1137745, RESELLER, 74e8e47458f74754
+freewheel.tv, 1138513, RESELLER, 74e8e47458f74754
 gitberry.com, 345100012, RESELLER
 gumgum.com, 15908, RESELLER, ffdef49475d318a9
 improvedigital.com, 2110, RESELLER
@@ -56,6 +56,7 @@ openx.com, 545705254, RESELLER, 6a698e2ec38604c6
 openx.com, 559792583, RESELLER, 6a698e2ec38604c6
 opera.com, pub9598692093632, RESELLER, 55a0c5fd61378de3
 outbrain.com, 002d7f7ba0bd74452f2b155d0dfb5cd6c8, RESELLER
+playwire.com, 1025119, RESELLER
 prequel.tv, 517, RESELLER
 pubmatic.com, 157559, RESELLER, 5d62403b186f2ace
 pubmatic.com, 157899, RESELLER, 5d62403b186f2ace

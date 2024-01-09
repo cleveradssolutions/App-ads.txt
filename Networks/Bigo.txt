@@ -1,4 +1,4 @@
-#=== Bigo Dec 11, 2023
+#=== Bigo Jan 09, 2024
 bigo.sg, 10374, DIRECT
 33across.com, 0015a00003dkg9zaat, RESELLER, bbea06d9c4d2853c
 acexchange.co.kr, 1024314629, RESELLER
@@ -24,6 +24,7 @@ criteo.com, b-063105, RESELLER, 9fac4a4a87c2a44f
 e-planning.net, 949b688810cb7439, RESELLER, c1ba615865ed87b2
 e-planning.net, ec771b05828a67fa, RESELLER, c1ba615865ed87b2
 eskimi.com, 2020000041, RESELLER
+gamaigroup.com, 423052, RESELLER
 google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
 hyperad.tech, 221, RESELLER
 ignitemediatech.com, pub_11116, RESELLER
@@ -35,6 +36,7 @@ loopme.com, 11119, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11463, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11635, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 11683, RESELLER, 6c8d5f95897a5a3b
 lunamedia.io, bfacf5e017bb11edb41173b0ca2c748c, RESELLER, 524ecb396915caaf
 onetag.com, 5d1628750185ace, RESELLER
 opera.com, pub4261820774272, RESELLER, 55a0c5fd61378de3
@@ -47,13 +49,16 @@ pubmatic.com, 161151, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162588, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162968, RESELLER, 5d62403b186f2ace
+pubmatic.com, 163075, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163420, RESELLER, 5d62403b186f2ace
+pubmatic.com, 163754, RESELLER, 5d62403b186f2ace
 pubnative.net, 1007262, RESELLER, d641df8625486a7b
 pubnative.net, 1007303, RESELLER, d641df8625486a7b
 pubnative.net, 1007311, RESELLER, d641df8625486a7b
 pubnative.net, 1007501, RESELLER, d641df8625486a7b
 pubnative.net, 1007974, RESELLER, d641df8625486a7b
+rixengine.com, 36330, RESELLER
 rubiconproject.com, 17608, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 22134, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24362, RESELLER, 0bfd66d529a55807
@@ -65,6 +70,7 @@ ssp.e-volution.ai, ajxf6r130a9m6catvk, RESELLER
 toponad.com, 16569723d4bfa4, RESELLER, 1d49fe424a1a456d
 tpmn.io, 415, RESELLER
 triplelift.com, 11656, RESELLER, 6c33edb13117fd86
+ucfunnel.com, par-47bdb68d72764e2afed767ed47dedda4, RESELLER
 video.unrulymedia.com, 524101463, RESELLER
 vidoomy.com, 4433873, RESELLER
 vidoomy.com, 7646534, RESELLER
