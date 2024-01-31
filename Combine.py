@@ -118,7 +118,7 @@ class Inventory:
                         fatal_error("Certification authority ID is invalid in " + source + ".\nIt may only contain numbers and lowercase letters, and must be 9 or 16 characters.", line)
                 elif self.domain in certificateMap:
                     if not certificateMap[self.domain]:
-                        print_warning("Certification authority ID is should be empty for " + self.domain, line)
+                        print_warning("Certification authority ID is should be empty for " + self.domain + " in " + source, line)
                         self.certification = ""
                     elif certificateMap[self.domain] != certification:
                         print_warning("Certification authority ID not mach with " + certificateMap[self.domain] + " in " + source, line)

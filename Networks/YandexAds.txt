@@ -190,7 +190,7 @@ onetag.com, 59d216e971852f2, RESELLER
 onetag.com, 5a02ff98ba6be67, RESELLER
 onetag.com, 5d1628750185ace, RESELLER
 onetag.com, 66cff8e37d871be, RESELLER
-onetag.com, 7d9af0b85b5070e, DIRECT
+onetag.com, 7d9af0b85b5070e, RESELLER
 openx.com, 539249210, RESELLER, 6a698e2ec38604c6
 openx.com, 540031703, RESELLER, 6a698e2ec38604c6
 openx.com, 540298543, RESELLER, 6a698e2ec38604c6

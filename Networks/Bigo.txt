@@ -1,4 +1,4 @@
-#=== Bigo Jan 09, 2024
+#=== Bigo Jan 31, 2024
 bigo.sg, 10374, DIRECT
 33across.com, 0015a00003dkg9zaat, RESELLER, bbea06d9c4d2853c
 acexchange.co.kr, 1024314629, RESELLER
@@ -39,6 +39,7 @@ loopme.com, 11635, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11683, RESELLER, 6c8d5f95897a5a3b
 lunamedia.io, bfacf5e017bb11edb41173b0ca2c748c, RESELLER, 524ecb396915caaf
 onetag.com, 5d1628750185ace, RESELLER
+onetag.com, 8305cc299686700, RESELLER
 opera.com, pub4261820774272, RESELLER, 55a0c5fd61378de3
 opera.com, pub5865193350528, RESELLER, 55a0c5fd61378de3
 outbrain.com, 0005bfbc60db1570e63954937b4bec06de, RESELLER
@@ -77,5 +78,5 @@ vidoomy.com, 7646534, RESELLER
 vidoomy.com, 9148331, RESELLER
 xapads.com, 144307, RESELLER
 xapads.com, 194000, RESELLER
-yandex.com, 63904735, RESELLER, 7998eac5087f6110
-yandex.com, 94923424, RESELLER, 7998eac5087f6110
+yandex.com, 63904735, RESELLER
+yandex.com, 94923424, RESELLER

@@ -1,4 +1,4 @@
-#=== Mintegral Jan 09, 2024
+#=== Mintegral Jan 31, 2024
 mintegral.com, 25008, DIRECT, 0aeed750c80d6423
 acd.op.hicloud.com, pub_hw_1003, RESELLER
 adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
@@ -70,6 +70,7 @@ appnexus.com, 13293, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13898, RESELLER, f5ab79cb980f11d1
 appnexus.com, 14023, RESELLER, f5ab79cb980f11d1
 appnexus.com, 15426, RESELLER, f5ab79cb980f11d1
+appnexus.com, 15769, RESELLER, f5ab79cb980f11d1
 appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
 appnexus.com, 4052, RESELLER, f5ab79cb980f11d1
 appnexus.com, 6849, RESELLER, f5ab79cb980f11d1
@@ -167,6 +168,7 @@ gitberry.com, 325100011, RESELLER
 gitberry.com, 325100012, RESELLER
 gitberry.com, 3oj, RESELLER
 gitberry.com, 42knb, RESELLER
+goldbach-germany.de, connekt, RESELLER
 google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
 gothamads.com, 1236, RESELLER, d9c86e5dec870222
 gothamads.com, 399, RESELLER, d9c86e5dec870222
@@ -465,6 +467,7 @@ smartstream.tv, 673, RESELLER
 smartstream.tv, 679, RESELLER
 smartyads.com, 100034, RESELLER, fd2bde0ff2e62c5d
 smartyads.com, 100114, RESELLER, fd2bde0ff2e62c5d
+smartyads.com, 300045, RESELLER, fd2bde0ff2e62c5d
 smartyads.com, 897, RESELLER, fd2bde0ff2e62c5d
 sonobi.com, 2b51f34067, RESELLER, d1a215d9eb5aee9e
 sonobi.com, 7b37f8ccbc, RESELLER, d1a215d9eb5aee9e
@@ -489,6 +492,7 @@ start.io, wbe, RESELLER
 startapp.com, wbe, RESELLER
 synacor.com, 82460, RESELLER, e108f11b2cdf7d5b
 targetspot.com, 270, RESELLER, feb28ed826dcf532
+telaria.com, 9l6ha-9w3wc, RESELLER, 1a4e959a1b50034a
 thebrave.io, 1234585, RESELLER, c25b2154543746ac
 thebrave.io, 9840732, RESELLER, c25b2154543746ac
 themediagrid.com, r28i9j, RESELLER, 35d5010d7789b49d
@@ -503,6 +507,7 @@ thunder-monetize.com, 4818959194, RESELLER
 thunder-monetize.com, 6343837988, RESELLER
 toponad.com, 16385e313a271a, DIRECT, 1d49fe424a1a456d
 tpmn.io, 415, RESELLER
+tremorhub.com, 9l6ha-9w3wc, RESELLER, 1a4e959a1b50034a
 tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a
 triplelift.com, 10522, RESELLER, 6c33edb13117fd86
 triplelift.com, 11000, RESELLER, 6c33edb13117fd86
@@ -532,6 +537,7 @@ video.unrulymedia.com, 3795567838, RESELLER
 video.unrulymedia.com, 3891336054, RESELLER
 video.unrulymedia.com, 3948367200, RESELLER
 video.unrulymedia.com, 4631344382657206988, RESELLER
+video.unrulymedia.com, 645663965, RESELLER
 video.unrulymedia.com, 682817271102171104, RESELLER
 video.unrulymedia.com, 689559416, RESELLER
 video.unrulymedia.com, 962111114, RESELLER
@@ -550,6 +556,7 @@ xandr.com, 12745, RESELLER, f5ab79cb980f11d1
 xandr.com, 13709, RESELLER, f5ab79cb980f11d1
 xandr.com, 13799, RESELLER, f5ab79cb980f11d1
 xandr.com, 15426, RESELLER, f5ab79cb980f11d1
+xandr.com, 15769, RESELLER, f5ab79cb980f11d1
 xandr.com, 8804, RESELLER, f5ab79cb980f11d1
 xapads.com, 155860, RESELLER
 yahoo.com, 55771, RESELLER, e1a5b5b6e3255540
@@ -557,8 +564,8 @@ yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
 yahoo.com, 59025, RESELLER, e1a5b5b6e3255540
 yahoo.com, 59052, RESELLER, e1a5b5b6e3255540
 yahoo.com, 59627, RESELLER, e1a5b5b6e3255540
-yandex.com, 63904735, RESELLER, 7998eac5087f6110
-yandex.com, 97539269, RESELLER, 7998eac5087f6110
+yandex.com, 63904735, RESELLER
+yandex.com, 97539269, RESELLER
 yeahmobi.com, 5135284, RESELLER
 yeahmobi.com, 5135315, RESELLER
 yieldmo.com, 2807970144171533194, RESELLER

@@ -1,10 +1,11 @@
-#=== IronSource Dec 11, 2023
+#=== IronSource Jan 31, 2024
 ironsrc.com, 218335, DIRECT
 ironsrc.com, 406326, DIRECT
 ironsrc.com, 445197, DIRECT
 adbility-media.com, 187, RESELLER
 adelement.com, 36502, RESELLER
 admanmedia.com, 990, RESELLER
+adsbea.com, 17, RESELLER
 advertising.com, 8693, RESELLER
 algorix.co, 54400, RESELLER, 5b394c12fea27a1d
 algorix.co, 60097, RESELLER, 5b394c12fea27a1d
@@ -116,8 +117,8 @@ xandr.com, 13799, RESELLER, f5ab79cb980f11d1
 xandr.com, 14082, RESELLER, f5ab79cb980f11d1
 xandr.com, 14374, RESELLER, f5ab79cb980f11d1
 xapads.com, 117219, RESELLER
-yandex.com, 37982190, RESELLER, 7998eac5087f6110
-yandex.com, 98384845, RESELLER, 7998eac5087f6110
+yandex.com, 37982190, RESELLER
+yandex.com, 98384845, RESELLER
 yeahmobi.com, 5135347, RESELLER
 yieldlab.net, 2172218, RESELLER
 zmaticoo.com, 5135347, RESELLER
