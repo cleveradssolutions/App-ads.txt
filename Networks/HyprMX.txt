@@ -44,7 +44,7 @@ leanback.digital, 567824, RESELLER, b1d30350acaf0176
 loopme.com, 11520, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11569, RESELLER, 6c8d5f95897a5a3b
 media.net, 8cut87eou, RESELLER
-onetag.com, 7d9af0b85b5070e, DIRECT
+onetag.com, 7d9af0b85b5070e, RESELLER
 openx.com, 537150004, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 156319, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162239, RESELLER, 5d62403b186f2ace

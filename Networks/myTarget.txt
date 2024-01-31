@@ -1,4 +1,4 @@
-#=== MyTarget Oct 06, 2023
+#=== myTarget Jan 31, 2024
 target.my.com, 3584173, DIRECT
 adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
 adcolony.com, 29b7f4a14dc689eb, RESELLER, 1ad675c9de6b5176
@@ -7,6 +7,7 @@ admanmedia.com, 1009, RESELLER
 admixer.com, 3584173, RESELLER
 admixer.net, 2878f07c-cc3f-4f8a-a26c-8e6033a539a6, RESELLER
 ads.vk.com, 3584173, DIRECT
+adspend.ru, 3584173, DIRECT
 adview.com, 53849096, RESELLER, 1b2cc038a11ea319
 adwmg.com, 3584173, RESELLER
 algorix.co, 60322, RESELLER, 5b394c12fea27a1d
@@ -63,7 +64,8 @@ openx.com, 540838151, RESELLER, 6a698e2ec38604c6
 openx.com, 541031350, RESELLER, 6a698e2ec38604c6
 openx.com, 541177349, RESELLER, 6a698e2ec38604c6
 opera.com, pub5449961587776, RESELLER, 55a0c5fd61378de3
-pangleglobal.com, 55191, RESELLER
+ozon.ru, 3584173, DIRECT
+pangleglobal.com, 55191, RESELLER, 7998eac5087f6110
 pokkt.com, 7606, RESELLER, c45702d9311e25fd
 pubmatic.com, 156517, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156631, RESELLER, 5d62403b186f2ace
@@ -97,6 +99,7 @@ sovrn.com, 273644, RESELLER, fafdf38b16bf6b2b
 triplelift.com, 10522, RESELLER, 6c33edb13117fd86
 triplelift.com, 8446, RESELLER, 6c33edb13117fd86
 ucfunnel.com, par-d2346aab7abd36b4cdd7bbd264ba92e2, RESELLER
+ushareit.com, 3584173, DIRECT
 verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 verve.com, 15503, RESELLER, 0c8f5958fc2d6270
 video.unrulymedia.com, 3880497124, RESELLER

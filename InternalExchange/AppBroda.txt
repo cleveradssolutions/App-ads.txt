@@ -11,3 +11,14 @@ smaato.com, 1100006126, RESELLER, 07bcf65f187117b4
 smaato.com, 1100027629, RESELLER, 07bcf65f187117b4
 pubmatic.com, 116521, RESELLER, 5d62403b186f2ace
 pubmatic.com, 126340, RESELLER, 5d62403b186f2ace
+onetag.com, 7b7048166127e4c, DIRECT
+onetag.com, 7b7048166127e4c-OB, DIRECT
+appnexus.com, 13099, RESELLER
+pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 22884, RESELLER, 0bfd66d529a55807
+uis.mobfox.com, 2158, DIRECT, 5529a3d1f59865be
+pubmatic.com, 156451, RESELLER, 5d62403b186f2ace
+contextweb.com, 562757, RESELLER, 89ff185a4c4e857c
+vidoomy.com, 6858194, RESELLER
+adform.com, 2742, RESELLER
