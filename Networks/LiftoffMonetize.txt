@@ -1,4 +1,4 @@
-#=== LiftoffMonetize Jan 31, 2024
+#=== LiftoffMonetize Feb 26, 2024
 vungle.com, 5730c2af2270cba25f000066, DIRECT, c107d686becd2d77
 vungle.com, 5c657afed9e6e60012bab5d9, DIRECT, c107d686becd2d77
 152media.info, 152m312, RESELLER
@@ -83,6 +83,7 @@ google.com, pub-4568609371004228, RESELLER, f08c47fec0942fa0
 google.com, pub-7214269347534569, RESELLER, f08c47fec0942fa0
 google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
 gothamads.com, 1236, RESELLER, d9c86e5dec870222
+growintech.co, 2723d092b63885e0d7c260cc007e8b9d2393g, RESELLER, 9d8dfe5c6b00fb37
 hyperad.tech, 172, RESELLER
 ignitemediatech.com, pub_11114, RESELLER
 ignitemediatech.com, pub_61112, RESELLER
@@ -111,7 +112,6 @@ inmobi.com, f3924290136e4129a5c082ff982c3a58, RESELLER, 83e75a7ae333ca9d
 inmobi.com, f71b28e30a8249c3b08a9bca1a5cfbb7, RESELLER, 83e75a7ae333ca9d
 iqzone.com, iq39, RESELLER
 iqzone.com, iq97, RESELLER
-lacunads.com, lcc6b8b1c8aca38e6f, DIRECT
 loopme.com, 10999, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11322, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
@@ -146,6 +146,7 @@ openx.com, 540646187, RESELLER, 6a698e2ec38604c6
 openx.com, 540679900, RESELLER, 6a698e2ec38604c6
 openx.com, 541031350, RESELLER, 6a698e2ec38604c6
 openx.com, 544096208, RESELLER, 6a698e2ec38604c6
+opera.com, pub4366595624320, RESELLER, 55a0c5fd61378de3
 opera.com, pub4444433466368, RESELLER, 55a0c5fd61378de3
 opera.com, pub5925993551616, RESELLER, 55a0c5fd61378de3
 opera.com, pub7275292332480, RESELLER, 55a0c5fd61378de3
@@ -267,7 +268,6 @@ ucfunnel.com, par-aa7b236ba32dd484c838e249362437b8, RESELLER
 uis.mobfox.com, 1750, RESELLER, 5529a3d1f59865be
 unrulymedia.com, 2464975885, RESELLER
 unrulymedia.com, 689559416, RESELLER
-ushareit.com, lcc6b8b1c8aca38e6f, DIRECT
 verve.com, 14619, RESELLER, 0c8f5958fc2d6270
 verve.com, 15503, RESELLER, 0c8f5958fc2d6270
 video.unrulymedia.com, 123476257, RESELLER

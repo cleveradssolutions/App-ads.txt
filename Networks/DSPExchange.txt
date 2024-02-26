@@ -1,4 +1,4 @@
-#=== DSPExchange Jan 31, 2024
+#=== DSPExchange Feb 26, 2024
 a4g.com, 14245, DIRECT
 152media.info, 152m50, RESELLER
 152media.info, 152m620, RESELLER
@@ -97,6 +97,7 @@ engagebdr.com, 16, RESELLER
 engagebdr.com, 7, RESELLER
 engagebdr.com, 84, RESELLER
 eskimi.com, eas-2020000005, RESELLER
+foxpush.com, 11233319, DIRECT
 freewheel.tv, 20393, RESELLER, 74e8e47458f74754
 freewheel.tv, 24377, RESELLER, 74e8e47458f74754
 gamaigroup.com, 320201, RESELLER
@@ -114,7 +115,9 @@ google.com, pub-5610649146674306, RESELLER, f08c47fec0942fa0
 google.com, pub-5938970922136226, RESELLER, f08c47fec0942fa0
 google.com, pub-6075174367631946, RESELLER, f08c47fec0942fa0
 google.com, pub-7710996147715002, RESELLER, f08c47fec0942fa0
+google.com, pub-8113799588685394, RESELLER, f08c47fec0942fa0
 google.com, pub-8129348556359650, RESELLER, f08c47fec0942fa0
+google.com, pub-8541583196492976, RESELLER, f08c47fec0942fa0
 google.com, pub-9977401292436073, RESELLER, f08c47fec0942fa0
 hyperad.tech, 221, RESELLER
 improvedigital.com, 1532, RESELLER
