@@ -247,3 +247,9 @@ media.net, 8CUN37DCC, RESELLER
 pokkt.com, 7606, RESELLER, c45702d9311e25fd
 appads.in, 107606, RESELLER
 pubmatic.com, 163560, RESELLER, 5d62403b186f2ace
+opera.com,pub10832153240576,DIRECT,55a0c5fd61378de3
+axonix.com, 59089, RESELLER, bc385f2b4a87b721
+improvedigital.com, 2276, RESELLER
+onetag.com,82e44d118b79600,DIRECT
+conversantmedia.com, 100269, RESELLER, 03113cd04947736d
+vidoomy.com, 4930225, RESELLER

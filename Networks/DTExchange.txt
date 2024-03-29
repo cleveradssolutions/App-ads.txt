@@ -1,4 +1,4 @@
-#=== DTExchange Feb 26, 2024
+#=== DTExchange Mar 29, 2024
 fyber.com, 214373, DIRECT
 acd.op.hicloud.com, pub_hw_1003, RESELLER
 adform.com, 2688, RESELLER, 9f5210a2f0999e32
@@ -64,7 +64,7 @@ lunamedia.io, vaiwtx4prucygk6uuevk13ywmjolbi5yun, RESELLER, 524ecb396915caaf
 mars.media, 103116, RESELLER, 8624339f102fb076
 media.net, 8cusd50rh, RESELLER
 mediaverse.ai, 302149932, RESELLER
-onetag.com, 82e44d118b79600, RESELLER
+onetag.com, 82e44d118b79600, DIRECT
 openx.com, 537153564, RESELLER, 6a698e2ec38604c6
 openx.com, 539315083, RESELLER, 6a698e2ec38604c6
 openx.com, 540298543, RESELLER, 6a698e2ec38604c6
@@ -85,6 +85,7 @@ pubmatic.com, 160113, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160145, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160493, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161136, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161162, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161368, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161372, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161771, RESELLER, 5d62403b186f2ace
@@ -112,6 +113,7 @@ rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 22412, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24204, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24362, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24448, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 25966, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26064, RESELLER, 0bfd66d529a55807
@@ -131,6 +133,7 @@ smartadserver.com, 4762, RESELLER, 060d053dcf45cbf3
 smartclip.net, 14275, RESELLER
 smartstream.tv, 679, RESELLER
 sonobi.com, f23858a5df, RESELLER, d1a215d9eb5aee9e
+start.io, 170705356, RESELLER
 startapp.com, inr, RESELLER
 thebrave.io, 1234585, RESELLER, c25b2154543746ac
 thebrave.io, 1234598, RESELLER, c25b2154543746ac
@@ -141,10 +144,13 @@ thunder-monetize.com, 9550919845, RESELLER
 tredio.io, 357a6fdf7642bf815a88822c447d9dc433546, RESELLER
 triplelift.com, 11000, RESELLER, 6c33edb13117fd86
 triplelift.com, 12158, RESELLER, 6c33edb13117fd86
+triplelift.com, 13042, RESELLER, 6c33edb13117fd86
 triplelift.com, 8844, RESELLER, 6c33edb13117fd86
 tubia.com, 40104, RESELLER
+ucfunnel.com, par-6272b92a28d87a77ce3e44d466486424, RESELLER
 undertone.com, 4102, RESELLER
 verve.com, 14592, RESELLER, 0c8f5958fc2d6270
+video.unrulymedia.com, 2464975885, RESELLER
 video.unrulymedia.com, 2613193077, RESELLER
 video.unrulymedia.com, 322585001, RESELLER
 video.unrulymedia.com, 498216989, RESELLER
@@ -156,15 +162,19 @@ video.unrulymedia.com, 831638248788941126, RESELLER
 videoheroes.tv, 212504, RESELLER, 064bc410192443d8
 vidoomy.com, 4930225, RESELLER
 visiblemeasures.com, 1078, RESELLER
+webeyemob.com, 70170, RESELLER
+webeyemob.com, 80066, RESELLER
 xad.com, 556, RESELLER, 81cbf0a75a5e0e9a
 xandr.com, 13709, RESELLER, f5ab79cb980f11d1
 xandr.com, 13799, RESELLER, f5ab79cb980f11d1
 xandr.com, 15278, RESELLER, f5ab79cb980f11d1
 xandr.com, 15426, RESELLER, f5ab79cb980f11d1
+xandr.com, 15670, RESELLER, f5ab79cb980f11d1
 xapads.com, 132485, RESELLER
 yahoo.com, 59333, RESELLER, e1a5b5b6e3255540
 yahoo.com, 59781, RESELLER, e1a5b5b6e3255540
 yeahmobi.com, 107432, RESELLER
+yeahmobi.com, 111110, RESELLER
 yeahmobi.com, 5135535, RESELLER
 yieldlab.net, 15465081, RESELLER
 zetaglobal.net, 525, RESELLER
