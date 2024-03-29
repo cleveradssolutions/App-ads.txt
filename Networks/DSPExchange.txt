@@ -1,4 +1,4 @@
-#=== DSPExchange Feb 26, 2024
+#=== DSPExchange Mar 29, 2024
 a4g.com, 14245, DIRECT
 152media.info, 152m50, RESELLER
 152media.info, 152m620, RESELLER
@@ -56,6 +56,7 @@ aralego.com, par-d2346aab7abd36b4cdd7bbd264ba92e2, RESELLER
 axonix.com, 55724, RESELLER, bc385f2b4a87b721
 axonix.com, 57264, RESELLER, bc385f2b4a87b721
 axonix.com, 57716, RESELLER, bc385f2b4a87b721
+axonix.com, 59089, RESELLER, bc385f2b4a87b721
 beapup.com, 544587, RESELLER
 betweendigital.com, 44077, RESELLER
 betweendigital.com, 44088, RESELLER
@@ -124,6 +125,7 @@ improvedigital.com, 1532, RESELLER
 improvedigital.com, 1795, RESELLER
 improvedigital.com, 1879, RESELLER
 improvedigital.com, 1969, RESELLER
+improvedigital.com, 2276, RESELLER
 indexexchange.com, 184738, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 191332, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 194730, RESELLER, 50b1c356f2c5c8fc
@@ -165,6 +167,7 @@ onetag.com, 5adaad445a0a050, DIRECT
 onetag.com, 5adaad445a0a050-ob, DIRECT
 onetag.com, 7b7048166127e4c, DIRECT
 onetag.com, 7b7048166127e4c-ob, DIRECT
+onetag.com, 82e44d118b79600, DIRECT
 onetag.com, 52a5b73146950c0, RESELLER
 onetag.com, 59aa7be4921bac8, RESELLER
 onetag.com, 77cc0899358027b, RESELLER
@@ -183,6 +186,7 @@ openx.com, 540857594, RESELLER, 6a698e2ec38604c6
 openx.com, 540866936, RESELLER, 6a698e2ec38604c6
 openx.com, 541056459, RESELLER, 6a698e2ec38604c6
 openx.com, 542117415, RESELLER, 6a698e2ec38604c6
+opera.com, pub10832153240576, DIRECT, 55a0c5fd61378de3
 opera.com, pub8613009987200, DIRECT, 55a0c5fd61378de3
 opera.com, pub5865193350528, RESELLER, 55a0c5fd61378de3
 opera.com, pub6871903319744, RESELLER, 55a0c5fd61378de3
@@ -359,6 +363,7 @@ video.unrulymedia.com, 564934834, RESELLER
 video.unrulymedia.com, 6694405583287859332, RESELLER
 video.unrulymedia.com, 831445555, RESELLER
 videoheroes.tv, 212430, RESELLER, 064bc410192443d8
+vidoomy.com, 4930225, RESELLER
 vidoomy.com, 60653, RESELLER
 vidoomy.com, 6858194, RESELLER
 vidoomy.com, 9783712, RESELLER

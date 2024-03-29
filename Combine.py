@@ -30,6 +30,7 @@ _SOURCES = [
     "Bigo.txt",
     "myTarget.txt",
     "DSPExchange.txt",
+    "Madex.txt",
     "HyprMX.txt",
     "Smaato.txt",
 ]
