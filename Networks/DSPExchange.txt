@@ -1,4 +1,4 @@
-#=== DSPExchange Mar 29, 2024
+#=== DSPExchange Apr 11, 2024
 a4g.com, 14245, DIRECT
 152media.info, 152m50, RESELLER
 152media.info, 152m620, RESELLER
@@ -139,6 +139,7 @@ iqzone.com, iq87, RESELLER
 lemmatechnologies.com, 89, RESELLER, 7829010c5bebd1fb
 lijit.com, 245137, RESELLER, fafdf38b16bf6b2b
 lijit.com, 245137-eb, RESELLER, fafdf38b16bf6b2b
+lijit.com, 465542, RESELLER, fafdf38b16bf6b2b
 lkqd.net, 626, RESELLER, 59c49fa9598a0117
 loopme.com, 11228, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11322, RESELLER, 6c8d5f95897a5a3b
@@ -187,6 +188,7 @@ openx.com, 540866936, RESELLER, 6a698e2ec38604c6
 openx.com, 541056459, RESELLER, 6a698e2ec38604c6
 openx.com, 542117415, RESELLER, 6a698e2ec38604c6
 opera.com, pub10832153240576, DIRECT, 55a0c5fd61378de3
+opera.com, pub10908243052672, DIRECT, 55a0c5fd61378de3
 opera.com, pub8613009987200, DIRECT, 55a0c5fd61378de3
 opera.com, pub5865193350528, RESELLER, 55a0c5fd61378de3
 opera.com, pub6871903319744, RESELLER, 55a0c5fd61378de3
@@ -236,6 +238,7 @@ pubmatic.com, 161372, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161373, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161748, RESELLER, 5d62403b186f2ace
+pubmatic.com, 163420, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163560, RESELLER, 5d62403b186f2ace
 pubnative.net, 1006576, RESELLER, d641df8625486a7b
 pubnative.net, 1006951, RESELLER, d641df8625486a7b
@@ -305,6 +308,7 @@ smartadserver.com, 4016, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4071, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4072, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4111, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4140, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4190, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4202, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4210, RESELLER, 060d053dcf45cbf3
@@ -321,6 +325,7 @@ smartyads.com, 1272, RESELLER, fd2bde0ff2e62c5d
 smartyads.com, 478, RESELLER, fd2bde0ff2e62c5d
 sonobi.com, 7b37f8ccbc, RESELLER, d1a215d9eb5aee9e
 sonobi.com, 87555b1b39, RESELLER, d1a215d9eb5aee9e
+sonobi.com, a85c5f6129, RESELLER, d1a215d9eb5aee9e
 sonobi.com, cc3858f35e, RESELLER, d1a215d9eb5aee9e
 sonobi.com, eaec54c63f, RESELLER, d1a215d9eb5aee9e
 spotx.tv, 151986, RESELLER, 7842df1d2fe2db34
