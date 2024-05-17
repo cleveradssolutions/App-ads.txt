@@ -1,38 +1,25 @@
-#=== Kidoz Dec 19, 2023
+#=== Kidoz May 17, 2024
 kidoz.net, 11645, DIRECT, a109366414b7335e
-smartclip.net, 13564, RESELLER
-152media.info, 152m324, RESELLER
 aniview.com, 5f2063121d82c82557194737, RESELLER, 78b21b97965ec3f8
 appnexus.com, 11826, RESELLER, f5ab79cb980f11d1
-appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
-appnexus.com, 13363, RESELLER, f5ab79cb980f11d1
 appnexus.com, 3584, RESELLER, f5ab79cb980f11d1
 appnexus.com, 806, RESELLER, f5ab79cb980f11d1
-e-planning.net, acb21c99c0c98b46, RESELLER, c1ba615865ed87b2
-emxdgt.com, 1972, RESELLER, 1e1d41537f7cad7f
-freewheel.tv, 1389714, RESELLER
-freewheel.tv, 1389746, RESELLER
-freewheel.tv, 187721, RESELLER
-freewheel.tv, 187865, RESELLER
-freewheel.tv, 196129, RESELLER
-freewheel.tv, 196145, RESELLER
+freewheel.tv, 187721, RESELLER, 74e8e47458f74754
+freewheel.tv, 187865, RESELLER, 74e8e47458f74754
+freewheel.tv, 196129, RESELLER, 74e8e47458f74754
+freewheel.tv, 196145, RESELLER, 74e8e47458f74754
 google.com, pub-1386280613967939, RESELLER, f08c47fec0942fa0
-google.com, pub-1513287762611009, RESELLER, f08c47fec0942fa0
 google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa0
 google.com, pub-5781531207509232, RESELLER, f08c47fec0942fa0
 google.com, pub-6437111524977299, RESELLER, f08c47fec0942fa0
 improvedigital.com, 1604, RESELLER
 improvedigital.com, 2052, RESELLER
 improvedigital.com, 22852136, RESELLER
-indexexchange.com, 196447, RESELLER, 50b1c356f2c5c8fc
-leanback.digital, ess-c130, RESELLER, b1d30350acaf0176
 playwire.com, 1018531, RESELLER
 pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159659, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160222, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160536, RESELLER, 5d62403b186f2ace
-pubmatic.com, 161112, RESELLER, 5d62403b186f2ace
-pubmatic.com, 161599, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 12556, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 13762, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 14980, RESELLER, 0bfd66d529a55807
@@ -40,7 +27,7 @@ rubiconproject.com, 17902, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 18202, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 20152, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 20182, RESELLER, 0bfd66d529a55807
-safex.tv, 5004, RESELLER
+smartclip.net, 13564, RESELLER
 spotx.tv, 101831, RESELLER, 7842df1d2fe2db34
 spotx.tv, 141412, RESELLER, 7842df1d2fe2db34
 spotx.tv, 149886, RESELLER, 7842df1d2fe2db34
@@ -52,7 +39,6 @@ spotxchange.com, 149886, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 287468, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 71426, RESELLER, 7842df1d2fe2db34
 superawesome.tv, 177, RESELLER, 706a53c9da3b4cee
-synacor.com, 82510, RESELLER, e108f11b2cdf7d5b
 venatusmedia.com, 607eeeb6a1ede81658152b4f, RESELLER
 video.unrulymedia.com, 995298565, RESELLER
 xandr.com, 7445, RESELLER, f5ab79cb980f11d1
