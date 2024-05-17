@@ -33,6 +33,7 @@ _SOURCES = [
     "Madex.txt",
     "HyprMX.txt",
     "Smaato.txt",
+    "StartIO.txt",
 ]
 _BANS = [
     # (Reserved by Network name, Banned domain for other Networks)
