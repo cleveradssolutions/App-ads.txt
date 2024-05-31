@@ -1,26 +1,26 @@
-# DSP
+## Aceex DSP (Internal)
 aceex.io, 1608, DIRECT, b1cf3c874d5c6682
 adform.com, 3062, RESELLER, 9f5210a2f0999e323062
 outbrain.com, 00e64972b5333d661db74cdc50be7ce364, DIRECT
 Xandr.com, 13167, RESELLER
 hcodemedia.com, 585, DIRECT
 amxrtb.com, 105199642, DIRECT
-xandr.com, 7847 , RESELLER, f5ab79cb980f11d1
+xandr.com, 7847, RESELLER, f5ab79cb980f11d1
 themediagrid.com, HIFRLS, DIRECT, 35d5010d7789b49d
 152media.info, 152M238, RESELLER
 appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
 inmobi.com, 7f1234e2a50f4aaaac5a4bf2f0b62ac1, RESELLER, 83e75a7ae333ca9d
-fromthetop.io,65407,DIRECT
-opera.com,pub8465640532754,RESELLER
-vidoomy.com,5498575,RESELLER
-brightcom.com,73523,RESELLER
-video.unrulymedia.com,123479258,RESELLER
+fromthetop.io, 65407, DIRECT
+opera.com, pub8465640532754, RESELLER
+vidoomy.com, 5498575, RESELLER
+brightcom.com, 73523, RESELLER
+video.unrulymedia.com, 123479258,RESELLER
 criteo.com, B-071797, DIRECT, 9fac4a4a87c2a44f
 themediagrid.com, SH96GF, DIRECT, 35d5010d7789b49d
 pubmatic.com, 162458, RESELLER, 5d62403b186f2ace
 video.unrulymedia.com, 124775993, RESELLER
 improvedigital.com, 2424, RESELLER
-hindsightsolutions.net ,323-b5850 ,DIRECT ,20e30b2ae1f670f2
-152media.info,152M890,RESELLER
-toponad.com,1660506186838c,DIRECT,1d49fe424a1a456d
-pubmatic.com,162968,RESELLER,5d62403b186f2ace
+hindsightsolutions.net, 323-b5850, DIRECT, 20e30b2ae1f670f2
+152media.info,152M890, RESELLER
+toponad.com, 1660506186838c, DIRECT, 1d49fe424a1a456d
+pubmatic.com, 162968, RESELLER, 5d62403b186f2ace
