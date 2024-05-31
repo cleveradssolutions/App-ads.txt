@@ -240,10 +240,10 @@ spotxchange.com, 271911, RESELLER, 7842df1d2fe2db34
 ssp.e-volution.ai, ajxf6r111a9m6catvk, RESELLER
 start.io, mgr, RESELLER
 synacor.com, 82460, RESELLER, e108f11b2cdf7d5b
-themediagrid.com, 6xgfyq, RESELLER, 35d5010d7789b49d
+themediagrid.com, 6xgfyq, DIRECT, 35d5010d7789b49d
 themediagrid.com, fh3tkj, RESELLER, 35d5010d7789b49d
 themediagrid.com, ng9stc, RESELLER, 35d5010d7789b49d
-themediagrid.com, r28i9j, RESELLER, 35d5010d7789b49d
+themediagrid.com, r28i9j, DIRECT, 35d5010d7789b49d
 tpmn.io, 415, RESELLER
 tpmn.io, 472, RESELLER
 triplelift.com, 10522, RESELLER, 6c33edb13117fd86

@@ -31,7 +31,7 @@ bidmachine.io, 113, RESELLER
 bidmachine.io, 114, RESELLER
 bidmachine.io, 162, RESELLER
 bidmachine.io, 67, RESELLER
-contextweb.com, 159668, RESELLER, 5d62403b186f2ace
+contextweb.com, 159668, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562791, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562827, RESELLER, 89ff185a4c4e857c
@@ -161,7 +161,7 @@ thebrave.io, 1234634, RESELLER, c25b2154543746ac
 thebrave.io, 1234678, RESELLER, c25b2154543746ac
 thebrave.io, 9840732, RESELLER, c25b2154543746ac
 themediagrid.com, fh3tkj, RESELLER, 35d5010d7789b49d
-themediagrid.com, r28i9j, RESELLER, 35d5010d7789b49d
+themediagrid.com, r28i9j, DIRECT, 35d5010d7789b49d
 themediagrid.com, swh94x, RESELLER, 35d5010d7789b49d
 toponad.com, 165535463cfb70, RESELLER, 1d49fe424a1a456d
 tredio.io, 357a6fdf7642bf815a88822c447d9dc433546, RESELLER
@@ -177,7 +177,7 @@ video.unrulymedia.com, 3630748062, RESELLER
 video.unrulymedia.com, 392157850, RESELLER
 video.unrulymedia.com, 819070080, RESELLER
 videoheroes.tv, 212499, RESELLER, 064bc410192443d8
-vidoomy.com, 7646534, RESELLER
+vidoomy.com, 7646534, DIRECT
 webeyemob.com, 70097, RESELLER
 webeyemob.com, 70104, RESELLER
 xandr.com, 13167, RESELLER, f5ab79cb980f11d1
