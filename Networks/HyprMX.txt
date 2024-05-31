@@ -1,4 +1,5 @@
 #=== HyprMX May 31, 2024
+hyprmx.com, 27570864242, DIRECT, 79540da20c07237e
 152media.info, 152m499, RESELLER
 152media.info, 152m5, RESELLER
 152media.info, 152m634, RESELLER
@@ -49,7 +50,6 @@ google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
 google.com, pub-7734005103835923, RESELLER, f08c47fec0942fa0
 google.com, pub-7983651257838282, RESELLER, f08c47fec0942fa0
 greedygame.com, 5437386, RESELLER
-hyprmx.com, 27570864242, DIRECT, 79540da20c07237e
 improvedigital.com, 1210, RESELLER
 improvedigital.com, 1221, RESELLER
 improvedigital.com, 1231, RESELLER
