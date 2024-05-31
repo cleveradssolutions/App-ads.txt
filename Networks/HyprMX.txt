@@ -1,5 +1,5 @@
-#=== HyprMX May 17, 2024
-hyprmx.com, 25810370412, DIRECT, 79540da20c07237e
+#=== HyprMX May 31, 2024
+hyprmx.com, 27570864242, DIRECT, 79540da20c07237e
 152media.info, 152m499, RESELLER
 152media.info, 152m5, RESELLER
 152media.info, 152m634, RESELLER
@@ -10,7 +10,7 @@ admanmedia.com, 2029, RESELLER
 admixer.net, 811ebfe8-dec8-415c-aa1f-233c921d9176, RESELLER
 adswizz.com, consumable, RESELLER
 adsyield.com, 1063, RESELLER
-apg.digital, 25810370412, DIRECT, 79540da20c07237e
+apg.digital, 27570864242, DIRECT, 79540da20c07237e
 appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12223, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13359, RESELLER, f5ab79cb980f11d1
@@ -65,7 +65,7 @@ inmobi.com, 7f1234e2a50f4aaaac5a4bf2f0b62ac1, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 94262e51745c4a88863d51a61d0af6b6, RESELLER, 83e75a7ae333ca9d
 inmobi.com, f9fc3fd2821341efa80bda83c6e92990, RESELLER, 83e75a7ae333ca9d
 iqzone.com, iq135, RESELLER
-jungroup.com, 25810370412, DIRECT, 79540da20c07237e
+jungroup.com, 27570864242, DIRECT, 79540da20c07237e
 krushmedia.com, ajxf6r490a9m6catvk, RESELLER
 leanback.digital, 567824, RESELLER, b1d30350acaf0176
 lijit.com, 245697, RESELLER, fafdf38b16bf6b2b

@@ -1,7 +1,8 @@
-#=== DSPExchange Apr 11, 2024
+#=== DSPExchange May 31, 2024
 a4g.com, 14245, DIRECT
 152media.info, 152m50, RESELLER
 152media.info, 152m620, RESELLER
+152media.info, 152m890, RESELLER
 33across.com, 0013300001kqj2haas, RESELLER, bbea06d9c4d2853c
 acexchange.co.kr, 1416775282, RESELLER
 adcolony.com, 197af3936679d34e, RESELLER, 1ad675c9de6b5176
@@ -67,6 +68,7 @@ bidmachine.io, 59, RESELLER
 bksn.se, 9d7a47c4-cfb9-4828-a4fb-7c328d69464b, RESELLER
 blis.com, 33, RESELLER, 61453ae19a4b73f4
 brightcom.com, 20447, DIRECT
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562569, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562757, RESELLER, 89ff185a4c4e857c
@@ -120,12 +122,15 @@ google.com, pub-8113799588685394, RESELLER, f08c47fec0942fa0
 google.com, pub-8129348556359650, RESELLER, f08c47fec0942fa0
 google.com, pub-8541583196492976, RESELLER, f08c47fec0942fa0
 google.com, pub-9977401292436073, RESELLER, f08c47fec0942fa0
+hindsightsolutions.net, 323-b5850, DIRECT, 20e30b2ae1f670f2
 hyperad.tech, 221, RESELLER
 improvedigital.com, 1532, RESELLER
 improvedigital.com, 1795, RESELLER
 improvedigital.com, 1879, RESELLER
 improvedigital.com, 1969, RESELLER
 improvedigital.com, 2276, RESELLER
+improvedigital.com, 2417, RESELLER
+improvedigital.com, 2424, RESELLER
 indexexchange.com, 184738, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 191332, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 194730, RESELLER, 50b1c356f2c5c8fc
@@ -137,6 +142,7 @@ inmobi.com, cb6a6239dfec478f818c1ffca00ca440, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 3a4f7da341dd490cbb7dde02b126275e, RESELLER, 83e75a7ae333ca9d
 iqzone.com, iq87, RESELLER
 lemmatechnologies.com, 89, RESELLER, 7829010c5bebd1fb
+lemmatechnologies.com, 942, RESELLER, 7829010c5bebd1fb
 lijit.com, 245137, RESELLER, fafdf38b16bf6b2b
 lijit.com, 245137-eb, RESELLER, fafdf38b16bf6b2b
 lijit.com, 465542, RESELLER, fafdf38b16bf6b2b
@@ -238,6 +244,8 @@ pubmatic.com, 161372, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161373, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161748, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162458, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162968, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163420, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163560, RESELLER, 5d62403b186f2ace
 pubnative.net, 1006576, RESELLER, d641df8625486a7b
@@ -318,6 +326,8 @@ smartadserver.com, 4322, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4497, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4497-ob, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4694-ob, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4941, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4941-ob, RESELLER, 060d053dcf45cbf3
 smartclip.net, 10870, RESELLER
 smartclip.net, 12358, RESELLER
 smartyads.com, 100025, RESELLER, fd2bde0ff2e62c5d
@@ -344,6 +354,7 @@ themediagrid.com, fh3tkj, RESELLER, 35d5010d7789b49d
 themediagrid.com, irk975, RESELLER, 35d5010d7789b49d
 themediagrid.com, pltxge, RESELLER, 35d5010d7789b49d
 themediagrid.com, yupm3v, RESELLER, 35d5010d7789b49d
+toponad.com, 1660506186838c, DIRECT, 1d49fe424a1a456d
 tpmn.io, 415, RESELLER
 triplelift.com, 11656, RESELLER, 6c33edb13117fd86
 triplelift.com, 12193, RESELLER, 6c33edb13117fd86
@@ -360,6 +371,7 @@ verve.com, 15503, RESELLER, 0c8f5958fc2d6270
 verve.com, 5897, RESELLER, 0c8f5958fc2d6270
 video.unrulymedia.com, 123476257, RESELLER
 video.unrulymedia.com, 1244444110, RESELLER
+video.unrulymedia.com, 124775993, RESELLER
 video.unrulymedia.com, 144481089, RESELLER
 video.unrulymedia.com, 188404962, RESELLER
 video.unrulymedia.com, 2564526802, RESELLER

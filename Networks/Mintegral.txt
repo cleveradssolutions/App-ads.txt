@@ -1,4 +1,4 @@
-#=== Mintegral May 17, 2024
+#=== Mintegral May 31, 2024
 mintegral.com, 25008, DIRECT, 0aeed750c80d6423
 acd.op.hicloud.com, pub_hw_1003, RESELLER
 aceex.io, 1697, RESELLER, b1cf3c874d5c6682
@@ -132,7 +132,6 @@ contextweb.com, 562878, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562954, RESELLER, 89ff185a4c4e857c
 contextweb.com, 563017, RESELLER, 89ff185a4c4e857c
 contextweb.com, 563195, RESELLER, 89ff185a4c4e857c
-contextweb.com, 563265, RESELLER, 89ff185a4c4e857c
 conversantmedia.com, 100097, RESELLER, 03113cd04947736d
 conversantmedia.com, 100246, RESELLER, 03113cd04947736d
 conversantmedia.com, 100293, RESELLER, 03113cd04947736d
@@ -172,7 +171,6 @@ freewheel.tv, 1235279, RESELLER, 74e8e47458f74754
 freewheel.tv, 1585279, RESELLER, 74e8e47458f74754
 freewheel.tv, 1601610, RESELLER, 74e8e47458f74754
 freewheel.tv, 1601613, RESELLER, 74e8e47458f74754
-freewheel.tv, 1603124, RESELLER, 74e8e47458f74754
 freewheel.tv, 741650, RESELLER, 74e8e47458f74754
 gitberry.com, 325100011, RESELLER
 gitberry.com, 325100012, RESELLER
@@ -278,6 +276,7 @@ mediafuse.com, 316569, RESELLER
 meitu.com, 654, RESELLER
 meitu.com, 663, RESELLER
 meitu.com, 699, RESELLER
+mintegral.com, your publisherid, DIRECT, 0aeed750c80d6423
 myfeature.tv, uvnxhumzhrvkfrk52qzy, RESELLER
 newsusadigital.com, 1001719521, RESELLER
 nobid.io, 22388449880, RESELLER
