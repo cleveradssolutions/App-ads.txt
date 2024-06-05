@@ -1,4 +1,4 @@
-# CAS.ai Updated Jun 03, 2024, support@cleveradssolutions.com
+# CAS.ai Updated May 31, 2024, support@cleveradssolutions.com
 #=== GoogleAds Sep 01, 2023
 google.com, pub-1022958838828668, DIRECT, f08c47fec0942fa0
 google.com, pub-2532668741646097, DIRECT, f08c47fec0942fa0
@@ -117,7 +117,7 @@ rubiconproject.com, 23644, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 23674, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24170, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24362, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 24400, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 25872, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26292, RESELLER, 0bfd66d529a55807
 sharethrough.com, f0oqso2j, RESELLER, d53b998a7bd4ecd2
@@ -1603,17 +1603,15 @@ target.vk.ru, 3584173, DIRECT
 ushareit.com, 3584173, DIRECT
 video.unrulymedia.com, 3880497124, RESELLER
 yeahmobi.com, 113772, RESELLER
-#=== DSPExchange Jun 03, 2024
+#=== DSPExchange May 31, 2024
 a4g.com, 14245, DIRECT
 152media.info, 152m50, RESELLER
 152media.info, 152m620, RESELLER
 152media.info, 152m890, RESELLER
 33across.com, 0013300001kqj2haas, RESELLER, bbea06d9c4d2853c
-aceex.io, 1834, DIRECT, b1cf3c874d5c6682
 adcolony.com, 197af3936679d34e, RESELLER, 1ad675c9de6b5176
 adform.com, 2753, RESELLER, 9f5210a2f0999e32
 adform.com, 2795, RESELLER, 9f5210a2f0999e32
-adform.com, 3062, RESELLER, 9f5210a2f0999e32
 adingo.jp, 28793, RESELLER
 admanmedia.com, 43, RESELLER
 admixer.co.kr, 1511, RESELLER
@@ -1686,7 +1684,6 @@ indexexchange.com, 198783, RESELLER, 50b1c356f2c5c8fc
 inmobi.com, 445a21be4613492a9545763b8c4bc548, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 725952799f9b44528379f442e9fe91dc, DIRECT, 83e75a7ae333ca9d
 inmobi.com, cb6a6239dfec478f818c1ffca00ca440, DIRECT, 83e75a7ae333ca9d
-inmobi.com, c3a13084114844a49580797573464536, RESELLER, 83e75a7ae333ca9d
 lemmatechnologies.com, 942, RESELLER, 7829010c5bebd1fb
 lijit.com, 245137, RESELLER, fafdf38b16bf6b2b
 lijit.com, 245137-eb, RESELLER, fafdf38b16bf6b2b
@@ -1737,7 +1734,6 @@ pubmatic.com, 161332, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162458, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163560, RESELLER, 5d62403b186f2ace
-pubmatic.com, 164735, RESELLER, 5d62403b186f2ace
 reklamup.com, 5363011148, DIRECT
 rhythmone.com, 188404962, RESELLER, a670c89d4a324e47
 rhythmone.com, 2564526802, RESELLER, a670c89d4a324e47
@@ -1812,9 +1808,8 @@ videoheroes.tv, 212430, RESELLER, 064bc410192443d8
 vidoomy.com, 60653, RESELLER
 vidoomy.com, 9783712, RESELLER
 waardex.com, 197122, DIRECT
-waardex.com, 204496, DIRECT
+xandr.com, 13117, DIRECT, f5ab79cb980f11d1
 xandr.com, 11924, RESELLER, f5ab79cb980f11d1
-xandr.com, 13117, RESELLER, f5ab79cb980f11d1
 yahoo.com, 55032, RESELLER, e1a5b5b6e3255540
 yahoo.com, 55681, RESELLER, e1a5b5b6e3255540
 yahoo.com, 56860, RESELLER, e1a5b5b6e3255540
@@ -1828,7 +1823,6 @@ madex.world, 2d576ffe-e44c-494f-95ed-f0ff3a07f9b8, DIRECT
 yabbi.me, 675d9254-4032-47ed-9074-b6ef4dbab522, DIRECT
 betweendigital.com, 43713, RESELLER
 #=== HyprMX May 31, 2024
-hyprmx.com, 27570864242, DIRECT, 79540da20c07237e
 152media.info, 152m5, RESELLER
 152media.info, 152m634, RESELLER
 adcolony.com, 8404137bc8673e51, RESELLER, 1ad675c9de6b5176
@@ -1864,6 +1858,7 @@ freewheel.tv, 1581210, RESELLER, 74e8e47458f74754
 getmediamx.com, 1215801, RESELLER
 google.com, pub-7734005103835923, RESELLER, f08c47fec0942fa0
 greedygame.com, 5437386, RESELLER
+hyprmx.com, 27570864242, DIRECT, 79540da20c07237e
 improvedigital.com, 1221, RESELLER
 improvedigital.com, 1231, RESELLER
 improvedigital.com, 1341, RESELLER
