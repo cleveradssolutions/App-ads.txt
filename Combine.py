@@ -11,6 +11,7 @@ _RESULT_FILE = "app-ads.txt"
 _TEMP_FILE = "TempUpdate.txt"
 _ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 _NETS_DIR_NAME = "Networks"
+_DSP_DIR_NAME = "InternalExchange"
 
 _SOURCES = [ 
     "GoogleAds.txt",
@@ -40,6 +41,8 @@ _BANS = [
     #("AdMob", "google.com")
 ]
 _DOMAIN_PATTERN = re.compile("^([a-z0-9-]{1,63}\.)+[a-z]{2,9}\Z")
+_ID_PATTERN = re.compile("^[a-zA-Z0-9-_]+$")
+_CERTIFICATE_PATTERN = re.compile("^[a-zA-Z0-9]+$")
 
 inventorySet = set()
 certificateMap = dict()
@@ -108,12 +111,14 @@ class Inventory:
             fatal_error("Invalid pattern in " + source + ". Must be RESELLER or DIRECT only.", line)
 
         self.identifier = pattern[1].strip().lower()
+        if not re.match(_ID_PATTERN, self.identifier):
+            fatal_error("Invalid publisher id in " + source, line)
 
         if len(pattern) == 4:
             certification = pattern[3].split('#')[0].strip().lower()
             if certification:
                 self.certification = certification
-                if len(certification) != 9 and len(certification) != 16:
+                if (len(certification) != 9 and len(certification) != 16) or not re.match(_CERTIFICATE_PATTERN, self.certification):
                     if self.domain in certificateMap:
                         fatal_error("Certification authority ID for " + self.domain + " is " + certificateMap[self.domain], line)
                     else:    
@@ -227,7 +232,9 @@ def update(networkName, force):
 
     netFile = os.path.join(_ROOT_DIR, _NETS_DIR_NAME, networkName + ".txt")
     if not os.path.exists(netFile):
-        fatal_error("Unknown network name: " + networkName)
+        netFile = os.path.join(_ROOT_DIR, _DSP_DIR_NAME, networkName + ".txt")
+        if not os.path.exists(netFile):
+            fatal_error("Unknown network name: " + networkName)
 
     with open(netFile, 'r') as sourceFile:
         for line in sourceFile:

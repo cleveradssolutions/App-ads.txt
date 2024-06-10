@@ -276,7 +276,6 @@ mediafuse.com, 316569, RESELLER
 meitu.com, 654, RESELLER
 meitu.com, 663, RESELLER
 meitu.com, 699, RESELLER
-mintegral.com, your publisherid, DIRECT, 0aeed750c80d6423
 myfeature.tv, uvnxhumzhrvkfrk52qzy, RESELLER
 newsusadigital.com, 1001719521, RESELLER
 nobid.io, 22388449880, RESELLER
