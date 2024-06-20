@@ -17,8 +17,11 @@ We've made it easier for you to include CleverAdsSolutions list of entries so th
 - File-separated sources for each partner can be found below:  
 [Networks](/Networks)  
 
+
+You can simply use our domain https://cas.ai as the **Developer Website** for your app, and rest assured that https://cas.ai/app-ads.txt will always be up to date.
+
 > [!Note]
-> Don't forget to keep track of the list since it is updated from time to time.  
+> Don't forget to monitor updates to the file so that the revenue of your apps doesn't decrease.
 > Subscribe so you don't miss app-ads.txt updates. [![Subscribe](https://img.shields.io/github/watchers/cleveradssolutions/App-ads.txt?label=Subscribe&style=social)](https://github.com/cleveradssolutions/App-ads.txt/subscription)  
 
 ## Updating a Developer Website
@@ -88,4 +91,4 @@ Make sure the file has an HTTP 200 OK status code.
 Formatting errors, such as invalid whitespace characters, may be difficult to detect but can make an app-ads.txt file difficult to parse by a crawler, and may therefore result in a file being ignored. Avoid copying and pasting app-ads.txt entries from a rich text editor; we recommend a plain text editor. You can also check for invalid UTF-8 characters in your app-ads.txt file using a HEX editor. 
 
 ## Support
-Seek assistance via `support@cleveradssolutions.com`
+Seek assistance via `support@cas.ai`

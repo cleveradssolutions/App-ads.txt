@@ -8,40 +8,62 @@ from datetime import date
 
 _CERTIFICATIONS_FILE = "CertificationIds.json"
 _RESULT_FILE = "app-ads.txt"
+_RESULT_FOR_GAMES_FILE = "app-ads-games.txt"
 _TEMP_FILE = "TempUpdate.txt"
 _ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 _NETS_DIR_NAME = "Networks"
+_DSP_DIR_NAME = "InternalExchange"
 
 _SOURCES = [ 
-    "GoogleAds.txt",
-    "AudienceNetwork.txt",
-    "Pangle.txt",
-    "IronSource.txt",
-    "AppLovin.txt",
-    "UnityAds.txt",
-    "Mintegral.txt",
-    "LiftoffMonetize.txt",
-    "SuperAwesome.txt",
-    "Kidoz.txt",
-    "InMobi.txt",
-    "Chartboost.txt", 
-    "YandexAds.txt",
-    "DTExchange.txt",
-    "Bigo.txt",
-    "myTarget.txt",
-    "DSPExchange.txt",
-    "Madex.txt",
-    "HyprMX.txt",
-    "Smaato.txt",
-    "StartIO.txt",
+    "GoogleAds",
+    "AudienceNetwork",
+    "Pangle",
+    "IronSource",
+    "AppLovin",
+    "UnityAds",
+    "Mintegral",
+    "LiftoffMonetize",
+    "SuperAwesome",
+    "Kidoz",
+    "InMobi",
+    "Chartboost", 
+    "YandexAds",
+    "DTExchange",
+    "Bigo",
+    "CASExchange",
+    "DSPExchange",
+    "Ogury",
+    #"LoopMe",
+    "Madex",
+    "HyprMX",
+    "StartIO",
+    "Smaato",
+]
+_SOURCES_CAS = [
+    "152Media",
+    "Aceex",
+    "Brightcom",
+    "Pubmatic",
+    "Waardex"
+]
+_SOURCE_DSP = [
+    "A4G",
+    "AppBroda",
+    "Potensus",
+    "ReklamUp",
+]
+_SOURCE_IN_GAMES = [
+    "AdInMo",
+    "Gadsme",
 ]
 _BANS = [
     # (Reserved by Network name, Banned domain for other Networks)
     #("AdMob", "google.com")
 ]
 _DOMAIN_PATTERN = re.compile("^([a-z0-9-]{1,63}\.)+[a-z]{2,9}\Z")
+_ID_PATTERN = re.compile("^[a-zA-Z0-9-_]+$")
+_CERTIFICATE_PATTERN = re.compile("^[a-zA-Z0-9]+$")
 
-inventorySet = set()
 certificateMap = dict()
 
 arg_parser = argparse.ArgumentParser(
@@ -63,11 +85,11 @@ arg_update.add_argument('-f', '--force', action='store_true', help='Replacing al
 arg_update.add_argument('-r', '--release', action='store_true', help='Final ' + _RESULT_FILE + ' file generation.')
 arg_update.add_argument('--unique-id', action='store_true', help='Verification of unique certification identifiers for each domain.')
 arg_update.add_argument('--no-fill-id', dest='fillCertificate', action='store_false', help='Disable autocomplete of known certification identifiers for each domain.')
-arg_update.set_defaults(file=False)
+arg_update.set_defaults(file=False, release=False)
 
 arg_release = arg_subparsers.add_parser('release', help='Final ' + _RESULT_FILE + ' file generation.')
-arg_release.add_argument('release', action='store_true')
-arg_release.set_defaults(file=False, network=None, unique_id=False)
+arg_release.add_argument('-g', '--for-games', dest='games', action='store_true', help='Release App-ads-games.txt for Games.')
+arg_release.set_defaults(release=True, file=False, network=None, unique_id=False, fillCertificate=True)
 
 args = arg_parser.parse_args()
 
@@ -108,12 +130,14 @@ class Inventory:
             fatal_error("Invalid pattern in " + source + ". Must be RESELLER or DIRECT only.", line)
 
         self.identifier = pattern[1].strip().lower()
+        if not re.match(_ID_PATTERN, self.identifier):
+            fatal_error("Invalid publisher id in " + source, line)
 
         if len(pattern) == 4:
             certification = pattern[3].split('#')[0].strip().lower()
             if certification:
                 self.certification = certification
-                if len(certification) != 9 and len(certification) != 16:
+                if (len(certification) != 9 and len(certification) != 16) or not re.match(_CERTIFICATE_PATTERN, self.certification):
                     if self.domain in certificateMap:
                         fatal_error("Certification authority ID for " + self.domain + " is " + certificateMap[self.domain], line)
                     else:    
@@ -192,20 +216,37 @@ def release():
     currentDate = date.today().strftime("%b %d, %Y")
     totalLines = "0"
 
-    mainFilePath = os.path.join(_ROOT_DIR, _RESULT_FILE)
-    with open(mainFilePath, "rbU") as appAdsFile:
-        totalLines = str(sum(1 for _ in appAdsFile) - 1)
+    updateDSP("DSPExchange", _SOURCE_DSP)
+    updateDSP("CASExchange", _SOURCES_CAS)
 
+    if args.games == True:
+        mainFilePath = os.path.join(_ROOT_DIR, _RESULT_FOR_GAMES_FILE)
+    else:
+        mainFilePath = os.path.join(_ROOT_DIR, _RESULT_FILE)
+        
+    if os.path.exists(mainFilePath):
+        with open(mainFilePath, "rbU") as appAdsFile:
+            totalLines = str(sum(1 for _ in appAdsFile) - 1)
+
+    inventorySet = set()
     with open(mainFilePath, 'w+') as appAdsFile:
         appAdsFile.write("# CAS.ai Updated " + currentDate + ', support@cleveradssolutions.com\n')
         for source in _SOURCES:
-            with open(os.path.join(_ROOT_DIR, _NETS_DIR_NAME, source), 'r') as sourceFile:
+            with open(os.path.join(_ROOT_DIR, _NETS_DIR_NAME, source + ".txt"), 'r') as sourceFile:
                 for line in sourceFile:
                     inventory = Inventory(line, source)
                     if not inventory.is_empty() and inventory not in inventorySet:
                         inventorySet.add(inventory)
                         appAdsFile.write(inventory.to_line())
-            
+        if args.games == True:
+            for source in _SOURCE_IN_GAMES:
+                with open(os.path.join(_ROOT_DIR, _DSP_DIR_NAME, source + ".txt"), 'r') as sourceFile:
+                    for line in sourceFile:
+                        inventory = Inventory(line, source)
+                        if not inventory.is_empty() and inventory not in inventorySet:
+                            inventorySet.add(inventory)
+                            appAdsFile.write(inventory.to_line())
+
     shiledInfo = {
         "schemaVersion": 1,
         "label": _RESULT_FILE,
@@ -218,16 +259,40 @@ def release():
 
     print("Combined " + _RESULT_FILE + " with " + str(len(inventorySet)) + " (was " + totalLines + ") inventories for " + str(len(_SOURCES)) + " networks.")
 
-def update(networkName, force):
-    duplicate = 0
-    keepDomain = None
-    fillCertificate = args.fillCertificate
-    keepInventories = set()
+def updateDSP(networkName, sourceNames):
     newInventories = set()
+    for source in sourceNames:
+        with open(os.path.join(_ROOT_DIR, _DSP_DIR_NAME, source + ".txt"), 'r') as sourceFile:
+            for line in sourceFile:
+                inventory = Inventory(line, source)
+                if inventory.is_empty() or inventory.is_comment():
+                    continue
+                newInventories.add(inventory)
+    return updateInventories(networkName, newInventories, force=False, keepHead=False)
+        
+def update(networkName, force):
+    newInventories = set()
+    with open(os.path.join(_ROOT_DIR, _TEMP_FILE), 'r') as updateFile:
+        for line in updateFile:
+            inventory = Inventory(line, _TEMP_FILE)
+            if inventory.is_empty() or inventory.is_comment():
+                continue
+            newInventories.add(inventory)
+    return updateInventories(networkName, newInventories, force, keepHead=True)
 
-    netFile = os.path.join(_ROOT_DIR, _NETS_DIR_NAME, networkName + ".txt")
+def updateInventories(networkName, newInventories, force, keepHead):
+    duplicate = 0
+    fillCertificate = args.fillCertificate
+    keepInventories = list()
+    inventorySet = set()
+    resultDir = _NETS_DIR_NAME
+
+    netFile = os.path.join(_ROOT_DIR, resultDir, networkName + ".txt")
     if not os.path.exists(netFile):
-        fatal_error("Unknown network name: " + networkName)
+        resultDir = _DSP_DIR_NAME
+        netFile = os.path.join(_ROOT_DIR, resultDir, networkName + ".txt")
+        if not os.path.exists(netFile):
+            fatal_error("Unknown network name: " + networkName)
 
     with open(netFile, 'r') as sourceFile:
         for line in sourceFile:
@@ -238,25 +303,18 @@ def update(networkName, force):
                 duplicate += 1
                 print_warning("Duplicate in " + networkName, inventory.to_line())
                 continue
-            if not keepDomain:
-                keepDomain = inventory.domain
-            if inventory.domain == keepDomain:
-                keepInventories.add(inventory)
+            if keepHead:
+                if not keepInventories or keepInventories[0].domain == inventory.domain:
+                    keepInventories.append(inventory)
             inventorySet.add(inventory)
-
-    with open(os.path.join(_ROOT_DIR, _TEMP_FILE), 'r') as updateFile:
-        for line in updateFile:
-            inventory = Inventory(line, _TEMP_FILE)
-            if inventory.is_empty() or inventory.is_comment():
-                continue
-            newInventories.add(inventory)
 
     diffInventories = newInventories - inventorySet
 
     if not force and len(diffInventories) == 0 and duplicate == 0:
-        print("No found inventories to update.")
+        print("No found inventories to update for " + networkName)
         return False
     
+    print("Update " + networkName + " inventories")
     for inventory in keepInventories:
         sys.stdout.write("[Keep] " + inventory.to_line())
 
@@ -277,7 +335,7 @@ def update(networkName, force):
         newInventories.update(inventorySet)
 
     if force or userSelect.lower() == 'y':
-        with open(os.path.join(_ROOT_DIR, _NETS_DIR_NAME, networkName + ".txt"), 'w') as sourceFile:
+        with open(os.path.join(_ROOT_DIR, resultDir, networkName + ".txt"), 'w') as sourceFile:
             sourceFile.write("#=== " + networkName + " " + date.today().strftime("%b %d, %Y") + '\n')
             for inventory in sorted(keepInventories):
                 sourceFile.write(inventory.to_line())
@@ -297,15 +355,14 @@ if args.file == True:
     print('File ' + _TEMP_FILE + ' created')
 
     if args.list == True:
-        print("Available networks: " + ", ".join(map(lambda net: os.path.splitext(net)[0], _SOURCES)))
+        print("Available networks: " + ", ".join(_SOURCES))
 else:
     read_certifications()
 
 if args.network is not None:
-    if update(args.network, args.force) and args.release:
-        release()
+    update(args.network, args.force)
 
-if args.release is True:
+if args.release == True:
     release()
 
 if args.file == False:

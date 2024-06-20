@@ -1,4 +1,4 @@
-#=== YandexAds May 17, 2024
+#=== YandexAds Jun 20, 2024
 yandex.com, 66051405, DIRECT
 152media.info, 152m312, RESELLER
 152media.info, 152m499, RESELLER
@@ -22,8 +22,8 @@ adro.io, 3992, RESELLER
 adsyield.com, 1069, RESELLER
 adtarget.me, 64, RESELLER
 adtelligent.com, 640813, RESELLER
-advertising.com, 28246, RESELLER
-advertising.com, 28764, RESELLER
+advertising.com, 28246, RESELLER, e1a5b5b6e3255540
+advertising.com, 28764, RESELLER, e1a5b5b6e3255540
 adview.com, 77646260, RESELLER, 1b2cc038a11ea319
 adx-dre.op.hicloud.com, pub_hw_1003, RESELLER
 adyoulike.com, 22389b7165228ff4ecbe2b72818ae524, RESELLER, 4ad745ead2958bf7
@@ -90,7 +90,7 @@ freewheel.tv, 895601, RESELLER, 74e8e47458f74754
 gamoshi.io, 267-b4627, RESELLER, 20e30b2ae1f670f2
 gamoshi.io, 267-b5428, RESELLER, 20e30b2ae1f670f2
 google.com, pub-2843405949989126, RESELLER, f08c47fec0942fa0
-google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
+google.com, pub-3990748024667386, DIRECT, f08c47fec0942fa0
 google.com, pub-5289985627731322, RESELLER, f08c47fec0942fa0
 google.com, pub-7983651257838282, RESELLER, f08c47fec0942fa0
 google.com, pub-9417114411593463, RESELLER, f08c47fec0942fa0
@@ -223,7 +223,7 @@ silvermob.com, 449, RESELLER
 silvermob.com, 464, RESELLER
 smaato.com, 1100044156, RESELLER, 07bcf65f187117b4
 smartadserver.com, 1247, RESELLER, 060d053dcf45cbf3
-smartadserver.com, 3172, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 3172, DIRECT, 060d053dcf45cbf3
 smartadserver.com, 3817, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4140, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4539, RESELLER, 060d053dcf45cbf3
