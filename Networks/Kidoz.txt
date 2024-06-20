@@ -1,4 +1,4 @@
-#=== Kidoz May 17, 2024
+#=== Kidoz Jun 20, 2024
 kidoz.net, 11645, DIRECT, a109366414b7335e
 aniview.com, 5f2063121d82c82557194737, RESELLER, 78b21b97965ec3f8
 appnexus.com, 11826, RESELLER, f5ab79cb980f11d1
@@ -12,6 +12,8 @@ google.com, pub-1386280613967939, RESELLER, f08c47fec0942fa0
 google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa0
 google.com, pub-5781531207509232, RESELLER, f08c47fec0942fa0
 google.com, pub-6437111524977299, RESELLER, f08c47fec0942fa0
+google.com, pub-7000450198088379, RESELLER, f08c47fec0942fa0
+hoopladigital.co.uk, 5046738227, DIRECT
 improvedigital.com, 1604, RESELLER
 improvedigital.com, 2052, RESELLER
 improvedigital.com, 22852136, RESELLER

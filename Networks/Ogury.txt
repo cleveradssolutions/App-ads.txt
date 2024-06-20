@@ -1,0 +1,6 @@
+#=== Ogury Jun 20, 2024
+appnexus.com, 11470, RESELLER, f5ab79cb980f11d1
+ogury.com, 432e59bf-cea1-4835-909f-ce67b46743c4, DIRECT
+pubmatic.com, 163238, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 25198, RESELLER, 0bfd66d529a55807
+smartadserver.com, 4537, RESELLER, 060d053dcf45cbf3

@@ -1,4 +1,4 @@
-#=== LiftoffMonetize May 17, 2024
+#=== LiftoffMonetize Jun 20, 2024
 vungle.com, 5730c2af2270cba25f000066, DIRECT, c107d686becd2d77
 vungle.com, 5c657afed9e6e60012bab5d9, DIRECT, c107d686becd2d77
 152media.info, 152m312, RESELLER
@@ -36,8 +36,6 @@ appnexus.com, 7351, RESELLER, f5ab79cb980f11d1
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
 appnexus.com, 9316, RESELLER, f5ab79cb980f11d1
 aralego.com, par-aa7b236ba32dd484c838e249362437b8, RESELLER
-axonix.com, 59054, RESELLER, bc385f2b4a87b721
-axonix.com, 59142, RESELLER, bc385f2b4a87b721
 bematterfull.com, 22289765, RESELLER
 betweendigital.com, 43092, RESELLER
 betweendigital.com, 43843, RESELLER
@@ -58,6 +56,7 @@ bidmachine.io, 77, RESELLER
 bigo.sg, 122, RESELLER
 bigo.sg, 143, RESELLER
 blueseasx.com, 203592, RESELLER, 7998eac5087f6110
+caerulus.io, 3320-72775, RESELLER
 chartboost.com, 5eac93f341016b09ff0019b6, RESELLER
 consumable.com, 2001409, RESELLER, aefcd3d2f45b5070
 contextweb.com, 558622, RESELLER, 89ff185a4c4e857c
@@ -69,6 +68,7 @@ contextweb.com, 562824, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562827, RESELLER, 89ff185a4c4e857c
 conversantmedia.com, 100246, RESELLER, 03113cd04947736d
 conversantmedia.com, 100269, RESELLER, 03113cd04947736d
+conversantmedia.com, 100358, RESELLER, 03113cd04947736d
 criteo.com, 186227, RESELLER, 9fac4a4a87c2a44f
 criteo.com, b-057601, RESELLER, 9fac4a4a87c2a44f
 display.io, 173162, RESELLER
@@ -118,8 +118,8 @@ inmobi.com, ddb41d8a9f434a918d05a0fc9999d9f9, RESELLER, 83e75a7ae333ca9d
 inmobi.com, ec6f6ceb8bb1440ba5455644ec96c275, RESELLER, 83e75a7ae333ca9d
 inmobi.com, f3924290136e4129a5c082ff982c3a58, RESELLER, 83e75a7ae333ca9d
 inmobi.com, f71b28e30a8249c3b08a9bca1a5cfbb7, RESELLER, 83e75a7ae333ca9d
-iqzone.com, iq39, RESELLER
-iqzone.com, iq97, RESELLER
+iqzone.com, iq39, RESELLER, 60d26397ec060f98
+iqzone.com, iq97, RESELLER, 60d26397ec060f98
 kidoz.net, 15127, RESELLER, a109366414b7335e
 lijit.com, 400766, RESELLER, fafdf38b16bf6b2b
 lijit.com, 488437, RESELLER, fafdf38b16bf6b2b
@@ -159,7 +159,6 @@ openx.com, 544096208, RESELLER, 6a698e2ec38604c6
 opera.com, pub4366595624320, RESELLER, 55a0c5fd61378de3
 opera.com, pub4444433466368, RESELLER, 55a0c5fd61378de3
 opera.com, pub5925993551616, RESELLER, 55a0c5fd61378de3
-outbrain.com, 002d7f7ba0bd74452f2b155d0dfb5cd6c8, RESELLER
 pangleglobal.com, 82832, RESELLER, 7998eac5087f6110
 pokkt.com, 5886, RESELLER, c45702d9311e25fd
 pubmatic.com, 155967, RESELLER, 5d62403b186f2ace
@@ -205,6 +204,7 @@ pubnative.net, 1008061, RESELLER, d641df8625486a7b
 pubwise.io, 52324626, RESELLER, c327c91a93a7cdd3
 rhebus.works, 9176497567, RESELLER
 rhythmone.com, 5336134699710583737, RESELLER, a670c89d4a324e47
+risecodes.com, 662a26f1f3d42a00015ffbad, RESELLER
 rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 12186, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 12266, RESELLER, 0bfd66d529a55807
@@ -230,6 +230,7 @@ rubiconproject.com, 24362, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24600, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24752, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 25978, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26064, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26132, RESELLER, 0bfd66d529a55807
 sharethrough.com, 6qlnf8sy, RESELLER, d53b998a7bd4ecd2
@@ -274,6 +275,7 @@ ssp.e-volution.ai, ajxf6r189a9m6catvk, RESELLER
 start.io, 162328800, RESELLER
 target.my.com, 8676470, RESELLER
 targetspot.com, 297, RESELLER, feb28ed826dcf532
+taurusx.com, 70090, RESELLER
 thebrave.io, 1234632, RESELLER, c25b2154543746ac
 themediagrid.com, dy1ovp, RESELLER, 35d5010d7789b49d
 themediagrid.com, swh94x, RESELLER, 35d5010d7789b49d

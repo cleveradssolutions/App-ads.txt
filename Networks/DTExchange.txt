@@ -1,10 +1,10 @@
-#=== DTExchange May 31, 2024
+#=== DTExchange Jun 20, 2024
 fyber.com, 214373, DIRECT
 acd.op.hicloud.com, pub_hw_1003, RESELLER
 adform.com, 2688, RESELLER, 9f5210a2f0999e32
 adform.com, 2967, RESELLER, 9f5210a2f0999e32
 advangelists.com, ebf01981b565aa5f03299b38bd50650c, RESELLER, 60d26397ec060f98
-advertising.com, 28650, RESELLER
+advertising.com, 28650, RESELLER, e1a5b5b6e3255540
 adx-dra.op.hicloud.com, pub_hw_1003, RESELLER
 adx-dre.op.hicloud.com, pub_hw_1003, RESELLER
 adx-drru.op.hicloud.com, pub_hw_1003, RESELLER
@@ -59,7 +59,7 @@ loopme.com, 11605, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 5176, RESELLER, 6c8d5f95897a5a3b
 mars.media, 103116, RESELLER, 8624339f102fb076
 olaex.biz, 100008, RESELLER
-onetag.com, 82e44d118b79600, DIRECT
+onetag.com, 82e44d118b79600, RESELLER
 openx.com, 537153564, RESELLER, 6a698e2ec38604c6
 openx.com, 540298543, RESELLER, 6a698e2ec38604c6
 openx.com, 540679900, RESELLER, 6a698e2ec38604c6
