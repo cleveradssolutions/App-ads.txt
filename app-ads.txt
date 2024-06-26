@@ -1,4 +1,4 @@
-# CAS.ai Updated Jun 20, 2024, support@cleveradssolutions.com
+# CAS.ai Updated Jun 26, 2024, support@cleveradssolutions.com
 #=== GoogleAds Sep 01, 2023
 google.com, pub-1022958838828668, DIRECT, f08c47fec0942fa0
 google.com, pub-2532668741646097, DIRECT, f08c47fec0942fa0
@@ -157,7 +157,7 @@ xandr.com, 2480, RESELLER, f5ab79cb980f11d1
 xandr.com, 3318, RESELLER, f5ab79cb980f11d1
 xandr.com, 8916, RESELLER, f5ab79cb980f11d1
 xapads.com, 117219, RESELLER
-#=== AppLovin Apr 11, 2024
+#=== AppLovin Jun 26, 2024
 applovin.com, 1b46f5e3cf2242caea5c383ca959e5dd, DIRECT
 applovin.com, 4d391c28b8c9b08646600303640192ea, DIRECT
 applovin.com, c0240449e33b7431936ee54233b9ffc9, DIRECT
@@ -170,11 +170,10 @@ loopme.com, 11424, RESELLER, 6c8d5f95897a5a3b
 media.net, 8cu12aq1y, RESELLER
 media.net, 8cud06z68, RESELLER
 openx.com, 540785403, RESELLER, 6a698e2ec38604c6
-openx.com, 540838151, RESELLER, 6a698e2ec38604c6
+openx.com, 559798512, RESELLER, 6a698e2ec38604c6
 opera.com, pub6538436382208, RESELLER, 55a0c5fd61378de3
 pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
-pubmatic.com, 160295, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160974, RESELLER, 5d62403b186f2ace
 pubnative.net, 1007501, RESELLER, d641df8625486a7b
 rhebus.works, 9019999555, RESELLER
@@ -270,6 +269,7 @@ meitu.com, 699, RESELLER
 mintegral.com, 10038, RESELLER, 0aeed750c80d6423
 onetag.com, 7d9af0b85b5070e, RESELLER
 onlinemediasolutions.com, 23120, RESELLER
+openx.com, 540838151, RESELLER, 6a698e2ec38604c6
 openx.com, 540857594, RESELLER, 6a698e2ec38604c6
 openx.com, 540866936, RESELLER, 6a698e2ec38604c6
 openx.com, 540871654, RESELLER, 6a698e2ec38604c6
@@ -287,6 +287,7 @@ pubmatic.com, 158565, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159906, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160113, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160295, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160536, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160846, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161018, RESELLER, 5d62403b186f2ace
