@@ -12,3 +12,12 @@ pubmatic.com, 161332, RESELLER, 5d62403b186f2ace
 sonobi.com, 87555b1b39, RESELLER, d1a215d9eb5aee9e
 themediagrid.com, irk975, RESELLER, 35d5010d7789b49d
 video.unrulymedia.com, 6694405583287859332, RESELLER
+onlinemediasolutions.com, 20447, DIRECT, b3868b187e4b6402
+onomagic.com, 204471, DIRECT
+sharethrough.com, ygdNCKm4, RESELLER, d53b998a7bd4ecd2
+pubmatic.com, 161736, RESELLER, 5d62403b186f2ace
+conversantmedia.com, 41996, RESELLER, 03113cd04947736d
+inmobi.com, 500d35021d3d4a5688da7f11fed0ed13, RESELLER, 83e75a7ae333ca9d
+adform.com, 2708, RESELLER, 9f5210a2f0999e32
+getmediamx.com, 1220447, DIRECT
+freewheel.tv, 1306927, RESELLER
