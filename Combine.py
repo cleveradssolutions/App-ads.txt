@@ -44,7 +44,8 @@ _SOURCES_CAS = [
     "Aceex",
     "Brightcom",
     "Pubmatic",
-    "Waardex"
+    "Waardex",
+    "AdsYield"
 ]
 _SOURCE_DSP = [
     "A4G",
