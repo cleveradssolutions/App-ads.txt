@@ -1,0 +1,16 @@
+adsyield.com, 2355, DIRECT
+adform.com, 3167, RESELLER, 9f5210a2f0999e32
+pubmatic.com, 162239, RESELLER, 5d62403b186f2ace
+conversantmedia.com, 100634, RESELLER, 03113cd04947736d
+Vidoomy.com, 4661610 , RESELLER
+Adform.com , 2742 , RESELLER
+waardex.com, 196643, RESELLER
+xandr.com, 13117, RESELLER
+opera.com,pub9443931419968,RESELLER,55a0c5fd61378de3
+onetag.com, 7d9af0b85b5070e, RESELLER
+Epom.com , c9f876c0-3ac3-4c07-b487-505a2727b19a, RESELLER
+admanmedia.com, 2029, RESELLER
+krushmedia.com, AJxF6R616a9M6CaTvK, RESELLER
+empower.net, 63cb0332e4b01718f069d4cb, RESELLER
+google.com, pub-7983651257838282, RESELLER, f08c47fec0942fa0
+loopme.com, 11569, RESELLER, 6c8d5f95897a5a3b
