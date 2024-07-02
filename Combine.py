@@ -45,7 +45,8 @@ _SOURCES_CAS = [
     "Brightcom",
     "Pubmatic",
     "Waardex",
-    "AdsYield"
+    "AdsYield",
+    "BoldWin"
 ]
 _SOURCE_DSP = [
     "A4G",
@@ -61,6 +62,13 @@ _BANS = [
     # (Reserved by Network name, Banned domain for other Networks)
     #("AdMob", "google.com")
 ]
+_VARIABLES = { # SUPPORTED VARIABLES
+    "contact", # contact information
+    "subdomain", # pointer to a subdomain file
+    "inventorypartnerdomain", # reference is followed to an ads.txt file only (not app-ads.txt)
+    "ownerdomain", # specifies the business domain of the business entity that owns the domain/site/app
+    "managerdomain", # Specifies the business domain of a primary or exclusive monetization partner of the publishers inventory
+}
 _DOMAIN_PATTERN = re.compile("^([a-z0-9-]{1,63}\.)+[a-z]{2,9}\Z")
 _ID_PATTERN = re.compile("^[a-zA-Z0-9-_]+$")
 _CERTIFICATE_PATTERN = re.compile("^[a-zA-Z0-9]+$")
@@ -107,11 +115,21 @@ class Inventory:
         self.domain = None
         self.identifier = None
         self.comment = None
+        self.variable = None
+        self.type = None
         self.certification = None
         if not line or not line.strip() or line.startswith('/'):
             return
         if line.startswith('#'):
             self.comment = line
+            return
+        if '=' in line:
+            self.variable = line.strip().lower()
+            pattern = self.variable.split('=')
+            if pattern[0] not in _VARIABLES:
+                fatal_error("Not supported variable in " + source + ".", line)
+            if not re.match(_DOMAIN_PATTERN, pattern[1]):
+                fatal_error("Invalid domain '" + pattern[1] + "' for variable in " + source, line)
             return
         pattern = line.split(',')
         if len(pattern) != 3 and len(pattern) != 4:
@@ -130,7 +148,7 @@ class Inventory:
         if self.type != 'RESELLER' and self.type != 'DIRECT':
             fatal_error("Invalid pattern in " + source + ". Must be RESELLER or DIRECT only.", line)
 
-        self.identifier = pattern[1].strip().lower()
+        self.identifier = pattern[1].strip()
         if not re.match(_ID_PATTERN, self.identifier):
             fatal_error("Invalid publisher id in " + source, line)
 
@@ -164,7 +182,8 @@ class Inventory:
         if (isinstance(other, Inventory)
             and self.domain == other.domain 
             and self.identifier == other.identifier
-            and self.comment == other.comment):
+            and self.comment == other.comment
+            and self.variable == other.variable):
             if self.type != other.type:
                 print_warning("Relationship is already set " + self.type + " by " + self.source + 
                               "\nPlease fix conflict with " + other.source, other.to_line())
@@ -183,6 +202,8 @@ class Inventory:
     def __hash__(self):
         if self.comment:
             return hash(self.comment)
+        if self.variable:
+            return hash(self.variable)
         if not self.domain:
             return hash("")
         return hash(hash(self.domain) + hash(self.identifier))
@@ -191,11 +212,13 @@ class Inventory:
         return self.comment
     
     def is_empty(self):
-        return not self.domain and not self.comment
+        return not self.domain and not self.comment and not self.variable
     
     def to_line(self, fillCertificate=False):
         if self.comment:
             return self.comment
+        if self.variable:
+            return self.variable + '\n'
         result = self.domain + ', ' + self.identifier + ', ' + self.type
         if self.certification:
             result += ', ' + self.certification

@@ -1,8 +1,8 @@
-#=== A4G Jun 20, 2024
+#=== A4G Jul 02, 2024
 a4g.com, 14245, DIRECT
-33across.com, 0013300001kqj2haas, RESELLER, bbea06d9c4d2853c
+33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
 admanmedia.com, 43, RESELLER
-advertising.com, 28246, RESELLER
+advertising.com, 28246, RESELLER, e1a5b5b6e3255540
 adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER, 4ad745ead2958bf7
 appnexus.com, 13099, RESELLER, f5ab79cb980f11d1
 appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
@@ -19,9 +19,9 @@ indexexchange.com, 195450, RESELLER, 50b1c356f2c5c8fc
 inmobi.com, cb6a6239dfec478f818c1ffca00ca440, DIRECT, 83e75a7ae333ca9d
 loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
-media.net, 8culy277r, RESELLER
+media.net, 8CULY277R, RESELLER
 onetag.com, 77cc0899358027b, RESELLER
-onetag.com, 77cc0899358027b-ob, RESELLER
+onetag.com, 77cc0899358027b-OB, RESELLER
 openx.com, 537149888, RESELLER, 6a698e2ec38604c6
 openx.com, 540274407, RESELLER, 6a698e2ec38604c6
 openx.com, 540646187, RESELLER, 6a698e2ec38604c6
@@ -39,12 +39,12 @@ rhythmone.com, 2564526802, RESELLER, a670c89d4a324e47
 rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
-sharethrough.com, uc8gwhvm, DIRECT, d53b998a7bd4ecd2
-sharethrough.com, nirsc9f2, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, Uc8GWHvM, DIRECT, d53b998a7bd4ecd2
+sharethrough.com, NIRSC9f2, RESELLER, d53b998a7bd4ecd2
 smaato.com, 1100044045, RESELLER, 07bcf65f187117b4
 smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
 smartadserver.com, 4071, RESELLER, 060d053dcf45cbf3
-smartadserver.com, 4694-ob, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4694-OB, RESELLER, 060d053dcf45cbf3
 spotx.tv, 82068, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 82068, RESELLER, 7842df1d2fe2db34
 thebrave.io, 1234568, RESELLER, c25b2154543746ac
