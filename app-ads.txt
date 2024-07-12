@@ -1,4 +1,4 @@
-# CAS.ai Updated Jul 02, 2024, support@cleveradssolutions.com
+# CAS.ai Updated Jul 12, 2024, support@cleveradssolutions.com
 #=== GoogleAds Sep 01, 2023
 google.com, pub-1022958838828668, DIRECT, f08c47fec0942fa0
 google.com, pub-2532668741646097, DIRECT, f08c47fec0942fa0
@@ -234,14 +234,14 @@ ushareit.com, lcb555b3bc8667a09a, RESELLER
 webeyemob.com, 80029, RESELLER
 xandr.com, 15769, RESELLER, f5ab79cb980f11d1
 xandr.com, 7353, RESELLER, f5ab79cb980f11d1
-#=== Mintegral Jul 02, 2024
+#=== Mintegral Jul 12, 2024
 mintegral.com, 25008, DIRECT, 0aeed750c80d6423
-inventorypartnerdomain=thunder-monetize.com
-inventorypartnerdomain=rhebus.works
 acd.op.hicloud.com, PUB_HW_1003, RESELLER
 aceex.io, 1184, RESELLER, b1cf3c874d5c6682
 aceex.io, 1696, RESELLER, b1cf3c874d5c6682
 aceex.io, 1697, RESELLER, b1cf3c874d5c6682
+aceex.io, 1699, RESELLER, b1cf3c874d5c6682
+aceex.io, 1700, RESELLER, b1cf3c874d5c6682
 aceex.io, 898, RESELLER, b1cf3c874d5c6682
 adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
 adcolony.com, 29b7f4a14dc689eb, RESELLER, 1ad675c9de6b5176
@@ -271,16 +271,20 @@ admixer.net, f6790c61-b9ce-49b0-b809-059710d60dfd, RESELLER
 adnuro.com, 1551692749, RESELLER
 adnuro.com, 2383077825, RESELLER
 adnuro.com, 2882096573, RESELLER
+adnuro.com, 4572507814, RESELLER
+adnuro.com, 5102475972, RESELLER
 adnuro.com, 5824208616, RESELLER
 adnuro.com, 9578121399, RESELLER
 ads.vk.com, 18644219, RESELLER
 adstxtmarket.com, 1159989565, RESELLER
 adstxtmarket.com, 3779254932, RESELLER
+adstxtmarket.com, 8812392814, RESELLER
 adstxtmarket.com, 8870920986, RESELLER
 advanttechnology.com, 1126183541, RESELLER
 advanttechnology.com, 1888744799, RESELLER
 advanttechnology.com, 2142690699, RESELLER
 advanttechnology.com, 3323424299, RESELLER
+advanttechnology.com, 3879160930, RESELLER
 advanttechnology.com, 8764104457, RESELLER
 advertising.com, 23089, RESELLER, e1a5b5b6e3255540
 advertising.com, 28246, RESELLER, e1a5b5b6e3255540
@@ -299,6 +303,7 @@ algorix.co, 604550, RESELLER, 5b394c12fea27a1d
 alpecs.com, 1390778244, RESELLER
 alpecs.com, 1524047044, RESELLER
 alpecs.com, 2448028124, RESELLER
+alpecs.com, 4116628010, RESELLER
 alpecs.com, 4618785691, RESELLER
 alpecs.com, 5656395907, RESELLER
 alpecs.com, 6494136392, RESELLER
@@ -340,7 +345,6 @@ appnexus.com, 8178, RESELLER, f5ab79cb980f11d1
 appnexus.com, 9569, RESELLER, f5ab79cb980f11d1
 aralego.com, par-D2346AAB7ABD36B4CDD7BBD264BA92E2, RESELLER
 aralego.com, par-E2B2BB3E89BE87A2F774B768BEED62A2, RESELLER
-arcaneflow.com, 51330644, DIRECT
 arcaneflow.com, 50149190, RESELLER
 ardenodemedia.com, 3687606259, RESELLER
 ardenodemedia.com, 5819463753, RESELLER
@@ -356,6 +360,7 @@ axonix.com, 59113, RESELLER, bc385f2b4a87b721
 balloonlabs.ai, 3412752782, RESELLER
 balloonlabs.ai, 5605588642, RESELLER
 balloonlabs.ai, 6254571642, RESELLER
+balloonlabs.ai, 7384703023, RESELLER
 balloonlabs.ai, 8189319227, RESELLER
 balloonlabs.ai, 9173515033, RESELLER
 beachfront.com, 7300, RESELLER, e2541279e8e2ca4d
@@ -385,11 +390,12 @@ caerulus.io, 3320-44758, RESELLER
 castify.ai, 1210421, RESELLER
 chartboost.com, 5da62a1035b91e0aff190bf7, RESELLER
 chocolateplatform.com, 14637, RESELLER, 49a66ce31a704197
-connatix.com, 1652500284288994, DIRECT, 2af98acdee0e81ed
-connatix.com, 1713048496211545, DIRECT, 2af98acdee0e81ed
+connatix.com, 1652500284288994, RESELLER, 2af98acdee0e81ed
+connatix.com, 1713048496211545, RESELLER, 2af98acdee0e81ed
 connekt.ai, 1732945743, RESELLER
 connekt.ai, 3859686887, RESELLER
 connekt.ai, 4498663579, RESELLER
+connekt.ai, 5092021057, RESELLER
 connekt.ai, 5238022329, RESELLER
 connekt.ai, 7343318920, RESELLER
 connekt.ai, 7804493399, RESELLER
@@ -489,6 +495,8 @@ improvedigital.com, 1880, RESELLER
 improvedigital.com, 2110, RESELLER
 improvedigital.com, 2414, RESELLER
 improvedigital.com, 2421, RESELLER
+improvedigital.com, 2450, RESELLER
+improvedigital.com, 2451, RESELLER
 indexexchange.com, 182257, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 191332, RESELLER, 50b1c356f2c5c8fc
@@ -567,6 +575,7 @@ meitu.com, 699, RESELLER
 myfeature.tv, UvnXhUMZHRvKfRk52QZy, RESELLER
 newsusadigital.com, 1001719521, RESELLER
 newsusadigital.com, 3136954787, RESELLER
+newsusadigital.com, 3544039216, RESELLER
 newsusadigital.com, 4575726290, RESELLER
 newsusadigital.com, 5221952768, RESELLER
 newsusadigital.com, 8346098398, RESELLER
@@ -673,28 +682,31 @@ pubnative.net, 1007303, RESELLER, d641df8625486a7b
 pubnative.net, 1007311, RESELLER, d641df8625486a7b
 pubnative.net, 1007334, RESELLER, d641df8625486a7b
 pubnative.net, 1007615, RESELLER, d641df8625486a7b
-rhebus.works, 1200614149, DIRECT
-rhebus.works, 1602302407, DIRECT
-rhebus.works, 1901130122, DIRECT
-rhebus.works, 2446424047, DIRECT
-rhebus.works, 2984932035, DIRECT
-rhebus.works, 3365275791, DIRECT
-rhebus.works, 4003370417, DIRECT
-rhebus.works, 4104683787, DIRECT
-rhebus.works, 4598962869, DIRECT
-rhebus.works, 4968633571, DIRECT
-rhebus.works, 5091504560, DIRECT
-rhebus.works, 5295649879, DIRECT
-rhebus.works, 5444603455, DIRECT
-rhebus.works, 6703998311, DIRECT
-rhebus.works, 7180171616, DIRECT
-rhebus.works, 7709024633, DIRECT
-rhebus.works, 8206623008, DIRECT
 rhebus.works, 1153976260, RESELLER
+rhebus.works, 1294344401, RESELLER
 rhebus.works, 3478092519, RESELLER
+rhebus.works, 3773877793, RESELLER
 rhebus.works, 3818520445, RESELLER
 rhebus.works, 3905352096, RESELLER
+rhebus.works, 3953107506, RESELLER
+rhebus.works, 3960202499, RESELLER
+rhebus.works, 4024553356, RESELLER
+rhebus.works, 4061490289, RESELLER
+rhebus.works, 4374036950, RESELLER
 rhebus.works, 5066442680, RESELLER
+rhebus.works, 5562406025, RESELLER
+rhebus.works, 6394460651, RESELLER
+rhebus.works, 6591576863, RESELLER
+rhebus.works, 6735335561, RESELLER
+rhebus.works, 7685780667, RESELLER
+rhebus.works, 8166512657, RESELLER
+rhebus.works, 8727901570, RESELLER
+rhebus.works, 8957165819, RESELLER
+rhebus.works, 9347471687, RESELLER
+rhebus.works, 9626016426, RESELLER
+rhebus.works, 9678734099, RESELLER
+rhebus.works, 9950121748, RESELLER
+rhebus.works, 9959690579, RESELLER
 rhythmone.com, 1058378980, RESELLER, a670c89d4a324e47
 rhythmone.com, 123476257, RESELLER, a670c89d4a324e47
 rhythmone.com, 1286320118, RESELLER, a670c89d4a324e47
@@ -740,9 +752,15 @@ sharethrough.com, 26VgE1nN, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 3blZyYks, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, K5WDGAsP, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, OAW69Fon, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, UbYLkrys, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, g4qXILSV, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, iBAzay96, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, vQMCuYXA, RESELLER, d53b998a7bd4ecd2
+signifad.com, 2626756011, RESELLER
+signifad.com, 6665126527, RESELLER
+signifad.com, 8227779878, RESELLER
 signifad.com, 8461547455, RESELLER
+signifad.com, 9043507172, RESELLER
 silvermob.com, 464, RESELLER
 smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
 smaato.com, 1100042823, RESELLER, 07bcf65f187117b4
@@ -813,42 +831,55 @@ taurusx.com, 80609, RESELLER
 telaria.com, 9l6ha-9w3wc, RESELLER, 1a4e959a1b50034a
 thebrave.io, 1234585, RESELLER, c25b2154543746ac
 thebrave.io, 9840732, RESELLER, c25b2154543746ac
-themediagrid.com, R28I9J, DIRECT, 35d5010d7789b49d
 themediagrid.com, 7MYRZ3, RESELLER, 35d5010d7789b49d
 themediagrid.com, NG9STC, RESELLER, 35d5010d7789b49d
+themediagrid.com, R28I9J, RESELLER, 35d5010d7789b49d
 themediagrid.com, SH96GF, RESELLER, 35d5010d7789b49d
-thunder-monetize.com, 1361413818, DIRECT
-thunder-monetize.com, 2182335895, DIRECT
-thunder-monetize.com, 2464009402, DIRECT
-thunder-monetize.com, 2769141006, DIRECT
-thunder-monetize.com, 2795069071, DIRECT
-thunder-monetize.com, 2919432218, DIRECT
-thunder-monetize.com, 3138610630, DIRECT
-thunder-monetize.com, 3218205468, DIRECT
-thunder-monetize.com, 3435196621, DIRECT
-thunder-monetize.com, 3581932205, DIRECT
-thunder-monetize.com, 3706624507, DIRECT
-thunder-monetize.com, 4364334389, DIRECT
-thunder-monetize.com, 4533802551, DIRECT
-thunder-monetize.com, 4753062214, DIRECT
-thunder-monetize.com, 5638644113, DIRECT
-thunder-monetize.com, 5711850774, DIRECT
-thunder-monetize.com, 6349431715, DIRECT
-thunder-monetize.com, 6745733522, DIRECT
-thunder-monetize.com, 6837565234, DIRECT
-thunder-monetize.com, 7474063531, DIRECT
-thunder-monetize.com, 8233142522, DIRECT
-thunder-monetize.com, 9018670488, DIRECT
-thunder-monetize.com, 9275989450, DIRECT
-thunder-monetize.com, 9437131240, DIRECT
-thunder-monetize.com, 9654864836, DIRECT
 thunder-monetize.com, 1125520627, RESELLER
+thunder-monetize.com, 1257832012, RESELLER
 thunder-monetize.com, 1723306631, RESELLER
+thunder-monetize.com, 1858090629, RESELLER
+thunder-monetize.com, 1933963830, RESELLER
+thunder-monetize.com, 1947298216, RESELLER
+thunder-monetize.com, 2158729563, RESELLER
 thunder-monetize.com, 2297825074, RESELLER
+thunder-monetize.com, 2626756011, RESELLER
+thunder-monetize.com, 3018968091, RESELLER
+thunder-monetize.com, 3081642139, RESELLER
+thunder-monetize.com, 3199604937, RESELLER
+thunder-monetize.com, 3797245630, RESELLER
+thunder-monetize.com, 3879160930, RESELLER
 thunder-monetize.com, 3905806597, RESELLER
+thunder-monetize.com, 4116628010, RESELLER
+thunder-monetize.com, 4306738719, RESELLER
+thunder-monetize.com, 4586080114, RESELLER
 thunder-monetize.com, 4588767099, RESELLER
 thunder-monetize.com, 4818959194, RESELLER
+thunder-monetize.com, 5016320847, RESELLER
+thunder-monetize.com, 5102475972, RESELLER
+thunder-monetize.com, 5462031088, RESELLER
+thunder-monetize.com, 5714748458, RESELLER
+thunder-monetize.com, 5803687805, RESELLER
+thunder-monetize.com, 6124986497, RESELLER
+thunder-monetize.com, 6268002838, RESELLER
+thunder-monetize.com, 6329293809, RESELLER
 thunder-monetize.com, 6343837988, RESELLER
+thunder-monetize.com, 6394460651, RESELLER
+thunder-monetize.com, 6747258203, RESELLER
+thunder-monetize.com, 7169228962, RESELLER
+thunder-monetize.com, 7213903648, RESELLER
+thunder-monetize.com, 7373737053, RESELLER
+thunder-monetize.com, 8227779878, RESELLER
+thunder-monetize.com, 8432987942, RESELLER
+thunder-monetize.com, 8534885299, RESELLER
+thunder-monetize.com, 8764970206, RESELLER
+thunder-monetize.com, 8888198173, RESELLER
+thunder-monetize.com, 9153035698, RESELLER
+thunder-monetize.com, 9214052224, RESELLER
+thunder-monetize.com, 9326167394, RESELLER
+thunder-monetize.com, 9347471687, RESELLER
+thunder-monetize.com, 9630185716, RESELLER
+thunder-monetize.com, 9653037459, RESELLER
 toponad.com, 16385e313a271a, DIRECT, 1d49fe424a1a456d
 toponad.com, 1661f80179644e, RESELLER, 1d49fe424a1a456d
 tpmn.io, 415, RESELLER
@@ -903,7 +934,7 @@ video.unrulymedia.com, 962111114, RESELLER
 videoheroes.tv, 212450, RESELLER, 064bc410192443d8
 videoheroes.tv, 212503, RESELLER, 064bc410192443d8
 videoheroes.tv, 212581, RESELLER, 064bc410192443d8
-vidoomy.com, 7646534, RESELLER
+vidoomy.com, 7646534, DIRECT
 vidoomy.com, 4930225, RESELLER
 vidoomy.com, 4977914, RESELLER
 webeyemob.com, 70098, RESELLER
@@ -915,6 +946,7 @@ whildey.com, 1930387629, RESELLER
 whildey.com, 3543527138, RESELLER
 whildey.com, 5541841875, RESELLER
 whildey.com, 6401127138, RESELLER
+whildey.com, 9863234593, RESELLER
 xad.com, 958, RESELLER, 81cbf0a75a5e0e9a
 xandr.com, 12745, RESELLER, f5ab79cb980f11d1
 xandr.com, 13058, RESELLER, f5ab79cb980f11d1
@@ -1728,7 +1760,7 @@ xapads.com, 144307, RESELLER
 xapads.com, 194000, RESELLER
 yandex.com, 94923424, RESELLER
 yandex.com, 98384845, RESELLER
-#=== CASExchange Jul 02, 2024
+#=== CASExchange Jul 12, 2024
 152media.info, 152M238, RESELLER
 152media.info, 152M620, RESELLER
 152media.info, 152M890, RESELLER
@@ -1743,6 +1775,7 @@ adform.com, 3167, RESELLER, 9f5210a2f0999e32
 adingo.jp, 28733, RESELLER
 admagnetix.io, 200132, RESELLER
 admanmedia.com, 2029, RESELLER
+admixer.net, f374edbf-500a-448e-85b3-dd896473dd92, DIRECT
 adswizz.com, adtonos, RESELLER
 adsyield.com, 2355, DIRECT
 adyoulike.com, 02bbfc5dd0707834f452ab1bbe855a83, RESELLER, 4ad745ead2958bf7
@@ -1905,7 +1938,7 @@ xandr.com, 7847, RESELLER, f5ab79cb980f11d1
 yieldlab.net, 6378054, DIRECT
 yieldlab.net, 11114007, RESELLER
 yieldmo.com, 3515414073774645319, RESELLER
-#=== DSPExchange Jul 02, 2024
+#=== DSPExchange Jul 12, 2024
 33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
 a4g.com, 14245, DIRECT
 aceex.io, 1834, DIRECT, b1cf3c874d5c6682
@@ -1940,6 +1973,7 @@ engagebdr.com, 10294, RESELLER
 engagebdr.com, 16, RESELLER
 engagebdr.com, 7, RESELLER
 engagebdr.com, 84, RESELLER
+epom.com, 37dac473-a4c7-4006-8d68-df00e84e2de1, DIRECT
 gamaigroup.com, 320203, RESELLER
 gitberry.com, 31mbg, RESELLER
 google.com, pub-1232265399417302, RESELLER, f08c47fec0942fa0
@@ -2051,6 +2085,22 @@ ogury.com, 432e59bf-cea1-4835-909f-ce67b46743c4, DIRECT
 pubmatic.com, 163238, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 25198, RESELLER, 0bfd66d529a55807
 smartadserver.com, 4537, RESELLER, 060d053dcf45cbf3
+#=== LoopMe Jul 12, 2024
+loopme.com, 12807, DIRECT, 6c8d5f95897a5a3b
+9dotsmedia.com, 1358, RESELLER, 45ff185b4c4e857d
+acexchange.co.kr, 1601362449, RESELLER
+adwmg.com, 100765, RESELLER, c9688a22012618e7
+app-stock.com, 458952, RESELLER
+bold-win.com, 165, RESELLER, 71746737d0bab951
+boostappi.com, 10013, RESELLER
+cazhype.com, efe937780e95574250dabe07151bdc2332800, RESELLER
+eliteappgrade.com, 494350, RESELLER
+iqzone.com, IQ137, RESELLER, 60d26397ec060f98
+markappmedia.site, 313916, RESELLER
+showheroes.com, 6023, RESELLER
+sparcmedia.com, 70012, RESELLER
+streamkey.tv, 929221, RESELLER, f5ab793he40f11d1
+video.unrulymedia.com, 2148207460, RESELLER
 #=== Madex Mar 29, 2024
 madex.world, 2d576ffe-e44c-494f-95ed-f0ff3a07f9b8, DIRECT
 yabbi.me, 675d9254-4032-47ed-9074-b6ef4dbab522, DIRECT

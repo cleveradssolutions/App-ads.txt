@@ -1,4 +1,4 @@
-#=== CASExchange Jul 02, 2024
+#=== CASExchange Jul 12, 2024
 152media.info, 152M238, RESELLER
 152media.info, 152M620, RESELLER
 152media.info, 152M890, RESELLER
@@ -14,6 +14,7 @@ adform.com, 3167, RESELLER, 9f5210a2f0999e32
 adingo.jp, 28733, RESELLER
 admagnetix.io, 200132, RESELLER
 admanmedia.com, 2029, RESELLER
+admixer.net, f374edbf-500a-448e-85b3-dd896473dd92, DIRECT
 adswizz.com, adtonos, RESELLER
 adsyield.com, 2355, DIRECT
 adyoulike.com, 02bbfc5dd0707834f452ab1bbe855a83, RESELLER, 4ad745ead2958bf7
@@ -55,6 +56,7 @@ criteo.com, B-067384, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-071797, RESELLER, 9fac4a4a87c2a44f
 e-planning.net, 10b94af40754befc, RESELLER, c1ba615865ed87b2
 e-planning.net, 4c6e71ca46f47d4a, RESELLER, c1ba615865ed87b2
+e-planning.net, ec771b05828a67fa, RESELLER, c1ba615865ed87b2
 empower.net, 63cb0332e4b01718f069d4cb, RESELLER
 epom.com, c9f876c0-3ac3-4c07-b487-505a2727b19a, RESELLER
 fourthdimentionconsulting.com, 7689460, DIRECT
@@ -122,6 +124,7 @@ pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156962, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159626, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160846, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161155, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161332, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161648, RESELLER, 5d62403b186f2ace
@@ -189,7 +192,9 @@ video.unrulymedia.com, 3751985810, RESELLER
 video.unrulymedia.com, 4395089476839622266, RESELLER
 video.unrulymedia.com, 6694405583287859332, RESELLER
 video.unrulymedia.com, 7121219929476774013, RESELLER
+video.unrulymedia.com, 827123801, RESELLER
 video.unrulymedia.com, 873949647, RESELLER
+vidoomy.com, 4433873, DIRECT
 vidoomy.com, 4661610, RESELLER
 vidoomy.com, 5498575, RESELLER
 viralize.com, 7224, RESELLER

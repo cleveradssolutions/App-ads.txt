@@ -33,7 +33,7 @@ _SOURCES = [
     "CASExchange",
     "DSPExchange",
     "Ogury",
-    #"LoopMe",
+    "LoopMe",
     "Madex",
     "HyprMX",
     "StartIO",
@@ -46,7 +46,8 @@ _SOURCES_CAS = [
     "Pubmatic",
     "Waardex",
     "AdsYield",
-    "BoldWin"
+    "BoldWin",
+    "Admixer",
 ]
 _SOURCE_DSP = [
     "A4G",

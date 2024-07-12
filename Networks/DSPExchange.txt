@@ -1,4 +1,4 @@
-#=== DSPExchange Jul 02, 2024
+#=== DSPExchange Jul 12, 2024
 152media.info, 152M890, RESELLER
 33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
 a4g.com, 14245, DIRECT
@@ -82,6 +82,7 @@ engagebdr.com, 10294, RESELLER
 engagebdr.com, 16, RESELLER
 engagebdr.com, 7, RESELLER
 engagebdr.com, 84, RESELLER
+epom.com, 37dac473-a4c7-4006-8d68-df00e84e2de1, DIRECT
 eskimi.com, eas-2020000005, RESELLER
 gamaigroup.com, 320201, RESELLER
 gamaigroup.com, 320203, RESELLER
