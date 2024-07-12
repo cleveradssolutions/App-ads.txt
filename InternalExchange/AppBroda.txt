@@ -67,3 +67,4 @@ waardex.com, 204496, DIRECT
 xad.com, 958, RESELLER, 81cbf0a75a5e0e9a
 xandr.com, 13117, RESELLER, f5ab79cb980f11d1
 xandr.com, 13167, RESELLER, f5ab79cb980f11d1
+epom.com, 37dac473-a4c7-4006-8d68-df00e84e2de1, DIRECT
