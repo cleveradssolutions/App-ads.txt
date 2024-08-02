@@ -1,61 +1,22 @@
-#=== Smaato Oct 06, 2023
-smaato.com, 1100020918, DIRECT, 07bcf65f187117b4
-smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
-adcolony.com, 496220845654deec, RESELLER, 1ad675c9de6b5176
-adelement.com, 30208, RESELLER
-admanmedia.com, 552, RESELLER
-admixer.co.kr, 1094, RESELLER
-adview.com, 06667060, RESELLER, 1b2cc038a11ea319
-appads.in, 107606, RESELLER
+#=== Smaato Aug 01, 2024
+advangelists.com, 9766527f2b5d3e95d4a733fcfb77bd7e, RESELLER, 60d26397ec060f98
 appnexus.com, 1752, RESELLER, f5ab79cb980f11d1
-appnexus.com, 4052, RESELLER, f5ab79cb980f11d1
-bidence.com, d35302328a4b1f129d376f9c2932b0b7, RESELLER
-bidmachine.io, 36, RESELLER
-bidmachine.io, 60, RESELLER
-bidmachine.io, 74, RESELLER
-bidmachine.io, 77, RESELLER
-blis.com, 86, RESELLER, 61453ae19a4b73f4
 contextweb.com, 558622, RESELLER, 89ff185a4c4e857c
-contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
-conversantmedia.com, 100246, RESELLER, 03113cd04947736d
-engagebdr.com, 16, RESELLER
-freewheel.tv, 1157729, RESELLER
-freewheel.tv, 1157777, RESELLER
-freewheel.tv, 1446674, RESELLER
-gitberry.com, 90scb, RESELLER
-indexexchange.com, 183920, RESELLER, 50b1c356f2c5c8fc
-indexexchange.com, 184270, RESELLER, 50b1c356f2c5c8fc
 inmobi.com, 55049d2e109d4ac1820ca1432dda4e13, RESELLER, 83e75a7ae333ca9d
-limpid.tv, 203721, RESELLER
-lkqd.net, 647, RESELLER, 59c49fa9598a0117
-lkqd.net, 654, RESELLER, 59c49fa9598a0117
-loopme.com, 2896, RESELLER, 6c8d5f95897a5a3b
-mars.media, 1010443, RESELLER, 8624339f102fb076
-mars.media, 107876, RESELLER, 8624339f102fb076
-mintegral.com, 10026, RESELLER, 0aeed750c80d6423
-mobilefuse.com, 2281, RESELLER, 71e88b065d69c021
-movve.com, 4350252, RESELLER
+inmobi.com, 95ef2003a2c742db81a45303d6e4cf8b, RESELLER, 83e75a7ae333ca9d
 openx.com, 540421297, RESELLER, 6a698e2ec38604c6
-opera.com, pub4444433466368, RESELLER, 55a0c5fd61378de3
-pokkt.com, 5886, RESELLER, c45702d9311e25fd
 pubmatic.com, 156177, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156425, RESELLER, 5d62403b186f2ace
-pubnative.net, 1004796, RESELLER, d641df8625486a7b
-pubnative.net, 1007194, RESELLER, d641df8625486a7b
-rubiconproject.com, 16928, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 18364, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 23822, RESELLER, 0bfd66d529a55807
+pubmatic.com, 156557, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161771, RESELLER, 5d62403b186f2ace
+rhebus.works, 8978398251, RESELLER
+rubiconproject.com, 13132, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24600, RESELLER, 0bfd66d529a55807
-se7en.es, 212459, RESELLER, 064bc410192443d8
-smartadserver.com, 3117, RESELLER, 060d053dcf45cbf3
-smartadserver.com, 4140, RESELLER, 060d053dcf45cbf3
-smartyads.com, 100115, RESELLER, fd2bde0ff2e62c5d
-start.io, smt, RESELLER
-uis.mobfox.com, 1750, RESELLER, 5529a3d1f59865be
-verve.com, 14619, RESELLER, 0c8f5958fc2d6270
-video.unrulymedia.com, 4201299756, RESELLER
-videoheroes.tv, 212459, RESELLER, 064bc410192443d8
-vidoomy.com, 4350252, RESELLER
-webeyemob.com, 70107, RESELLER
+sharethrough.com, iBAzay96, RESELLER, d53b998a7bd4ecd2
+smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
+smaato.com, 1100057426, DIRECT, 07bcf65f187117b4
+smartadserver.com, 4762, RESELLER, 060d053dcf45cbf3
+thunder-monetize.com, 1252316774, RESELLER
+video.unrulymedia.com, 251620492, RESELLER
 xad.com, 241, RESELLER, 81cbf0a75a5e0e9a
-yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
