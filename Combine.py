@@ -54,6 +54,7 @@ _SOURCE_DSP = [
     "AppBroda",
     "Potensus",
     "ReklamUp",
+    "QT",
 ]
 _SOURCE_IN_GAMES = [
     "AdInMo",
@@ -241,8 +242,8 @@ def release():
     currentDate = date.today().strftime("%b %d, %Y")
     totalLines = "0"
 
-    updateDSP("DSPExchange", _SOURCE_DSP)
-    updateDSP("CASExchange", _SOURCES_CAS)
+    update_dsp("DSPExchange", _SOURCE_DSP)
+    update_dsp("CASExchange", _SOURCES_CAS)
 
     if args.games == True:
         mainFilePath = os.path.join(_ROOT_DIR, _RESULT_FOR_GAMES_FILE)
@@ -284,7 +285,7 @@ def release():
 
     print("Combined " + _RESULT_FILE + " with " + str(len(inventorySet)) + " (was " + totalLines + ") inventories for " + str(len(_SOURCES)) + " networks.")
 
-def updateDSP(networkName, sourceNames):
+def update_dsp(networkName, sourceNames):
     newInventories = set()
     for source in sourceNames:
         with open(os.path.join(_ROOT_DIR, _DSP_DIR_NAME, source + ".txt"), 'r') as sourceFile:
@@ -293,7 +294,7 @@ def updateDSP(networkName, sourceNames):
                 if inventory.is_empty() or inventory.is_comment():
                     continue
                 newInventories.add(inventory)
-    return updateInventories(networkName, newInventories, force=False, keepHead=False)
+    return update_items(networkName, newInventories, force=False, keepHead=False)
         
 def update(networkName, force):
     newInventories = set()
@@ -303,9 +304,9 @@ def update(networkName, force):
             if inventory.is_empty() or inventory.is_comment():
                 continue
             newInventories.add(inventory)
-    return updateInventories(networkName, newInventories, force, keepHead=True)
+    return update_items(networkName, newInventories, force, keepHead=True)
 
-def updateInventories(networkName, newInventories, force, keepHead):
+def update_items(networkName, newInventories, force, keepHead):
     duplicate = 0
     fillCertificate = args.fillCertificate
     keepInventories = list()
