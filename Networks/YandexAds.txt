@@ -1,4 +1,4 @@
-#=== YandexAds Jul 02, 2024
+#=== YandexAds Aug 05, 2024
 yandex.com, 66051405, DIRECT
 152media.info, 152M312, RESELLER
 152media.info, 152M499, RESELLER
@@ -96,7 +96,7 @@ freewheel.tv, 895601, RESELLER, 74e8e47458f74754
 gamoshi.io, 267-b4627, RESELLER, 20e30b2ae1f670f2
 gamoshi.io, 267-b5428, RESELLER, 20e30b2ae1f670f2
 google.com, pub-2843405949989126, RESELLER, f08c47fec0942fa0
-google.com, pub-3990748024667386, DIRECT, f08c47fec0942fa0
+google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
 google.com, pub-5289985627731322, RESELLER, f08c47fec0942fa0
 google.com, pub-7983651257838282, RESELLER, f08c47fec0942fa0
 google.com, pub-9417114411593463, RESELLER, f08c47fec0942fa0
@@ -256,8 +256,8 @@ start.io, mgr, RESELLER
 synacor.com, 82460, RESELLER, e108f11b2cdf7d5b
 themediagrid.com, 6XGFYQ, RESELLER, 35d5010d7789b49d
 themediagrid.com, NG9STC, RESELLER, 35d5010d7789b49d
-themediagrid.com, R28I9J, DIRECT, 35d5010d7789b49d
-themediagrid.com, FH3TKJ, RESELLER, 35d5010d7789b49d
+themediagrid.com, R28I9J, RESELLER, 35d5010d7789b49d
+themediagrid.com, fh3tkj, RESELLER, 35d5010d7789b49d
 tpmn.io, 415, RESELLER
 tpmn.io, 472, RESELLER
 triplelift.com, 10522, RESELLER, 6c33edb13117fd86
