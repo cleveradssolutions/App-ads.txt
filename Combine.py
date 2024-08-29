@@ -237,7 +237,7 @@ def read_certifications():
             certificateMap.update(json.load(file))
 
 def save_certifications():
-    with open(os.path.join(_ROOT_DIR, _CERTIFICATIONS_FILE), "w+") as file:
+    with open(os.path.join(_ROOT_DIR, _CERTIFICATIONS_FILE), "w") as file:
         json.dump(certificateMap, file, indent=2, sort_keys=True)
 
 def release():
@@ -253,11 +253,11 @@ def release():
         mainFilePath = os.path.join(_ROOT_DIR, _RESULT_FILE)
         
     if os.path.exists(mainFilePath):
-        with open(mainFilePath, "rbU") as appAdsFile:
+        with open(mainFilePath, "r") as appAdsFile:
             totalLines = str(sum(1 for _ in appAdsFile) - 1)
 
     inventorySet = set()
-    with open(mainFilePath, 'w+') as appAdsFile:
+    with open(mainFilePath, 'w') as appAdsFile:
         appAdsFile.write("# CAS.ai Updated " + currentDate + ', support@cleveradssolutions.com\n')
         for source in _SOURCES:
             with open(os.path.join(_ROOT_DIR, _NETS_DIR_NAME, source + ".txt"), 'r') as sourceFile:

@@ -36,7 +36,7 @@ eskimi.com, 2020000041, RESELLER
 freewheel.tv, 1603410, RESELLER, 74e8e47458f74754
 freewheel.tv, 1603413, RESELLER, 74e8e47458f74754
 gamaigroup.com, 423052, RESELLER
-google.com, pub-3990748024667386, DIRECT, f08c47fec0942fa0
+google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
 hyperad.tech, 221, RESELLER
 ignitemediatech.com, pub_11116, RESELLER
 inmobi.com, 86357825a302443d9a99c0b5dda0eafa, RESELLER, 83e75a7ae333ca9d
@@ -108,8 +108,8 @@ video.unrulymedia.com, 2099898025, RESELLER
 video.unrulymedia.com, 2464975885, RESELLER
 video.unrulymedia.com, 449519254, RESELLER
 video.unrulymedia.com, 524101463, RESELLER
-vidoomy.com, 4433873, RESELLER
-vidoomy.com, 7646534, RESELLER
+vidoomy.com, 4433873, DIRECT
+vidoomy.com, 7646534, DIRECT
 vidoomy.com, 9148331, RESELLER
 xapads.com, 144307, RESELLER
 xapads.com, 194000, RESELLER

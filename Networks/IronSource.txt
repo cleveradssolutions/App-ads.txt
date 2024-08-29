@@ -28,7 +28,7 @@ e-planning.net, af5a107262468954, RESELLER, c1ba615865ed87b2
 eskimi.com, 2020000545, RESELLER
 freewheel.tv, 741650, RESELLER, 74e8e47458f74754
 galaxyx-tech.com, 60056, DIRECT
-google.com, pub-3990748024667386, DIRECT, f08c47fec0942fa0
+google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
 google.com, pub-7452201096415972, RESELLER, f08c47fec0942fa0
 ignitemediatech.com, pub_11113, RESELLER
 improvedigital.com, 1114, RESELLER
@@ -110,7 +110,7 @@ sharethrough.com, koRtppYA, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, r9B1MG7E, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, vQMCuYXA, RESELLER, d53b998a7bd4ecd2
 smaato.com, 1100050739, RESELLER, 07bcf65f187117b4
-smartadserver.com, 3172, DIRECT, 060d053dcf45cbf3
+smartadserver.com, 3172, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4237, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4343, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4568, RESELLER, 060d053dcf45cbf3

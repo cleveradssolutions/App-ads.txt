@@ -191,7 +191,7 @@ thebrave.io, 1234628, RESELLER, c25b2154543746ac
 themediagrid.com, A8X5S7, RESELLER, 35d5010d7789b49d
 themediagrid.com, IRK975, RESELLER, 35d5010d7789b49d
 themediagrid.com, NG9STC, RESELLER, 35d5010d7789b49d
-themediagrid.com, R28I9J, DIRECT, 35d5010d7789b49d
+themediagrid.com, R28I9J, RESELLER, 35d5010d7789b49d
 themediagrid.com, RABCQ1, RESELLER, 35d5010d7789b49d
 themediagrid.com, SWH94X, RESELLER, 35d5010d7789b49d
 themediagrid.com, XYIOA3, RESELLER, 35d5010d7789b49d
