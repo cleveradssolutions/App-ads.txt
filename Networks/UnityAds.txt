@@ -3,7 +3,7 @@ unity.com, 1049822, DIRECT, 96cabb5fbdde37a7
 unity.com, 1773786, DIRECT, 96cabb5fbdde37a7
 unity.com, 4527131, DIRECT, 96cabb5fbdde37a7
 aceinmobi.com, 9e311c7a68e94888aac7fbb4272381e2, RESELLER
-adform.com, 716, RESELLER, 9f5210a2f0999e32
+adform.com, 716, DIRECT, 9f5210a2f0999e32
 admanmedia.com, 2153, RESELLER
 admanmedia.com, 990, RESELLER
 algorix.co, 54616, RESELLER, 5b394c12fea27a1d
@@ -45,7 +45,7 @@ onlinemediasolutions.com, 23120, RESELLER, b3868b187e4b6402
 openx.com, 540393169, RESELLER, 6a698e2ec38604c6
 openx.com, 540679900, RESELLER, 6a698e2ec38604c6
 openx.com, 540857594, RESELLER, 6a698e2ec38604c6
-openx.com, 540861995, RESELLER, 6a698e2ec38604c6
+openx.com, 540861995, DIRECT, 6a698e2ec38604c6
 openx.com, 559792583, RESELLER, 6a698e2ec38604c6
 orangeclickmedia.com, c-1181, RESELLER
 outbrain.com, 0023749a2264ea0429a71b54ac9ca0de9a, RESELLER
@@ -113,7 +113,7 @@ video.unrulymedia.com, 158727213, RESELLER
 video.unrulymedia.com, 169764768, RESELLER
 video.unrulymedia.com, 2464975885, RESELLER
 video.unrulymedia.com, 324806554, RESELLER
-video.unrulymedia.com, 6111915185540403805, RESELLER
+video.unrulymedia.com, 6111915185540403805, DIRECT
 videoheroes.tv, 212428, RESELLER, 064bc410192443d8
 videoheroes.tv, 212550, RESELLER, 064bc410192443d8
 visiblemeasures.com, 1020, RESELLER

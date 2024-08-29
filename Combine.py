@@ -48,6 +48,8 @@ _SOURCES_CAS = [
     "AdsYield",
     "BoldWin",
     "Admixer",
+    "Adyugo",
+    "Adeclipse",
 ]
 _SOURCE_DSP = [
     "A4G",
@@ -65,11 +67,11 @@ _BANS = [
     #("AdMob", "google.com")
 ]
 _VARIABLES = { # SUPPORTED VARIABLES
-    "contact", # contact information
-    "subdomain", # pointer to a subdomain file
-    "inventorypartnerdomain", # reference is followed to an ads.txt file only (not app-ads.txt)
-    "ownerdomain", # specifies the business domain of the business entity that owns the domain/site/app
-    "managerdomain", # Specifies the business domain of a primary or exclusive monetization partner of the publishers inventory
+    #"contact", # contact information
+    #"subdomain", # pointer to a subdomain file
+    #"inventorypartnerdomain", # reference is followed to an ads.txt file only (not app-ads.txt)
+    #"ownerdomain", # specifies the business domain of the business entity that owns the domain/site/app
+    #"managerdomain", # Specifies the business domain of a primary or exclusive monetization partner of the publishers inventory
 }
 _DOMAIN_PATTERN = re.compile("^([a-z0-9-]{1,63}\.)+[a-z]{2,9}\Z")
 _ID_PATTERN = re.compile("^[a-zA-Z0-9-_]+$")
@@ -235,7 +237,7 @@ def read_certifications():
             certificateMap.update(json.load(file))
 
 def save_certifications():
-    with open(os.path.join(_ROOT_DIR, _CERTIFICATIONS_FILE), "w+") as file:
+    with open(os.path.join(_ROOT_DIR, _CERTIFICATIONS_FILE), "w") as file:
         json.dump(certificateMap, file, indent=2, sort_keys=True)
 
 def release():
@@ -251,11 +253,11 @@ def release():
         mainFilePath = os.path.join(_ROOT_DIR, _RESULT_FILE)
         
     if os.path.exists(mainFilePath):
-        with open(mainFilePath, "rbU") as appAdsFile:
+        with open(mainFilePath, "r") as appAdsFile:
             totalLines = str(sum(1 for _ in appAdsFile) - 1)
 
     inventorySet = set()
-    with open(mainFilePath, 'w+') as appAdsFile:
+    with open(mainFilePath, 'w') as appAdsFile:
         appAdsFile.write("# CAS.ai Updated " + currentDate + ', support@cleveradssolutions.com\n')
         for source in _SOURCES:
             with open(os.path.join(_ROOT_DIR, _NETS_DIR_NAME, source + ".txt"), 'r') as sourceFile:

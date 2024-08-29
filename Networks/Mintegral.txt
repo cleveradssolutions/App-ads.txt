@@ -1,4 +1,4 @@
-#=== Mintegral Aug 05, 2024
+#=== Mintegral Aug 29, 2024
 mintegral.com, 25008, DIRECT, 0aeed750c80d6423
 acd.op.hicloud.com, PUB_HW_1003, RESELLER
 aceex.io, 1184, RESELLER, b1cf3c874d5c6682
@@ -72,6 +72,7 @@ aluna.co, 2335974998, RESELLER
 aniview.com, 603f65a2e291680ef30af9c7, RESELLER, 78b21b97965ec3f8
 aol.com, 58935, RESELLER, e1a5b5b6e3255540
 aol.com, 59025, RESELLER, e1a5b5b6e3255540
+app-stock.com, 558223, RESELLER, ed8c126ea5971415
 appads.in, 107139, RESELLER
 appads.in, 107606, RESELLER
 appaspire.com, 97517, RESELLER
@@ -153,6 +154,7 @@ contextweb.com, 562878, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562954, RESELLER, 89ff185a4c4e857c
 contextweb.com, 563017, RESELLER, 89ff185a4c4e857c
 contextweb.com, 563195, RESELLER, 89ff185a4c4e857c
+contextweb.com, 563321, RESELLER, 89ff185a4c4e857c
 conversantmedia.com, 100097, RESELLER, 03113cd04947736d
 conversantmedia.com, 100246, RESELLER, 03113cd04947736d
 conversantmedia.com, 100293, RESELLER, 03113cd04947736d
@@ -427,6 +429,7 @@ pubmatic.com, 164019, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164146, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164601, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164602, RESELLER, 5d62403b186f2ace
+pubmatic.com, 165329, RESELLER, 5d62403b186f2ace
 pubmatic.com, 92509, RESELLER, 5d62403b186f2ace
 pubnative.net, 1003601, RESELLER, d641df8625486a7b
 pubnative.net, 1006576, RESELLER, d641df8625486a7b
@@ -524,7 +527,8 @@ signifad.com, 8461547455, RESELLER
 signifad.com, 9043507172, RESELLER
 silvermob.com, 464, RESELLER
 singularads.com, 548745, RESELLER
-smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
+smaato.com, 1100057546, DIRECT, 07bcf65f187117b4
+smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
 smaato.com, 1100042823, RESELLER, 07bcf65f187117b4
 smaato.com, 1100044045, RESELLER, 07bcf65f187117b4
 smaato.com, 1100044156, RESELLER, 07bcf65f187117b4

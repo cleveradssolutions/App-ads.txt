@@ -1,5 +1,6 @@
-#=== DSPExchange Aug 05, 2024
+#=== DSPExchange Aug 29, 2024
 152media.info, 152M890, RESELLER
+152media.info, 152M922, RESELLER
 33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
 a4g.com, 14245, DIRECT
 aceex.io, 1834, DIRECT, b1cf3c874d5c6682
@@ -31,6 +32,7 @@ appads.in, 107606, RESELLER
 appbroda.com, 926, DIRECT
 appbroda.com, 953, DIRECT
 appnexus.com, 11450, RESELLER, f5ab79cb980f11d1
+appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12061, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12475, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12501, RESELLER, f5ab79cb980f11d1
@@ -42,6 +44,7 @@ appnexus.com, 13099, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13101, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13227, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13297, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
 appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
 aralego.com, par-9A2627866DA4BBE4F4AA4A67A3DDE686, RESELLER
@@ -70,7 +73,9 @@ contextweb.com, 562772, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562791, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562794, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562852, RESELLER, 89ff185a4c4e857c
+contextweb.com, 562930, RESELLER, 89ff185a4c4e857c
 contextweb.com, 563115, RESELLER, 89ff185a4c4e857c
+contextweb.com, 563169, RESELLER, 89ff185a4c4e857c
 conversantmedia.com, 100246, RESELLER, 03113cd04947736d
 conversantmedia.com, 100264, RESELLER, 03113cd04947736d
 conversantmedia.com, 100269, RESELLER, 03113cd04947736d
@@ -87,6 +92,8 @@ engagebdr.com, 7, RESELLER
 engagebdr.com, 84, RESELLER
 epom.com, 37dac473-a4c7-4006-8d68-df00e84e2de1, DIRECT
 eskimi.com, eas-2020000005, RESELLER
+freewheel.tv, 1585652, RESELLER, 74e8e47458f74754
+freewheel.tv, 1585681, RESELLER, 74e8e47458f74754
 gamaigroup.com, 320201, RESELLER
 gamaigroup.com, 320203, RESELLER
 gitberry.com, 31mbg, RESELLER
@@ -120,6 +127,7 @@ inmobi.com, 3a4f7da341dd490cbb7dde02b126275e, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 55049d2e109d4ac1820ca1432dda4e13, RESELLER, 83e75a7ae333ca9d
 inmobi.com, c3a13084114844a49580797573464536, RESELLER, 83e75a7ae333ca9d
 iqzone.com, IQ87, RESELLER, 60d26397ec060f98
+lemmatechnologies.com, 1515, DIRECT, 7829010c5bebd1fb
 lemmatechnologies.com, 89, RESELLER, 7829010c5bebd1fb
 lemmatechnologies.com, 942, RESELLER, 7829010c5bebd1fb
 lijit.com, 465542, RESELLER, fafdf38b16bf6b2b
@@ -256,7 +264,7 @@ sharethrough.com, NIRSC9f2, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, OAW69Fon, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, iBAzay96, RESELLER, d53b998a7bd4ecd2
 smaato.com, 1100057418, DIRECT, 07bcf65f187117b4
-smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
+smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
 smaato.com, 1100006126, RESELLER, 07bcf65f187117b4
 smaato.com, 1100027629, RESELLER, 07bcf65f187117b4
 smaato.com, 1100042823, RESELLER, 07bcf65f187117b4
@@ -316,6 +324,7 @@ ucfunnel.com, par-AA7B236BA32DD484C838E249362437B8, RESELLER
 uis.mobfox.com, 2158, DIRECT, 5529a3d1f59865be
 verve.com, 15503, RESELLER, 0c8f5958fc2d6270
 verve.com, 5897, RESELLER, 0c8f5958fc2d6270
+video.unrulymedia.com, 8167205979129043832, DIRECT
 video.unrulymedia.com, 123476257, RESELLER
 video.unrulymedia.com, 1244444110, RESELLER
 video.unrulymedia.com, 124775993, RESELLER

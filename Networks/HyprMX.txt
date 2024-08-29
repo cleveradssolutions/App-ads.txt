@@ -152,7 +152,7 @@ smartadserver.com, 4579, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4880, RESELLER, 060d053dcf45cbf3
 smartyads.com, 1156, RESELLER, fd2bde0ff2e62c5d
 supply.colossusssp.com, 610, RESELLER, 6c5b49d96ec1b458
-themediagrid.com, RABCQ1, DIRECT, 35d5010d7789b49d
+themediagrid.com, RABCQ1, RESELLER, 35d5010d7789b49d
 themediagrid.com, 9GKBJC, RESELLER, 35d5010d7789b49d
 themediagrid.com, HGN8TK, RESELLER, 35d5010d7789b49d
 themediagrid.com, IRK975, RESELLER, 35d5010d7789b49d

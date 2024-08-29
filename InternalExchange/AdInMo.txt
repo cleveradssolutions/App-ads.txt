@@ -287,7 +287,7 @@ getmediamx.com, 12611906, DIRECT
 gitberry.com, 355100012, RESELLER
 gitberry.com, 577, RESELLER
 gitberry.com, 90scb, RESELLER
-google.com, pub-3990748024667386, DIRECT, f08c47fec0942fa0
+google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
 google.com, pub-8622186303703569, DIRECT, f08c47fec0942fa0
 google.com, pub-1782014328826919, RESELLER, f08c47fec0942fa0
 google.com, pub-2325473850364670, RESELLER, f08c47fec0942fa0
@@ -770,7 +770,7 @@ thebrave.io, 1234640, RESELLER, c25b2154543746ac
 thebrave.io, 52353142, RESELLER, c25b2154543746ac
 themediagrid.com, EYHMU2, DIRECT, 35d5010d7789b49d
 themediagrid.com, HIFRLS, DIRECT, 35d5010d7789b49d
-themediagrid.com, R28I9J, DIRECT, 35d5010d7789b49d
+themediagrid.com, R28I9J, RESELLER, 35d5010d7789b49d
 themediagrid.com, RIX2M5, DIRECT, 35d5010d7789b49d
 themediagrid.com, RVQDTI, DIRECT, 35d5010d7789b49d
 themediagrid.com, S9JBZM, DIRECT, 35d5010d7789b49d
