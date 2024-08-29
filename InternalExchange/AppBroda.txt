@@ -1,19 +1,27 @@
-#=== AppBroda Jul 02, 2024
+#=== AppBroda Aug 29, 2024
 appbroda.com, 926, DIRECT
 appbroda.com, 953, DIRECT
 152media.info, 152M890, RESELLER
+152media.info, 152M922, RESELLER
 aceex.io, 1834, DIRECT, b1cf3c874d5c6682
 adform.com, 2742, RESELLER, 9f5210a2f0999e32
 adform.com, 3062, RESELLER, 9f5210a2f0999e32
 admanmedia.com, 43, RESELLER
 adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER, 4ad745ead2958bf7
+appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13099, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
 appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
 axonix.com, 57264, RESELLER, bc385f2b4a87b721
 axonix.com, 59089, RESELLER, bc385f2b4a87b721
 contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562757, RESELLER, 89ff185a4c4e857c
+contextweb.com, 562930, RESELLER, 89ff185a4c4e857c
+contextweb.com, 563169, RESELLER, 89ff185a4c4e857c
 conversantmedia.com, 100269, RESELLER, 03113cd04947736d
+epom.com, 37dac473-a4c7-4006-8d68-df00e84e2de1, DIRECT
+freewheel.tv, 1585652, RESELLER, 74e8e47458f74754
+freewheel.tv, 1585681, RESELLER, 74e8e47458f74754
 google.com, pub-1472835721311013, RESELLER, f08c47fec0942fa0
 google.com, pub-3184487253168181, RESELLER, f08c47fec0942fa0
 google.com, pub-5572725367182117, RESELLER, f08c47fec0942fa0
@@ -25,6 +33,7 @@ improvedigital.com, 2276, RESELLER
 improvedigital.com, 2417, RESELLER
 improvedigital.com, 2424, RESELLER
 inmobi.com, c3a13084114844a49580797573464536, RESELLER, 83e75a7ae333ca9d
+lemmatechnologies.com, 1515, DIRECT, 7829010c5bebd1fb
 lemmatechnologies.com, 942, RESELLER, 7829010c5bebd1fb
 lijit.com, 465542, RESELLER, fafdf38b16bf6b2b
 loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
@@ -39,6 +48,7 @@ pubmatic.com, 126340, RESELLER, 5d62403b186f2ace
 pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156439, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156451, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156494, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162458, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163420, RESELLER, 5d62403b186f2ace
@@ -59,6 +69,7 @@ smartadserver.com, 4941-OB, RESELLER, 060d053dcf45cbf3
 sonobi.com, a85c5f6129, RESELLER, d1a215d9eb5aee9e
 uis.mobfox.com, 2158, DIRECT, 5529a3d1f59865be
 verve.com, 15503, RESELLER, 0c8f5958fc2d6270
+video.unrulymedia.com, 8167205979129043832, DIRECT
 video.unrulymedia.com, 124775993, RESELLER
 video.unrulymedia.com, 2564526802, RESELLER
 vidoomy.com, 4930225, RESELLER
@@ -67,35 +78,3 @@ waardex.com, 204496, DIRECT
 xad.com, 958, RESELLER, 81cbf0a75a5e0e9a
 xandr.com, 13117, RESELLER, f5ab79cb980f11d1
 xandr.com, 13167, RESELLER, f5ab79cb980f11d1
-epom.com, 37dac473-a4c7-4006-8d68-df00e84e2de1, DIRECT
-waardex.com, 204496, DIRECT
-inmobi.com, c3a13084114844a49580797573464536, RESELLER, 83e75a7ae333ca9d
-rubiconproject.com, 24228,  RESELLER, 0bfd66d529a55807   
-xandr.com, 13117, RESELLER
-aceex.io, 1834, DIRECT, b1cf3c874d5c6682
-Xandr.com, 13167, RESELLER
-pubmatic.com, 162458, RESELLER, 5d62403b186f2ace
-adform.com, 3062, RESELLER, 9f5210a2f0999e32
-video.unrulymedia.com, 124775993, RESELLER
-improvedigital.com, 2424, RESELLER
-hindsightsolutions.net ,323-b5850 ,DIRECT ,20e30b2ae1f670f2
-152media.info,152M890,RESELLER
-152media.info,152M922,RESELLER
-appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
-appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
-pubmatic.com, 164735, RESELLER, 5d62403b186f2ace
-lemmatechnologies.com, 1515, DIRECT, 7829010c5bebd1fb
-freewheel.tv, 1585652, RESELLER
-freewheel.tv, 1585681, RESELLER
-pubmatic.com, 156494, RESELLER, 5d62403b186f2ace
-video.unrulymedia.com, 8167205979129043832, DIRECT
-Contextweb.com,563169,RESELLER,89ff185a4c4e857c
-Contextweb.com,562930,RESELLER,89ff185a4c4e857c
-pubmatic.com, 162458, RESELLER, 5d62403b186f2ace
-adform.com, 3062, RESELLER, 9f5210a2f0999e32
-video.unrulymedia.com, 124775993, RESELLER
-improvedigital.com, 2424, RESELLER
-pubmatic.com, 162458, RESELLER, 5d62403b186f2ace
-adform.com, 3062, RESELLER, 9f5210a2f0999e32
-video.unrulymedia.com, 124775993, RESELLER
-improvedigital.com, 2424, RESELLER

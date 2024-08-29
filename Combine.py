@@ -48,6 +48,8 @@ _SOURCES_CAS = [
     "AdsYield",
     "BoldWin",
     "Admixer",
+    "Adyugo",
+    "Adeclipse",
 ]
 _SOURCE_DSP = [
     "A4G",
