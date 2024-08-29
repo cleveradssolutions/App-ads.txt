@@ -68,7 +68,7 @@ xad.com, 958, RESELLER, 81cbf0a75a5e0e9a
 xandr.com, 13117, RESELLER, f5ab79cb980f11d1
 xandr.com, 13167, RESELLER, f5ab79cb980f11d1
 epom.com, 37dac473-a4c7-4006-8d68-df00e84e2de1, DIRECT
-"waardex.com, 204496, DIRECT
+waardex.com, 204496, DIRECT
 inmobi.com, c3a13084114844a49580797573464536, RESELLER, 83e75a7ae333ca9d
 rubiconproject.com, 24228,  RESELLER, 0bfd66d529a55807   
 xandr.com, 13117, RESELLER
@@ -98,4 +98,4 @@ improvedigital.com, 2424, RESELLER
 pubmatic.com, 162458, RESELLER, 5d62403b186f2ace
 adform.com, 3062, RESELLER, 9f5210a2f0999e32
 video.unrulymedia.com, 124775993, RESELLER
-improvedigital.com, 2424, RESELLER"
+improvedigital.com, 2424, RESELLER
