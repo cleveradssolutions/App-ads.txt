@@ -67,11 +67,11 @@ _BANS = [
     #("AdMob", "google.com")
 ]
 _VARIABLES = { # SUPPORTED VARIABLES
-    "contact", # contact information
-    "subdomain", # pointer to a subdomain file
-    "inventorypartnerdomain", # reference is followed to an ads.txt file only (not app-ads.txt)
-    "ownerdomain", # specifies the business domain of the business entity that owns the domain/site/app
-    "managerdomain", # Specifies the business domain of a primary or exclusive monetization partner of the publishers inventory
+    #"contact", # contact information
+    #"subdomain", # pointer to a subdomain file
+    #"inventorypartnerdomain", # reference is followed to an ads.txt file only (not app-ads.txt)
+    #"ownerdomain", # specifies the business domain of the business entity that owns the domain/site/app
+    #"managerdomain", # Specifies the business domain of a primary or exclusive monetization partner of the publishers inventory
 }
 _DOMAIN_PATTERN = re.compile("^([a-z0-9-]{1,63}\.)+[a-z]{2,9}\Z")
 _ID_PATTERN = re.compile("^[a-zA-Z0-9-_]+$")
