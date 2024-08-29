@@ -1,10 +1,12 @@
-#=== CASExchange Jul 12, 2024
+#=== CASExchange Aug 29, 2024
 152media.info, 152M238, RESELLER
 152media.info, 152M620, RESELLER
 152media.info, 152M890, RESELLER
 152media.info, 152M929, RESELLER
 152media.info, 152M935, RESELLER
 aceex.io, 1608, DIRECT, b1cf3c874d5c6682
+adeclipse.io, 531196402, DIRECT
+adeclipse.io, 531196406, DIRECT
 adform.com, 1819, RESELLER, 9f5210a2f0999e32
 adform.com, 2708, RESELLER, 9f5210a2f0999e32
 adform.com, 2742, RESELLER, 9f5210a2f0999e32
@@ -19,6 +21,7 @@ adswizz.com, adtonos, RESELLER
 adsyield.com, 2355, DIRECT
 adyoulike.com, 02bbfc5dd0707834f452ab1bbe855a83, RESELLER, 4ad745ead2958bf7
 adyoulike.com, 47693027ead7a9b0407d96f2ca64a9e9, RESELLER, 4ad745ead2958bf7
+adyugo.com, 1005, DIRECT
 aloha-ads.com, 50662, DIRECT
 amxrtb.com, 105199642, DIRECT
 apester.com, 64d0ae429782f5001236898a, RESELLER
@@ -58,6 +61,7 @@ e-planning.net, 10b94af40754befc, RESELLER, c1ba615865ed87b2
 e-planning.net, 4c6e71ca46f47d4a, RESELLER, c1ba615865ed87b2
 e-planning.net, ec771b05828a67fa, RESELLER, c1ba615865ed87b2
 empower.net, 63cb0332e4b01718f069d4cb, RESELLER
+epom.com, cd55a4c7-c917-4173-83c2-c139ed58e95e, DIRECT
 epom.com, c9f876c0-3ac3-4c07-b487-505a2727b19a, RESELLER
 fourthdimentionconsulting.com, 7689460, DIRECT
 freewheel.tv, 1157729, RESELLER, 74e8e47458f74754
@@ -209,5 +213,5 @@ xandr.com, 15688, RESELLER, f5ab79cb980f11d1
 xandr.com, 7847, RESELLER, f5ab79cb980f11d1
 yieldlab.net, 6378054, DIRECT
 yieldlab.net, 11114007, RESELLER
-yieldmo.com, 3515414073774645319, RESELLER
+yieldmo.com, 3515414073774645319, RESELLER, 6a92c77cfc3d2258
 zetaglobal.net, 626, RESELLER
