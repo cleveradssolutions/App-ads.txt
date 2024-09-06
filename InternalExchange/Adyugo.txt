@@ -1,2 +1,10 @@
 #=== Adyugo Aug 29, 2024
 adyugo.com, 1005, DIRECT
+lemmatechnologies.com, 1588, DIRECT, 7829010c5bebd1fb
+freewheel.tv, 1585652, RESELLER
+freewheel.tv, 1585681, RESELLER
+pubmatic.com, 156494, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 8167205979129043832, DIRECT
+Contextweb.com,562930,RESELLER,89ff185a4c4e857c
+onetag.com, 8d4bbebb8fa701e, RESELLER
+connatix.com, 1742365173855029, RESELLER, 2af98acdee0e81ed
