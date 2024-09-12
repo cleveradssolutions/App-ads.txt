@@ -1,0 +1,21 @@
+adbite.com, 540, DIRECT
+152media.info,152M963,RESELLER
+appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
+vidoomy.com, 5975555, RESELLER
+adform.com, 2742, RESELLER
+onetag.com, 8cbe65196700300, DIRECT
+appnexus.com, 13099, RESELLER
+pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
+freewheel.tv, 20393, RESELLER
+freewheel.tv, 24377, RESELLER
+inmobi.com, bf7c7c73ec1146939dccd08e9954c73d, RESELLER, 83e75a7ae333ca9d
+gamoshi.io ,267-b5981 ,DIRECT ,20e30b2ae1f670f2
+gamoshi.io ,267-b5981 ,RESELLER ,20e30b2ae1f670f2
+adbite.com, 540 , DIRECT
+onetag.com, 8cbe65196700300, DIRECT
+appnexus.com, 13099, RESELLER
+pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
+freewheel.tv, 20393, RESELLER
+freewheel.tv, 24377, RESELLER
