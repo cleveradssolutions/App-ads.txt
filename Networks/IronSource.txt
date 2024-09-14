@@ -1,14 +1,14 @@
-#=== IronSource Aug 05, 2024
+#=== IronSource Sep 14, 2024
 ironsrc.com, 218335, DIRECT
 ironsrc.com, 406326, DIRECT
 ironsrc.com, 445197, DIRECT
 ironsrc.com, 222871, RESELLER, 79929e88b2ba73bc
 adbility-media.com, 187, RESELLER
-adform.com, 716, DIRECT, 9f5210a2f0999e32
+adform.com, 716, RESELLER, 9f5210a2f0999e32
 admanmedia.com, 2153, RESELLER
 admanmedia.com, 990, RESELLER
 algorix.co, 54400, RESELLER, 5b394c12fea27a1d
-app-stock.com, 256917, RESELLER
+app-stock.com, 256917, RESELLER, ed8c126ea5971415
 appads.in, 106246, RESELLER
 appnexus.com, 15426, RESELLER, f5ab79cb980f11d1
 appnexus.com, 15629, RESELLER, f5ab79cb980f11d1
@@ -27,7 +27,7 @@ conversantmedia.com, 100691, RESELLER, 03113cd04947736d
 e-planning.net, af5a107262468954, RESELLER, c1ba615865ed87b2
 eskimi.com, 2020000545, RESELLER
 freewheel.tv, 741650, RESELLER, 74e8e47458f74754
-galaxyx-tech.com, 60056, DIRECT
+galaxyx-tech.com, 60056, RESELLER
 google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
 google.com, pub-7452201096415972, RESELLER, f08c47fec0942fa0
 ignitemediatech.com, pub_11113, RESELLER
@@ -36,7 +36,7 @@ improvedigital.com, 2276, RESELLER
 inmobi.com, 3af76ebd8ed44d04b01d827c6f3bb5b4, RESELLER, 83e75a7ae333ca9d
 inmobi.com, edd282ac8f29464792bf2b7f3df2f9df, RESELLER, 83e75a7ae333ca9d
 krushmedia.com, AJxF6R585a9M6CaTvK, RESELLER
-lacunads.com, LC7dc692567a127a57, DIRECT
+lacunads.com, LC7dc692567a127a57, RESELLER
 lijit.com, 465542, RESELLER, fafdf38b16bf6b2b
 lijit.com, 481366, RESELLER, fafdf38b16bf6b2b
 lijit.com, 491737, RESELLER, fafdf38b16bf6b2b
@@ -50,13 +50,13 @@ media.net, 8CUO7P3WK, RESELLER
 onetag.com, 5d49f482552c9b6, RESELLER
 onetag.com, 8668c16092f01e8, RESELLER
 onlinemediasolutions.com, 20498, RESELLER, b3868b187e4b6402
-openx.com, 540861995, DIRECT, 6a698e2ec38604c6
 openx.com, 539363588, RESELLER, 6a698e2ec38604c6
 openx.com, 540393169, RESELLER, 6a698e2ec38604c6
 openx.com, 540679900, RESELLER, 6a698e2ec38604c6
+openx.com, 540861995, RESELLER, 6a698e2ec38604c6
 openx.com, 544039818, RESELLER, 6a698e2ec38604c6
 openx.com, 559792583, RESELLER, 6a698e2ec38604c6
-orangeclickmedia.com, C-1181, DIRECT
+orangeclickmedia.com, C-1181, RESELLER
 outbrain.com, 0023749a2264ea0429a71b54ac9ca0de9a, RESELLER
 outbrain.com, 00ab8f68679cc060c8bbc1035e70030614, RESELLER
 playdigo.com, 1993, RESELLER, 92011346d63d3c30
@@ -115,8 +115,8 @@ smartadserver.com, 4237, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4343, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4568, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4610, RESELLER, 060d053dcf45cbf3
-smartclip.net, 8153, RESELLER
-stroeer.com, 17355, DIRECT
+smartclip.net, 14679, RESELLER
+stroeer.com, 17355, RESELLER
 stroeer.com, 17379, RESELLER
 thebrave.io, 1234648, RESELLER, c25b2154543746ac
 themediagrid.com, B8N9YH, RESELLER, 35d5010d7789b49d
@@ -124,9 +124,8 @@ thunder-monetize.com, 1421531493, RESELLER
 toponad.com, 164478a84dfe31, RESELLER, 1d49fe424a1a456d
 triplelift.com, 12158, RESELLER, 6c33edb13117fd86
 triplelift.com, 12652, RESELLER, 6c33edb13117fd86
-ushareit.com, LC7dc692567a127a57, DIRECT
+ushareit.com, LC7dc692567a127a57, RESELLER
 verve.com, 15503, RESELLER, 0c8f5958fc2d6270
-video.unrulymedia.com, 6111915185540403805, DIRECT
 video.unrulymedia.com, 1058378980, RESELLER
 video.unrulymedia.com, 123476257, RESELLER
 video.unrulymedia.com, 158727213, RESELLER
@@ -134,6 +133,7 @@ video.unrulymedia.com, 2464975885, RESELLER
 video.unrulymedia.com, 322585001, RESELLER
 video.unrulymedia.com, 324806554, RESELLER
 video.unrulymedia.com, 498216989, RESELLER
+video.unrulymedia.com, 6111915185540403805, RESELLER
 video.unrulymedia.com, 689559416, RESELLER
 videoheroes.tv, 212428, RESELLER, 064bc410192443d8
 videoheroes.tv, 212550, RESELLER, 064bc410192443d8
