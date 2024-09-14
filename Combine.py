@@ -50,6 +50,9 @@ _SOURCES_CAS = [
     "Admixer",
     "Adyugo",
     "Adeclipse",
+    "Adbite",
+    "Mobfox",
+    "SmartyAds",
 ]
 _SOURCE_DSP = [
     "A4G",
@@ -73,7 +76,7 @@ _VARIABLES = { # SUPPORTED VARIABLES
     #"ownerdomain", # specifies the business domain of the business entity that owns the domain/site/app
     #"managerdomain", # Specifies the business domain of a primary or exclusive monetization partner of the publishers inventory
 }
-_DOMAIN_PATTERN = re.compile("^([a-z0-9-]{1,63}\.)+[a-z]{2,9}\Z")
+_DOMAIN_PATTERN = re.compile(r"^([a-z0-9-]{1,63}\.)+[a-z]{2,9}\Z")
 _ID_PATTERN = re.compile("^[a-zA-Z0-9-_]+$")
 _CERTIFICATE_PATTERN = re.compile("^[a-zA-Z0-9]+$")
 
@@ -109,7 +112,7 @@ args = arg_parser.parse_args()
 def print_warning(warning, inventory):
     print('\033[93m   Warning: ' + warning + '\n      ' + inventory + '\033[0m')
 
-def fatal_error(error, inventory):
+def fatal_error(error, inventory=''):
     sys.exit('\033[91m   Error: ' + error + '\n      ' + inventory + '\033[0m')
 
 @total_ordering

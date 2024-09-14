@@ -1,4 +1,4 @@
-#=== LoopMe Jul 12, 2024
+#=== LoopMe Sep 14, 2024
 loopme.com, 12807, DIRECT, 6c8d5f95897a5a3b
 9dotsmedia.com, 1358, RESELLER, 45ff185b4c4e857d
 acexchange.co.kr, 1601362449, RESELLER
@@ -6,21 +6,24 @@ adform.com, 3083, RESELLER, 9f5210a2f0999e32
 admanmedia.com, 594, RESELLER
 admixer.net, eab09ea6-bcf7-4eff-965d-b4f43962c73c, RESELLER
 adwmg.com, 100765, RESELLER, c9688a22012618e7
-app-stock.com, 458952, RESELLER
+app-stock.com, 458952, RESELLER, ed8c126ea5971415
 appads.in, 107606, RESELLER
-axonix.com, 59054, RESELLER, bc385f2b4a87b721
 bold-win.com, 165, RESELLER, 71746737d0bab951
 boostappi.com, 10013, RESELLER
+carbonatix.com, 176264355, RESELLER
 cazhype.com, efe937780e95574250dabe07151bdc2332800, RESELLER
 conversantmedia.com, 100246, RESELLER, 03113cd04947736d
 e-planning.net, 9522026ef023606d, RESELLER, c1ba615865ed87b2
 eliteappgrade.com, 494350, RESELLER
 eskimi.com, eas-2020000005, RESELLER
+freewheel.tv, 1137745, RESELLER, 74e8e47458f74754
+freewheel.tv, 1138513, RESELLER, 74e8e47458f74754
 growintech.co, 101696, RESELLER, 9d8dfe5c6b00fb37
 improvedigital.com, 1532, RESELLER
 inmobi.com, ebc44eef6c104f7fbf7bc52ee29f7939, RESELLER, 83e75a7ae333ca9d
 iqzone.com, IQ137, RESELLER, 60d26397ec060f98
 lijit.com, 400766, RESELLER, fafdf38b16bf6b2b
+loopme.com, 11456, DIRECT, 6c8d5f95897a5a3b
 lunamedia.io, 2fb901cd79f4453b90b68bee79da71b5, RESELLER, 524ecb396915caaf
 markappmedia.site, 313916, RESELLER
 mars.media, 1010443, RESELLER, 8624339f102fb076
@@ -34,67 +37,17 @@ prequel.tv, 515, RESELLER
 programmaticx.ai, 6845438, RESELLER
 pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+screenil.com, 547745, RESELLER
 sharethrough.com, 6qlnf8SY, RESELLER, d53b998a7bd4ecd2
 showheroes.com, 6023, RESELLER
+smartadserver.com, 4625, RESELLER, 060d053dcf45cbf3
 sonobi.com, b43e9530e7, RESELLER, d1a215d9eb5aee9e
 sparcmedia.com, 70012, RESELLER
 streamkey.tv, 929221, RESELLER, f5ab793he40f11d1
 thebrave.io, 1234585, RESELLER, c25b2154543746ac
 triplelift.com, 12158, RESELLER, 6c33edb13117fd86
 video.unrulymedia.com, 2148207460, RESELLER
-
-loopme.com, 11456, DIRECT, 6c8d5f95897a5a3b
-lijit.com, 400766, RESELLER, fafdf38b16bf6b2b
-freewheel.tv, 1138513, RESELLER
-smartadserver.com, 4625, RESELLER, 060d053dcf45cbf3
-pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
-sharethrough.com, 6qlnf8SY, RESELLER, d53b998a7bd4ecd2
-yieldmo.com, 3590879766707642794, RESELLER
-openx.com, 540298543, RESELLER, 6a698e2ec38604c6
-rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
-xandr.com, 13799, RESELLER
-triplelift.com, 12158, RESELLER, 6c33edb13117fd86
-adform.com, 3083, RESELLER
-sonobi.com, b43e9530e7, RESELLER, d1a215d9eb5aee9e
-freewheel.tv, 1137745, RESELLER
-video.unrulymedia.com, 2148207460, RESELLER
-programmaticx.ai, 6845438, RESELLER
-conversantmedia.com, 100246, RESELLER, 03113cd04947736d
-showheroes.com, 6023, RESELLER
-opera.com, pub7275292332480, RESELLER, 55a0c5fd61378de3
-media.net, 8CUN37DCC, RESELLER
-adwmg.com, 100765, RESELLER, c9688a22012618e7
-thebrave.io, 1234585, RESELLER, c25b2154543746ac
-bold-win.com, 165, RESELLER, 71746737d0bab951
-videoheroes.tv, 212503, RESELLER, 064bc410192443d8
-yeahmobi.com, 5135284, Reseller
-onlinemediasolutions.com, 20498, RESELLER
-boostappi.com, 10013, RESELLER
-programmaticx.ai, 6845438, RESELLER
-eliteappgrade.com, 494350, RESELLER
-pokkt.com, 7606, RESELLER, c45702d9311e25fd
-appads.in, 107606, RESELLER
-admanmedia.com, 594, RESELLER
-Eskimi.com, eas-2020000005, RESELLER
-markappmedia.site, 313916, RESELLER
-cazhype.com, efe937780e95574250dabe07151bdc2332800, RESELLER
-improvedigital.com, 1532, RESELLER
-acexchange.co.kr, 1601362449, RESELLER
-App-stock.com , 458952, Reseller
-iqzone.com, IQ137, RESELLER
-onairglobal.com, 4357627, RESELLER
-prequel.tv, 515, RESELLER
-growintech.co, 101696 , RESELLER
-admixer.net, eab09ea6-bcf7-4eff-965d-b4f43962c73c, RESELLER
-lunamedia.io, 2fb901cd79f4453b90b68bee79da71b5, RESELLER, 524ecb396915caaf
-e-planning.net, 9522026ef023606d,RESELLER, c1ba615865ed87b2
-mars.media, 1010443, RESELLER, 8624339f102fb076
-sparcmedia.com, 70012, RESELLER
-inmobi.com, ebc44eef6c104f7fbf7bc52ee29f7939, RESELLER, 83e75a7ae333ca9d
-9dotsmedia.com, 1358, RESELLER, 45ff185b4c4e857d
-carbonatix.com, 176264355, RESELLER
-streamkey.tv, 929221, RESELLER, f5ab793he40f11d1 
-screenil.com, 547745 , RESELLER
 videoheroes.tv, 212503, RESELLER, 064bc410192443d8
 xandr.com, 13799, RESELLER, f5ab79cb980f11d1
 yeahmobi.com, 5135284, RESELLER
+yieldmo.com, 3590879766707642794, RESELLER, 6a92c77cfc3d2258

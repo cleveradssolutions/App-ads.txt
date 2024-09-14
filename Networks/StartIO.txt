@@ -1,9 +1,9 @@
-#=== StartIO Aug 05, 2024
+#=== StartIO Sep 14, 2024
 acexchange.co.kr, 1746357004, RESELLER
 adiiix.com, 1b5c093d, RESELLER
-admixer.co.kr, 2035, RESELLER
-admixer.co.kr, 2041, RESELLER
+advlion.com, 3144, RESELLER
 appnexus.com, 1019, RESELLER, f5ab79cb980f11d1
+appnexus.com, 2007, RESELLER, f5ab79cb980f11d1
 appnexus.com, 4052, RESELLER, f5ab79cb980f11d1
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
 aralego.com, par-AA7B236BA32DD484C838E249362437B8, RESELLER
@@ -11,23 +11,25 @@ axonix.com, 59054, RESELLER, bc385f2b4a87b721
 conversantmedia.com, 100246, RESELLER, 03113cd04947736d
 conversantmedia.com, 100339, RESELLER, 03113cd04947736d
 conversantmedia.com, 100358, RESELLER, 03113cd04947736d
+e-planning.net, 9e13ae05de78d045, RESELLER, c1ba615865ed87b2
 eskimi.com, 2020000022, RESELLER
 freewheel.tv, 1138513, RESELLER, 74e8e47458f74754
+freewheel.tv, 1606620, RESELLER, 74e8e47458f74754
+freewheel.tv, 1606633, RESELLER, 74e8e47458f74754
 gitberry.com, 405100012, RESELLER
 google.com, pub-8428973207370809, DIRECT, f08c47fec0942fa0
 ignitemediatech.com, pub_11119, RESELLER
+iion.io, 10174, RESELLER, 013a29748465dc57
 indexexchange.com, 206797, RESELLER, 50b1c356f2c5c8fc
-inmobi.com, 12a9a79d60214a40a444a6103b81747c, RESELLER, 83e75a7ae333ca9d
-inmobi.com, 22e5354e453f49348325184e25464adb, RESELLER, 83e75a7ae333ca9d
-inmobi.com, 300bb0e4e3704cd495136c09d57448b9, RESELLER, 83e75a7ae333ca9d
-inmobi.com, 3a4f7da341dd490cbb7dde02b126275e, RESELLER, 83e75a7ae333ca9d
 inmobi.com, edd282ac8f29464792bf2b7f3df2f9df, RESELLER, 83e75a7ae333ca9d
 lijit.com, 400766, RESELLER, fafdf38b16bf6b2b
 lijit.com, 488437, RESELLER, fafdf38b16bf6b2b
+loopme.com, 11318, RESELLER, 6c8d5f95897a5a3b
 onetag.com, 6049d2c92852238, DIRECT
 openx.com, 538959099, RESELLER, 6a698e2ec38604c6
 openx.com, 540274407, RESELLER, 6a698e2ec38604c6
 openx.com, 540679900, RESELLER, 6a698e2ec38604c6
+openx.com, 559911747, RESELLER, 6a698e2ec38604c6
 openx.com, 559912325, RESELLER, 6a698e2ec38604c6
 opera.com, pub5925993551616, RESELLER, 55a0c5fd61378de3
 outbrain.com, 0023749a2264ea0429a71b54ac9ca0de9a, RESELLER
@@ -35,33 +37,37 @@ outbrain.com, 00dbc7a68d0cd51d55ac0aa9e1918c9a34, RESELLER
 pubmatic.com, 156517, RESELLER, 5d62403b186f2ace
 pubmatic.com, 157559, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160145, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161162, RESELLER, 5d62403b186f2ace
-pubmatic.com, 161748, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163476, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164079, RESELLER, 5d62403b186f2ace
-pubmatic.com, 164657, RESELLER, 5d62403b186f2ace
 pubnative.net, 1007349, RESELLER, d641df8625486a7b
 pubnative.net, 1008289, RESELLER, d641df8625486a7b
 pubnative.net, 1008770, RESELLER, d641df8625486a7b
-rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24400, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 15044, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 15278, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24362, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 25978, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26156, RESELLER, 0bfd66d529a55807
+sabio.us, 100125, RESELLER, 96ed93aaa9795702
 sharethrough.com, 5EQ7ZF1q, RESELLER, d53b998a7bd4ecd2
 smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
+smartadserver.com, 4342, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4573, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4625, RESELLER, 060d053dcf45cbf3
 start.io, 174388014, DIRECT
 startapp.com, 174388014, DIRECT
 target.my.com, 13033031, RESELLER
-themediagrid.com, 6XGFYQ, RESELLER, 35d5010d7789b49d
+themediagrid.com, 6XGFYQ, DIRECT, 35d5010d7789b49d
 triplelift.com, 14127, RESELLER, 6c33edb13117fd86
 triplelift.com, 14127-EB, RESELLER, 6c33edb13117fd86
+trustedstack.com, TS677PGY3, RESELLER
 ucfunnel.com, par-AA7B236BA32DD484C838E249362437B8, RESELLER
 verve.com, 15503, RESELLER, 0c8f5958fc2d6270
 video.unrulymedia.com, 2464975885, RESELLER
 webeyemob.com, 80067, RESELLER
 yeahmobi.com, 114122, RESELLER
+yieldmo.com, 3377199372461613093, RESELLER, 6a92c77cfc3d2258
 zmaticoo.com, 114122, RESELLER
