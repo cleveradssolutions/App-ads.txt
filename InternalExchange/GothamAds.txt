@@ -1,0 +1,4 @@
+gothamads.com, 200139 , DIRECT, d9c86e5dec870222
+onetag.com, 8cc07948e3ea93c, DIRECT
+conversantmedia.com, 100275, DIRECT/RESELLER
+152media.info,152M968,RESELLER
