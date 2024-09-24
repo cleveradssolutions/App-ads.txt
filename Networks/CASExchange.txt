@@ -1,10 +1,11 @@
-#=== CASExchange Sep 14, 2024
+#=== CASExchange Sep 24, 2024
 152media.info, 152M238, RESELLER
 152media.info, 152M620, RESELLER
 152media.info, 152M890, RESELLER
 152media.info, 152M929, RESELLER
 152media.info, 152M935, RESELLER
 152media.info, 152M963, RESELLER
+152media.info, 152M968, RESELLER
 aceex.io, 1608, DIRECT, b1cf3c874d5c6682
 adbite.com, 540, DIRECT
 adeclipse.io, 531196402, DIRECT
@@ -57,6 +58,7 @@ contextweb.com, 563065, RESELLER, 89ff185a4c4e857c
 contextweb.com, 563125, RESELLER, 89ff185a4c4e857c
 contextweb.com, 563268, RESELLER, 89ff185a4c4e857c
 contextweb.com, 563318, RESELLER, 89ff185a4c4e857c
+conversantmedia.com, 100275, DIRECT, 03113cd04947736d
 conversantmedia.com, 100194, RESELLER, 03113cd04947736d
 conversantmedia.com, 100264, RESELLER, 03113cd04947736d
 conversantmedia.com, 100634, RESELLER, 03113cd04947736d
@@ -91,6 +93,7 @@ google.com, pub-2325473850364670, RESELLER, f08c47fec0942fa0
 google.com, pub-7538555282033458, RESELLER, f08c47fec0942fa0
 google.com, pub-7983651257838282, RESELLER, f08c47fec0942fa0
 google.com, pub-9829476400767085, RESELLER, f08c47fec0942fa0
+gothamads.com, 200139, DIRECT, d9c86e5dec870222
 hcodemedia.com, 585, DIRECT
 hindsightsolutions.net, 323-b5850, DIRECT, 20e30b2ae1f670f2
 improvedigital.com, 2345, DIRECT
@@ -129,6 +132,7 @@ nextmillennium.io, 14807, RESELLER, 65bd090fa4a1e3d6
 onetag.com, 7f33be981e9a061, DIRECT
 onetag.com, 7f33be981e9a061-OB, DIRECT
 onetag.com, 8cbe65196700300, DIRECT
+onetag.com, 8cc07948e3ea93c, DIRECT
 onetag.com, 52a5b73146950c0, RESELLER
 onetag.com, 606f9b9e9ec7e42, RESELLER
 onetag.com, 7d9af0b85b5070e, RESELLER

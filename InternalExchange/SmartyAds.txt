@@ -1,9 +1,9 @@
 #=== Smartyads Sep 14, 2024
+smartyads.com, 300152, DIRECT, fd2bde0ff2e62c5d
 adform.com, 2795, RESELLER, 9f5210a2f0999e32
 conversantmedia.com, 100264, RESELLER, 03113cd04947736d
 improvedigital.com, 2345, DIRECT
 loopme.com, 11426, RESELLER, 6c8d5f95897a5a3b
 outbrain.com, 008c70fda485ebcc1521822378dc75a776, DIRECT
 pubmatic.com, 161970, RESELLER, 5d62403b186f2ace
-smartyads.com, 300152, DIRECT, fd2bde0ff2e62c5d
 video.unrulymedia.com, 3563866356, DIRECT
