@@ -1,5 +1,6 @@
 #=== LoopMe Sep 14, 2024
 loopme.com, 12807, DIRECT, 6c8d5f95897a5a3b
+loopme.com, 11456, DIRECT, 6c8d5f95897a5a3b
 9dotsmedia.com, 1358, RESELLER, 45ff185b4c4e857d
 acexchange.co.kr, 1601362449, RESELLER
 adform.com, 3083, RESELLER, 9f5210a2f0999e32
@@ -23,7 +24,6 @@ improvedigital.com, 1532, RESELLER
 inmobi.com, ebc44eef6c104f7fbf7bc52ee29f7939, RESELLER, 83e75a7ae333ca9d
 iqzone.com, IQ137, RESELLER, 60d26397ec060f98
 lijit.com, 400766, RESELLER, fafdf38b16bf6b2b
-loopme.com, 11456, DIRECT, 6c8d5f95897a5a3b
 lunamedia.io, 2fb901cd79f4453b90b68bee79da71b5, RESELLER, 524ecb396915caaf
 markappmedia.site, 313916, RESELLER
 mars.media, 1010443, RESELLER, 8624339f102fb076

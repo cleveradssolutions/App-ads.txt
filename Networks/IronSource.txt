@@ -4,7 +4,7 @@ ironsrc.com, 406326, DIRECT
 ironsrc.com, 445197, DIRECT
 ironsrc.com, 222871, RESELLER, 79929e88b2ba73bc
 adbility-media.com, 187, RESELLER
-adform.com, 716, RESELLER, 9f5210a2f0999e32
+adform.com, 716, DIRECT, 9f5210a2f0999e32
 admanmedia.com, 2153, RESELLER
 admanmedia.com, 990, RESELLER
 algorix.co, 54400, RESELLER, 5b394c12fea27a1d
@@ -133,7 +133,7 @@ video.unrulymedia.com, 2464975885, RESELLER
 video.unrulymedia.com, 322585001, RESELLER
 video.unrulymedia.com, 324806554, RESELLER
 video.unrulymedia.com, 498216989, RESELLER
-video.unrulymedia.com, 6111915185540403805, RESELLER
+video.unrulymedia.com, 6111915185540403805, DIRECT
 video.unrulymedia.com, 689559416, RESELLER
 videoheroes.tv, 212428, RESELLER, 064bc410192443d8
 videoheroes.tv, 212550, RESELLER, 064bc410192443d8

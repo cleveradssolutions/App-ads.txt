@@ -1,8 +1,8 @@
 #=== AdsYield Jul 02, 2024
+adsyield.com, 2355, DIRECT
 adform.com, 2742, RESELLER, 9f5210a2f0999e32
 adform.com, 3167, RESELLER, 9f5210a2f0999e32
 admanmedia.com, 2029, RESELLER
-adsyield.com, 2355, DIRECT
 conversantmedia.com, 100634, RESELLER, 03113cd04947736d
 empower.net, 63cb0332e4b01718f069d4cb, RESELLER
 epom.com, c9f876c0-3ac3-4c07-b487-505a2727b19a, RESELLER

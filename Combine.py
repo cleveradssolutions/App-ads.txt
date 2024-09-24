@@ -53,6 +53,7 @@ _SOURCES_CAS = [
     "Adbite",
     "Mobfox",
     "SmartyAds",
+    "GothamAds",
 ]
 _SOURCE_DSP = [
     "A4G",
@@ -261,7 +262,8 @@ def release():
 
     inventorySet = set()
     with open(mainFilePath, 'w') as appAdsFile:
-        appAdsFile.write("# CAS.ai Updated " + currentDate + ', support@cleveradssolutions.com\n')
+        appAdsFile.write("# CAS.ai Updated " + currentDate + '\n')
+        appAdsFile.write("OwnerDomain=cas.ai\n")
         for source in _SOURCES:
             with open(os.path.join(_ROOT_DIR, _NETS_DIR_NAME, source + ".txt"), 'r') as sourceFile:
                 for line in sourceFile:

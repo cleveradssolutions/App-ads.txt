@@ -120,7 +120,7 @@ video.unrulymedia.com, 2464975885, RESELLER
 video.unrulymedia.com, 449519254, RESELLER
 video.unrulymedia.com, 524101463, RESELLER
 video.unrulymedia.com, 906352066, RESELLER
-vidoomy.com, 4433873, RESELLER
+vidoomy.com, 4433873, DIRECT
 vidoomy.com, 7646534, RESELLER
 vidoomy.com, 9148331, RESELLER
 xapads.com, 144307, RESELLER
