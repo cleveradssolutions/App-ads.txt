@@ -1,5 +1,6 @@
 #=== QT Sep 24, 2024
 qt.io, 3191, DIRECT
+qt.io, 9637, DIRECT
 adform.com, 2795, RESELLER, 9f5210a2f0999e32
 admanmedia.com, 2187, DIRECT
 admanmedia.com, 43, RESELLER
