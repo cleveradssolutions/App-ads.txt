@@ -54,6 +54,10 @@ _SOURCES_CAS = [
     "Mobfox",
     "SmartyAds",
     "GothamAds",
+    "RTBHouse",
+    "Pubcircle",
+    "TheGermaneMedia",
+    "Bidscube",
 ]
 _SOURCE_DSP = [
     "A4G",

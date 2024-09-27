@@ -1,4 +1,6 @@
 #=== Adeclipse Aug 29, 2024
 adeclipse.io, 531196402, DIRECT
 adeclipse.io, 531196406, DIRECT
+adeclipse.io, 531196526, DIRECT
+adeclipse.io, 531196527, DIRECT
 epom.com, cd55a4c7-c917-4173-83c2-c139ed58e95e, DIRECT

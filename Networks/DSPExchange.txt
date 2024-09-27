@@ -1,4 +1,4 @@
-#=== DSPExchange Sep 24, 2024
+#=== DSPExchange Sep 27, 2024
 152media.info, 152M890, RESELLER
 152media.info, 152M922, RESELLER
 33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
@@ -227,6 +227,7 @@ pubnative.net, 1007262, RESELLER, d641df8625486a7b
 pubnative.net, 1007303, RESELLER, d641df8625486a7b
 pubnative.net, 1009099, RESELLER, d641df8625486a7b
 qt.io, 3191, DIRECT
+qt.io, 9637, DIRECT
 reklamup.com, 5363011148, DIRECT
 rhebus.works, 5252004478, RESELLER
 rhebus.works, 7597018658, RESELLER
