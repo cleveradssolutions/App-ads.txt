@@ -1,7 +1,8 @@
-#=== Waardex Jul 02, 2024
+#=== Waardex Sep 27, 2024
 waardex.com, 197122, DIRECT
 152media.info, 152M620, RESELLER
-contextweb.com, 562950, RESELLER, 89ff185a4c4e857c
-rubiconproject.com, 24228, RESELLER, 0bfd66d529a55807
-xandr.com, 13117, RESELLER, f5ab79cb980f11d1
+admatic.de, ade-pub-6537379909, DIRECT, uufps1dh5stc6euk
+crystall.io, 297123, DIRECT
+rubiconproject.com, 12398, RESELLER, 0bfd66d529a55807
+xandr.com, 13117, DIRECT, f5ab79cb980f11d1
 xandr.com, 11924, RESELLER, f5ab79cb980f11d1

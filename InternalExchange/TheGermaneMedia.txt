@@ -1,0 +1,7 @@
+#=== TheGermaneMedia Sep 27, 2024
+thegermanemedia.com, 446, DIRECT, 6716225838534735
+adingo.jp, 30896, RESELLER
+google.com, pub-6254331789601537, RESELLER, f08c47fec0942fa0
+google.com, pub-6716225838534735, RESELLER, f08c47fec0942fa0
+pubmatic.com, 164927, RESELLER, 5d62403b186f2ace
+smartadserver.com, 4938-OB, RESELLER, 060d053dcf45cbf3
