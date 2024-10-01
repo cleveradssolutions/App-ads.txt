@@ -1,4 +1,4 @@
-# CAS.ai Updated Sep 27, 2024
+# CAS.ai Updated Oct 01, 2024
 OwnerDomain=cas.ai
 #=== GoogleAds Sep 01, 2023
 google.com, pub-1022958838828668, DIRECT, f08c47fec0942fa0
@@ -12,6 +12,7 @@ google.com, pub-7022579750037037, DIRECT, f08c47fec0942fa0
 google.com, pub-8858162097015410, DIRECT, f08c47fec0942fa0
 google.com, pub-9041187040625593, DIRECT, f08c47fec0942fa0
 #=== AudienceNetwork
+facebook.com, 1210467953459280, DIRECT, c3e20eee3f780d68
 facebook.com, 805069172997110, DIRECT, c3e20eee3f780d68
 facebook.com, 1081332032712445, DIRECT, c3e20eee3f780d68
 #=== Pangle Dec 19, 2023
