@@ -8,3 +8,11 @@ video.unrulymedia.com, 8167205979129043832, DIRECT
 Contextweb.com,562930,RESELLER,89ff185a4c4e857c
 onetag.com, 8d4bbebb8fa701e, RESELLER
 connatix.com, 1742365173855029, RESELLER, 2af98acdee0e81ed
+ergadx.com, 4869, DIRECT
+rubiconproject.com, 23102, RESELLER, 0bfd66d529a55807
+Pubmatic.com, 160881, RESELLER, 5d62403b186f2ace
+Xapads.com, 210910, DIRECT
+google.com, pub-3990748024667386, DIRECT, f08c47fec0942fa0
+Pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
+Pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
+http://onetag.com , 8d4bbebb8fa701e, DIRECT
