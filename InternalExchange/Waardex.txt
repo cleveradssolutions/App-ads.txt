@@ -6,3 +6,5 @@ crystall.io, 297123, DIRECT
 rubiconproject.com, 12398, RESELLER, 0bfd66d529a55807
 xandr.com, 13117, RESELLER, f5ab79cb980f11d1
 xandr.com, 11924, RESELLER, f5ab79cb980f11d1
+e-planning.net, 2af6560b926d20f9, DIRECT, c1ba615865ed87b2
+appnexus.com, 15941, RESELLER
