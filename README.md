@@ -17,7 +17,7 @@ When a DSP seeks to bid on app inventory, it scans the app-ads.txt file on the d
 2. **Combat Ad Fraud**  
    Malicious actors may create counterfeit apps that impersonate legitimate ones, misleading DSPs into spending brand budgets on fraudulent inventory. This not only harms legitimate developers but also deprives them of revenue intended for their apps. Implementing app-ads.txt helps prevent unauthorized impersonation and minimizes instances of fraud, ultimately safeguarding developers’ financial interests.
 
-> **Warning**  
+> [!WARNING]  
 > Failing to implement app-ads.txt could negatively impact your eCPMs, as fewer advertisers may be willing to engage with your app.  
 > If you manage multiple domains, ensure that all relevant domains are updated accordingly.
 
@@ -29,7 +29,7 @@ We’ve simplified the process for you to include the CAS.AI list of entries, en
 
 You can conveniently use our domain [https://cas.ai](https://cas.ai) as the **Developer Website** for your app, and rest assured that [https://cas.ai/app-ads.txt](https://cas.ai/app-ads.txt) will always be kept up to date.
 
-> **Note**  
+> [!NOTE]  
 > Don’t forget to monitor updates to the file to ensure your app's revenue remains stable.  
 > Subscribe to receive notifications about app-ads.txt updates: [![Subscribe](https://img.shields.io/github/watchers/cleveradssolutions/App-ads.txt?label=Subscribe&style=social)](https://github.com/cleveradssolutions/App-ads.txt/subscription)
 
