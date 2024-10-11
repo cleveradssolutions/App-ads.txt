@@ -2,27 +2,36 @@
 
 [![Updated](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/cleveradssolutions/App-ads.txt/master/Shield.json)](https://github.com/cleveradssolutions/App-ads.txt)
 
-Authorized Sellers for Apps, also known as [app-ads.txt](https://iabtechlab.com/wp-content/uploads/2019/03/app-ads.txt-v1.0-final-.pdf), is an IAB initiative that helps protect your app ad inventory from ad fraud. You create app-ads.txt files to identify who is authorized to sell your inventory. Identifying authorized sellers can help you receive advertiser spend that might have otherwise gone toward counterfeit inventory of spoofed apps.
 
-The app-ads.txt files are publicly available and crawlable by exchanges, supply-side platforms (SSP), other buyers, and third-party vendors.
+[app-ads.txt](https://iabtechlab.com/wp-content/uploads/2019/03/app-ads.txt-v1.0-final-.pdf) is a vital text file that app developers upload to their websites, listing the ad sources authorized to sell their inventory. Similar to the web, the IAB has established a system that enables buyers to verify who is permitted to buy and sell specific in-app ad inventory. This initiative plays a crucial role in combating fraud and enhancing transparency and efficiency across the ecosystem. Consequently, most savvy brand marketers and demand-side platforms (DSPs) tend to avoid purchasing inventory without app-ads.txt implementation.
 
-A DSP looking to bid on app inventory scans the app-ads.txt file on a developer's website to verify which ad sources are authorized to sell that app's inventory. The DSP will only accept bid requests from ad sources listed on the file and authorized by the app developer.  
+## How app-ads.txt Works for Mobile Apps
 
-> [!Warning]
-> If you don't implement app-ads.txt, it may hurt your eCPMs because there will be less advertisers willing to pay you for ads.
+When a DSP seeks to bid on app inventory, it scans the app-ads.txt file on the developer’s website to confirm which ad sources are authorized to sell that app’s inventory. The DSP will only accept bid requests from the ad sources listed in this file, ensuring compliance with the developer's authorization.
 
-We've made it easier for you to include CleverAdsSolutions list of entries so that you will never miss any budgets from ironSource's top brands partners. 
-- Combined file including sources from all mediation partners:     
-[app-ads.txt](/app-ads.txt)
-- File-separated sources for each partner can be found below:  
-[Networks](/Networks)  
+## Benefits of Implementing app-ads.txt for Your Mobile App
 
+1. **Attract Brand Budgets**  
+   Major brands and agencies are more inclined to purchase app inventory through DSPs that verify authorized ad sources. By implementing app-ads.txt, developers signal to DSPs that their inventory is secure. Those who neglect to adopt app-ads.txt risk exclusion from DSPs' targeted media pools.
 
-You can simply use our domain https://cas.ai as the **Developer Website** for your app, and rest assured that https://cas.ai/app-ads.txt will always be up to date.
+2. **Combat Ad Fraud**  
+   Malicious actors may create counterfeit apps that impersonate legitimate ones, misleading DSPs into spending brand budgets on fraudulent inventory. This not only harms legitimate developers but also deprives them of revenue intended for their apps. Implementing app-ads.txt helps prevent unauthorized impersonation and minimizes instances of fraud, ultimately safeguarding developers’ financial interests.
 
-> [!Note]
-> Don't forget to monitor updates to the file so that the revenue of your apps doesn't decrease.
-> Subscribe so you don't miss app-ads.txt updates. [![Subscribe](https://img.shields.io/github/watchers/cleveradssolutions/App-ads.txt?label=Subscribe&style=social)](https://github.com/cleveradssolutions/App-ads.txt/subscription)  
+> **Warning**  
+> Failing to implement app-ads.txt could negatively impact your eCPMs, as fewer advertisers may be willing to engage with your app.  
+> If you manage multiple domains, ensure that all relevant domains are updated accordingly.
+
+We’ve simplified the process for you to include the CAS.AI list of entries, ensuring you never miss out on budgets from top brand partners:  
+- **Combined file** containing sources from all mediation partners:  
+  [app-ads.txt](/app-ads.txt)  
+- **File-separated sources** for each partner can be found below:  
+  [Networks](/Networks)  
+
+You can conveniently use our domain [https://cas.ai](https://cas.ai) as the **Developer Website** for your app, and rest assured that [https://cas.ai/app-ads.txt](https://cas.ai/app-ads.txt) will always be kept up to date.
+
+> **Note**  
+> Don’t forget to monitor updates to the file to ensure your app's revenue remains stable.  
+> Subscribe to receive notifications about app-ads.txt updates: [![Subscribe](https://img.shields.io/github/watchers/cleveradssolutions/App-ads.txt?label=Subscribe&style=social)](https://github.com/cleveradssolutions/App-ads.txt/subscription)
 
 ## Updating a Developer Website
 It is important to pay attention to the instructions below before beginning the app-ads.txt implementation.

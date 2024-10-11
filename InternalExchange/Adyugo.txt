@@ -5,7 +5,7 @@ contextweb.com, 562930, RESELLER, 89ff185a4c4e857c
 ergadx.com, 4869, DIRECT
 freewheel.tv, 1585652, RESELLER, 74e8e47458f74754
 freewheel.tv, 1585681, RESELLER, 74e8e47458f74754
-google.com, pub-3990748024667386, DIRECT, f08c47fec0942fa0
+google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
 lemmatechnologies.com, 1588, DIRECT, 7829010c5bebd1fb
 onetag.com, 8d4bbebb8fa701e, DIRECT
 pubmatic.com, 156494, RESELLER, 5d62403b186f2ace

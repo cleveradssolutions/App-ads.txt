@@ -1,4 +1,5 @@
-#=== StartIO Sep 14, 2024
+#=== StartIO Oct 11, 2024
+start.io, 174388014, DIRECT
 acexchange.co.kr, 1746357004, RESELLER
 adiiix.com, 1b5c093d, RESELLER
 advlion.com, 3144, RESELLER
@@ -53,14 +54,15 @@ rubiconproject.com, 25978, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26156, RESELLER, 0bfd66d529a55807
 sabio.us, 100125, RESELLER, 96ed93aaa9795702
 sharethrough.com, 5EQ7ZF1q, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, P1ZsrNeY, RESELLER, d53b998a7bd4ecd2
 smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
 smartadserver.com, 4342, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4573, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4625, RESELLER, 060d053dcf45cbf3
-start.io, 174388014, DIRECT
 startapp.com, 174388014, DIRECT
 target.my.com, 13033031, RESELLER
 themediagrid.com, 6XGFYQ, DIRECT, 35d5010d7789b49d
+themediagrid.com, FWN84J, DIRECT, 35d5010d7789b49d
 triplelift.com, 14127, RESELLER, 6c33edb13117fd86
 triplelift.com, 14127-EB, RESELLER, 6c33edb13117fd86
 trustedstack.com, TS677PGY3, RESELLER

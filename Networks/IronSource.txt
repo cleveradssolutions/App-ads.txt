@@ -1,10 +1,10 @@
-#=== IronSource Sep 14, 2024
+#=== IronSource Oct 11, 2024
 ironsrc.com, 218335, DIRECT
 ironsrc.com, 406326, DIRECT
 ironsrc.com, 445197, DIRECT
 ironsrc.com, 222871, RESELLER, 79929e88b2ba73bc
 adbility-media.com, 187, RESELLER
-adform.com, 716, DIRECT, 9f5210a2f0999e32
+adform.com, 716, RESELLER, 9f5210a2f0999e32
 admanmedia.com, 2153, RESELLER
 admanmedia.com, 990, RESELLER
 algorix.co, 54400, RESELLER, 5b394c12fea27a1d
@@ -40,12 +40,14 @@ lacunads.com, LC7dc692567a127a57, RESELLER
 lijit.com, 465542, RESELLER, fafdf38b16bf6b2b
 lijit.com, 481366, RESELLER, fafdf38b16bf6b2b
 lijit.com, 491737, RESELLER, fafdf38b16bf6b2b
+lijit.com, 503707, RESELLER, fafdf38b16bf6b2b
 lijit.com, 512908, RESELLER, fafdf38b16bf6b2b
 loopme.com, 10287, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11463, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11635, RESELLER, 6c8d5f95897a5a3b
 lunamedia.io, 464b5a3a-b155-4f05-8953-9f6cd192d932, RESELLER, 524ecb396915caaf
 mars.media, 1010463, RESELLER, 8624339f102fb076
+media.net, 8CU12AQ1Y, RESELLER
 media.net, 8CUO7P3WK, RESELLER
 onetag.com, 5d49f482552c9b6, RESELLER
 onetag.com, 8668c16092f01e8, RESELLER
@@ -82,6 +84,7 @@ pubnative.net, 1006955, RESELLER, d641df8625486a7b
 pubnative.net, 1007040, RESELLER, d641df8625486a7b
 pubnative.net, 1007974, RESELLER, d641df8625486a7b
 rhebus.works, 3816258913, RESELLER
+risecodes.com, 66fab6981efdb80001a3dadc, RESELLER
 rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 12266, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 14558, RESELLER, 0bfd66d529a55807
@@ -96,6 +99,7 @@ rubiconproject.com, 24170, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24362, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24752, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 25060, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 25872, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 25978, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26064, RESELLER, 0bfd66d529a55807
@@ -105,6 +109,7 @@ rubiconproject.com, 26158, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26270, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26292, RESELLER, 0bfd66d529a55807
 sharethrough.com, 6qlnf8SY, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, bXzzb1bR, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, f0oQSO2J, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, koRtppYA, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, r9B1MG7E, RESELLER, d53b998a7bd4ecd2
@@ -133,7 +138,7 @@ video.unrulymedia.com, 2464975885, RESELLER
 video.unrulymedia.com, 322585001, RESELLER
 video.unrulymedia.com, 324806554, RESELLER
 video.unrulymedia.com, 498216989, RESELLER
-video.unrulymedia.com, 6111915185540403805, DIRECT
+video.unrulymedia.com, 6111915185540403805, RESELLER
 video.unrulymedia.com, 689559416, RESELLER
 videoheroes.tv, 212428, RESELLER, 064bc410192443d8
 videoheroes.tv, 212550, RESELLER, 064bc410192443d8
@@ -142,7 +147,6 @@ webeyemob.com, 80070, RESELLER
 xandr.com, 13799, RESELLER, f5ab79cb980f11d1
 xandr.com, 14374, RESELLER, f5ab79cb980f11d1
 xandr.com, 15769, RESELLER, f5ab79cb980f11d1
-xandr.com, 15840, RESELLER, f5ab79cb980f11d1
 xandr.com, 2480, RESELLER, f5ab79cb980f11d1
 xandr.com, 3318, RESELLER, f5ab79cb980f11d1
 xandr.com, 8916, RESELLER, f5ab79cb980f11d1
