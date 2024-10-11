@@ -1,4 +1,4 @@
-#=== InMobi Sep 24, 2024
+#=== InMobi Oct 11, 2024
 inmobi.com, 30ff09752f2b48eb9974d28116cf9ff0, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 5abb702fde844f7cadd2090b3c7d61db, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 1e5e69fd2ff340dbb07654d0c6b826ef, RESELLER, 83e75a7ae333ca9d
@@ -11,14 +11,15 @@ inmobi.com, 61d733c3779d43e590c51c8bc078e10c, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 7c9e112a810a4b639bb6af3fa397233e, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 952e02aa1cd2454c940889663df0a902, RESELLER, 83e75a7ae333ca9d
 inmobi.com, a5e661acdc384e91a79a58eb3418e99f, RESELLER, 83e75a7ae333ca9d
+inmobi.com, c85bf9db09b548a180c9fa6d204323f6, RESELLER, 83e75a7ae333ca9d
 inmobi.com, cd35c98176d548f69af2684edc6b6888, RESELLER, 83e75a7ae333ca9d
 inmobi.com, cec065af8e36462f8c33dc5a1f9781f7, RESELLER, 83e75a7ae333ca9d
 inmobi.com, f552e29662174bea871f791b6a8f9faf, RESELLER, 83e75a7ae333ca9d
 inmobi.com, fafa1521dbdb43f69b1eb199a0b007fd, RESELLER, 83e75a7ae333ca9d
 9dotsmedia.com, 122262, RESELLER, 45ff185b4c4e857d
 acexchange.co.kr, 1562884725, RESELLER
+added.tv, 3d20ca0f, RESELLER
 added.tv, d4cfaf78, RESELLER
-adelement.com, 30020, RESELLER
 adelement.com, 36001, RESELLER
 adiiix.com, 3de5db9, RESELLER
 admanmedia.com, 2063, RESELLER
@@ -45,7 +46,6 @@ freewheel.tv, 1606633, RESELLER, 74e8e47458f74754
 fromthetop.io, 65529, RESELLER
 gamaigroup.com, 320201, RESELLER
 growintech.co, 102275, RESELLER, 9d8dfe5c6b00fb37
-inmobi.com, c85bf9db09b548a180c9fa6d204323f6, RESELLER, 83e75a7ae333ca9d
 iqzone.com, IQ87, RESELLER, 60d26397ec060f98
 jio.com, 1547219295, RESELLER
 keenkale.com, 841, RESELLER, 6c1c00b269ccdfa4
@@ -63,7 +63,7 @@ markappmedia.site, 587286, RESELLER
 mars.media, 1010450, RESELLER, 8624339f102fb076
 mintegral.com, 10003, RESELLER, 0aeed750c80d6423
 onetag.com, 59aa7be4921bac8, RESELLER
-onetag.com, 8d4bbebb8fa701e, RESELLER
+onetag.com, 8d4bbebb8fa701e, DIRECT
 onlinemediasolutions.com, 29556, RESELLER, b3868b187e4b6402
 openx.com, 540298543, RESELLER, 6a698e2ec38604c6
 opera.com, pub6871903319744, RESELLER, 55a0c5fd61378de3

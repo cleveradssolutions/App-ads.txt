@@ -23,7 +23,7 @@ appnexus.com, 9382, RESELLER, f5ab79cb980f11d1
 appnexus.com, 9684, RESELLER, f5ab79cb980f11d1
 axonix.com, 59074, RESELLER, bc385f2b4a87b721
 axonix.com, 59150, RESELLER, bc385f2b4a87b721
-bidscube.com, 1386, RESELLER
+bidscube.com, 1386, RESELLER, 6ecc87a1e0269657
 bidstack.com, 321667e6-f82d-4be9-b48d-e959de254c35, RESELLER, 12fb5e50ae313a16
 brightcom.com, 20498, RESELLER
 consumable.com, 2001476, RESELLER, aefcd3d2f45b5070
@@ -152,12 +152,12 @@ smartadserver.com, 4579, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4880, RESELLER, 060d053dcf45cbf3
 smartyads.com, 1156, RESELLER, fd2bde0ff2e62c5d
 supply.colossusssp.com, 610, RESELLER, 6c5b49d96ec1b458
-themediagrid.com, RABCQ1, RESELLER, 35d5010d7789b49d
 themediagrid.com, 9GKBJC, RESELLER, 35d5010d7789b49d
 themediagrid.com, HGN8TK, RESELLER, 35d5010d7789b49d
 themediagrid.com, IRK975, RESELLER, 35d5010d7789b49d
 themediagrid.com, LGT2OY, RESELLER, 35d5010d7789b49d
 themediagrid.com, PLTXGE, RESELLER, 35d5010d7789b49d
+themediagrid.com, RABCQ1, RESELLER, 35d5010d7789b49d
 triplelift.com, 12569, RESELLER, 6c33edb13117fd86
 triplelift.com, 12913, RESELLER, 6c33edb13117fd86
 tritondigital.com, 106423, RESELLER, 19b4454d0b87b58b

@@ -13,13 +13,13 @@ alkimiexchange.com, 7339, DIRECT
 amxrtb.com, 105199691, RESELLER
 katzdigital.com, 318, RESELLER
 katzdigital.com, 80, RESELLER
-loopme.com, 11528, RESELLER, 6c805f95897a5a30
+loopme.com, 11528, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 13900, RESELLER, 6c8d5f95897a5a3b
 onetag.com, 69f48c2160c8113, RESELLER
 opera.com, pub7275292332480, RESELLER, 55a0c5fd61378de3
-rubiconproject.com, 20744, RESELLER, obfa660529a55807
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
 sharethrough.com, 6qInf8SY, RESELLER, d53b998a7bd4ecd2
-smaato.com, 1100049216, DIRECT, 07bcf65f187117b5
+smaato.com, 1100049216, DIRECT, 07bcf65f187117b4
 smaato.com, 1100055690, DIRECT, 07bcf65f187117b4
 sonobi.com, 4a289cdd79, RESELLER, d1a215d9eb5aee9e
 themediagrid.com, 4DQHAP, RESELLER, 35d5010d7789b49d

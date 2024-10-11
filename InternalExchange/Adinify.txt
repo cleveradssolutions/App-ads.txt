@@ -1,0 +1,18 @@
+#=== Adinify Oct 11, 2024
+adinify.com, v373678, DIRECT
+adform.com, 3035, DIRECT, 9f5210a2f0999e32
+adipolo.com, 22844400545, DIRECT
+adipolosolutions.com, 22844400545, DIRECT
+freewheel.tv, 1608322, RESELLER, 74e8e47458f74754
+freewheel.tv, 1608323, RESELLER, 74e8e47458f74754
+google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0
+google.com, pub-4836542095728076, RESELLER, f08c47fec0942fa0
+google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
+google.com, pub-9135355251665930, RESELLER, f08c47fec0942fa0
+loopme.com, 11647, RESELLER, 6c8d5f95897a5a3b
+onetag.com, 61d88450bdb25bc, DIRECT
+onetag.com, 61d88450bdb25bc-OB, DIRECT
+opamarketplace.com, 22844400545, DIRECT
+pmbmonetize.com, 22844400545, DIRECT
+themediagrid.com, DJQVCM, DIRECT, 35d5010d7789b49d
+video.unrulymedia.com, 270404831, RESELLER

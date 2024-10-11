@@ -1,10 +1,17 @@
-#=== Adyugo Aug 29, 2024
+#=== Adyugo Oct 11, 2024
 adyugo.com, 1005, DIRECT
-lemmatechnologies.com, 1588, DIRECT, 7829010c5bebd1fb
-freewheel.tv, 1585652, RESELLER
-freewheel.tv, 1585681, RESELLER
-pubmatic.com, 156494, RESELLER, 5d62403b186f2ace
-video.unrulymedia.com, 8167205979129043832, DIRECT
-Contextweb.com,562930,RESELLER,89ff185a4c4e857c
-onetag.com, 8d4bbebb8fa701e, RESELLER
 connatix.com, 1742365173855029, RESELLER, 2af98acdee0e81ed
+contextweb.com, 562930, RESELLER, 89ff185a4c4e857c
+ergadx.com, 4869, DIRECT
+freewheel.tv, 1585652, RESELLER, 74e8e47458f74754
+freewheel.tv, 1585681, RESELLER, 74e8e47458f74754
+google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
+lemmatechnologies.com, 1588, DIRECT, 7829010c5bebd1fb
+onetag.com, 8d4bbebb8fa701e, DIRECT
+pubmatic.com, 156494, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160881, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
+pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 23102, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 8167205979129043832, DIRECT
+xapads.com, 210910, DIRECT
