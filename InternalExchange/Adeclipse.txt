@@ -1,6 +1,19 @@
-#=== Adeclipse Aug 29, 2024
+#=== Adeclipse Oct 11, 2024
 adeclipse.io, 531196402, DIRECT
 adeclipse.io, 531196406, DIRECT
 adeclipse.io, 531196526, DIRECT
 adeclipse.io, 531196527, DIRECT
+adform.com, 2904, RESELLER, 9f5210a2f0999e32
+adform.com, 3215, RESELLER, 9f5210a2f0999e32
+appnexus.com, 14416, RESELLER, f5ab79cb980f11d1
+appnexus.com, 14808, RESELLER, f5ab79cb980f11d1
 epom.com, cd55a4c7-c917-4173-83c2-c139ed58e95e, DIRECT
+lijit.com, 240095, DIRECT, fafdf38b16bf6b2b
+openx.com, 540861995, DIRECT, 6a698e2ec38604c6
+openx.com, 558237126, DIRECT, 6a698e2ec38604c6
+pubmatic.com, 161853, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 20086, RESELLER, 0bfd66d529a55807
+sharethrough.com, voRCbaYL, RESELLER, d53b998a7bd4ecd2
+smartadserver.com, 3172, RESELLER, 060d053dcf45cbf3
+themediagrid.com, RVQDTI, DIRECT, 35d5010d7789b49d
+video.unrulymedia.com, 6111915185540403805, RESELLER
