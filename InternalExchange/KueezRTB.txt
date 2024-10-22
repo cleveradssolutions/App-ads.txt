@@ -1,0 +1,51 @@
+kueez.com, eb2a8bd3fc30dd97f84b96de7610496b, direct
+
+
+rubiconproject.com, 16920, RESELLER, 0bfd66d529a55807
+appnexus.com, 8826, RESELLER, f5ab79cb980f11d1
+Pubmatic.com, 162110, RESELLER, 5d62403b186f2ace
+openx.com, 539452917, RESELLER, 6a698e2ec38604c6
+smartadserver.com, 4288, RESELLER, 060d053dcf45cbf3
+	admanmedia.com, 891, RESELLER
+appnexus.com, 15349, RESELLER, f5ab79cb980f11d1
+sharethrough.com, XeKuhSkz, RESELLER, d53b998a7bd4ecd2
+pubmatic.com, 165117, RESELLER, 5d62403b186f2ace
+triplelift.com, 12456, RESELLER, 6c33edb13117fd86
+openx.com, 540866936, RESELLER, 6a698e2ec38604c6
+smartadserver.com, 3713, RESELLER, 060d053dcf45cbf3
+video.unrulymedia.com, 3948367200, RESELLER
+rubiconproject.com, 14558, RESELLER, 0bfd66d529a55807
+pubmatic.com, 158481, RESELLER, 5d62403b186f2ace
+zetaglobal.net, 757, RESELLER
+adform.com, 2671, RESELLER
+loopme.com,11386,RESELLER,6c8d5f95897a5a3b
+pubmatic.com, 162974, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 25386, RESELLER, 0bfd66d529a55807
+criteo.com, B-063105, RESELLER, 9fac4a4a87c2a44f
+sonobi.com, 7b37f8ccbc, RESELLER, d1a215d9eb5aee9e
+
+
+onetag.com, 6e053d779444c00, RESELLER
+lijit.com, 407406, RESELLER, fafdf38b16bf6b2b #SOVRN
+inmobi.com, b01aa06531c543d8a5fb9982f60afb00, RESELLER, 83e75a7ae333ca9d
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+smartadserver.com, 4926, RESELLER, 060d053dcf45cbf3
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+appnexus.com, 1019, RESELLER, f5ab79cb980f11d1
+video.unrulymedia.com, 2444764291, RESELLER
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+contextweb.com, 558511, RESELLER, 89ff185a4c4e857c
+opera.com, pub10014056052800, RESELLER, 55a0c5fd61378de3
+motorik.io, 100463, RESELLER
+
+
+Media.net, 8CU9650CP, RESELLER
+pubmatic.com, 159463, RESELLER, 5d62403b186f2ace
+openx.com, 537100188, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 19396, Reseller, 0bfd66d529a55807
+onetag.com, 5d49f482552c9b6, Reseller
+sharethrough.com, koRtppYA, RESELLER, d53b998a7bd4ecd2
+pubmatic.com, 165307, RESELLER, 5d62403b186f2ace
+adform.com, 3083, RESELLER
+smartadserver.com, 4839, RESELLER, 060d053dcf45cbf3
