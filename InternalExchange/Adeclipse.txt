@@ -17,3 +17,5 @@ sharethrough.com, voRCbaYL, RESELLER, d53b998a7bd4ecd2
 smartadserver.com, 3172, RESELLER, 060d053dcf45cbf3
 themediagrid.com, RVQDTI, DIRECT, 35d5010d7789b49d
 video.unrulymedia.com, 6111915185540403805, RESELLER
+rixengine.com, 130096, DIRECT
+Xapads.com, 209073, DIRECT
