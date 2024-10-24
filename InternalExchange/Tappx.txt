@@ -1,0 +1,40 @@
+#=== Tappx Oct 24, 2024
+tappx.com, 42962, DIRECT, 9f375a07da0318ec
+33across.com, 0010b00001siQHqAAM, RESELLER, bbea06d9c4d2853c
+33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
+admanmedia.com, 2002, RESELLER
+appnexus.com, 10824, RESELLER, f5ab79cb980f11d1
+appnexus.com, 9569, RESELLER, f5ab79cb980f11d1
+brightcom.com, 20937, RESELLER
+chartboost.com, 5da62a1035b91e0aff190bf7, RESELLER
+contextweb.com, 563042, RESELLER, 89ff185a4c4e857c
+eskimi.com, 2020000027, RESELLER
+iion.io, 12564, RESELLER, 013a29748465dc57
+improvedigital.com, 1934, RESELLER
+inmobi.com, ec6f6ceb8bb1440ba5455644ec96c275, RESELLER, 83e75a7ae333ca9d
+keenkale.com, 170624, RESELLER, 6c1c00b269ccdfa4
+lemmatechnologies.com, 97, RESELLER, 7829010c5bebd1fb
+lijit.com, 396126, RESELLER, fafdf38b16bf6b2b
+lijit.com, 489963, RESELLER, fafdf38b16bf6b2b
+loopme.com, 11227, RESELLER, 6c8d5f95897a5a3b
+onetag.com, 74dfccdc3689510, RESELLER
+onetag.com, 89211985ede1484, RESELLER
+playdigo.com, 1970, RESELLER, 92011346d63d3c30
+pubmatic.com, 158111, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162270, RESELLER, 5d62403b186f2ace
+pubmatic.com, 92509, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 13856, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 25872, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26250, RESELLER, 0bfd66d529a55807
+sharethrough.com, 49574e61, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, f0oQSO2J, RESELLER, d53b998a7bd4ecd2
+smartadserver.com, 1692, RESELLER, 060d053dcf45cbf3
+thebrave.io, 1234661, RESELLER, c25b2154543746ac
+themediagrid.com, 4FDQYH, RESELLER, 35d5010d7789b49d
+themediagrid.com, RABCQ1, RESELLER, 35d5010d7789b49d
+triplelift.com, 11617, RESELLER, 6c33edb13117fd86
+video.unrulymedia.com, 3341072718, RESELLER
+video.unrulymedia.com, 346830101, RESELLER
+video.unrulymedia.com, 498216989, RESELLER
+videoheroes.tv, 212473, RESELLER, 064bc410192443d8
+visiblemeasures.com, 1004, RESELLER

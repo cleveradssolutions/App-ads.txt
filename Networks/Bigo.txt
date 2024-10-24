@@ -1,4 +1,4 @@
-#=== Bigo Sep 14, 2024
+#=== Bigo Oct 24, 2024
 bigo.sg, 10374, DIRECT
 33across.com, 0015a00003DKg9ZAAT, RESELLER, bbea06d9c4d2853c
 acexchange.co.kr, 1024314629, RESELLER
@@ -13,10 +13,12 @@ adview.com, 53849096, RESELLER, 1b2cc038a11ea319
 algorix.co, 604553, DIRECT, 5b394c12fea27a1d
 app-stock.com, 358747, RESELLER, ed8c126ea5971415
 appnexus.com, 11879, RESELLER, f5ab79cb980f11d1
+appnexus.com, 16220, RESELLER, f5ab79cb980f11d1
 appnexus.com, 6849, RESELLER, f5ab79cb980f11d1
 auxoads.com, 90222, RESELLER
 axonix.com, 59089, RESELLER, bc385f2b4a87b721
 axonix.com, 59150, RESELLER, bc385f2b4a87b721
+betweendigital.com, 43713, RESELLER
 betweendigital.com, 44972, RESELLER
 betweendigital.com, 45426, RESELLER
 bidence.com, 9d48459c49a3b604e65e262102b559b4, RESELLER
@@ -55,8 +57,10 @@ loopme.com, 11635, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11683, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 9718, RESELLER, 6c8d5f95897a5a3b
 lunamedia.io, bfacf5e017bb11edb41173b0ca2c748c, RESELLER, 524ecb396915caaf
+madex.world, 544b4c02-bccb-47eb-a8c2-0a6be081778b, DIRECT
 onetag.com, 5d1628750185ace, RESELLER
 onetag.com, 8305cc299686700, RESELLER
+onetag.com, 8df8f252fa801e4, RESELLER
 openx.com, 537045659, RESELLER, 6a698e2ec38604c6
 openx.com, 543878511, RESELLER, 6a698e2ec38604c6
 opera.com, pub10472284589952, RESELLER, 55a0c5fd61378de3
@@ -98,6 +102,8 @@ rubiconproject.com, 24526, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 25872, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26132, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26360, RESELLER, 0bfd66d529a55807
+screenil.com, 554156, DIRECT
+sharethrough.com, KqNHFkhm, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, f0oQSO2J, RESELLER, d53b998a7bd4ecd2
 smaato.com, 1100047589, RESELLER, 07bcf65f187117b4
 smartadserver.com, 1247, RESELLER, 060d053dcf45cbf3
@@ -114,17 +120,20 @@ themediagrid.com, RABCQ1, RESELLER, 35d5010d7789b49d
 toponad.com, 16569723d4bfa4, RESELLER, 1d49fe424a1a456d
 tpmn.io, 415, RESELLER
 triplelift.com, 11656, RESELLER, 6c33edb13117fd86
+triplelift.com, 13465, RESELLER, 6c33edb13117fd86
+triplelift.com, 13792, RESELLER, 6c33edb13117fd86
 ucfunnel.com, par-47BDB68D72764E2AFED767ED47DEDDA4, RESELLER
 video.unrulymedia.com, 2099898025, RESELLER
 video.unrulymedia.com, 2464975885, RESELLER
 video.unrulymedia.com, 449519254, RESELLER
 video.unrulymedia.com, 524101463, RESELLER
 video.unrulymedia.com, 906352066, RESELLER
-vidoomy.com, 4433873, DIRECT
-vidoomy.com, 7646534, DIRECT
+vidoomy.com, 4433873, RESELLER
+vidoomy.com, 7646534, RESELLER
 vidoomy.com, 9148331, RESELLER
 xapads.com, 144307, RESELLER
 xapads.com, 194000, RESELLER
+yabbi.me, 675d9254-4032-47ed-9074-b6ef4dbab522, DIRECT
 yandex.com, 63904735, RESELLER
 yandex.com, 94923424, RESELLER
 yandex.com, 98384845, RESELLER

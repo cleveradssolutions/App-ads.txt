@@ -1,4 +1,4 @@
-#=== InMobi Oct 11, 2024
+#=== InMobi Oct 24, 2024
 inmobi.com, 30ff09752f2b48eb9974d28116cf9ff0, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 5abb702fde844f7cadd2090b3c7d61db, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 1e5e69fd2ff340dbb07654d0c6b826ef, RESELLER, 83e75a7ae333ca9d
@@ -63,7 +63,7 @@ markappmedia.site, 587286, RESELLER
 mars.media, 1010450, RESELLER, 8624339f102fb076
 mintegral.com, 10003, RESELLER, 0aeed750c80d6423
 onetag.com, 59aa7be4921bac8, RESELLER
-onetag.com, 8d4bbebb8fa701e, DIRECT
+onetag.com, 8d4bbebb8fa701e, RESELLER
 onlinemediasolutions.com, 29556, RESELLER, b3868b187e4b6402
 openx.com, 540298543, RESELLER, 6a698e2ec38604c6
 opera.com, pub6871903319744, RESELLER, 55a0c5fd61378de3
@@ -111,3 +111,5 @@ voisetech.com, 1023, RESELLER
 waardex.com, 99236, RESELLER
 yeahmobi.com, 5135082, RESELLER
 yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
+zmaticoo.com, 113149, RESELLER
+zmaticoo.com, 5135082, RESELLER

@@ -58,6 +58,8 @@ _SOURCES_CAS = [
     "Pubcircle",
     "TheGermaneMedia",
     "Bidscube",
+    "Kueez",
+    "Tappx"
 ]
 _SOURCE_DSP = [
     "A4G",
