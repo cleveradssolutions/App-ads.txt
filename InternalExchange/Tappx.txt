@@ -1,0 +1,52 @@
+tappx.com, 42962, DIRECT, 9f375a07da0318ec
+rubiconproject.com,13856,RESELLER,0bfd66d529a55807
+appnexus.com,10824,RESELLER,f5ab79cb980f11d1
+chartboost.com,5da62a1035b91e0aff190bf7,RESELLER
+triplelift.com,11617,RESELLER,6c33edb13117fd86
+video.unrulymedia.com,3341072718,RESELLER
+smartadserver.com,1692,RESELLER,060d053dcf45cbf3
+sharethrough.com,49574e61,RESELLER,d53b998a7bd4ecd2
+pubmatic.com,158111,RESELLER,5d62403b186f2ace
+loopme.com,11227,RESELLER,6c8d5f95897a5a3b
+iion.io,12564,RESELLER
+video.unrulymedia.com,346830101,RESELLER,29bc7d05d309e1bc
+lemmatechnologies.com,97,RESELLER,7829010c5bebd1fb
+pubmatic.com,92509,RESELLER,5d62403b186f2ace
+smartadserver.com,1692,RESELLER,060d053dcf45cbf3
+rubiconproject.com,13856,RESELLER,0bfd66d529a55807
+loopme.com,11227,RESELLER,6c8d5f95897a5a3b
+appnexus.com,9569,RESELLER,f5ab79cb980f11d1
+pubmatic.com,158111,RESELLER,5d62403b186f2ace
+chartboost.com,5da62a1035b91e0aff190bf7,RESELLER
+appnexus.com,10824,RESELLER,f5ab79cb980f11d1
+triplelift.com,11617,RESELLER,6c33edb13117fd86
+video.unrulymedia.com,3341072718,RESELLER
+videoheroes.tv,212473,RESELLER,064bc410192443d8
+improvedigital.com,1934,RESELLER
+sharethrough.com,49574e61,RESELLER,d53b998a7bd4ecd2
+lijit.com,396126,RESELLER,fafdf38b16bf6b2b
+thebrave.io,1234661,RESELLER,c25b2154543746ac
+keenkale.com,170624,RESELLER
+33across.com,0013300001kQj2HAAS,RESELLER,bbea06d9c4d2853c
+33across.com,0010b00001siQHqAAM,RESELLER,bbea06d9c4d2853c
+lemmatechnologies.com,97,RESELLER,7829010c5bebd1fb
+brightcom.com,20937,RESELLER
+onetag.com,74dfccdc3689510,RESELLER
+contextweb.com,563042,RESELLER,89ff185a4c4e857c
+themediagrid.com,4FDQYH,RESELLER,35d5010d7789b49d
+inmobi.com,ec6f6ceb8bb1440ba5455644ec96c275,RESELLER,83e75a7ae333ca9d
+iion.io,12564,RESELLER
+video.unrulymedia.com,346830101,RESELLER,29bc7d05d309e1bc
+admanmedia.com, 2002, RESELLER
+visiblemeasures.com, 1004, RESELLER
+playdigo.com, 1970, RESELLER, 92011346d63d3c30
+rubiconproject.com, 25872, RESELLER, 0bfd66d529a55807
+lijit.com, 489963, RESELLER, fafdf38b16bf6b2b
+onetag.com, 89211985ede1484, RESELLER
+sharethrough.com, f0oQSO2J, RESELLER, d53b998a7bd4ecd2
+themediagrid.com, RABCQ1, RESELLER, 35d5010d7789b49d
+eskimi.com, 2020000027, RESELLER
+rubiconproject.com, 26250, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 498216989, RESELLER
+pubmatic.com, 162270, RESELLER, 5d62403b186f2ace
+inventorypartnerdomain=tappx.com
