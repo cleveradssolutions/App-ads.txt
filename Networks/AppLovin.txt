@@ -1,4 +1,4 @@
-#=== AppLovin Aug 05, 2024
+#=== AppLovin Oct 24, 2024
 applovin.com, 1b46f5e3cf2242caea5c383ca959e5dd, DIRECT
 applovin.com, 4d391c28b8c9b08646600303640192ea, DIRECT
 applovin.com, c0240449e33b7431936ee54233b9ffc9, DIRECT
@@ -6,6 +6,7 @@ applovin.com, f17e2a01debcc4f46927e0a075b90711, DIRECT
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 contextweb.com, 562615, RESELLER, 89ff185a4c4e857c
 gamaigroup.com, 423056, RESELLER
+improvedigital.com, 2451, RESELLER
 lijit.com, 516975, RESELLER, fafdf38b16bf6b2b
 loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11424, RESELLER, 6c8d5f95897a5a3b
@@ -27,11 +28,14 @@ rubiconproject.com, 20050, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 23876, RESELLER, 0bfd66d529a55807
 sharethrough.com, NNB0Zl76, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, UbYLkrys, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, bXzzb1bR, RESELLER, d53b998a7bd4ecd2
 smartadserver.com, 3817, RESELLER, 060d053dcf45cbf3
+sonobi.com, d2b13d1c36, RESELLER, d1a215d9eb5aee9e
 thebrave.io, 1234633, RESELLER, c25b2154543746ac
 video.unrulymedia.com, 169764768, RESELLER
 video.unrulymedia.com, 322585001, RESELLER
 xandr.com, 13799, RESELLER, f5ab79cb980f11d1
 xandr.com, 14082, RESELLER, f5ab79cb980f11d1
+yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 zmaticoo.com, 5135655, RESELLER

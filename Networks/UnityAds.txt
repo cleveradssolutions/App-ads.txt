@@ -1,4 +1,4 @@
-#=== UnityAds Oct 11, 2024
+#=== UnityAds Oct 24, 2024
 unity.com, 1049822, DIRECT, 96cabb5fbdde37a7
 unity.com, 1773786, DIRECT, 96cabb5fbdde37a7
 unity.com, 4527131, DIRECT, 96cabb5fbdde37a7
@@ -25,6 +25,7 @@ google.com, pub-7251712046059526, RESELLER, f08c47fec0942fa0
 ignitemediatech.com, pub_11115, RESELLER
 improvedigital.com, 1114, RESELLER
 improvedigital.com, 2276, RESELLER
+improvedigital.com, 2464, RESELLER
 inmobi.com, edd282ac8f29464792bf2b7f3df2f9df, RESELLER, 83e75a7ae333ca9d
 kidoz.net, 14260, RESELLER, a109366414b7335e
 krushmedia.com, ajxf6R585a9m6Catvk, RESELLER
