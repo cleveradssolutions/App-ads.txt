@@ -1,0 +1,27 @@
+gitberry.com, 816100023, DIRECT
+gitberry.com, 816100024, RESELLER
+appnexus.com, 12223, RESELLER, f5ab79cb980f11d1
+pubmatic.com, 161601, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160194, RESELLER, 5d62403b186f2ace
+conversantmedia.com, 100792, RESELLER, 03113cd04947736d
+improvedigital.com, 1708, RESELLER
+improvedigital.com, 1361, RESELLER
+smartadserver.com, 4039, RESELLER
+loopme.com,11690,RESELLER,6c8d5f95897a5a3b&nbsp;
+inmobi.com, 625b6b37c3a340938a8ff02bc83b5a04, RESELLER, 83e75a7ae333ca9d
+video.unrulymedia.com, 649652654350370180, RESELLER
+criteo.com, B-070302, RESELLER, 9fac4a4a87c2a44
+adform.com, 2967, RESELLER
+sharethrough.com, 3blZyYks, RESELLER, d53b998a7bd4ecd2
+gumgum.com, 15908, RESELLER, ffdef49475d318a9
+contextweb.com,562954,RESELLER,89ff185a4c4e857c
+triplelift.com, 12552, RESELLER, 6c33edb13117fd86
+tubia.com, 40113, DIRECT
+tubia.com, 40114, RESELLER
+inmobi.com, 7c95d4a1701746dbb19cf4a9a5310111, RESELLER, 83e75a7ae333ca9d
+xandr.com, 15507, RESELLER, f5ab79cb980f11d1
+azberry.com, 321011, DIRECT
+azberry.com, 321012, RESELLER
+Pubmatic.com, 165157, RESELLER, 5d62403b186f2ace
+xandr.com, 15278, RESELLER, f5ab79cb980f11d1
+Triplelift.com,13423,RESELLER, 6c33edb13117fd86
