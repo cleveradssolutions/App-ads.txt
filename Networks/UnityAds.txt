@@ -1,4 +1,4 @@
-#=== UnityAds Oct 24, 2024
+#=== UnityAds Nov 01, 2024
 unity.com, 1049822, DIRECT, 96cabb5fbdde37a7
 unity.com, 1773786, DIRECT, 96cabb5fbdde37a7
 unity.com, 4527131, DIRECT, 96cabb5fbdde37a7
@@ -22,6 +22,7 @@ eskimi.com, 2020000663, RESELLER
 freewheel.tv, 741650, RESELLER, 74e8e47458f74754
 google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
 google.com, pub-7251712046059526, RESELLER, f08c47fec0942fa0
+google.com, pub-9493002888945144, RESELLER, f08c47fec0942fa0
 ignitemediatech.com, pub_11115, RESELLER
 improvedigital.com, 1114, RESELLER
 improvedigital.com, 2276, RESELLER
@@ -36,6 +37,7 @@ lijit.com, 483304, RESELLER, fafdf38b16bf6b2b
 lijit.com, 489963, RESELLER, fafdf38b16bf6b2b
 lijit.com, 491737, RESELLER, fafdf38b16bf6b2b
 lijit.com, 503707, RESELLER, fafdf38b16bf6b2b
+lijit.com, 511365, RESELLER, fafdf38b16bf6b2b
 loopme.com, 11463, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11635, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
@@ -72,6 +74,7 @@ pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164119, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164532, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164601, RESELLER, 5d62403b186f2ace
+pubmatic.com, 165116, RESELLER, 5d62403b186f2ace
 pubnative.net, 1006955, RESELLER, d641df8625486a7b
 pubnative.net, 1007040, RESELLER, d641df8625486a7b
 pubnative.net, 1007974, RESELLER, d641df8625486a7b
@@ -116,10 +119,12 @@ video.unrulymedia.com, 123476257, RESELLER
 video.unrulymedia.com, 158727213, RESELLER
 video.unrulymedia.com, 2464975885, RESELLER
 video.unrulymedia.com, 324806554, RESELLER
+video.unrulymedia.com, 436487936, RESELLER
 video.unrulymedia.com, 6111915185540403805, RESELLER
 videoheroes.tv, 212428, RESELLER, 064bc410192443d8
 videoheroes.tv, 212499, RESELLER, 064bc410192443d8
 visiblemeasures.com, 1020, RESELLER
+voisetech.com, 1066, RESELLER
 webeyemob.com, 80029, RESELLER
 xandr.com, 13799, RESELLER, f5ab79cb980f11d1
 xandr.com, 15769, RESELLER, f5ab79cb980f11d1

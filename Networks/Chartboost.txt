@@ -1,4 +1,4 @@
-#=== Chartboost Oct 24, 2024
+#=== Chartboost Nov 01, 2024
 chartboost.com, 5730bb1a04b0165b75d2e564, DIRECT
 152media.info, 152M608, RESELLER
 152media.info, 152M896, RESELLER
@@ -413,6 +413,7 @@ rubiconproject.com, 26292, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26310, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26504, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26694, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26958, RESELLER, 0bfd66d529a55807
 sabio.us, 100032, RESELLER, 96ed93aaa9795702
 saharmedia.net, 1683397, RESELLER
 sharethrough.com, 1fFvoTFu, RESELLER, d53b998a7bd4ecd2
@@ -465,6 +466,7 @@ smartyads.com, 100025, RESELLER, fd2bde0ff2e62c5d
 sonobi.com, 42a06dc622, RESELLER, d1a215d9eb5aee9e
 sonobi.com, 4a289cdd79, RESELLER, d1a215d9eb5aee9e
 sonobi.com, 5b003395a5, RESELLER, d1a215d9eb5aee9e
+sonobi.com, 5da11ba10e, RESELLER, d1a215d9eb5aee9e
 sonobi.com, a85c5f6129, RESELLER, d1a215d9eb5aee9e
 sonobi.com, aa0dea192c, RESELLER, d1a215d9eb5aee9e
 sonobi.com, ac6f1a9ded, RESELLER, d1a215d9eb5aee9e

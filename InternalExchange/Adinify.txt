@@ -1,18 +1,81 @@
-#=== Adinify Oct 11, 2024
+#=== Adinify Nov 01, 2024
 adinify.com, v373678, DIRECT
+152media.info, 152M398, RESELLER
+152media.info, 152M698, RESELLER
+33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
 adform.com, 3035, DIRECT, 9f5210a2f0999e32
+adform.com, 2795, RESELLER, 9f5210a2f0999e32
 adipolo.com, 22844400545, DIRECT
 adipolosolutions.com, 22844400545, DIRECT
+aol.com, 57992, RESELLER, e1a5b5b6e3255540
+appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+appnexus.com, 4052, RESELLER, f5ab79cb980f11d1
+contextweb.com, 561998, RESELLER, 89ff185a4c4e857c
+conversantmedia.com, 42037, DIRECT, 03113cd04947736d
+conversantmedia.com, 100264, RESELLER, 03113cd04947736d
+conversantmedia.com, 100659, RESELLER, 03113cd04947736d
+conversantmedia.com, 100660, RESELLER, 03113cd04947736d
+conversantmedia.com, 100661, RESELLER, 03113cd04947736d
+conversantmedia.com, 100662, RESELLER, 03113cd04947736d
+conversantmedia.com, 100663, RESELLER, 03113cd04947736d
+conversantmedia.com, 100670, RESELLER, 03113cd04947736d
+conversantmedia.com, 100671, RESELLER, 03113cd04947736d
+conversantmedia.com, 100672, RESELLER, 03113cd04947736d
+conversantmedia.com, 100677, RESELLER, 03113cd04947736d
+conversantmedia.com, 100688, RESELLER, 03113cd04947736d
+conversantmedia.com, 100691, RESELLER, 03113cd04947736d
+conversantmedia.com, 100706, RESELLER, 03113cd04947736d
+conversantmedia.com, 100713, RESELLER, 03113cd04947736d
+d-sail.com, ds0453, DIRECT
+e-planning.net, 29459e615aaa9065, DIRECT, c1ba615865ed87b2
+e-planning.net, 1bf7b5d803f178c4, RESELLER, c1ba615865ed87b2
 freewheel.tv, 1608322, RESELLER, 74e8e47458f74754
 freewheel.tv, 1608323, RESELLER, 74e8e47458f74754
+google.com, pub-2205121062140812, RESELLER, f08c47fec0942fa0
 google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0
 google.com, pub-4836542095728076, RESELLER, f08c47fec0942fa0
 google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
 google.com, pub-9135355251665930, RESELLER, f08c47fec0942fa0
+improvedigital.com, 2345, DIRECT
+lijit.com, 411121, RESELLER, fafdf38b16bf6b2b
+loopme.com, 11426, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11647, RESELLER, 6c8d5f95897a5a3b
 onetag.com, 61d88450bdb25bc, DIRECT
 onetag.com, 61d88450bdb25bc-OB, DIRECT
 opamarketplace.com, 22844400545, DIRECT
+openx.com, 540406323, DIRECT, 6a698e2ec38604c6
+openx.com, 540031703, RESELLER, 6a698e2ec38604c6
+openx.com, 540274407, RESELLER, 6a698e2ec38604c6
+openx.com, 541031350, RESELLER, 6a698e2ec38604c6
+openx.com, 545702544, RESELLER, 6a698e2ec38604c6
+pixfuture.com, 9398, DIRECT
 pmbmonetize.com, 22844400545, DIRECT
+pubmatic.com, 156557, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156631, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158100, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158127, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159775, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161970, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 23564, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 23566, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 23644, RESELLER, 0bfd66d529a55807
+sharethrough.com, 62beb9db, DIRECT, d53b998a7bd4ecd2
+singularads.com, 895023, RESELLER
+smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
+smartadserver.com, 4012, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4342, RESELLER, 060d053dcf45cbf3
+smartyads.com, 20133, DIRECT, fd2bde0ff2e62c5d
+smartyads.com, 300045, RESELLER, fd2bde0ff2e62c5d
+sonobi.com, 8efb591506, DIRECT, d1a215d9eb5aee9e
+themediagrid.com, DI2GUZ, DIRECT, 35d5010d7789b49d
 themediagrid.com, DJQVCM, DIRECT, 35d5010d7789b49d
+themediagrid.com, QDC97I, DIRECT, 35d5010d7789b49d
+video.unrulymedia.com, 3563866356, DIRECT
+video.unrulymedia.com, 266978658, RESELLER
 video.unrulymedia.com, 270404831, RESELLER
+video.unrulymedia.com, 645663965, RESELLER
+video.unrulymedia.com, 664864669, RESELLER
+yahoo.com, 55771, RESELLER, e1a5b5b6e3255540
+yahoo.com, 57992, RESELLER, e1a5b5b6e3255540
