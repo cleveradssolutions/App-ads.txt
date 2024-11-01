@@ -11,3 +11,4 @@ pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161853, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 triplelift.com, 13654, RESELLER, 6c33edb13117fd86
+rubiconproject.com, 26980, DIRECT, 0bfd66d529a55807
