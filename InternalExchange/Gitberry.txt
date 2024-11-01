@@ -1,0 +1,28 @@
+#=== Gitberry Nov 01, 2024
+adform.com, 2967, RESELLER, 9f5210a2f0999e32
+appnexus.com, 12223, RESELLER, f5ab79cb980f11d1
+azberry.com, 321011, DIRECT
+azberry.com, 321012, RESELLER
+contextweb.com, 562954, RESELLER, 89ff185a4c4e857c
+conversantmedia.com, 100792, RESELLER, 03113cd04947736d
+criteo.com, B-070302, RESELLER, 9fac4a4a87c2a44f
+gitberry.com, 816100023, DIRECT
+gitberry.com, 816100024, RESELLER
+gumgum.com, 15908, RESELLER, ffdef49475d318a9
+improvedigital.com, 1361, RESELLER
+improvedigital.com, 1708, RESELLER
+inmobi.com, 625b6b37c3a340938a8ff02bc83b5a04, RESELLER, 83e75a7ae333ca9d
+inmobi.com, 7c95d4a1701746dbb19cf4a9a5310111, RESELLER, 83e75a7ae333ca9d
+loopme.com, 11690, RESELLER, 6c8d5f95897a5a3b
+pubmatic.com, 160194, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161601, RESELLER, 5d62403b186f2ace
+pubmatic.com, 165157, RESELLER, 5d62403b186f2ace
+sharethrough.com, 3blZyYks, RESELLER, d53b998a7bd4ecd2
+smartadserver.com, 4039, RESELLER, 060d053dcf45cbf3
+triplelift.com, 12552, RESELLER, 6c33edb13117fd86
+triplelift.com, 13423, RESELLER, 6c33edb13117fd86
+tubia.com, 40113, DIRECT
+tubia.com, 40114, RESELLER
+video.unrulymedia.com, 649652654350370180, RESELLER
+xandr.com, 15278, RESELLER, f5ab79cb980f11d1
+xandr.com, 15507, RESELLER, f5ab79cb980f11d1
