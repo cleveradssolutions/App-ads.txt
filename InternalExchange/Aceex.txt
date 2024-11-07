@@ -24,3 +24,9 @@ video.unrulymedia.com, 124775993, RESELLER
 vidoomy.com, 5498575, RESELLER
 xandr.com, 13167, RESELLER, f5ab79cb980f11d1
 xandr.com, 7847, RESELLER, f5ab79cb980f11d1
+snack-media.com, SNM_4199, DIRECT
+appnexus.com, 7582, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 11106, RESELLER, 0bfd66d529a55807
+triplelift.com, 7613, RESELLER, 6c33edb13117fd86
+freewheel.tv, 1608199, RESELLER
+pubmatic.com, 160628, RESELLER, 5d62403b186f2ace
