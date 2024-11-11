@@ -1,4 +1,4 @@
-#=== CASExchange Nov 01, 2024
+#=== CASExchange Nov 11, 2024
 152media.info, 152M238, RESELLER
 152media.info, 152M620, RESELLER
 152media.info, 152M890, RESELLER
@@ -59,6 +59,7 @@ appnexus.com, 15799, RESELLER, f5ab79cb980f11d1
 appnexus.com, 15816, RESELLER, f5ab79cb980f11d1
 appnexus.com, 15941, RESELLER, f5ab79cb980f11d1
 appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7582, RESELLER, f5ab79cb980f11d1
 appnexus.com, 8826, RESELLER, f5ab79cb980f11d1
 appnexus.com, 8833, RESELLER, f5ab79cb980f11d1
 appnexus.com, 9569, RESELLER, f5ab79cb980f11d1
@@ -123,6 +124,7 @@ freewheel.tv, 1307119, RESELLER, 74e8e47458f74754
 freewheel.tv, 1307135, RESELLER, 74e8e47458f74754
 freewheel.tv, 1585652, RESELLER, 74e8e47458f74754
 freewheel.tv, 1585681, RESELLER, 74e8e47458f74754
+freewheel.tv, 1608199, RESELLER, 74e8e47458f74754
 freewheel.tv, 1608319, RESELLER, 74e8e47458f74754
 freewheel.tv, 1608328, RESELLER, 74e8e47458f74754
 freewheel.tv, 20393, RESELLER, 74e8e47458f74754
@@ -208,6 +210,7 @@ onetag.com, 5d49f482552c9b6, RESELLER
 onetag.com, 606f9b9e9ec7e42, RESELLER
 onetag.com, 6e053d779444c00, RESELLER
 onetag.com, 74dfccdc3689510, RESELLER
+onetag.com, 758e0f1a8f05074, RESELLER
 onetag.com, 7d9af0b85b5070e, RESELLER
 onetag.com, 847013a8430d672, RESELLER
 onetag.com, 89211985ede1484, RESELLER
@@ -241,6 +244,7 @@ pubmatic.com, 158481, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159463, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159626, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160194, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160628, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160846, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160881, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161155, RESELLER, 5d62403b186f2ace
@@ -277,6 +281,7 @@ rixengine.com, 130096, DIRECT
 rtbhouse.com, 0JBassv1FjnNsC26dGmc, DIRECT
 rubiconproject.com, 26980, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 11106, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 12398, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 13856, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 14558, RESELLER, 0bfd66d529a55807
@@ -330,6 +335,7 @@ smartadserver.com, 4926, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4938-OB, RESELLER, 060d053dcf45cbf3
 smartivi.ai, 357441, DIRECT
 smartyads.com, 300152, DIRECT, fd2bde0ff2e62c5d
+snack-media.com, SNM_4199, DIRECT
 sonobi.com, 4467dce497, RESELLER, d1a215d9eb5aee9e
 sonobi.com, 7b37f8ccbc, RESELLER, d1a215d9eb5aee9e
 sonobi.com, 87555b1b39, RESELLER, d1a215d9eb5aee9e
@@ -359,6 +365,7 @@ triplelift.com, 12456, RESELLER, 6c33edb13117fd86
 triplelift.com, 12552, RESELLER, 6c33edb13117fd86
 triplelift.com, 13423, RESELLER, 6c33edb13117fd86
 triplelift.com, 13654, RESELLER, 6c33edb13117fd86
+triplelift.com, 7613, RESELLER, 6c33edb13117fd86
 tritondigital.com, 38083, RESELLER, 19b4454d0b87b58b
 tubia.com, 40113, DIRECT
 tubia.com, 40114, RESELLER

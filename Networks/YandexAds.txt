@@ -379,7 +379,7 @@ ssp.e-volution.ai, AJxF6R111a9M6CaTvK, RESELLER
 start.io, mgr, RESELLER
 synacor.com, 82460, RESELLER, e108f11b2cdf7d5b
 thebrave.io, 1234585, RESELLER, c25b2154543746ac
-themediagrid.com, 6XGFYQ, RESELLER, 35d5010d7789b49d
+themediagrid.com, 6XGFYQ, DIRECT, 35d5010d7789b49d
 themediagrid.com, BIH5U6, RESELLER, 35d5010d7789b49d
 themediagrid.com, DJQVCM, RESELLER, 35d5010d7789b49d
 themediagrid.com, NG9STC, RESELLER, 35d5010d7789b49d

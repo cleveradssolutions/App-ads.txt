@@ -1,4 +1,4 @@
-#=== Mintegral Nov 01, 2024
+#=== Mintegral Nov 11, 2024
 mintegral.com, 25008, DIRECT, 0aeed750c80d6423
 acd.op.hicloud.com, PUB_HW_1003, RESELLER
 aceex.io, 1184, RESELLER, b1cf3c874d5c6682
@@ -301,6 +301,7 @@ lijit.com, 473789, RESELLER, fafdf38b16bf6b2b
 lijit.com, 483304, RESELLER, fafdf38b16bf6b2b
 lijit.com, 500520, RESELLER, fafdf38b16bf6b2b
 lijit.com, 512908, RESELLER, fafdf38b16bf6b2b
+lijit.com, 530498, RESELLER, fafdf38b16bf6b2b
 lkqd.net, 450, RESELLER, 59c49fa9598a0117
 lkqd.net, 647, RESELLER, 59c49fa9598a0117
 lkqd.net, 654, RESELLER, 59c49fa9598a0117
@@ -366,6 +367,7 @@ openx.com, 541177349, RESELLER, 6a698e2ec38604c6
 openx.com, 542281387, RESELLER, 6a698e2ec38604c6
 openx.com, 543878511, RESELLER, 6a698e2ec38604c6
 openx.com, 559792583, RESELLER, 6a698e2ec38604c6
+opera.com, pub11079554715136, DIRECT, 55a0c5fd61378de3
 opera.com, pub4007008646336, RESELLER, 55a0c5fd61378de3
 opera.com, pub5865193350528, RESELLER, 55a0c5fd61378de3
 opera.com, pub5881703796480, RESELLER, 55a0c5fd61378de3
@@ -545,6 +547,7 @@ sharethrough.com, UbYLkrys, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, g4qXILSV, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, iBAzay96, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, vQMCuYXA, RESELLER, d53b998a7bd4ecd2
+showheroes.com, 6031, RESELLER
 signifad.com, 2626756011, RESELLER
 signifad.com, 6665126527, RESELLER
 signifad.com, 8227779878, RESELLER
@@ -561,7 +564,6 @@ smaato.com, 1100047589, RESELLER, 07bcf65f187117b4
 smaato.com, 1100050739, RESELLER, 07bcf65f187117b4
 smaato.com, 1100055341, RESELLER, 07bcf65f187117b4
 smaato.com, 1100056110, RESELLER, 07bcf65f187117b4
-smaato.com, 1100056144, RESELLER, 07bcf65f187117b4
 smartadserver.com, 1692, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 3713, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 3817, RESELLER, 060d053dcf45cbf3
@@ -589,6 +591,7 @@ smartclip.net, 12422, RESELLER
 smartclip.net, 13039, RESELLER
 smartclip.net, 13627, RESELLER
 smartclip.net, 14275, RESELLER
+smartclip.net, 27985, RESELLER
 smartstream.tv, 679, RESELLER
 smartyads.com, 100034, RESELLER, fd2bde0ff2e62c5d
 smartyads.com, 100114, RESELLER, fd2bde0ff2e62c5d

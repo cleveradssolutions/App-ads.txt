@@ -1,4 +1,5 @@
-#=== Bidscube Sep 27, 2024
+#=== Bidscube Nov 11, 2024
 bidscube.com, 4000245, DIRECT, 6ecc87a1e0269657
 bidinfluence.com, 500561, DIRECT
 decenterads.com, 300635, DIRECT
+onetag.com, 758e0f1a8f05074, RESELLER
