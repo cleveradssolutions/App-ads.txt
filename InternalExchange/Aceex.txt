@@ -1,12 +1,14 @@
-#=== Aceex Jul 02, 2024
+#=== Aceex Nov 11, 2024
 aceex.io, 1608, DIRECT, b1cf3c874d5c6682
 152media.info, 152M238, RESELLER
 152media.info, 152M890, RESELLER
 adform.com, 3062, RESELLER, 9f5210a2f0999e32
 amxrtb.com, 105199642, DIRECT
 appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7582, RESELLER, f5ab79cb980f11d1
 brightcom.com, 73523, RESELLER
 criteo.com, B-071797, RESELLER, 9fac4a4a87c2a44f
+freewheel.tv, 1608199, RESELLER, 74e8e47458f74754
 fromthetop.io, 65407, DIRECT
 hcodemedia.com, 585, DIRECT
 hindsightsolutions.net, 323-b5850, DIRECT, 20e30b2ae1f670f2
@@ -14,11 +16,15 @@ improvedigital.com, 2424, RESELLER
 inmobi.com, 7f1234e2a50f4aaaac5a4bf2f0b62ac1, RESELLER, 83e75a7ae333ca9d
 opera.com, pub8465640532754, RESELLER, 55a0c5fd61378de3
 outbrain.com, 00e64972b5333d661db74cdc50be7ce364, DIRECT
+pubmatic.com, 160628, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162458, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162968, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 11106, RESELLER, 0bfd66d529a55807
+snack-media.com, SNM_4199, DIRECT
 themediagrid.com, HIFRLS, DIRECT, 35d5010d7789b49d
 themediagrid.com, SH96GF, RESELLER, 35d5010d7789b49d
 toponad.com, 1660506186838c, DIRECT, 1d49fe424a1a456d
+triplelift.com, 7613, RESELLER, 6c33edb13117fd86
 video.unrulymedia.com, 123479258, RESELLER
 video.unrulymedia.com, 124775993, RESELLER
 vidoomy.com, 5498575, RESELLER

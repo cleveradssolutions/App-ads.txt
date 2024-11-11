@@ -72,6 +72,7 @@ _SOURCE_DSP = [
 _SOURCE_IN_GAMES = [
     "AdInMo",
     "Gadsme",
+    "GadsmeRaw",
 ]
 _BANS = [
     # (Reserved by Network name, Banned domain for other Networks)
@@ -225,6 +226,7 @@ class Inventory:
             if self.type != other.type:
                 print_warning("Relationship is already set " + self.type + " by " + self.source +
                               "\nPlease fix conflict with " + other.source, other.to_line())
+                return False
             return True
         return False
 
@@ -297,6 +299,7 @@ def release():
     with open(mainFilePath, 'w') as appAdsFile:
         appAdsFile.write("# CAS.ai Updated " + currentDate + '\n')
         appAdsFile.write("OwnerDomain=cas.ai\n")
+        appAdsFile.write("cas.ai, 922e6092, DIRECT\n")
         for source in _SOURCES:
             with open(os.path.join(_ROOT_DIR, _NETS_DIR_NAME, source + ".txt"), 'r') as sourceFile:
                 for line in sourceFile:
@@ -308,10 +311,14 @@ def release():
             for source in _SOURCE_IN_GAMES:
                 with open(os.path.join(_ROOT_DIR, _DSP_DIR_NAME, source + ".txt"), 'r') as sourceFile:
                     for line in sourceFile:
-                        inventory = Inventory(line, source)
-                        if not inventory.is_empty() and inventory not in inventorySet:
-                            inventorySet.add(inventory)
-                            appAdsFile.write(inventory.to_line())
+                        if source.endswith('Raw'):
+                            if line.strip() and not line.startswith('#'):
+                                appAdsFile.write(line)
+                        else:
+                            inventory = Inventory(line, source)
+                            if not inventory.is_empty() and inventory not in inventorySet:
+                                inventorySet.add(inventory)
+                                appAdsFile.write(inventory.to_line())
 
     shiledInfo = {
         "schemaVersion": 1,
