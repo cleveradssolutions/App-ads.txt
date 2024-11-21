@@ -56,6 +56,7 @@ _SOURCES_CAS = [
     "GothamAds",
     "Kueez",
     "Mobfox",
+    "Monetizgo",
     "Pubmatic",
     "RTBHouse",
     "SmartyAds",

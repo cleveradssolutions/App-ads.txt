@@ -1,4 +1,4 @@
-#=== YandexAds Oct 24, 2024
+#=== YandexAds Nov 21, 2024
 yandex.com, 66051405, DIRECT
 152media.info, 152M312, RESELLER
 152media.info, 152M499, RESELLER
@@ -216,19 +216,20 @@ netsvision.com, 9992315, RESELLER
 netsvision.com, 9992397, RESELLER
 olaex.biz, 100039, RESELLER
 onairglobal.com, 4357627, RESELLER
-onetag.com, 5a02ff98ba6be67, RESELLER
-onetag.com, 5d1628750185ace, RESELLER
-onetag.com, 61d88450bdb25bc, RESELLER
-onetag.com, 61d88450bdb25bc-OB, RESELLER
-onetag.com, 66cff8e37d871be, RESELLER
-onetag.com, 7d9af0b85b5070e, RESELLER
-onetag.com, 8c90176af2e65c8, RESELLER
+onetag.com, 5a02ff98ba6be67, RESELLER, 0bfd66d529a55807
+onetag.com, 5d1628750185ace, RESELLER, 0bfd66d529a55807
+onetag.com, 61d88450bdb25bc, RESELLER, 0bfd66d529a55807
+onetag.com, 61d88450bdb25bc-OB, RESELLER, 0bfd66d529a55807
+onetag.com, 66cff8e37d871be, RESELLER, 0bfd66d529a55807
+onetag.com, 7d9af0b85b5070e, RESELLER, 0bfd66d529a55807
+onetag.com, 8c90176af2e65c8, RESELLER, 0bfd66d529a55807
 opamarketplace.com, 23092378058, RESELLER
 openx.com, 537045659, RESELLER, 6a698e2ec38604c6
 openx.com, 539249210, RESELLER, 6a698e2ec38604c6
 openx.com, 540031703, RESELLER, 6a698e2ec38604c6
 openx.com, 540298543, RESELLER, 6a698e2ec38604c6
 openx.com, 540326226, RESELLER, 6a698e2ec38604c6
+openx.com, 540543195, RESELLER, 6a698e2ec38604c6
 openx.com, 540679900, RESELLER, 6a698e2ec38604c6
 openx.com, 540773939, RESELLER, 6a698e2ec38604c6
 openx.com, 540838151, RESELLER, 6a698e2ec38604c6
@@ -297,6 +298,7 @@ pubnative.net, 1007334, RESELLER, d641df8625486a7b
 pubnative.net, 1007349, RESELLER, d641df8625486a7b
 pubnative.net, 1007475, RESELLER, d641df8625486a7b
 pubnative.net, 1007615, RESELLER, d641df8625486a7b
+pubnative.net, 1009485, RESELLER, d641df8625486a7b
 readserver.net, 3992, RESELLER
 rhythmone.com, 123476257, RESELLER, a670c89d4a324e47
 rhythmone.com, 1295892552, RESELLER, a670c89d4a324e47
@@ -379,7 +381,7 @@ ssp.e-volution.ai, AJxF6R111a9M6CaTvK, RESELLER
 start.io, mgr, RESELLER
 synacor.com, 82460, RESELLER, e108f11b2cdf7d5b
 thebrave.io, 1234585, RESELLER, c25b2154543746ac
-themediagrid.com, 6XGFYQ, DIRECT, 35d5010d7789b49d
+themediagrid.com, 6XGFYQ, RESELLER, 35d5010d7789b49d
 themediagrid.com, BIH5U6, RESELLER, 35d5010d7789b49d
 themediagrid.com, DJQVCM, RESELLER, 35d5010d7789b49d
 themediagrid.com, NG9STC, RESELLER, 35d5010d7789b49d

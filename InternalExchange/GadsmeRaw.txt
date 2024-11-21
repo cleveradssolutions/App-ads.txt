@@ -1,6 +1,7 @@
 # comm -2 -3 <(sort TempUpdate.txt) <(sort app-ads-games.txt) > differences.txt
 
 adform.com, 1512, RESELLER
+adform.com, 2671, RESELLER
 adform.com, 2742, RESELLER
 adform.com, 2795, RESELLER
 adform.com, 2904, RESELLER
@@ -11,31 +12,24 @@ advertising.com, 23089, RESELLER
 advertising.com, 28246, RESELLER
 advertising.com, 28605, RESELLER
 adyoulike.com, 78afbc34fac571736717317117dfa247, RESELLER
+adyoulike.com, a2226c27fc2a6773f6a2b365e013513a, RESELLER
 algorix.co, 54190, RESELLER
 app-stock.com, 358747, RESELLER
 appnexus.com, 10040, RESELLER
-appnexus.com, 11664, RESELLER
-appnexus.com, 11665, RESELLER
+appnexus.com, 11470, RESELLER
 appnexus.com, 12290, RESELLER
 appnexus.com, 12501, RESELLER
-appnexus.com, 13099, RESELLER
-appnexus.com, 13346, RESELLER
 appnexus.com, 13783, RESELLER
-appnexus.com, 14538, RESELLER
 appnexus.com, 14808, RESELLER
-appnexus.com, 1868, RESELLER
 appnexus.com, 2764, RESELLER
-appnexus.com, 3292, RESELLER
 appnexus.com, 3741, RESELLER
 appnexus.com, 4052, RESELLER
 appnexus.com, 6849, RESELLER
 appnexus.com, 806, RESELLER
-appnexus.com, 9538, RESELLER
 axonix.com, 56222, RESELLER
 axonix.com, 57716, RESELLER
 bidscube.com, 1190, RESELLER
 contextweb.com, 558511, RESELLER
-criteo.com, 180031, RESELLER
 freewheel.tv, 1157729, RESELLER
 freewheel.tv, 1158049, RESELLER
 freewheel.tv, 1158193, RESELLER
@@ -52,7 +46,6 @@ freewheel.tv, 196145, RESELLER
 freewheel.tv, 211121, RESELLER
 freewheel.tv, 211129, RESELLER
 freewheel.tv, 848065, RESELLER
-gothamads.com, 1200, RESELLER
 indexexchange.com, 182257, RESELLER
 indexexchange.com, 184738, RESELLER
 indexexchange.com, 191503, RESELLER
@@ -84,5 +77,4 @@ xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
 xandr.com, 14344, RESELLER
 xandr.com, 15840, RESELLER
-yahoo.com, 58993, RESELLER
 yieldmo.com, 2754490424016969782, RESELLER

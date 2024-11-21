@@ -1,7 +1,11 @@
-#=== Admixer Jul 12, 2024
+#=== Admixer Nov 21, 2024
 admixer.net, f374edbf-500a-448e-85b3-dd896473dd92, DIRECT
 adform.com, 2742, RESELLER, 9f5210a2f0999e32
 e-planning.net, ec771b05828a67fa, RESELLER, c1ba615865ed87b2
+inmobi.com, 61d733c3779d43e590c51c8bc078e10c, RESELLER, 83e75a7ae333ca9d
+krushmedia.com, AJxF6R192a9M6CaTvK, DIRECT
+lijit.com, 380632, RESELLER, fafdf38b16bf6b2b
+loopme.com, 11488, RESELLER, 6c8d5f95897a5a3b
 pubmatic.com, 160846, RESELLER, 5d62403b186f2ace
 video.unrulymedia.com, 827123801, RESELLER
 vidoomy.com, 4433873, DIRECT
