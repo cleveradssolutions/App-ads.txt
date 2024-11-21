@@ -1,12 +1,12 @@
-#=== GothamAds Oct 24, 2024
+#=== GothamAds Nov 21, 2024
 gothamads.com, 200139, DIRECT, d9c86e5dec870222
 152media.info, 152M968, RESELLER
+appads.in, 108501, RESELLER
 conversantmedia.com, 100275, DIRECT, 03113cd04947736d
 freewheel.tv, 1608319, RESELLER, 74e8e47458f74754
 freewheel.tv, 1608328, RESELLER, 74e8e47458f74754
 onetag.com, 8cc07948e3ea93c, DIRECT
+pokkt.com, 8501, RESELLER, c45702d9311e25fd
+rubiconproject.com, 15854, RESELLER, 0bfd66d529a55807
 yeahmobi.com, 5135080, DIRECT
 zmaticoo.com, 5135080, DIRECT
-pokkt.com, 8501, RESELLER, c45702d9311e25fd
-appads.in, 108501, RESELLER
-rubiconproject.com, 15854, RESELLER 0bfd66d529a55807
