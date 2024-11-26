@@ -10,3 +10,4 @@ pokkt.com, 8501, RESELLER, c45702d9311e25fd
 rubiconproject.com, 15854, RESELLER, 0bfd66d529a55807
 yeahmobi.com, 5135080, DIRECT
 zmaticoo.com, 5135080, DIRECT
+lijit.com, 420355, RESELLER, fafdf38b16bf6b2b
