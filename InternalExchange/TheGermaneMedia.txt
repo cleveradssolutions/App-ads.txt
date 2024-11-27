@@ -7,7 +7,6 @@ google.com, pub-6716225838534735, RESELLER, f08c47fec0942fa0
 pubmatic.com, 164927, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164928, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 15268, DIRECT, 0bfd66d529a55807
-rubiconproject.com, 15268, RESELLER, 0bfd66d529a55807
 smartadserver.com, 4938, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4938-OB, RESELLER, 060d053dcf45cbf3
 video.unrulymedia.com, 446948340, DIRECT

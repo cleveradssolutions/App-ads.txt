@@ -5,7 +5,6 @@ adinify.com, v373678, DIRECT
 33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
 adform.com, 3035, DIRECT, 9f5210a2f0999e32
 adform.com, 2795, RESELLER, 9f5210a2f0999e32
-adform.com, 3035, RESELLER, 9f5210a2f0999e32
 adipolo.com, 22844400545, DIRECT
 adipolosolutions.com, 22844400545, DIRECT
 aol.com, 57992, RESELLER, e1a5b5b6e3255540
@@ -48,7 +47,6 @@ opamarketplace.com, 22844400545, DIRECT
 openx.com, 540406323, DIRECT, 6a698e2ec38604c6
 openx.com, 540031703, RESELLER, 6a698e2ec38604c6
 openx.com, 540274407, RESELLER, 6a698e2ec38604c6
-openx.com, 540406323, RESELLER, 6a698e2ec38604c6
 openx.com, 541031350, RESELLER, 6a698e2ec38604c6
 openx.com, 545702544, RESELLER, 6a698e2ec38604c6
 pixfuture.com, 9398, DIRECT
@@ -61,7 +59,6 @@ pubmatic.com, 159775, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161970, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 23564, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 23564, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 23566, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 23644, RESELLER, 0bfd66d529a55807
 sharethrough.com, 62beb9db, DIRECT, d53b998a7bd4ecd2

@@ -1,5 +1,8 @@
-#=== StartIO Oct 24, 2024
+#=== StartIO Nov 27, 2024
 start.io, 174388014, DIRECT
+start.io, 144185998, DIRECT
+startapp.com, 144185998, DIRECT
+startapp.com, 174388014, DIRECT
 acexchange.co.kr, 1746357004, RESELLER
 adiiix.com, 1b5c093d, RESELLER
 advlion.com, 3144, RESELLER
@@ -7,12 +10,17 @@ appnexus.com, 1019, RESELLER, f5ab79cb980f11d1
 appnexus.com, 2007, RESELLER, f5ab79cb980f11d1
 appnexus.com, 4052, RESELLER, f5ab79cb980f11d1
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+appush.com, 1305002, RESELLER
 aralego.com, par-AA7B236BA32DD484C838E249362437B8, RESELLER
 axonix.com, 59054, RESELLER, bc385f2b4a87b721
+bidedge.io, 12427296, RESELLER
+bidedge.io, 12500436, RESELLER
 contextweb.com, 563551, RESELLER, 89ff185a4c4e857c
 conversantmedia.com, 100246, RESELLER, 03113cd04947736d
 conversantmedia.com, 100339, RESELLER, 03113cd04947736d
 conversantmedia.com, 100358, RESELLER, 03113cd04947736d
+conversantmedia.com, 100792, RESELLER, 03113cd04947736d
+copper6.com, 764121, RESELLER
 e-planning.net, 9e13ae05de78d045, RESELLER, c1ba615865ed87b2
 eskimi.com, 2020000022, RESELLER
 freewheel.tv, 1138513, RESELLER, 74e8e47458f74754
@@ -26,9 +34,10 @@ indexexchange.com, 206797, RESELLER, 50b1c356f2c5c8fc
 inmobi.com, edd282ac8f29464792bf2b7f3df2f9df, RESELLER, 83e75a7ae333ca9d
 lijit.com, 400766, RESELLER, fafdf38b16bf6b2b
 lijit.com, 488437, RESELLER, fafdf38b16bf6b2b
+limpid.tv, 203711, RESELLER
 loopme.com, 11318, RESELLER, 6c8d5f95897a5a3b
 mediafuse.com, 720, RESELLER
-onetag.com, 6049d2c92852238, RESELLER
+onetag.com, 6049d2c92852238, RESELLER, 0bfd66d529a55807
 openx.com, 538959099, RESELLER, 6a698e2ec38604c6
 openx.com, 540274407, RESELLER, 6a698e2ec38604c6
 openx.com, 540679900, RESELLER, 6a698e2ec38604c6
@@ -62,7 +71,6 @@ smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
 smartadserver.com, 4342, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4573, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4625, RESELLER, 060d053dcf45cbf3
-startapp.com, 174388014, DIRECT
 target.my.com, 13033031, RESELLER
 themediagrid.com, 6XGFYQ, DIRECT, 35d5010d7789b49d
 themediagrid.com, FWN84J, DIRECT, 35d5010d7789b49d
@@ -70,6 +78,7 @@ triplelift.com, 14127, RESELLER, 6c33edb13117fd86
 triplelift.com, 14127-EB, RESELLER, 6c33edb13117fd86
 trustedstack.com, TS677PGY3, RESELLER
 ucfunnel.com, par-AA7B236BA32DD484C838E249362437B8, RESELLER
+verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 verve.com, 15503, RESELLER, 0c8f5958fc2d6270
 video.unrulymedia.com, 2464975885, RESELLER
 webeyemob.com, 80067, RESELLER

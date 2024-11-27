@@ -289,7 +289,7 @@ onetag.com, 69e6a23b28e76e2, RESELLER
 onetag.com, 6c68086c0c61793, RESELLER
 onetag.com, 805b2815fbe71c5, RESELLER
 onetag.com, 82bad7d17eccf7c, RESELLER
-onetag.com, 82e44d118b79600, RESELLER
+onetag.com, 82e44d118b79600, DIRECT
 onetag.com, 8305cc299686700, RESELLER
 onetag.com, 894a3f52ea9e6d4, RESELLER
 onetag.com, 8dd8de7f341d57e, RESELLER
@@ -385,7 +385,7 @@ risecodes.com, 653107102cde0a0001fa6710, RESELLER
 rixengine.com, 36069, RESELLER
 rubiconproject.com, 13132, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 14558, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 15268, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 15268, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 16824, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 16834, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 16928, RESELLER, 0bfd66d529a55807
@@ -434,7 +434,7 @@ sharethrough.com, iBAzay96, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, r4ScMSsf, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, r9B1MG7E, RESELLER, d53b998a7bd4ecd2
 signifad.com, 4674862556, RESELLER
-smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
+smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
 smaato.com, 1100047589, RESELLER, 07bcf65f187117b4
 smaato.com, 1100048572, RESELLER, 07bcf65f187117b4
 smaato.com, 1100049757, RESELLER, 07bcf65f187117b4
@@ -559,10 +559,10 @@ video.unrulymedia.com, 906352066, RESELLER
 video.unrulymedia.com, 949394431, RESELLER
 video.unrulymedia.com, 962111114, RESELLER
 videoheroes.tv, 212432, RESELLER, 064bc410192443d8
-vidoomy.com, 4433873, RESELLER
+vidoomy.com, 4433873, DIRECT
 vidoomy.com, 4930225, RESELLER
 vidoomy.com, 5975555, RESELLER
-vidoomy.com, 7646534, RESELLER
+vidoomy.com, 7646534, DIRECT
 vidoomy.com, 8248728, RESELLER
 vidoomy.com, 9148331, RESELLER
 visiblemeasures.com, 1020, RESELLER

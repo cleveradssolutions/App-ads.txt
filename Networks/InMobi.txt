@@ -63,7 +63,7 @@ markappmedia.site, 587286, RESELLER
 mars.media, 1010450, RESELLER, 8624339f102fb076
 mintegral.com, 10003, RESELLER, 0aeed750c80d6423
 onetag.com, 59aa7be4921bac8, RESELLER, 0bfd66d529a55807
-onetag.com, 8d4bbebb8fa701e, RESELLER, 0bfd66d529a55807
+onetag.com, 8d4bbebb8fa701e, DIRECT, 0bfd66d529a55807
 onlinemediasolutions.com, 29556, RESELLER, b3868b187e4b6402
 openx.com, 540298543, RESELLER, 6a698e2ec38604c6
 opera.com, pub6871903319744, RESELLER, 55a0c5fd61378de3
