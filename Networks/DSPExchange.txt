@@ -1,4 +1,4 @@
-#=== DSPExchange Oct 11, 2024
+#=== DSPExchange Nov 27, 2024
 152media.info, 152M698, RESELLER
 152media.info, 152M890, RESELLER
 152media.info, 152M922, RESELLER
@@ -168,13 +168,13 @@ mintegral.com, 10026, RESELLER, 0aeed750c80d6423
 mobismarter.com, 3294, RESELLER
 olaex.biz, 100039, RESELLER
 olaex.biz, 100131, RESELLER
-onetag.com, 7b7048166127e4c, DIRECT
-onetag.com, 7b7048166127e4c-OB, DIRECT
-onetag.com, 82e44d118b79600, DIRECT
-onetag.com, 59aa7be4921bac8, RESELLER
-onetag.com, 77cc0899358027b, RESELLER
-onetag.com, 77cc0899358027b-OB, RESELLER
-onetag.com, 8c90176af2e65c8, RESELLER
+onetag.com, 7b7048166127e4c, DIRECT, 0bfd66d529a55807
+onetag.com, 7b7048166127e4c-OB, DIRECT, 0bfd66d529a55807
+onetag.com, 82e44d118b79600, DIRECT, 0bfd66d529a55807
+onetag.com, 59aa7be4921bac8, RESELLER, 0bfd66d529a55807
+onetag.com, 77cc0899358027b, RESELLER, 0bfd66d529a55807
+onetag.com, 77cc0899358027b-OB, RESELLER, 0bfd66d529a55807
+onetag.com, 8c90176af2e65c8, RESELLER, 0bfd66d529a55807
 openx.com, 537149888, RESELLER, 6a698e2ec38604c6
 openx.com, 539214772, RESELLER, 6a698e2ec38604c6
 openx.com, 540031703, RESELLER, 6a698e2ec38604c6
@@ -297,7 +297,7 @@ smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
 smaato.com, 1100050739, RESELLER, 07bcf65f187117b4
 smaato.com, 1100051178, RESELLER, 07bcf65f187117b4
 smaato.com, 1100053435, RESELLER, 07bcf65f187117b4
-smartadserver.com, 4012, DIRECT, 060d053dcf45cbf3
+smartadserver.com, 4012, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4016, DIRECT, 060d053dcf45cbf3
 smartadserver.com, 4073, DIRECT, 060d053dcf45cbf3
 smartadserver.com, 4074, DIRECT, 060d053dcf45cbf3
@@ -349,6 +349,7 @@ triplelift.com, 13043, RESELLER, 6c33edb13117fd86
 ucfunnel.com, par-9A2627866DA4BBE4F4AA4A67A3DDE686, RESELLER
 ucfunnel.com, par-AA7B236BA32DD484C838E249362437B8, RESELLER
 uis.mobfox.com, 2158, DIRECT, 5529a3d1f59865be
+uis.mobfox.com, 2310, RESELLER, 5529a3d1f59865be
 verve.com, 15503, RESELLER, 0c8f5958fc2d6270
 verve.com, 5897, RESELLER, 0c8f5958fc2d6270
 video.unrulymedia.com, 3563866356, DIRECT
