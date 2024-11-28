@@ -1,4 +1,4 @@
-#=== Potensus Jul 02, 2024
+#=== Potensus Nov 28, 2024
 potensus.com, 5362872600, DIRECT
 acexchange.co.kr, 1416775282, RESELLER
 adcolony.com, 197af3936679d34e, RESELLER, 1ad675c9de6b5176
@@ -31,6 +31,7 @@ appnexus.com, 12867, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12878, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12976, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13074, RESELLER, f5ab79cb980f11d1
+appnexus.com, 13099, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13101, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13227, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13297, RESELLER, f5ab79cb980f11d1
@@ -72,6 +73,8 @@ engagebdr.com, 16, RESELLER
 engagebdr.com, 7, RESELLER
 engagebdr.com, 84, RESELLER
 eskimi.com, eas-2020000005, RESELLER
+freewheel.tv, 20393, RESELLER, 74e8e47458f74754
+freewheel.tv, 24377, RESELLER, 74e8e47458f74754
 gamaigroup.com, 320203, RESELLER
 gitberry.com, 31mbg, RESELLER
 google.com, pub-4568609371004228, RESELLER, f08c47fec0942fa0
@@ -86,6 +89,7 @@ inmobi.com, 725952799f9b44528379f442e9fe91dc, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 3a4f7da341dd490cbb7dde02b126275e, RESELLER, 83e75a7ae333ca9d
 iqzone.com, IQ87, RESELLER, 60d26397ec060f98
 lemmatechnologies.com, 89, RESELLER, 7829010c5bebd1fb
+lemmatechnologies.com, 942, RESELLER, 7829010c5bebd1fb
 lkqd.net, 626, RESELLER, 59c49fa9598a0117
 loopme.com, 11322, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11342, RESELLER, 6c8d5f95897a5a3b
@@ -107,8 +111,10 @@ mintegral.com, 10026, RESELLER, 0aeed750c80d6423
 mobismarter.com, 3294, RESELLER
 olaex.biz, 100039, RESELLER
 olaex.biz, 100131, RESELLER
-onetag.com, 82e44d118b79600, DIRECT
-onetag.com, 59aa7be4921bac8, RESELLER
+onetag.com, 82e44d118b79600, DIRECT, 0bfd66d529a55807
+onetag.com, 8b77f25879b0642, DIRECT, 0bfd66d529a55807
+onetag.com, 8b77f25879b0642-OB, DIRECT, 0bfd66d529a55807
+onetag.com, 59aa7be4921bac8, RESELLER, 0bfd66d529a55807
 openx.com, 537149888, RESELLER, 6a698e2ec38604c6
 openx.com, 539214772, RESELLER, 6a698e2ec38604c6
 openx.com, 540298543, RESELLER, 6a698e2ec38604c6
@@ -125,11 +131,13 @@ peak226.com, 12700, RESELLER
 peak226.com, 12900, RESELLER
 peak226.com, 12901, RESELLER
 pokkt.com, 7606, RESELLER, c45702d9311e25fd
+potensus.com, 5707220331, DIRECT
 prequel.tv, 518, RESELLER
 pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
 pubmatic.com, 155975, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156425, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156439, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156451, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156494, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156498, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156931, RESELLER, 5d62403b186f2ace
@@ -146,6 +154,7 @@ pubmatic.com, 161056, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161136, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161372, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161373, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161748, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163560, RESELLER, 5d62403b186f2ace
 pubnative.net, 1006576, RESELLER, d641df8625486a7b
@@ -161,6 +170,7 @@ rhythmone.com, 2613193077, RESELLER, a670c89d4a324e47
 rhythmone.com, 3948367200, RESELLER, a670c89d4a324e47
 rhythmone.com, 4173858586, RESELLER, a670c89d4a324e47
 rhythmone.com, 5336134699710580000, RESELLER, a670c89d4a324e47
+rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 12266, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 15278, RESELLER, 0bfd66d529a55807
@@ -219,6 +229,7 @@ triplelift.com, 13042, RESELLER, 6c33edb13117fd86
 triplelift.com, 13043, RESELLER, 6c33edb13117fd86
 ucfunnel.com, par-9A2627866DA4BBE4F4AA4A67A3DDE686, RESELLER
 ucfunnel.com, par-AA7B236BA32DD484C838E249362437B8, RESELLER
+uis.mobfox.com, 2310, RESELLER, 5529a3d1f59865be
 verve.com, 15503, RESELLER, 0c8f5958fc2d6270
 verve.com, 5897, RESELLER, 0c8f5958fc2d6270
 video.unrulymedia.com, 123476257, RESELLER
@@ -247,4 +258,4 @@ yahoo.com, 59974, RESELLER, e1a5b5b6e3255540
 yahoo.com, 60010, RESELLER, e1a5b5b6e3255540
 yandex.com, 94923424, RESELLER
 yandex.com, 95746987, RESELLER
-yieldmo.com, 2807970144171533194, RESELLER
+yieldmo.com, 2807970144171533194, RESELLER, 6a92c77cfc3d2258

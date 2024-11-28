@@ -1,4 +1,4 @@
-# CAS.ai Updated Nov 27, 2024
+# CAS.ai Updated Nov 28, 2024
 OwnerDomain=cas.ai
 cas.ai, 922e6092, DIRECT
 #=== GoogleAds Sep 01, 2023
@@ -2477,7 +2477,7 @@ yieldlab.net, 6378054, DIRECT
 yieldlab.net, 11114007, RESELLER
 yieldmo.com, 3515414073774645319, RESELLER, 6a92c77cfc3d2258
 zmaticoo.com, 5135080, DIRECT
-#=== DSPExchange Nov 27, 2024
+#=== DSPExchange Nov 28, 2024
 152media.info, 152M922, RESELLER
 a4g.com, 14245, DIRECT
 aceex.io, 1834, DIRECT, b1cf3c874d5c6682
@@ -2548,6 +2548,8 @@ meitu.com, 698, RESELLER
 mobismarter.com, 3294, RESELLER
 onetag.com, 7b7048166127e4c, DIRECT, 0bfd66d529a55807
 onetag.com, 7b7048166127e4c-OB, DIRECT, 0bfd66d529a55807
+onetag.com, 8b77f25879b0642, DIRECT, 0bfd66d529a55807
+onetag.com, 8b77f25879b0642-OB, DIRECT, 0bfd66d529a55807
 onetag.com, 77cc0899358027b, RESELLER, 0bfd66d529a55807
 onetag.com, 77cc0899358027b-OB, RESELLER, 0bfd66d529a55807
 openx.com, 539214772, RESELLER, 6a698e2ec38604c6
@@ -2557,6 +2559,7 @@ opera.com, pub10908243052672, DIRECT, 55a0c5fd61378de3
 opera.com, pub8613009987200, DIRECT, 55a0c5fd61378de3
 peak226.com, 12700, RESELLER
 potensus.com, 5362872600, DIRECT
+potensus.com, 5707220331, DIRECT
 pubmatic.com, 161141, DIRECT, 5d62403b186f2ace
 pubmatic.com, 163739, DIRECT, 5d62403b186f2ace
 pubmatic.com, 164984, DIRECT, 5d62403b186f2ace
@@ -2593,9 +2596,9 @@ smaato.com, 1100027629, RESELLER, 07bcf65f187117b4
 smaato.com, 1100051178, RESELLER, 07bcf65f187117b4
 smaato.com, 1100053435, RESELLER, 07bcf65f187117b4
 smartadserver.com, 4016, DIRECT, 060d053dcf45cbf3
+smartadserver.com, 4071, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4073, DIRECT, 060d053dcf45cbf3
 smartadserver.com, 4074, DIRECT, 060d053dcf45cbf3
-smartadserver.com, 4071, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4147, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4147-OB, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4313, RESELLER, 060d053dcf45cbf3
