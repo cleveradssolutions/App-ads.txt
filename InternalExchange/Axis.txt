@@ -13,3 +13,7 @@ pubmatic.com, 161853, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 26980, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 triplelift.com, 13654, RESELLER, 6c33edb13117fd86
+rtbhouse.com, v4Y3snBsel6fYC6mSzdf, DIRECT
+opera.com,pub12108925371520,DIRECT,55a0c5fd61378de3
+admanmedia.com, 2182, DIRECT
+Media.net, 8CUP0ENJ2, DIRECT
