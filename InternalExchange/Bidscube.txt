@@ -3,3 +3,5 @@ bidscube.com, 4000245, DIRECT, 6ecc87a1e0269657
 bidinfluence.com, 500561, DIRECT
 decenterads.com, 300635, DIRECT
 onetag.com, 758e0f1a8f05074, RESELLER
+smaato.com, 1100058165, DIRECT, 07bcf65f187117b4
+smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
