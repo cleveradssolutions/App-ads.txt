@@ -1273,7 +1273,7 @@ venatusmedia.com, 607eedde9ada6778be32cfbb, RESELLER
 venatusmedia.com, 607eeeb6a1ede81658152b4f, RESELLER
 visoon.de, 64393, RESELLER
 xandr.com, 12548, RESELLER, f5ab79cb980f11d1
-#=== InMobi Jan 03, 2025
+#=== InMobi Nov 21, 2024
 inmobi.com, 30ff09752f2b48eb9974d28116cf9ff0, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 5abb702fde844f7cadd2090b3c7d61db, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 1e5e69fd2ff340dbb07654d0c6b826ef, RESELLER, 83e75a7ae333ca9d
@@ -1679,7 +1679,7 @@ zetaglobal.net, 856, RESELLER
 zetaglobal.net, 891, RESELLER
 zetaglobal.net, 939, RESELLER
 zmaticoo.com, 5135302, RESELLER
-#=== YandexAds Jan 03, 2025
+#=== YandexAds Nov 21, 2024
 yandex.com, 66051405, DIRECT
 152media.info, 152M312, RESELLER
 152media.info, 152M499, RESELLER
