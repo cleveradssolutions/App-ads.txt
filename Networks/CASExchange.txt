@@ -1,4 +1,4 @@
-#=== CASExchange Nov 27, 2024
+#=== CASExchange Jan 03, 2025
 152media.info, 152M238, RESELLER
 152media.info, 152M398, RESELLER
 152media.info, 152M620, RESELLER
@@ -35,6 +35,7 @@ adinify.com, v373678, DIRECT
 adipolo.com, 22844400545, DIRECT
 adipolosolutions.com, 22844400545, DIRECT
 admagnetix.io, 200132, RESELLER
+admanmedia.com, 2182, DIRECT
 admanmedia.com, 2002, RESELLER
 admanmedia.com, 2029, RESELLER
 admanmedia.com, 891, RESELLER
@@ -239,6 +240,7 @@ loopme.com, 11488, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11569, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11647, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11690, RESELLER, 6c8d5f95897a5a3b
+media.net, 8CUP0ENJ2, DIRECT
 media.net, 8CU47U85L, RESELLER
 media.net, 8CU9650CP, RESELLER
 media.net, 8CUB46Z7R, RESELLER
@@ -283,6 +285,7 @@ openx.com, 540866936, RESELLER, 6a698e2ec38604c6
 openx.com, 541031350, RESELLER, 6a698e2ec38604c6
 openx.com, 545702544, RESELLER, 6a698e2ec38604c6
 openx.com, 559462164, RESELLER, 6a698e2ec38604c6
+opera.com, pub12108925371520, DIRECT, 55a0c5fd61378de3
 opera.com, pub10014056052800, RESELLER, 55a0c5fd61378de3
 opera.com, pub8465640532754, RESELLER, 55a0c5fd61378de3
 opera.com, pub9443931419968, RESELLER, 55a0c5fd61378de3
@@ -294,6 +297,7 @@ pmbmonetize.com, 22844400545, DIRECT
 pokkt.com, 8501, RESELLER, c45702d9311e25fd
 programmaticx.ai, 6561660, DIRECT
 pubmatic.com, 163753, DIRECT, 5d62403b186f2ace
+pubmatic.com, 165995, DIRECT, 5d62403b186f2ace
 pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156451, RESELLER, 5d62403b186f2ace
@@ -346,6 +350,7 @@ pubmatic.com, 92509, RESELLER, 5d62403b186f2ace
 richaudience.com, Ua8BIWjxkR, RESELLER
 rixengine.com, 130096, DIRECT
 rtbhouse.com, 0JBassv1FjnNsC26dGmc, DIRECT
+rtbhouse.com, v4Y3snBsel6fYC6mSzdf, DIRECT
 rubiconproject.com, 15268, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 23564, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 26980, DIRECT, 0bfd66d529a55807
@@ -391,7 +396,9 @@ sharethrough.com, voRCbaYL, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, ygdNCKm4, RESELLER, d53b998a7bd4ecd2
 showheroes.com, 7224, RESELLER
 singularads.com, 895023, RESELLER
+smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
 smaato.com, 1100056087, DIRECT, 07bcf65f187117b4
+smaato.com, 1100058165, DIRECT, 07bcf65f187117b4
 smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
 smaato.com, 1100049808, RESELLER, 07bcf65f187117b4
 smaato.com, 1100055204, RESELLER, 07bcf65f187117b4
