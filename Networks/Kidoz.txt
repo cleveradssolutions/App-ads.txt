@@ -1,56 +1,33 @@
-#=== Kidoz Sep 27, 2024
+#=== Kidoz Jan 03, 2025
 kidoz.net, 11645, DIRECT, a109366414b7335e
-aniview.com, 5f2063121d82c82557194737, RESELLER, 78b21b97965ec3f8
 appnexus.com, 11826, RESELLER, f5ab79cb980f11d1
-appnexus.com, 3584, RESELLER, f5ab79cb980f11d1
-appnexus.com, 806, RESELLER, f5ab79cb980f11d1
-freewheel.tv, 187721, RESELLER, 74e8e47458f74754
-freewheel.tv, 187865, RESELLER, 74e8e47458f74754
+appnexus.com, 14230, RESELLER, f5ab79cb980f11d1
 freewheel.tv, 196129, RESELLER, 74e8e47458f74754
 freewheel.tv, 196145, RESELLER, 74e8e47458f74754
 google.com, pub-1386280613967939, RESELLER, f08c47fec0942fa0
 google.com, pub-2923085774557613, RESELLER, f08c47fec0942fa0
 google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa0
-google.com, pub-5781531207509232, RESELLER, f08c47fec0942fa0
-google.com, pub-6437111524977299, RESELLER, f08c47fec0942fa0
-google.com, pub-7000450198088379, RESELLER, f08c47fec0942fa0
 hoopladigital.co.uk, 5046738227, RESELLER
 improvedigital.com, 1604, RESELLER
 improvedigital.com, 2052, RESELLER
-improvedigital.com, 22852136, RESELLER
+kidoz.net, 14260, RESELLER, a109366414b7335e
+kidoz.net, 15127, RESELLER, a109366414b7335e
 playwire.com, 1018531, RESELLER
+playwire.com, 1025000, RESELLER
+prado.co, 14260, RESELLER
+prado.co, 15127, RESELLER
+pubmatic.com, 159234, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
-pubmatic.com, 159659, RESELLER, 5d62403b186f2ace
-pubmatic.com, 160222, RESELLER, 5d62403b186f2ace
-pubmatic.com, 160536, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160552, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165438, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 12556, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 13762, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 14980, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 17902, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 18202, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 20152, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 20182, RESELLER, 0bfd66d529a55807
 smartclip.net, 13564, RESELLER
-spotx.tv, 101831, RESELLER, 7842df1d2fe2db34
-spotx.tv, 141412, RESELLER, 7842df1d2fe2db34
-spotx.tv, 149886, RESELLER, 7842df1d2fe2db34
-spotx.tv, 287468, RESELLER, 7842df1d2fe2db34
-spotx.tv, 71426, RESELLER, 7842df1d2fe2db34
-spotxchange.com, 101831, RESELLER, 7842df1d2fe2db34
-spotxchange.com, 141412, RESELLER, 7842df1d2fe2db34
-spotxchange.com, 149886, RESELLER, 7842df1d2fe2db34
-spotxchange.com, 287468, RESELLER, 7842df1d2fe2db34
-spotxchange.com, 71426, RESELLER, 7842df1d2fe2db34
-superawesome.tv, 177, RESELLER, 706a53c9da3b4cee
+telaria.com, 1deq6-zt59a, RESELLER, 1a4e959a1b50034a
+tremorhub.com, 1deq6-zt59a, RESELLER, 1a4e959a1b50034a
+venatusmedia.com, 607eedde9ada6778be32cfbb, RESELLER
 venatusmedia.com, 607eeeb6a1ede81658152b4f, RESELLER
-video.unrulymedia.com, 995298565, RESELLER
-xandr.com, 7445, RESELLER, f5ab79cb980f11d1
-yieldlab.net, 2172218, RESELLER
-yieldlab.net, 227224, RESELLER
-yieldlab.net, 495507, RESELLER
-yieldlab.net, 506261, RESELLER
-yieldlab.net, 5494672, RESELLER
-yieldlab.net, 5798882, RESELLER
-yieldlab.net, 6374282, RESELLER
-yieldlab.net, 781119, RESELLER
+video.unrulymedia.com, 755432070, RESELLER
+visoon.de, 64393, RESELLER
+xandr.com, 12548, RESELLER, f5ab79cb980f11d1
