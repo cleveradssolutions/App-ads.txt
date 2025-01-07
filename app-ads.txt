@@ -1,4 +1,4 @@
-# CAS.ai Updated Jan 06, 2025
+# CAS.ai Updated Jan 07, 2025
 OwnerDomain=cas.ai
 cas.ai, 922e6092, DIRECT
 #=== GoogleAds Jan 06, 2025
@@ -2133,7 +2133,7 @@ yabbi.me, 675d9254-4032-47ed-9074-b6ef4dbab522, DIRECT
 yandex.com, 94923424, RESELLER
 yandex.com, 98384845, RESELLER
 yieldmo.com, 3078438591206989879, RESELLER, 6a92c77cfc3d2258
-#=== CASExchange Jan 03, 2025
+#=== CASExchange Jan 07, 2025
 152media.info, 152M238, RESELLER
 152media.info, 152M398, RESELLER
 152media.info, 152M620, RESELLER
@@ -2240,10 +2240,13 @@ decenterads.com, 300635, DIRECT
 e-planning.net, 29459e615aaa9065, DIRECT, c1ba615865ed87b2
 e-planning.net, 2af6560b926d20f9, DIRECT, c1ba615865ed87b2
 e-planning.net, 10b94af40754befc, RESELLER, c1ba615865ed87b2
+epom.com, 1df4db5d-be1e-4787-9957-4dd3cb110973, DIRECT
+epom.com, c6d77cb1-ce40-4ced-9043-1c6340a69390, DIRECT
 epom.com, cd55a4c7-c917-4173-83c2-c139ed58e95e, DIRECT
 epom.com, c9f876c0-3ac3-4c07-b487-505a2727b19a, RESELLER
 ergadx.com, 4869, DIRECT
 eskimi.com, 2020000027, RESELLER
+eskimi.com, 2020000813, RESELLER
 fourthdimentionconsulting.com, 7689460, DIRECT
 freewheel.tv, 1183903, RESELLER, 74e8e47458f74754
 freewheel.tv, 1184159, RESELLER, 74e8e47458f74754

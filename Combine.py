@@ -52,6 +52,8 @@ _SOURCES_CAS = [
     "Bidscube",
     "BoldWin",
     "Brightcom",
+    "Epom",
+    "Eskimi",
     "Gitberry",
     "GothamAds",
     "Kueez",
