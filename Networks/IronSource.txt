@@ -1,4 +1,4 @@
-#=== IronSource Jan 03, 2025
+#=== IronSource Jan 10, 2025
 ironsrc.com, 218335, DIRECT
 ironsrc.com, 406326, DIRECT
 ironsrc.com, 445197, DIRECT
@@ -25,6 +25,7 @@ conversantmedia.com, 100358, RESELLER, 03113cd04947736d
 conversantmedia.com, 100688, RESELLER, 03113cd04947736d
 conversantmedia.com, 100691, RESELLER, 03113cd04947736d
 conversantmedia.com, 100863, RESELLER, 03113cd04947736d
+e-planning.net, 79686787743ddfc5, RESELLER, c1ba615865ed87b2
 e-planning.net, af5a107262468954, RESELLER, c1ba615865ed87b2
 eskimi.com, 2020000545, RESELLER
 freewheel.tv, 741650, RESELLER, 74e8e47458f74754
@@ -86,6 +87,7 @@ pubnative.net, 1006955, RESELLER, d641df8625486a7b
 pubnative.net, 1007040, RESELLER, d641df8625486a7b
 pubnative.net, 1007974, RESELLER, d641df8625486a7b
 pubnative.net, 1009988, RESELLER, d641df8625486a7b
+rhebus.works, 5000863388, RESELLER
 risecodes.com, 66fab6981efdb80001a3dadc, RESELLER
 rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 12266, RESELLER, 0bfd66d529a55807
@@ -128,6 +130,7 @@ smartclip.net, 14679, RESELLER
 smartclip.net, 27985, RESELLER
 stroeer.com, 17355, RESELLER
 stroeer.com, 17379, RESELLER
+taurusx.com, 80070, RESELLER
 thebrave.io, 1234648, RESELLER, c25b2154543746ac
 themediagrid.com, B8N9YH, RESELLER, 35d5010d7789b49d
 themediagrid.com, RABCQ1, RESELLER, 35d5010d7789b49d

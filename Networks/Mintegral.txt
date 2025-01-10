@@ -1,4 +1,4 @@
-#=== Mintegral Jan 03, 2025
+#=== Mintegral Jan 10, 2025
 mintegral.com, 25008, DIRECT, 0aeed750c80d6423
 acd.op.hicloud.com, PUB_HW_1003, RESELLER
 aceex.io, 1184, RESELLER, b1cf3c874d5c6682
@@ -20,6 +20,7 @@ adelement.com, 30018, RESELLER
 adelement.com, 30019, RESELLER
 adform.com, 2671, RESELLER, 9f5210a2f0999e32
 adform.com, 2742, RESELLER, 9f5210a2f0999e32
+adiiix.com, db716a4c, RESELLER
 adingo.jp, 31054, RESELLER
 admanmedia.com, 2050, RESELLER
 admanmedia.com, 594, RESELLER
@@ -28,6 +29,7 @@ admanmedia.com, 621, RESELLER
 admanmedia.com, 894, RESELLER
 admanmedia.com, 990, RESELLER
 admatic.com.tr, adm-pub-3033566192, DIRECT, uufps1dh5stc6euk
+admixer.co.kr, 1289, RESELLER
 admixer.co.kr, 1317, RESELLER
 admixer.net, f6790c61-b9ce-49b0-b809-059710d60dfd, DIRECT
 admixer.net, 2f833c20-7378-4b86-9b73-a2b56263d4d4, RESELLER
@@ -108,6 +110,7 @@ appnexus.com, 9382, RESELLER, f5ab79cb980f11d1
 appnexus.com, 9569, RESELLER, f5ab79cb980f11d1
 aralego.com, par-D2346AAB7ABD36B4CDD7BBD264BA92E2, RESELLER
 aralego.com, par-E2B2BB3E89BE87A2F774B768BEED62A2, RESELLER
+aralego.com, par-E2B3A33EAA4286BEF7ADD9AA28A922D2, RESELLER
 arcaneflow.com, 50149190, RESELLER
 atasdigital.com, 504422, RESELLER
 atasdigital.com, 506154, RESELLER
@@ -341,6 +344,7 @@ mediafuse.com, 316569, RESELLER
 meitu.com, 654, RESELLER
 meitu.com, 663, RESELLER
 meitu.com, 699, RESELLER
+mgid.com, 885240, RESELLER, d4c29acad76ce94f
 mlion.io, 115104695, RESELLER
 myfeature.tv, UvnXhUMZHRvKfRk52QZy, RESELLER
 newsusadigital.com, 1001719521, RESELLER
@@ -554,11 +558,13 @@ rubiconproject.com, 24960, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 25060, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 25064, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 25100, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 25482, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 25496, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 25978, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26064, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26086, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26510, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26552, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26694, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26958, RESELLER, 0bfd66d529a55807
 sabio.us, 100032, RESELLER, 96ed93aaa9795702
@@ -733,6 +739,7 @@ tritondigital.com, 106423, RESELLER, 19b4454d0b87b58b
 ucfunnel.com, par-6272997D742EBBBB1E4B8B6D9EA8D3B7, RESELLER
 ucfunnel.com, par-D2346AAB7ABD36B4CDD7BBD264BA92E2, RESELLER
 ucfunnel.com, par-E2B2BB3E89BE87A2F774B768BEED62A2, RESELLER
+ucfunnel.com, par-E2B3A33EAA4286BEF7ADD9AA28A922D2, RESELLER
 uis.mobfox.com, 2206, RESELLER, 5529a3d1f59865be
 unrulymedia.com, 1058378980, RESELLER
 unrulymedia.com, 1286320118, RESELLER
