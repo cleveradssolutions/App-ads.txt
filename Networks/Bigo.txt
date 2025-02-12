@@ -1,4 +1,4 @@
-#=== Bigo Jan 10, 2025
+#=== Bigo Feb 10, 2025
 bigo.sg, 10374, DIRECT
 33across.com, 0015a00003DKg9ZAAT, RESELLER, bbea06d9c4d2853c
 acexchange.co.kr, 1024314629, RESELLER
@@ -8,7 +8,7 @@ adform.com, 2664, RESELLER, 9f5210a2f0999e32
 adform.com, 2742, RESELLER, 9f5210a2f0999e32
 adform.com, 3164, RESELLER, 9f5210a2f0999e32
 adingenious.com, 70392, RESELLER
-admixer.net, 142f7ae2-b259-439a-801d-0b1146b8518d, RESELLER
+admixer.net, 142f7ae2-b259-439a-801d-0b1146b8518d, DIRECT
 adview.com, 53849096, RESELLER, 1b2cc038a11ea319
 adyoulike.com, 994b7b4e03898048761c7110f11e56c2, RESELLER, 4ad745ead2958bf7
 algorix.co, 604553, DIRECT, 5b394c12fea27a1d
@@ -29,6 +29,7 @@ bidence.com, 9d48459c49a3b604e65e262102b559b4, RESELLER
 blueseasx.com, 203596, RESELLER, 7998eac5087f6110
 brightmountainmedia.com, 2686894, RESELLER
 chocolateplatform.com, 14630, RESELLER, 49a66ce31a704197
+connekt.ai, 2852512, RESELLER
 contextweb.com, 562827, RESELLER, 89ff185a4c4e857c
 contextweb.com, 563238, RESELLER, 89ff185a4c4e857c
 contextweb.com, 563521, RESELLER, 89ff185a4c4e857c
@@ -87,6 +88,7 @@ openx.com, 561470659, RESELLER, 6a698e2ec38604c6
 opera.com, pub10472284589952, RESELLER, 55a0c5fd61378de3
 opera.com, pub4261820774272, RESELLER, 55a0c5fd61378de3
 opera.com, pub5865193350528, RESELLER, 55a0c5fd61378de3
+opera.com, pub6650235485952, RESELLER, 55a0c5fd61378de3
 outbrain.com, 0005bfbc60db1570e63954937b4bec06de, RESELLER
 playdigo.com, 1988, RESELLER, 92011346d63d3c30
 pubeasy.io, 110013, RESELLER
@@ -123,10 +125,12 @@ rubiconproject.com, 22134, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24362, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24526, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24930, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 25872, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26132, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26184, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26360, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 27130, RESELLER, 0bfd66d529a55807
 screenil.com, 554156, DIRECT
 sharethrough.com, 1leEveR6, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, KqNHFkhm, RESELLER, d53b998a7bd4ecd2
@@ -154,6 +158,7 @@ triplelift.com, 11656, RESELLER, 6c33edb13117fd86
 triplelift.com, 13465, RESELLER, 6c33edb13117fd86
 triplelift.com, 13792, RESELLER, 6c33edb13117fd86
 ucfunnel.com, par-47BDB68D72764E2AFED767ED47DEDDA4, RESELLER
+video.unrulymedia.com, 1382908057, DIRECT
 video.unrulymedia.com, 1876793108340587286, RESELLER
 video.unrulymedia.com, 2099898025, RESELLER
 video.unrulymedia.com, 2464975885, RESELLER

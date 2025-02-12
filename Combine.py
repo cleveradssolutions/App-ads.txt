@@ -33,7 +33,6 @@ _SOURCES = [
     "CASExchange",
     "DSPExchange",
     "Ogury",
-    "LoopMe",
     "Madex",
     "HyprMX",
     "StartIO",
@@ -52,11 +51,13 @@ _SOURCES_CAS = [
     "Bidscube",
     "BoldWin",
     "Brightcom",
+    "Edge226",
     "Epom",
     "Eskimi",
     "Gitberry",
     "GothamAds",
     "Kueez",
+    "LoopMe",
     "Mobfox",
     "Monetizgo",
     "Pubmatic",
@@ -228,9 +229,30 @@ class Inventory:
             and self.comment == other.comment
                 and self.variable == other.variable):
             if self.type != other.type:
-                print_warning("Relationship is already set " + self.type + " by " + self.source +
-                              "\nPlease fix conflict with " + other.source, other.to_line())
-                return False
+                print("One inventory have both relationship in " + self.source +
+                      "(" + self.type + ") and " + other.source + "(" + other.type + ")")
+                print("   " + other.to_line().strip())
+
+                if self.source == other.source:
+                    print("   Only DIRECT lines are added.")
+                    other.type = 'DIRECT'
+                else:
+                    inputMessage = "   Enter 'D' - to add DIRRECT or 'R' - to add RESELLER: "
+                    while True:
+                        if sys.version_info[0] < 3:
+                            userSelect = raw_input(inputMessage)
+                        else:
+                            userSelect = input(inputMessage)
+
+                        if userSelect.lower() == 'd':
+                            other.type = 'DIRECT'
+                            break
+                        elif userSelect.lower() == 'r':
+                            other.type = 'RESELLER'
+                            break
+                        else:
+                            print("   Invalid input value")
+                print()
             return True
         return False
 
