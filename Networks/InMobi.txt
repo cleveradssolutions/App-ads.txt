@@ -1,4 +1,4 @@
-#=== InMobi Nov 21, 2024
+#=== InMobi Feb 10, 2025
 inmobi.com, 30ff09752f2b48eb9974d28116cf9ff0, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 5abb702fde844f7cadd2090b3c7d61db, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 1e5e69fd2ff340dbb07654d0c6b826ef, RESELLER, 83e75a7ae333ca9d
@@ -19,9 +19,8 @@ inmobi.com, fafa1521dbdb43f69b1eb199a0b007fd, RESELLER, 83e75a7ae333ca9d
 9dotsmedia.com, 122262, RESELLER, 45ff185b4c4e857d
 acexchange.co.kr, 1562884725, RESELLER
 added.tv, 3d20ca0f, RESELLER
-added.tv, d4cfaf78, RESELLER
 adelement.com, 36001, RESELLER
-adiiix.com, 3de5db9, RESELLER
+adingenious.com, 75036, RESELLER
 admanmedia.com, 2063, RESELLER
 adtonos.com, PUB2356156682, RESELLER
 advertising.com, 28246, RESELLER, e1a5b5b6e3255540
@@ -29,42 +28,42 @@ algorix.co, 54190, RESELLER, 5b394c12fea27a1d
 algorix.co, 60367, RESELLER, 5b394c12fea27a1d
 app-stock.com, 315417, RESELLER, ed8c126ea5971415
 appnexus.com, 8178, RESELLER, f5ab79cb980f11d1
-aralego.com, par-9A2627866DA4BBE4F4AA4A67A3DDE686, RESELLER
 bematterfull.com, 111399861, RESELLER
 blis.com, 33, RESELLER, 61453ae19a4b73f4
 bold-win.com, 148, RESELLER, 71746737d0bab951
+carbonatix.com, 141073554, RESELLER
 castify.ai, 1279123, RESELLER
 contextweb.com, 558638, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
 conversantmedia.com, 40881, RESELLER, 03113cd04947736d
 criteo.com, B-057955, RESELLER, 9fac4a4a87c2a44f
-dauup.com, 34103, RESELLER
+dauup.com, 34103, RESELLER, 4daba13e2b0dfd92
 e-planning.net, 608359bb987625b2, RESELLER, c1ba615865ed87b2
 eskimi.com, 2020000030, RESELLER
-freewheel.tv, 1606620, RESELLER, 74e8e47458f74754
-freewheel.tv, 1606633, RESELLER, 74e8e47458f74754
+freewheel.tv, 1599106, RESELLER, 74e8e47458f74754
+freewheel.tv, 1599109, RESELLER, 74e8e47458f74754
 fromthetop.io, 65529, RESELLER
 gamaigroup.com, 320201, RESELLER
 growintech.co, 102275, RESELLER, 9d8dfe5c6b00fb37
+growzee.io, cd9d1950-1f84-4645-80f4-bdbaa23548a0, RESELLER
+iion.io, 10171, RESELLER, 013a29748465dc57
 iqzone.com, IQ87, RESELLER, 60d26397ec060f98
 jio.com, 1547219295, RESELLER
 keenkale.com, 841, RESELLER, 6c1c00b269ccdfa4
 lemmatechnologies.com, 89, RESELLER, 7829010c5bebd1fb
 lijit.com, 481366, RESELLER, fafdf38b16bf6b2b
-lijit.com, 500520, RESELLER, fafdf38b16bf6b2b
 lijit.com, 502742, RESELLER, fafdf38b16bf6b2b
-lijit.com, 511365, RESELLER, fafdf38b16bf6b2b
 loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11605, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 9724, RESELLER, 6c8d5f95897a5a3b
 lunamedia.io, b82743ba2ddf4bcaab3d1d4f91b1330e, RESELLER, 524ecb396915caaf
-magicmedia.ae, 6f828808, RESELLER
 markappmedia.site, 587286, RESELLER
 mars.media, 1010450, RESELLER, 8624339f102fb076
 mintegral.com, 10003, RESELLER, 0aeed750c80d6423
+mobismarter.com, 3294, RESELLER
 onetag.com, 59aa7be4921bac8, RESELLER, 0bfd66d529a55807
-onetag.com, 8d4bbebb8fa701e, DIRECT, 0bfd66d529a55807
 onlinemediasolutions.com, 29556, RESELLER, b3868b187e4b6402
+openx.com, 539214772, RESELLER, 6a698e2ec38604c6
 openx.com, 540298543, RESELLER, 6a698e2ec38604c6
 opera.com, pub6871903319744, RESELLER, 55a0c5fd61378de3
 orangeclickmedia.com, C-1034, RESELLER
@@ -96,20 +95,21 @@ se7en.es, 212430, RESELLER, 064bc410192443d8
 sharethrough.com, DQQogebZ, RESELLER, d53b998a7bd4ecd2
 smartadserver.com, 3232, RESELLER, 060d053dcf45cbf3
 smartyads.com, 478, RESELLER, fd2bde0ff2e62c5d
+sonobi.com, 45dd948092, RESELLER, d1a215d9eb5aee9e
 ssp.e-volution.ai, AJxF6R378a9M6CaTvK, RESELLER
+theaudiencestreet.com, TAS-703, RESELLER
 thebrave.io, 1234568, RESELLER, c25b2154543746ac
 themediagrid.com, JAZ4RI, RESELLER, 35d5010d7789b49d
+themediasense.com, 1147, RESELLER
 thunder-monetize.com, 3905806597, RESELLER
 tredio.io, 357a6fdf7642bf815a88822c447d9dc432901, RESELLER
 verve.com, 5897, RESELLER, 0c8f5958fc2d6270
 video.unrulymedia.com, 188404962, RESELLER
 video.unrulymedia.com, 322585001, RESELLER
-video.unrulymedia.com, 436487936, RESELLER
 video.unrulymedia.com, 764922532, RESELLER
 videoheroes.tv, 212430, RESELLER, 064bc410192443d8
 voisetech.com, 1023, RESELLER
 waardex.com, 99236, RESELLER
 yeahmobi.com, 5135082, RESELLER
-yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 zmaticoo.com, 113149, RESELLER
 zmaticoo.com, 5135082, RESELLER
