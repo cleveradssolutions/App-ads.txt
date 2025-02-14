@@ -1,0 +1,16 @@
+adops.gr, 76e3c352bbf00ed40a2f122da22e607d, direct
+orangeclickmedia.com, C-1290, direct
+markappmedia.site, C-1290, direct
+appnexus.com, 14416, reseller
+adform.com, 3215, reseller
+appnexus.com, 14808, reseller
+openx.com, 540861995, direct, 6a698e2ec38604c6
+openx.com, 558237126, direct, 6a698e2ec38604c6
+smartadserver.com, 3172, reseller, 060d053dcf45cbf3
+Sharethrough.com, voRCbaYL, reseller
+video.unrulymedia.com, 6111915185540403805, reseller
+rubiconproject.com, 20086, reseller, 0bfd66d529a5
+adform.com, 2904, reseller
+themediagrid.com, RVQDTI, direct, 35d5010d7789b49d
+pubmatic.com, 161853, reseller, 5d62403b186f2ace
+lijit.com, 240095, direct, fafdf38b16bf6b2b
