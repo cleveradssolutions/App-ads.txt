@@ -44,7 +44,7 @@ conversantmedia.com, 100634, RESELLER, 03113cd04947736d
 conversantmedia.com, 100651, RESELLER, 03113cd04947736d
 conversantmedia.com, 100664, RESELLER, 03113cd04947736d
 conversantmedia.com, 34975, RESELLER, 03113cd04947736d
-conversantmedia.com, 41784, RESELLER, 03113cd04947736d
+conversantmedia.com, 41784, DIRECT, 03113cd04947736d
 criteo.com, B-060555, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-066057, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-067384, RESELLER, 9fac4a4a87c2a44f
@@ -86,7 +86,7 @@ iqzone.com, IQ135, RESELLER, 60d26397ec060f98
 jungroup.com, 27570864242, DIRECT, 79540da20c07237e
 krushmedia.com, AJxF6R490a9M6CaTvK, RESELLER
 leanback.digital, 567824, RESELLER, b1d30350acaf0176
-lijit.com, 245697, RESELLER, fafdf38b16bf6b2b
+lijit.com, 245697, DIRECT, fafdf38b16bf6b2b
 lijit.com, 271355, RESELLER, fafdf38b16bf6b2b
 lijit.com, 473316, RESELLER, fafdf38b16bf6b2b
 lijit.com, 489963, RESELLER, fafdf38b16bf6b2b
@@ -103,7 +103,7 @@ mars.media, 1074539, RESELLER, 8624339f102fb076
 media.net, 8CU1PSQOS, RESELLER
 media.net, 8CU47U85L, RESELLER
 media.net, 8CUL4N1JW, RESELLER
-media.net, 8CUT87EOU, RESELLER
+media.net, 8CUT87EOU, DIRECT
 mediaverse.ai, 302189174, RESELLER
 onetag.com, 7d9af0b85b5070e, RESELLER
 onetag.com, 89211985ede1484, RESELLER
