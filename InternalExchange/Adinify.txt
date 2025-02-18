@@ -67,4 +67,6 @@ pixelpluses.com, 204174, RESELLER
 taurusx.com, 70630, DIRECT
 smaato.com, 1100058407, DIRECT, 07bcf65f187117b4
 smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
-
+d-sail.com, ds0381, DIRECT
+google.com, pub-2205121062140812, RESELLER, f08c47fec0942fa0
+adingo.jp, 30201, RESELLER
