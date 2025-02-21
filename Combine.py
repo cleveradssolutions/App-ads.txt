@@ -238,6 +238,7 @@ class Inventory:
                 if self.source == other.source:
                     print("   Only DIRECT lines are added.")
                     other.type = 'DIRECT'
+                    self.type = 'DIRECT'
                 else:
                     inputMessage = "   Enter 'D' - to add DIRRECT or 'R' - to add RESELLER: "
                     while True:
@@ -248,9 +249,11 @@ class Inventory:
 
                         if userSelect.lower() == 'd':
                             other.type = 'DIRECT'
+                            self.type = 'DIRECT'
                             break
                         elif userSelect.lower() == 'r':
                             other.type = 'RESELLER'
+                            self.type = 'RESELLER'
                             break
                         else:
                             print("   Invalid input value")
