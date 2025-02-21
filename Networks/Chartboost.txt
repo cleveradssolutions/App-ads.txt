@@ -672,7 +672,7 @@ zetaglobal.net, 626, RESELLER
 zetaglobal.net, 681, RESELLER
 zetaglobal.net, 815, RESELLER
 zetaglobal.net, 856, RESELLER
-zetaglobal.net, 891, RESELLER
+zetaglobal.net, 891, DIRECT
 zetaglobal.net, 939, RESELLER
 zmaticoo.com, 5135063, RESELLER
 zmaticoo.com, 5135302, RESELLER
