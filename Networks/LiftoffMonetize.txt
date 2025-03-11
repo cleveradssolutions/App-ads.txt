@@ -1,7 +1,9 @@
-#=== LiftoffMonetize Feb 21, 2025
+#=== LiftoffMonetize Mar 11, 2025
 vungle.com, 5730c2af2270cba25f000066, DIRECT, c107d686becd2d77
 vungle.com, 5c657afed9e6e60012bab5d9, DIRECT, c107d686becd2d77
 33across.com, 0015a00002egvRSAAY, RESELLER, bbea06d9c4d2853c
+acexchange.co.kr, 1317287336, RESELLER
+acexchange.co.kr, 1854269911, RESELLER
 adelement.com, 30208, RESELLER
 adform.com, 2742, RESELLER, 9f5210a2f0999e32
 adform.com, 3083, RESELLER, 9f5210a2f0999e32
@@ -23,6 +25,7 @@ advlion.com, 3117, RESELLER
 adyoulike.com, 78afbc34fac571736717317117dfa247, RESELLER, 4ad745ead2958bf7
 adyoulike.com, 994b7b4e03898048761c7110f11e56c2, RESELLER, 4ad745ead2958bf7
 adyoulike.com, e48120b055ac0abcc41c0093bf3fe02e, RESELLER, 4ad745ead2958bf7
+adyoulike.com, f78b24039641337f06634ab9a3da4b48, RESELLER, 4ad745ead2958bf7
 aniview.com, 603f65a2e291680ef30af9c7, RESELLER, 78b21b97965ec3f8
 app-stock.com, 343264, RESELLER, ed8c126ea5971415
 appnexus.com, 11826, RESELLER, f5ab79cb980f11d1
@@ -37,6 +40,7 @@ appnexus.com, 4052, RESELLER, f5ab79cb980f11d1
 appnexus.com, 7351, RESELLER, f5ab79cb980f11d1
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
 appnexus.com, 9316, RESELLER, f5ab79cb980f11d1
+appsheep.com, 3a930d9b024c457d966d480b3421e3dd, RESELLER
 aralego.com, par-AA7B236BA32DD484C838E249362437B8, RESELLER
 aralego.com, par-D2346AAB7ABD36B4CDD7BBD264BA92E2, RESELLER
 aralego.com, par-E2B3A33EAA4286BEF7ADD9AA28A922D2, RESELLER
@@ -47,7 +51,10 @@ betweendigital.com, 43860, RESELLER
 betweendigital.com, 44098, RESELLER
 betweendigital.com, 44917, RESELLER
 betweendigital.com, 45270, RESELLER
+betweendigital.com, 45656, RESELLER
+bid-matrix.com, 7a33a9718c7ee898, RESELLER
 bidease.com, bidease_seller_31, RESELLER
+bidence.com, b8932c93bf4123ee6d969796302a037c, RESELLER
 bidence.com, d35302328a4b1f129d376f9c2932b0b7, RESELLER
 blueseasx.com, 203592, RESELLER, 7998eac5087f6110
 caerulus.io, 3320-72775, RESELLER
@@ -97,6 +104,10 @@ improvedigital.com, 2505, RESELLER
 improvedigital.com, 2508, RESELLER
 improvedigital.com, 2509, RESELLER
 improvedigital.com, 2525, RESELLER
+improvedigital.com, 2527, RESELLER
+improvedigital.com, 2528, RESELLER
+improvedigital.com, 2529, RESELLER
+improvedigital.com, 2530, RESELLER
 inmobi.com, 12a9a79d60214a40a444a6103b81747c, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 22e5354e453f49348325184e25464adb, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 23800006c42e4a739966c05ca0ac4854, RESELLER, 83e75a7ae333ca9d
@@ -139,12 +150,15 @@ mars.media, 1010422, RESELLER, 8624339f102fb076
 mars.media, 107876, RESELLER, 8624339f102fb076
 media.net, 8CU12AQ1Y, RESELLER
 media.net, 8CU9B72O6, RESELLER
+media.net, 8CUI89K0D, RESELLER
 media.net, 8CUN37DCC, RESELLER
 media.net, 8CUP1N1F2, RESELLER
 meitu.com, 755, RESELLER
 mintegral.com, 10026, RESELLER, 0aeed750c80d6423
 mintegral.com, 10030, RESELLER, 0aeed750c80d6423
 mman.kr, 30769, RESELLER
+mman.kr, 33085, RESELLER
+mman.kr, 33476, RESELLER
 mobupps.com, c74d97b01eae257e44aa9d5bade97baf32954, RESELLER
 mobupps.com, c74d97b01eae257e44aa9d5bade97baf7726, RESELLER
 onairglobal.com, 4357629, RESELLER
@@ -210,6 +224,7 @@ pubmatic.com, 161162, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161267, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161372, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161748, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162161, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162223, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162974, RESELLER, 5d62403b186f2ace
@@ -267,6 +282,7 @@ rubiconproject.com, 24448, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24600, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24752, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 25386, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 25686, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 25872, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 25978, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26064, RESELLER, 0bfd66d529a55807
@@ -334,6 +350,7 @@ ssp.zetaglobal.net, 815, RESELLER
 start.io, 162328800, RESELLER
 target.my.com, 8676470, RESELLER
 targetspot.com, 297, RESELLER, feb28ed826dcf532
+taurusx.com, 80066, RESELLER
 taurusx.com, 80609, RESELLER
 thebrave.io, 1234632, RESELLER, c25b2154543746ac
 thebrave.io, 1234633, RESELLER, c25b2154543746ac

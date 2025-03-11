@@ -239,6 +239,12 @@ class Inventory:
                     print("   Only DIRECT lines are added.")
                     other.type = 'DIRECT'
                     self.type = 'DIRECT'
+                elif self.source == 'TempUpdate.txt':
+                    print("   Only " + self.type + " lines are added.")
+                    other.type = self.type
+                elif other.source == 'TempUpdate.txt':
+                    print("   Only " + other.type + " lines are added.")
+                    self.type = other.type
                 else:
                     inputMessage = "   Enter 'D' - to add DIRRECT or 'R' - to add RESELLER: "
                     while True:
