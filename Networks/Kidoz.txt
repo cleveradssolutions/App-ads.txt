@@ -1,21 +1,26 @@
-#=== Kidoz Jan 03, 2025
+#=== Kidoz Mar 11, 2025
 kidoz.net, 11645, DIRECT, a109366414b7335e
+kidoz.net, 14260, RESELLER, a109366414b7335e
+kidoz.net, 15127, RESELLER, a109366414b7335e
+adform.com, 2919, RESELLER, 9f5210a2f0999e32
 appnexus.com, 11826, RESELLER, f5ab79cb980f11d1
 appnexus.com, 14230, RESELLER, f5ab79cb980f11d1
 freewheel.tv, 196129, RESELLER, 74e8e47458f74754
 freewheel.tv, 196145, RESELLER, 74e8e47458f74754
 google.com, pub-1386280613967939, RESELLER, f08c47fec0942fa0
 google.com, pub-2923085774557613, RESELLER, f08c47fec0942fa0
-google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa0
+google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa1
 hoopladigital.co.uk, 5046738227, RESELLER
 improvedigital.com, 1604, RESELLER
 improvedigital.com, 2052, RESELLER
-kidoz.net, 14260, RESELLER, a109366414b7335e
-kidoz.net, 15127, RESELLER, a109366414b7335e
+kidoz.net, 15467, RESELLER, a109366414b7335e
+kidoz.net, 15504, RESELLER, a109366414b7335e
 playwire.com, 1018531, RESELLER
 playwire.com, 1025000, RESELLER
+prado.co, 15504, DIRECT
 prado.co, 14260, RESELLER
 prado.co, 15127, RESELLER
+pubmatic.com, 157288, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159234, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160552, RESELLER, 5d62403b186f2ace
@@ -23,11 +28,13 @@ pubmatic.com, 165438, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 12556, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 13762, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 18202, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20598, RESELLER, 0bfd66d529a55807
+selectmedia.asia, 645b5a31e427dc0b8704cfbc, RESELLER, e365c871a27c655d
 smartclip.net, 13564, RESELLER
 telaria.com, 1deq6-zt59a, RESELLER, 1a4e959a1b50034a
 tremorhub.com, 1deq6-zt59a, RESELLER, 1a4e959a1b50034a
-venatusmedia.com, 607eedde9ada6778be32cfbb, RESELLER
-venatusmedia.com, 607eeeb6a1ede81658152b4f, RESELLER
+video.unrulymedia.com, 2022906034, DIRECT
+video.unrulymedia.com, 5127265468568773826, RESELLER
 video.unrulymedia.com, 755432070, RESELLER
 visoon.de, 64393, RESELLER
 xandr.com, 12548, RESELLER, f5ab79cb980f11d1
