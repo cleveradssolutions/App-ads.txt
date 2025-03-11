@@ -30,3 +30,4 @@ video.unrulymedia.com, 124775993, RESELLER
 vidoomy.com, 5498575, RESELLER
 xandr.com, 13167, RESELLER, f5ab79cb980f11d1
 xandr.com, 7847, RESELLER, f5ab79cb980f11d1
+conversantmedia.com, 100872, RESELLER, 03113cd04947736d
