@@ -1,0 +1,10 @@
+mangomob.net, 5z2x1c9v4b, DIRECT
+pubmatic.com, 163122, RESELLER
+openx.com, 561436865, DIRECT, 6a698e2ec38604c6
+openx.com, 561436865, RESELLER, 6a698e2ec38604c6
+video.unrulymedia.com, 572829891, RESELLER
+loopme.com, 11716, RESELLER, 6c8d5f95897a5a3b
+smaato.com, 1100058368, RESELLER, 07bcf65f187117b4
+start.io, mgr, RESELLER
+bidscube.com, 500119, RESELLER
+programmaticx.ai, 5056823, RESELLER, b42d42eb28400efa
