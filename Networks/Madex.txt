@@ -22,3 +22,13 @@ vistarsagency.com, cs8h2ksujksc73aofdh0, RESELLER, 8db795910158017c
 yabbi.me, 2d576ffe-e44c-494f-95ed-f0ff3a07f9b8, DIRECT
 yeahmobi.com, 5135296, RESELLER
 zmaticoo.com, 5135759, RESELLER
+rubiconproject.com, 15044, RESELLER, 0bfd66d529a55807
+ergadx.com, 4776, DIRECT
+rubiconproject.com, 23102, RESELLER, 0bfd66d529a55807
+Pubmatic.com, 160881, RESELLER, 5d62403b186f2ace
+smartadserver.com, 4543, RESELLER, 060d053dcf45cbf3
+toponad.com,16740668176554,RESELLER,1d49fe424a1a456d
+conversantmedia.com, 100569, RESELLER, 03113cd04947736d
+lijit.com, 528054, RESELLER, fafdf38b16bf6b2b
+openx.com, 561446248, RESELLER, 6a698e2ec38604c6
+bidmachine.io,896,RESELLER
