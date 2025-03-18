@@ -1,4 +1,4 @@
-#=== Aceex Nov 11, 2024
+#=== Aceex Mar 18, 2025
 aceex.io, 1608, DIRECT, b1cf3c874d5c6682
 152media.info, 152M238, RESELLER
 152media.info, 152M890, RESELLER
@@ -7,6 +7,7 @@ amxrtb.com, 105199642, DIRECT
 appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
 appnexus.com, 7582, RESELLER, f5ab79cb980f11d1
 brightcom.com, 73523, RESELLER
+conversantmedia.com, 100872, RESELLER, 03113cd04947736d
 criteo.com, B-071797, RESELLER, 9fac4a4a87c2a44f
 freewheel.tv, 1608199, RESELLER, 74e8e47458f74754
 fromthetop.io, 65407, DIRECT

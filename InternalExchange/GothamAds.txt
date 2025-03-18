@@ -1,18 +1,17 @@
-#=== GothamAds Feb 21, 2025
-intenziq.co, 200139, DIRECT
+#=== GothamAds Mar 18, 2025
+intenze.co, 200139, DIRECT
 152media.info, 152M968, RESELLER
+adform.com, 3268, RESELLER, 9f5210a2f0999e32
+adsinteractive.com, 69996, RESELLER
 appads.in, 108501, RESELLER
-appnexus.com, 7582, RESELLER, f5ab79cb980f11d1
 conversantmedia.com, 100275, DIRECT, 03113cd04947736d
-freewheel.tv, 1608200, RESELLER, 74e8e47458f74754
 freewheel.tv, 1608319, RESELLER, 74e8e47458f74754
 freewheel.tv, 1608328, RESELLER, 74e8e47458f74754
+improvedigital.com, 2541, RESELLER
 lijit.com, 420355, RESELLER, fafdf38b16bf6b2b
 onetag.com, 8cc07948e3ea93c, DIRECT, 0bfd66d529a55807
 pokkt.com, 8501, RESELLER, c45702d9311e25fd
-pubmatic.com, 160628, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 15854, RESELLER, 0bfd66d529a55807
-snack-media.com, SNM_4352, DIRECT
-triplelift.com, 7613, RESELLER, 6c33edb13117fd86
+ucfunnel.com, par-E2B43B6262396767C7248E623A98A6E3, RESELLER
 yeahmobi.com, 5135080, DIRECT
 zmaticoo.com, 5135080, DIRECT
