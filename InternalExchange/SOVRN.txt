@@ -1,7 +1,9 @@
-#=== MangoX Mar 18, 2025
-mangomob.net, 5z2x1c9v4b, DIRECT
+#=== SOVRN Mar 18, 2025
+lijit.com, 547665, DIRECT, fafdf38b16bf6b2b
+lijit.com, 547665-eb, DIRECT, fafdf38b16bf6b2b
 bidscube.com, 500119, RESELLER, 6ecc87a1e0269657
 loopme.com, 11716, RESELLER, 6c8d5f95897a5a3b
+mangomob.net, 5z2x1c9v4b, DIRECT
 openx.com, 561436865, DIRECT, 6a698e2ec38604c6
 programmaticx.ai, 5056823, RESELLER, b42d42eb28400efa
 pubmatic.com, 163122, RESELLER, 5d62403b186f2ace
