@@ -31,3 +31,15 @@ video.unrulymedia.com, 124775993, RESELLER
 vidoomy.com, 5498575, RESELLER
 xandr.com, 13167, RESELLER, f5ab79cb980f11d1
 xandr.com, 7847, RESELLER, f5ab79cb980f11d1
+adagio.io, 1509, RESELLER
+rubiconproject.com, 19116, RESELLER, 0bfd66d529a55807
+pubmatic.com, 159110, RESELLER, 5d62403b186f2ace
+improvedigital.com, 1790, RESELLER
+freewheel.tv, 1568036, RESELLER
+freewheel.tv, 1568041, RESELLER
+onetag.com, 6b859b96c564fbe, RESELLER
+smartadserver.com, 3554, RESELLER
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
+sharethrough.com, OAW69Fon, RESELLER, d53b998a7bd4ecd2
+openx.com, 558899373, RESELLER, 6a698e2ec38604c6
+triplelift.com, 13482, RESELLER, 6c33edb13117fd86
