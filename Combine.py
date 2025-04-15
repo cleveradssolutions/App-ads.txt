@@ -59,17 +59,20 @@ _SOURCES_CAS = [
     "KrushMedia",
     "Kueez",
     "LoopMe",
+    "Mangomob",
     "MangoX",
     "Mobfox",
     "Monetizgo",
     "OCM",
+    "OpenWeb",
     "Pubmatic",
     "RTBHouse",
     "SmartyAds",
     "SOVRN",
     "Tappx",
     "TheGermaneMedia",
-    "Waardex"
+    "Waardex",
+    "Zmaticoo"
 ]
 _SOURCE_DSP = [
     "A4G",
@@ -77,6 +80,8 @@ _SOURCE_DSP = [
     "Potensus",
     "ReklamUp",
     "QT",
+    "AdPixis",
+    "PremiumAds",
 ]
 _SOURCE_IN_GAMES = [
     "AdInMo",

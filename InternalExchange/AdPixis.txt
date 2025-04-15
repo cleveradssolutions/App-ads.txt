@@ -1,0 +1,7 @@
+#=== AdPixis Mar 24, 2025
+adpixis.com, 1009, DIRECT
+adster.tech, 1009, DIRECT
+google.com, pub-9989685810655749, RESELLER, f08c47fec0942fa0
+inmobi.com, 1e3bbb89cc344ba784515ed0d153e966, RESELLER, 83e75a7ae333ca9d
+rubiconproject.com, 27264, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 27266, RESELLER, 0bfd66d529a55807
