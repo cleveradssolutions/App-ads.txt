@@ -9,7 +9,7 @@ freewheel.tv, 196129, RESELLER, 74e8e47458f74754
 freewheel.tv, 196145, RESELLER, 74e8e47458f74754
 google.com, pub-1386280613967939, RESELLER, f08c47fec0942fa0
 google.com, pub-2923085774557613, RESELLER, f08c47fec0942fa0
-google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa1
+google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa0
 hoopladigital.co.uk, 5046738227, RESELLER
 improvedigital.com, 1604, RESELLER
 improvedigital.com, 2052, RESELLER
