@@ -9,3 +9,10 @@ rubiconproject.com, 17974, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26184, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26270, RESELLER, 0bfd66d529a55807
 video.unrulymedia.com, 8167205979129043832, DIRECT
+lijit.com, 541964, RESELLER, fafdf38b16bf6b2b #SOVRN
+e-planning.net, 393519737956f8ae, RESELLER, c1ba615865ed87b2
+152media.info, 152M1035, RESELLER
+video.unrulymedia.com, 8167205979129043832, RESELLER
+insticator.com,8a53625f-1fc2-470f-981c-976a6a304bb5, RESELLER, b3511ffcafb23a32
+oko.uk,8a53625f-1fc2-470f-981c-976a6a304bb5, RESELLER, b3511ffcafb23a32
+rubiconproject.com, 17974, RESELLER, 0bfd66d529a55807
