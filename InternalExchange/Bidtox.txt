@@ -1,5 +1,6 @@
-bidtox.com,37884,DIRECT
-bidtox.com,37894,DIRECT
-openx.com,561436793,RESELLER,6a698e2ec38604c6
-tradplusad.com,47f19dc32c56ff5e,RESELLER
-tradplusad.com,8b44f55cf6f67297,DIRECT
+#=== Bidtox Apr 30, 2025
+bidtox.com, 37884, DIRECT
+bidtox.com, 37894, DIRECT
+openx.com, 561436793, RESELLER, 6a698e2ec38604c6
+tradplusad.com, 8b44f55cf6f67297, DIRECT
+tradplusad.com, 47f19dc32c56ff5e, RESELLER
