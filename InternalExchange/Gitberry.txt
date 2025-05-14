@@ -26,3 +26,4 @@ tubia.com, 40114, RESELLER
 video.unrulymedia.com, 649652654350370180, RESELLER
 xandr.com, 15278, RESELLER, f5ab79cb980f11d1
 xandr.com, 15507, RESELLER, f5ab79cb980f11d1
+opera.com,pub12998959884416,RESELLER,55a0c5fd61378de3
