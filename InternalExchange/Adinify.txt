@@ -3,7 +3,7 @@ adinify.com, v373678, DIRECT
 152media.info, 152M398, RESELLER
 152media.info, 152M698, RESELLER
 33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
-adform.com, 3035, DIRECT, 9f5210a2f0999e32
+adform.com, 3035, RESELLER, 9f5210a2f0999e32
 adform.com, 2795, RESELLER, 9f5210a2f0999e32
 adipolo.com, 22844400545, DIRECT
 adipolosolutions.com, 22844400545, DIRECT
@@ -64,8 +64,8 @@ media.net, 8CU897KMC, DIRECT
 media.net, 8CUIUMTP7, DIRECT
 mgid.com, 833178, DIRECT, d4c29acad76ce94f
 nobid.io, 120605, DIRECT
-onetag.com, 61d88450bdb25bc, DIRECT, 0bfd66d529a55807
-onetag.com, 61d88450bdb25bc-OB, DIRECT, 0bfd66d529a55807
+onetag.com, 61d88450bdb25bc, RESELLER, 0bfd66d529a55807
+onetag.com, 61d88450bdb25bc-OB, RESELLER, 0bfd66d529a55807
 onetag.com, 79c9089f60042c0, DIRECT, 0bfd66d529a55807
 onetag.com, 79c9089f60042c0-OB, DIRECT, 0bfd66d529a55807
 opamarketplace.com, 22844400545, DIRECT
@@ -89,7 +89,7 @@ rhythmone.com, 2188085156, DIRECT, a670c89d4a324e47
 rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47
 rhythmone.com, 3736557092, RESELLER, a670c89d4a324e47
 rubiconproject.com, 12186, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 15268, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 15268, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 23564, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 23566, RESELLER, 0bfd66d529a55807
@@ -100,7 +100,7 @@ sharethrough.com, 62beb9db, DIRECT, d53b998a7bd4ecd2
 sharethrough.com, C8qqWCf0, DIRECT, d53b998a7bd4ecd2
 sharethrough.com, izM1hGJl, DIRECT, d53b998a7bd4ecd2
 singularads.com, 895023, RESELLER
-smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
+smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
 smaato.com, 1100058407, DIRECT, 07bcf65f187117b4
 smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
 smartadserver.com, 3447, DIRECT, 060d053dcf45cbf3
@@ -117,7 +117,7 @@ spotxchange.com, 285547, RESELLER, 7842df1d2fe2db34
 ssp.logan.ai, LG8, RESELLER
 taurusx.com, 70630, DIRECT
 themediagrid.com, DI2GUZ, DIRECT, 35d5010d7789b49d
-themediagrid.com, DJQVCM, DIRECT, 35d5010d7789b49d
+themediagrid.com, DJQVCM, RESELLER, 35d5010d7789b49d
 themediagrid.com, QDC97I, DIRECT, 35d5010d7789b49d
 triplelift.com, 8446, RESELLER, 6c33edb13117fd86
 triplelift.com, 9029, RESELLER, 6c33edb13117fd86
@@ -133,4 +133,4 @@ xandr.com, 12701, DIRECT, f5ab79cb980f11d1
 yahoo.com, 55771, RESELLER, e1a5b5b6e3255540
 yahoo.com, 57992, RESELLER, e1a5b5b6e3255540
 zeta.com, 891, DIRECT
-zetaglobal.net, 891, DIRECT
+zetaglobal.net, 891, RESELLER

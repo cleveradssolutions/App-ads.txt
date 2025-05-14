@@ -13,6 +13,8 @@ _TEMP_FILE = "TempUpdate.txt"
 _ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 _NETS_DIR_NAME = "Networks"
 _DSP_DIR_NAME = "InternalExchange"
+_TYPE_DIRECT = 'DIRECT'
+_TYPE_RESELLER = 'RESELLER'
 
 _SOURCES = [
     "GoogleAds",
@@ -68,6 +70,7 @@ _SOURCES_CAS = [
     "OpenWeb",
     "Pubmatic",
     "RTBHouse",
+    "Screencore",
     "SmartyAds",
     "SOVRN",
     "Tappx",
@@ -193,9 +196,9 @@ class Inventory:
                 return
 
         self.type = pattern[2].split('#')[0].strip().upper()
-        if self.type != 'RESELLER' and self.type != 'DIRECT':
+        if self.type != _TYPE_RESELLER and self.type != _TYPE_DIRECT:
             fatal_error("Invalid pattern in " + source +
-                        ". Must be RESELLER or DIRECT only.", line)
+                        ". Must be " + _TYPE_RESELLER + " or " + _TYPE_DIRECT + " only.", line)
 
         self.identifier = pattern[1].strip()
         if not re.match(_ID_PATTERN, self.identifier):
@@ -244,9 +247,9 @@ class Inventory:
                 print("   " + other.to_line().strip())
 
                 if self.source == other.source:
-                    print("   Only DIRECT lines are added.")
-                    other.type = 'DIRECT'
-                    self.type = 'DIRECT'
+                    print("   Only " + _TYPE_DIRECT + " lines are added.")
+                    other.type = _TYPE_DIRECT
+                    self.type = _TYPE_DIRECT
                 elif self.source == 'TempUpdate.txt':
                     print("   Only " + self.type + " lines are added.")
                     other.type = self.type
@@ -262,12 +265,12 @@ class Inventory:
                             userSelect = input(inputMessage)
 
                         if userSelect.lower() == 'd':
-                            other.type = 'DIRECT'
-                            self.type = 'DIRECT'
+                            other.type = _TYPE_DIRECT
+                            self.type = _TYPE_DIRECT
                             break
                         elif userSelect.lower() == 'r':
-                            other.type = 'RESELLER'
-                            self.type = 'RESELLER'
+                            other.type = _TYPE_RESELLER
+                            self.type = _TYPE_RESELLER
                             break
                         else:
                             print("   Invalid input value")
@@ -307,7 +310,7 @@ class Inventory:
         result = self.domain + ', ' + self.identifier + ', ' + self.type
         if self.certification:
             result += ', ' + self.certification
-        elif fillCertificate and self.domain in certificateMap and certificateMap[self.domain]:
+        elif fillCertificate and self.type != _TYPE_DIRECT and self.domain in certificateMap and certificateMap[self.domain]:
             result += ', ' + certificateMap[self.domain]
         return result + '\n'
 

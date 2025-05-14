@@ -471,7 +471,7 @@ sharethrough.com, iBAzay96, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, j0nru1gr, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, z4z8ek6m, RESELLER, d53b998a7bd4ecd2
 singularads.com, 225023, RESELLER
-smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
+smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
 smaato.com, 1100048585, DIRECT, 07bcf65f187117b4
 smaato.com, 1100049216, DIRECT, 07bcf65f187117b4
 smaato.com, 1100055690, DIRECT, 07bcf65f187117b4
