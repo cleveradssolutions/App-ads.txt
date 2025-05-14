@@ -1,4 +1,4 @@
-#=== IronSource Apr 30, 2025
+#=== IronSource May 14, 2025
 ironsrc.com, 218335, DIRECT
 ironsrc.com, 406326, DIRECT
 ironsrc.com, 445197, DIRECT
@@ -188,7 +188,7 @@ stroeer.com, 17379, RESELLER
 taurusx.com, 80070, RESELLER
 thebrave.io, 1234633, RESELLER, c25b2154543746ac
 thebrave.io, 1234648, RESELLER, c25b2154543746ac
-thebrave.io, 1234764, DIRECT, c25b2154543746ac
+thebrave.io, 1234764, RESELLER, c25b2154543746ac
 themediagrid.com, FALINO, DIRECT, 35d5010d7789b49d
 themediagrid.com, A6CWLO, RESELLER, 35d5010d7789b49d
 themediagrid.com, A8X5S7, RESELLER, 35d5010d7789b49d
@@ -230,5 +230,6 @@ yabbi.me, 675d9254-4032-47ed-9074-b6ef4dbab522, RESELLER
 yeahmobi.com, 5135347, RESELLER
 yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 zetaglobal.net, 815, RESELLER
+zmaticoo.com, 5135195, RESELLER
 zmaticoo.com, 5135347, RESELLER
 zmaticoo.com, 5135703, RESELLER

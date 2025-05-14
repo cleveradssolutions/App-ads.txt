@@ -1,4 +1,4 @@
-#=== LiftoffMonetize Apr 30, 2025
+#=== LiftoffMonetize May 14, 2025
 vungle.com, 5730c2af2270cba25f000066, DIRECT, c107d686becd2d77
 vungle.com, 5c657afed9e6e60012bab5d9, DIRECT, c107d686becd2d77
 acexchange.co.kr, 1317287336, RESELLER
@@ -9,6 +9,7 @@ adform.com, 2742, RESELLER, 9f5210a2f0999e32
 adform.com, 3083, RESELLER, 9f5210a2f0999e32
 adform.com, 3119, RESELLER, 9f5210a2f0999e32
 adiiix.com, 3d9335d3, RESELLER
+adiiix.com, a714bbf8, RESELLER
 adiiix.com, db716a4c, RESELLER
 adingo.jp, 31054, RESELLER
 admanmedia.com, 2248, RESELLER
@@ -47,6 +48,7 @@ appnexus.com, 7351, RESELLER, f5ab79cb980f11d1
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
 appnexus.com, 9316, RESELLER, f5ab79cb980f11d1
 appsheep.com, 3a930d9b024c457d966d480b3421e3dd, RESELLER
+aralego.com, par-9A23ADEEDB99A76804B276748E8E2434, RESELLER
 aralego.com, par-AA7B236BA32DD484C838E249362437B8, RESELLER
 aralego.com, par-D2346AAB7ABD36B4CDD7BBD264BA92E2, RESELLER
 aralego.com, par-E2B3A33EAA4286BEF7ADD9AA28A922D2, RESELLER
@@ -62,6 +64,8 @@ bid-matrix.com, 7a33a9718c7ee898, RESELLER
 bidease.com, bidease_seller_31, RESELLER
 bidence.com, b8932c93bf4123ee6d969796302a037c, RESELLER
 bidence.com, d35302328a4b1f129d376f9c2932b0b7, RESELLER
+bidmachine.io, 1064, RESELLER
+bidmachine.io, 1065, RESELLER
 blueseasx.com, 203592, RESELLER, 7998eac5087f6110
 caerulus.io, 3320-72775, RESELLER
 consumable.com, 2001585, RESELLER, aefcd3d2f45b5070
@@ -284,7 +288,7 @@ rubiconproject.com, 13132, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 13856, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 14558, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 15044, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 15268, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 15268, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 15278, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 16834, RESELLER, 0bfd66d529a55807
@@ -311,6 +315,7 @@ rubiconproject.com, 26132, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26184, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26292, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26846, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26958, RESELLER, 0bfd66d529a55807
 saharmedia.net, 1683858, RESELLER
 sharethrough.com, 4762, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 5026, RESELLER, d53b998a7bd4ecd2
@@ -322,11 +327,12 @@ sharethrough.com, UbYLkrys, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, XeKuhSkz, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, ZqrIAHsE, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, bXzzb1bR, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, wRgOcZeV, RESELLER, d53b998a7bd4ecd2
 showheroes.com, 6031, RESELLER
 showheroes.com, 6037, RESELLER
 silvermob.com, 419, RESELLER
 singularads.com, 548745, RESELLER
-smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
+smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
 smaato.com, 1100044045, RESELLER, 07bcf65f187117b4
 smaato.com, 1100049757, RESELLER, 07bcf65f187117b4
 smaato.com, 1100051149, RESELLER, 07bcf65f187117b4
@@ -397,6 +403,7 @@ triplelift.com, 12908, RESELLER, 6c33edb13117fd86
 triplelift.com, 13043, RESELLER, 6c33edb13117fd86
 trustedstack.com, TS5UCV3O4, RESELLER
 tubia.com, 40104, RESELLER
+ucfunnel.com, par-9A23ADEEDB99A76804B276748E8E2434, RESELLER
 ucfunnel.com, par-AA7B236BA32DD484C838E249362437B8, RESELLER
 ucfunnel.com, par-D2346AAB7ABD36B4CDD7BBD264BA92E2, RESELLER
 ucfunnel.com, par-E2B3A33EAA4286BEF7ADD9AA28A922D2, RESELLER
@@ -416,6 +423,7 @@ video.unrulymedia.com, 4201299756, RESELLER
 video.unrulymedia.com, 4268206200, RESELLER
 video.unrulymedia.com, 4631344382657206988, RESELLER
 video.unrulymedia.com, 475093422, RESELLER
+video.unrulymedia.com, 476748946, RESELLER
 video.unrulymedia.com, 5127265468568773826, RESELLER
 video.unrulymedia.com, 5336134699710583737, RESELLER
 video.unrulymedia.com, 557688749, RESELLER
@@ -446,7 +454,7 @@ yieldmo.com, 3761877318507634863, RESELLER, 6a92c77cfc3d2258
 zetaglobal.com, 815, RESELLER
 zetaglobal.net, 815, RESELLER
 zetaglobal.net, 998, RESELLER
-zmaticoo.com, 114490, DIRECT
+zmaticoo.com, 114490, RESELLER
 zmaticoo.com, 5135063, RESELLER
 zmaticoo.com, 5135224, RESELLER
 zoomd.com, 88478941, RESELLER

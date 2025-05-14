@@ -1,6 +1,6 @@
 #=== Smaato Aug 01, 2024
 smaato.com, 1100057426, DIRECT, 07bcf65f187117b4
-smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
+smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
 advangelists.com, 9766527f2b5d3e95d4a733fcfb77bd7e, RESELLER, 60d26397ec060f98
 appnexus.com, 1752, RESELLER, f5ab79cb980f11d1
 contextweb.com, 558622, RESELLER, 89ff185a4c4e857c
