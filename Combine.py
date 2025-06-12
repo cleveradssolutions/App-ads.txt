@@ -16,6 +16,7 @@ _DSP_DIR_NAME = "InternalExchange"
 _TYPE_DIRECT = 'DIRECT'
 _TYPE_RESELLER = 'RESELLER'
 
+
 _SOURCES = [
     "GoogleAds",
     "AudienceNetwork",
@@ -40,58 +41,20 @@ _SOURCES = [
     "StartIO",
     "Smaato",
 ]
-_SOURCES_CAS = [
-    "152Media",
-    "Aceex",
-    "Adbite",
-    "Adeclipse",
-    "Adinify",
-    "Admixer",
-    "AdsYield",
-    "Adyugo",
-    "Axis",
-    "Bidscube",
-    "Bidtox",
-    "BoldWin",
-    "Brightcom",
-    "edge226",
-    "Epom",
-    "Eskimi",
-    "Gitberry",
-    "GothamAds",
-    "KrushMedia",
-    "Kueez",
-    "LoopMe",
-    "Mangomob",
-    "MangoX",
-    "Mobfox",
-    "Monetizgo",
-    "OCM",
-    "OpenWeb",
-    "Pubmatic",
-    "RTBHouse",
-    "Screencore",
-    "SmartyAds",
-    "SOVRN",
-    "Tappx",
-    "TheGermaneMedia",
-    "Waardex",
-    "Zmaticoo"
-]
 _SOURCE_DSP = [
-    "A4G",
-    "AppBroda",
-    "Potensus",
-    "ReklamUp",
-    "QT",
-    "AdPixis",
-    "PremiumAds",
+    "A4G.txt",
+    "AppBroda.txt",
+    "Potensus.txt",
+    "ReklamUp.txt",
+    "QT.txt",
+    "AdPixis.txt",
+    "PremiumAds.txt",
 ]
 _SOURCE_IN_GAMES = [
-    "AdInMo",
-    "Gadsme",
-    "GadsmeRaw",
+    "AdInMo.txt",
+    "Gadsme.txt",
 ]
+_NOT_CAS_SOURCES = set(_SOURCE_DSP + _SOURCE_IN_GAMES + ['.DS_Store'])
 _BANS = [
     # (Reserved by Network name, Banned domain for other Networks)
     # ("AdMob", "google.com")
@@ -332,7 +295,9 @@ def release():
     totalLines = "0"
 
     update_dsp("DSPExchange", _SOURCE_DSP)
-    update_dsp("CASExchange", _SOURCES_CAS)
+    cas_sources = [f for f in os.listdir(os.path.join(_ROOT_DIR, _DSP_DIR_NAME)) 
+                   if f not in _NOT_CAS_SOURCES]
+    update_dsp("CASExchange", cas_sources)
 
     if args.games == True:
         mainFilePath = os.path.join(_ROOT_DIR, _RESULT_FOR_GAMES_FILE)
@@ -357,7 +322,7 @@ def release():
                         appAdsFile.write(inventory.to_line())
         if args.games == True:
             for source in _SOURCE_IN_GAMES:
-                with open(os.path.join(_ROOT_DIR, _DSP_DIR_NAME, source + ".txt"), 'r') as sourceFile:
+                with open(os.path.join(_ROOT_DIR, _DSP_DIR_NAME, source), 'r') as sourceFile:
                     for line in sourceFile:
                         if source.endswith('Raw'):
                             if line.strip() and not line.startswith('#'):
@@ -385,7 +350,7 @@ def release():
 def update_dsp(networkName, sourceNames):
     newInventories = set()
     for source in sourceNames:
-        with open(os.path.join(_ROOT_DIR, _DSP_DIR_NAME, source + ".txt"), 'r') as sourceFile:
+        with open(os.path.join(_ROOT_DIR, _DSP_DIR_NAME, source), 'r') as sourceFile:
             for line in sourceFile:
                 inventory = Inventory(line, source)
                 if inventory.is_empty() or inventory.is_comment():

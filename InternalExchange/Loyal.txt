@@ -1,0 +1,5 @@
+#=== Loyal Jun 12, 2025
+exchange.loyal.app, AJxF6R34a9M6CaTvK, DIRECT
+admanmedia.com, 2294, DIRECT
+pubmatic.com, 160145, RESELLER, 5d62403b186f2ace
+pubmatic.com, 165919, RESELLER, 5d62403b186f2ace
