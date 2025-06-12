@@ -1,8 +1,9 @@
-#=== LiftoffMonetize May 14, 2025
+#=== LiftoffMonetize Jun 12, 2025
 vungle.com, 5730c2af2270cba25f000066, DIRECT, c107d686becd2d77
 vungle.com, 5c657afed9e6e60012bab5d9, DIRECT, c107d686becd2d77
 acexchange.co.kr, 1317287336, RESELLER
 acexchange.co.kr, 1854269911, RESELLER
+adagio.io, 1522, RESELLER
 adelement.com, 30208, RESELLER
 adform.com, 2671, RESELLER, 9f5210a2f0999e32
 adform.com, 2742, RESELLER, 9f5210a2f0999e32
@@ -53,6 +54,7 @@ aralego.com, par-AA7B236BA32DD484C838E249362437B8, RESELLER
 aralego.com, par-D2346AAB7ABD36B4CDD7BBD264BA92E2, RESELLER
 aralego.com, par-E2B3A33EAA4286BEF7ADD9AA28A922D2, RESELLER
 azberry.com, 321006, RESELLER
+balloonlabs.ai, 3412752782, RESELLER
 bematterfull.com, 22289765, RESELLER
 betweendigital.com, 43843, RESELLER
 betweendigital.com, 43860, RESELLER
@@ -68,6 +70,7 @@ bidmachine.io, 1064, RESELLER
 bidmachine.io, 1065, RESELLER
 blueseasx.com, 203592, RESELLER, 7998eac5087f6110
 caerulus.io, 3320-72775, RESELLER
+connekt.ai, 4498663579, RESELLER
 consumable.com, 2001585, RESELLER, aefcd3d2f45b5070
 contextweb.com, 558622, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562546, RESELLER, 89ff185a4c4e857c
@@ -102,6 +105,8 @@ freewheel.tv, 1157729, RESELLER, 74e8e47458f74754
 freewheel.tv, 1157777, RESELLER, 74e8e47458f74754
 freewheel.tv, 1590601, RESELLER, 74e8e47458f74754
 freewheel.tv, 1590606, RESELLER, 74e8e47458f74754
+freewheel.tv, 1604590, RESELLER, 74e8e47458f74754
+freewheel.tv, 1604595, RESELLER, 74e8e47458f74754
 fromthetop.io, 65536, RESELLER
 gitberry.com, 405100012, RESELLER
 gitberry.com, 90scb, RESELLER
@@ -183,6 +188,7 @@ mman.kr, 33476, RESELLER
 mobupps.com, c74d97b01eae257e44aa9d5bade97baf32954, RESELLER
 mobupps.com, c74d97b01eae257e44aa9d5bade97baf7726, RESELLER
 onairglobal.com, 4357629, RESELLER
+onetag.com, 5d0d72448d8bfb0, RESELLER, 0bfd66d529a55807
 onetag.com, 8668c16092f01e8, RESELLER, 0bfd66d529a55807
 onetag.com, 8dd8de7f341d57e, RESELLER, 0bfd66d529a55807
 onlinemediasolutions.com, 20444, RESELLER, b3868b187e4b6402
@@ -257,6 +263,7 @@ pubmatic.com, 163476, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164532, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165117, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165438, RESELLER, 5d62403b186f2ace
+pubmatic.com, 165874, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165980, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166078, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166409, RESELLER, 5d62403b186f2ace
@@ -317,6 +324,8 @@ rubiconproject.com, 26292, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26846, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26958, RESELLER, 0bfd66d529a55807
 saharmedia.net, 1683858, RESELLER
+sharethrough.com, 26VgE1nN, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, 2f18331a, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 4762, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 5026, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 6qlnf8SY, RESELLER, d53b998a7bd4ecd2
@@ -385,6 +394,7 @@ target.my.com, 8676470, RESELLER
 targetspot.com, 297, RESELLER, feb28ed826dcf532
 taurusx.com, 80066, RESELLER
 taurusx.com, 80609, RESELLER
+taurusx.com, 80635, RESELLER
 thebrave.io, 1234632, RESELLER, c25b2154543746ac
 thebrave.io, 1234633, RESELLER, c25b2154543746ac
 thebrave.io, 9840732, RESELLER, c25b2154543746ac
@@ -427,6 +437,7 @@ video.unrulymedia.com, 476748946, RESELLER
 video.unrulymedia.com, 5127265468568773826, RESELLER
 video.unrulymedia.com, 5336134699710583737, RESELLER
 video.unrulymedia.com, 557688749, RESELLER
+video.unrulymedia.com, 586616193, RESELLER
 video.unrulymedia.com, 689559416, RESELLER
 video.unrulymedia.com, 755432070, RESELLER
 video.unrulymedia.com, 827123801, RESELLER

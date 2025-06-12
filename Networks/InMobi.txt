@@ -1,4 +1,4 @@
-#=== InMobi Apr 30, 2025
+#=== InMobi Jun 12, 2025
 inmobi.com, 30ff09752f2b48eb9974d28116cf9ff0, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 5abb702fde844f7cadd2090b3c7d61db, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 1e5e69fd2ff340dbb07654d0c6b826ef, RESELLER, 83e75a7ae333ca9d
@@ -24,12 +24,10 @@ adtonos.com, PUB2356156682, RESELLER
 advertising.com, 28246, RESELLER, e1a5b5b6e3255540
 algorix.co, 54190, RESELLER, 5b394c12fea27a1d
 algorix.co, 60367, RESELLER, 5b394c12fea27a1d
+apester.com, 2212, RESELLER
 app-stock.com, 315417, RESELLER, ed8c126ea5971415
 appnexus.com, 8178, RESELLER, f5ab79cb980f11d1
-bematterfull.com, 111399861, RESELLER
 blis.com, 33, RESELLER, 61453ae19a4b73f4
-bold-win.com, 148, RESELLER, 71746737d0bab951
-carbonatix.com, 141073554, RESELLER
 castify.ai, 1279123, RESELLER
 contextweb.com, 558638, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
@@ -44,8 +42,8 @@ freewheel.tv, 1599109, RESELLER, 74e8e47458f74754
 fromthetop.io, 65529, RESELLER
 gamaigroup.com, 320201, RESELLER
 growintech.co, 102275, RESELLER, 9d8dfe5c6b00fb37
+hindsightsolutions.net, HSINMOBI100000, RESELLER, 20e30b2ae1f670f2
 iion.io, 10171, RESELLER, 013a29748465dc57
-iqzone.com, IQ87, RESELLER, 60d26397ec060f98
 keenkale.com, 841, RESELLER, 6c1c00b269ccdfa4
 lemmatechnologies.com, 89, RESELLER, 7829010c5bebd1fb
 lijit.com, 481366, RESELLER, fafdf38b16bf6b2b
@@ -53,17 +51,16 @@ lijit.com, 502742, RESELLER, fafdf38b16bf6b2b
 loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 9724, RESELLER, 6c8d5f95897a5a3b
 lunamedia.io, b82743ba2ddf4bcaab3d1d4f91b1330e, RESELLER, 524ecb396915caaf
-markappmedia.site, 587286, RESELLER
 mars.media, 1010450, RESELLER, 8624339f102fb076
 mindtos.com, mt45eb5f865ce39e1b, RESELLER
 mintegral.com, 10003, RESELLER, 0aeed750c80d6423
 mman.kr, 32102, RESELLER
 mobismarter.com, 3294, RESELLER
+myfeature.tv, N1fNlXquFCVDX3gt6MJN, RESELLER
 onetag.com, 59aa7be4921bac8, RESELLER, 0bfd66d529a55807
 onlinemediasolutions.com, 29556, RESELLER, b3868b187e4b6402
 openx.com, 540298543, RESELLER, 6a698e2ec38604c6
 opera.com, pub6871903319744, RESELLER, 55a0c5fd61378de3
-orangeclickmedia.com, C-1034, RESELLER
 outbrain.com, 00bba279fec6daa01a0cb6fdccb023f0d5, RESELLER
 peak226.com, 12904, RESELLER
 playwire.com, 1025119, RESELLER
@@ -94,7 +91,6 @@ sonobi.com, 45dd948092, RESELLER, d1a215d9eb5aee9e
 spinx.biz, 1373698866, RESELLER
 ssp.e-volution.ai, AJxF6R378a9M6CaTvK, RESELLER
 thebrave.io, 1234568, RESELLER, c25b2154543746ac
-themediasense.com, 1147, RESELLER
 thunder-monetize.com, 3905806597, RESELLER
 tredio.io, 357a6fdf7642bf815a88822c447d9dc432901, RESELLER
 verve.com, 5897, RESELLER, 0c8f5958fc2d6270

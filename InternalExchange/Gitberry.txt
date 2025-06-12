@@ -1,4 +1,4 @@
-#=== Gitberry Nov 01, 2024
+#=== Gitberry Jun 12, 2025
 adform.com, 2967, RESELLER, 9f5210a2f0999e32
 appnexus.com, 12223, RESELLER, f5ab79cb980f11d1
 azberry.com, 321011, DIRECT
@@ -14,6 +14,7 @@ improvedigital.com, 1708, RESELLER
 inmobi.com, 625b6b37c3a340938a8ff02bc83b5a04, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 7c95d4a1701746dbb19cf4a9a5310111, RESELLER, 83e75a7ae333ca9d
 loopme.com, 11690, RESELLER, 6c8d5f95897a5a3b
+opera.com, pub12998959884416, RESELLER, 55a0c5fd61378de3
 pubmatic.com, 160194, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161601, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165157, RESELLER, 5d62403b186f2ace
