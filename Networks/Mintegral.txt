@@ -1,4 +1,4 @@
-#=== Mintegral Apr 15, 2025
+#=== Mintegral Jun 17, 2025
 mintegral.com, 25008, DIRECT, 0aeed750c80d6423
 mintegral.com, 52286, DIRECT, 0aeed750c80d6423
 acd.op.hicloud.com, PUB_HW_1003, RESELLER
@@ -82,6 +82,7 @@ appnexus.com, 13293, RESELLER, f5ab79cb980f11d1
 appnexus.com, 15426, RESELLER, f5ab79cb980f11d1
 appnexus.com, 15980, RESELLER, f5ab79cb980f11d1
 appnexus.com, 17044, RESELLER, f5ab79cb980f11d1
+appnexus.com, 17417, RESELLER, f5ab79cb980f11d1
 appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
 appnexus.com, 4052, RESELLER, f5ab79cb980f11d1
 appnexus.com, 6849, RESELLER, f5ab79cb980f11d1
@@ -119,6 +120,8 @@ betweendigital.com, 45117, RESELLER
 bidease.com, bidease_seller_34, RESELLER
 bidease.com, bidease_seller_46, RESELLER
 bidence.com, 4a87393d59a18d4bbfb5326c5d98051a, RESELLER
+bidmachine.io, 1064, RESELLER
+bidmachine.io, 1065, RESELLER
 bidmachine.io, 114, RESELLER
 bidmachine.io, 138, RESELLER
 bidmachine.io, 35, RESELLER
@@ -175,9 +178,6 @@ criteo.com, B-057955, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-063105, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-064322, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-070302, RESELLER, 9fac4a4a87c2a44f
-criteo.com, B-071797, RESELLER, 9fac4a4a87c2a44f
-criteo.com, B-072581, RESELLER, 9fac4a4a87c2a44f
-criteo.com, B-078794, RESELLER, 9fac4a4a87c2a44f
 districtm.io, 101649, RESELLER, 3fd707be9c4527c3
 e-planning.net, 1bf7b5d803f178c4, RESELLER, c1ba615865ed87b2
 e-planning.net, 79686787743ddfc5, RESELLER, c1ba615865ed87b2
@@ -342,7 +342,7 @@ nobid.io, 22575233870, RESELLER
 olaex.biz, 100039, RESELLER
 omnifytv.com, 05096ffe925c11eda1eb0242ac120002, RESELLER
 onairglobal.com, 4357627, RESELLER
-onetag.com, 82e44d118b79600, RESELLER, 0bfd66d529a55807
+onetag.com, 82e44d118b79600, RESELLER
 onetag.com, 59aa7be4921bac8, RESELLER, 0bfd66d529a55807
 onetag.com, 5a02ff98ba6be67, RESELLER, 0bfd66d529a55807
 onetag.com, 5d1628750185ace, RESELLER, 0bfd66d529a55807
@@ -525,6 +525,7 @@ sharethrough.com, UbYLkrys, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, g4qXILSV, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, iBAzay96, RESELLER, d53b998a7bd4ecd2
 showheroes.com, 6031, RESELLER
+showheroes.com, 6037, RESELLER
 silvermob.com, 464, RESELLER
 singularads.com, 445896, RESELLER
 singularads.com, 548745, RESELLER
@@ -593,12 +594,9 @@ taurusx.com, 80609, RESELLER
 thebrave.io, 1234585, RESELLER, c25b2154543746ac
 thebrave.io, 9840732, RESELLER, c25b2154543746ac
 themediagrid.com, NG9STC, RESELLER, 35d5010d7789b49d
-themediagrid.com, 7MYRZ3, RESELLER, 35d5010d7789b49d
 themediagrid.com, A6CWLO, RESELLER, 35d5010d7789b49d
 themediagrid.com, B8N9YH, RESELLER, 35d5010d7789b49d
-themediagrid.com, GZC9B8, RESELLER, 35d5010d7789b49d
 themediagrid.com, R28I9J, RESELLER, 35d5010d7789b49d
-themediagrid.com, SH96GF, RESELLER, 35d5010d7789b49d
 thunder-monetize.com, 1125520627, RESELLER
 thunder-monetize.com, 1257832012, RESELLER
 thunder-monetize.com, 1723306631, RESELLER
@@ -664,6 +662,7 @@ ucfunnel.com, par-D2346AAB7ABD36B4CDD7BBD264BA92E2, RESELLER
 ucfunnel.com, par-E2B2BB3E89BE87A2F774B768BEED62A2, RESELLER
 ucfunnel.com, par-E2B3A33EAA4286BEF7ADD9AA28A922D2, RESELLER
 uis.mobfox.com, 2206, RESELLER, 5529a3d1f59865be
+unrulymedia.com, 476748946, RESELLER
 unrulymedia.com, 689559416, RESELLER
 verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 verve.com, 15503, RESELLER, 0c8f5958fc2d6270
@@ -677,6 +676,7 @@ video.unrulymedia.com, 3383599585, RESELLER
 video.unrulymedia.com, 3704396951, RESELLER
 video.unrulymedia.com, 3948367200, RESELLER
 video.unrulymedia.com, 4631344382657206988, RESELLER
+video.unrulymedia.com, 476748946, RESELLER
 video.unrulymedia.com, 557688749, RESELLER
 video.unrulymedia.com, 645663965, RESELLER
 video.unrulymedia.com, 689559416, RESELLER
@@ -699,6 +699,7 @@ xandr.com, 13293, RESELLER, f5ab79cb980f11d1
 xandr.com, 13799, RESELLER, f5ab79cb980f11d1
 xandr.com, 15426, RESELLER, f5ab79cb980f11d1
 xandr.com, 17044, RESELLER, f5ab79cb980f11d1
+xandr.com, 17417, RESELLER, f5ab79cb980f11d1
 xandr.com, 8804, RESELLER, f5ab79cb980f11d1
 xapads.com, 155860, RESELLER
 yahoo.com, 55771, RESELLER, e1a5b5b6e3255540
@@ -722,4 +723,4 @@ ylhglobal.com, 1930587443, RESELLER
 zetaglobal.com, 815, RESELLER
 zetaglobal.net, 681, RESELLER
 zetaglobal.net, 815, RESELLER
-zmaticoo.com, 114490, RESELLER
+zmaticoo.com, 114490, DIRECT
