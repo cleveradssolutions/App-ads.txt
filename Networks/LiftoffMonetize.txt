@@ -1,4 +1,4 @@
-#=== LiftoffMonetize Jun 12, 2025
+#=== LiftoffMonetize Jun 17, 2025
 vungle.com, 5730c2af2270cba25f000066, DIRECT, c107d686becd2d77
 vungle.com, 5c657afed9e6e60012bab5d9, DIRECT, c107d686becd2d77
 acexchange.co.kr, 1317287336, RESELLER
@@ -126,6 +126,7 @@ improvedigital.com, 2528, RESELLER
 improvedigital.com, 2529, RESELLER
 improvedigital.com, 2530, RESELLER
 improvedigital.com, 2542, RESELLER
+improvedigital.com, 2605, RESELLER
 inmobi.com, 12a9a79d60214a40a444a6103b81747c, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 22e5354e453f49348325184e25464adb, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 23800006c42e4a739966c05ca0ac4854, RESELLER, 83e75a7ae333ca9d
@@ -421,6 +422,7 @@ unrulymedia.com, 2464975885, RESELLER
 unrulymedia.com, 689559416, RESELLER
 verve.com, 14619, RESELLER, 0c8f5958fc2d6270
 verve.com, 15503, RESELLER, 0c8f5958fc2d6270
+video.unrulymedia.com, 146647607, RESELLER
 video.unrulymedia.com, 169764768, RESELLER
 video.unrulymedia.com, 2099898025, RESELLER
 video.unrulymedia.com, 2613193077, RESELLER
@@ -465,7 +467,7 @@ yieldmo.com, 3761877318507634863, RESELLER, 6a92c77cfc3d2258
 zetaglobal.com, 815, RESELLER
 zetaglobal.net, 815, RESELLER
 zetaglobal.net, 998, RESELLER
-zmaticoo.com, 114490, RESELLER
+zmaticoo.com, 114490, DIRECT
 zmaticoo.com, 5135063, RESELLER
 zmaticoo.com, 5135224, RESELLER
 zoomd.com, 88478941, RESELLER
