@@ -15,3 +15,8 @@ sharethrough.com, voRCbaYL, RESELLER, d53b998a7bd4ecd2
 smartadserver.com, 3172, RESELLER, 060d053dcf45cbf3
 themediagrid.com, RVQDTI, DIRECT, 35d5010d7789b49d
 video.unrulymedia.com, 6111915185540403805, RESELLER
+markappmedia.site, C-1290, direct
+appnexus.com, 14416, DIRECT, f5ab79cb980f11d1
+adform.com, 3215, reseller
+lijit.com, 411915, DIRECT, fafdf38b16bf6b2b
+themediagrid.com, RVQDTI, direct, 35d5010d7789b49d
