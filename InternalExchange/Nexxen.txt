@@ -1,0 +1,5 @@
+video.unrulymedia.com, 379120423, DIRECT 
+rubiconproject.com, 15268, RESELLER, 0bfd66d529a55807
+pubmatic.com, 159277, RESELLER
+appnexus.com, 6849, RESELLER
+pubnative.net, 1007449, RESELLER, d641df8625486a7b
