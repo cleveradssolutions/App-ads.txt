@@ -1,4 +1,4 @@
-#=== Bigo Jun 17, 2025
+#=== bigo Jun 25, 2025
 bigo.sg, 10374, DIRECT
 33across.com, 0015a00003DKg9ZAAT, RESELLER, bbea06d9c4d2853c
 acexchange.co.kr, 1024314629, RESELLER
@@ -8,10 +8,11 @@ adelement.com, 36017, RESELLER
 adform.com, 2664, RESELLER, 9f5210a2f0999e32
 adform.com, 2671, RESELLER, 9f5210a2f0999e32
 adform.com, 2742, RESELLER, 9f5210a2f0999e32
+adform.com, 3016, RESELLER, 9f5210a2f0999e32
 adform.com, 3164, RESELLER, 9f5210a2f0999e32
 adingenious.com, 70392, RESELLER
-admanmedia.com, 2269, RESELLER
-admixer.net, 142f7ae2-b259-439a-801d-0b1146b8518d, RESELLER
+admanmedia.com, 2269, DIRECT
+admixer.net, 142f7ae2-b259-439a-801d-0b1146b8518d, DIRECT
 advertising.com, 82632, RESELLER, e1a5b5b6e3255540
 adview.com, 53849096, RESELLER, 1b2cc038a11ea319
 adyoulike.com, 994b7b4e03898048761c7110f11e56c2, RESELLER, 4ad745ead2958bf7
@@ -32,8 +33,8 @@ auxoads.com, 90222, RESELLER
 axonix.com, 59089, RESELLER, bc385f2b4a87b721
 axonix.com, 59107, RESELLER, bc385f2b4a87b721
 axonix.com, 59150, RESELLER, bc385f2b4a87b721
-betweendigital.com, 44972, DIRECT
 betweendigital.com, 43713, RESELLER
+betweendigital.com, 44972, RESELLER
 betweendigital.com, 45426, RESELLER
 betweendigital.com, 45656, RESELLER
 bidedge.io, 12430300, RESELLER
@@ -188,6 +189,7 @@ sharethrough.com, Z7D3ygNP, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, f0oQSO2J, RESELLER, d53b998a7bd4ecd2
 smaato.com, 1100047589, RESELLER, 07bcf65f187117b4
 smartadserver.com, 1247, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 3964, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4343, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4467, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4568, RESELLER, 060d053dcf45cbf3
@@ -231,6 +233,7 @@ video.unrulymedia.com, 524101463, RESELLER
 video.unrulymedia.com, 5336134699710583737, RESELLER
 video.unrulymedia.com, 667989109, RESELLER
 video.unrulymedia.com, 906352066, RESELLER
+videoheroes.tv, 212732, RESELLER, 064bc410192443d8
 vidoomy.com, 4433873, RESELLER
 vidoomy.com, 7646534, RESELLER
 vidoomy.com, 9148331, RESELLER
