@@ -1,4 +1,4 @@
-#=== CASExchange Jun 12, 2025
+#=== CASExchange Jun 25, 2025
 152media.info, 152M1024, RESELLER
 152media.info, 152M1035, RESELLER
 152media.info, 152M238, RESELLER
@@ -13,10 +13,12 @@
 33across.com, 0010b00001siQHqAAM, RESELLER, bbea06d9c4d2853c
 33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c
 33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
+33across.com, 001Pg00000GWjtfIAD, RESELLER, bbea06d9c4d2853c
 9dotsmedia.com, 1358, RESELLER, 45ff185b4c4e857d
 aceex.io, 1608, DIRECT, b1cf3c874d5c6682
 acexchange.co.kr, 1601362449, RESELLER
 adagio.io, 1509, RESELLER
+adagio.io, 1525, RESELLER
 adbite.com, 540, DIRECT
 adeclipse.io, 531196402, DIRECT
 adeclipse.io, 531196406, DIRECT
@@ -82,6 +84,7 @@ app-stock.com, 458952, RESELLER, ed8c126ea5971415
 appads.in, 107606, RESELLER
 appads.in, 108501, RESELLER
 appnerve.com, 187287, RESELLER
+appnexus.com, 14416, RESELLER, f5ab79cb980f11d1
 appnexus.com, 1019, RESELLER, f5ab79cb980f11d1
 appnexus.com, 10824, RESELLER, f5ab79cb980f11d1
 appnexus.com, 11111, RESELLER, f5ab79cb980f11d1
@@ -92,7 +95,6 @@ appnexus.com, 12223, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12622, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13099, RESELLER, f5ab79cb980f11d1
 appnexus.com, 14256, RESELLER, f5ab79cb980f11d1
-appnexus.com, 14416, RESELLER, f5ab79cb980f11d1
 appnexus.com, 14808, RESELLER, f5ab79cb980f11d1
 appnexus.com, 15127, RESELLER, f5ab79cb980f11d1
 appnexus.com, 15349, RESELLER, f5ab79cb980f11d1
@@ -132,6 +134,7 @@ bidscube.com, 500119, RESELLER, 6ecc87a1e0269657
 bidtox.com, 37884, DIRECT
 bidtox.com, 37894, DIRECT
 bigedition.com, 1411202401, DIRECT
+blis.com, 86, RESELLER, 61453ae19a4b73f4
 bold-win.com, 1066, DIRECT, 71746737d0bab951
 bold-win.com, 165, RESELLER, 71746737d0bab951
 boostappi.com, 10013, RESELLER
@@ -325,6 +328,7 @@ lijit.com, 240095, DIRECT, fafdf38b16bf6b2b
 lijit.com, 245697, DIRECT, fafdf38b16bf6b2b
 lijit.com, 331050, DIRECT, fafdf38b16bf6b2b
 lijit.com, 331050-eb, DIRECT, fafdf38b16bf6b2b
+lijit.com, 411915, DIRECT, fafdf38b16bf6b2b
 lijit.com, 547665, DIRECT, fafdf38b16bf6b2b
 lijit.com, 547665-eb, DIRECT, fafdf38b16bf6b2b
 lijit.com, 271355, RESELLER, fafdf38b16bf6b2b
@@ -359,6 +363,7 @@ loopme.com, 11647, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11690, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11716, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 12858, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 2896, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
 lunamedia.io, 2fb901cd79f4453b90b68bee79da71b5, RESELLER, 524ecb396915caaf
 makroo.com, 186431214, DIRECT
@@ -523,6 +528,7 @@ pubmatic.com, 165919, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166270, RESELLER, 5d62403b186f2ace
 pubmatic.com, 92509, RESELLER, 5d62403b186f2ace
 pubnative.net, 1006576, RESELLER, d641df8625486a7b
+pubnative.net, 1007449, RESELLER, d641df8625486a7b
 rhythmone.com, 2188085156, DIRECT, a670c89d4a324e47
 rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47
 rhythmone.com, 2148207460, RESELLER, a670c89d4a324e47
@@ -605,10 +611,11 @@ showheroes.com, 6023, RESELLER
 showheroes.com, 7224, RESELLER
 singularads.com, 554841, RESELLER
 singularads.com, 895023, RESELLER
+smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
 smaato.com, 1100056087, DIRECT, 07bcf65f187117b4
 smaato.com, 1100058165, DIRECT, 07bcf65f187117b4
 smaato.com, 1100058407, DIRECT, 07bcf65f187117b4
-smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
+smaato.com, 1100059247, DIRECT, 07bcf65f187117b4
 smaato.com, 1100044045, RESELLER, 07bcf65f187117b4
 smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
 smaato.com, 1100049808, RESELLER, 07bcf65f187117b4
@@ -723,6 +730,7 @@ uis.mobfox.com, 648, DIRECT, 5529a3d1f59865be
 verve.com, 15503, RESELLER, 0c8f5958fc2d6270
 video.unrulymedia.com, 2188085156, DIRECT
 video.unrulymedia.com, 3563866356, DIRECT
+video.unrulymedia.com, 379120423, DIRECT
 video.unrulymedia.com, 446948340, DIRECT
 video.unrulymedia.com, 8167205979129043832, DIRECT
 video.unrulymedia.com, 123479258, RESELLER
@@ -736,6 +744,7 @@ video.unrulymedia.com, 266978658, RESELLER
 video.unrulymedia.com, 270404831, RESELLER
 video.unrulymedia.com, 2736329702851206590, RESELLER
 video.unrulymedia.com, 297618916, RESELLER
+video.unrulymedia.com, 2979066401945419350, RESELLER
 video.unrulymedia.com, 2998024992842698585, RESELLER
 video.unrulymedia.com, 3195302599395609570, RESELLER
 video.unrulymedia.com, 3341072718, RESELLER

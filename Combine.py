@@ -90,7 +90,7 @@ arg_init.set_defaults(network=None, release=False, unique_id=False)
 arg_update = arg_subparsers.add_parser(
     'update', help='Check each inventory in ' + _TEMP_FILE + ' with inventories in network file.')
 arg_update.add_argument(
-    'network', help='The file name with network inventories from `' + _NETS_DIR_NAME + '` directory.')
+    'network', nargs='?', default="", help='The file name with network inventories from `' + _NETS_DIR_NAME + '` directory.')
 arg_update.add_argument('-f', '--force', action='store_true',
                         help='Replacing all inventories in the network file.')
 arg_update.add_argument('-r', '--release', action='store_true',
@@ -139,7 +139,9 @@ class Inventory:
             self.variable = line.strip().lower()
             pattern = self.variable.split('=')
             if pattern[0] not in _VARIABLES:
-                fatal_error("Not supported variable in " + source + ".", line)
+                print_warning("Not supported variable in " + source + ".", line)
+                self.variable = None
+                return
             if not re.match(_DOMAIN_PATTERN, pattern[1]):
                 fatal_error("Invalid domain '" +
                             pattern[1] + "' for variable in " + source, line)
@@ -173,8 +175,9 @@ class Inventory:
                 self.certification = certification
                 if (len(certification) != 9 and len(certification) != 16) or not re.match(_CERTIFICATE_PATTERN, self.certification):
                     if self.domain in certificateMap:
-                        fatal_error("Certification authority ID for " +
-                                    self.domain + " is " + certificateMap[self.domain], line)
+                        self.certification = certificateMap[self.domain]
+                        print_warning("Certification authority ID for " +
+                                    self.domain + " is " + self.certification, line)
                     else:
                         fatal_error("Certification authority ID is invalid in " + source +
                                     ".\nIt may only contain numbers and lowercase letters, and must be 9 or 16 characters.", line)
@@ -294,10 +297,10 @@ def release():
     currentDate = date.today().strftime("%b %d, %Y")
     totalLines = "0"
 
-    update_dsp("DSPExchange", _SOURCE_DSP)
+    update_dsp(os.path.join(_ROOT_DIR, _NETS_DIR_NAME, "DSPExchange.txt"), _SOURCE_DSP)
     cas_sources = [f for f in os.listdir(os.path.join(_ROOT_DIR, _DSP_DIR_NAME)) 
                    if f not in _NOT_CAS_SOURCES]
-    update_dsp("CASExchange", cas_sources)
+    update_dsp(os.path.join(_ROOT_DIR, _NETS_DIR_NAME, "CASExchange.txt"), cas_sources)
 
     if args.games == True:
         mainFilePath = os.path.join(_ROOT_DIR, _RESULT_FOR_GAMES_FILE)
@@ -347,7 +350,7 @@ def release():
           " (was " + totalLines + ") inventories for " + str(len(_SOURCES)) + " networks.")
 
 
-def update_dsp(networkName, sourceNames):
+def update_dsp(path, sourceNames):
     newInventories = set()
     for source in sourceNames:
         with open(os.path.join(_ROOT_DIR, _DSP_DIR_NAME, source), 'r') as sourceFile:
@@ -356,10 +359,24 @@ def update_dsp(networkName, sourceNames):
                 if inventory.is_empty() or inventory.is_comment():
                     continue
                 newInventories.add(inventory)
-    return update_items(networkName, newInventories, force=False, keepHead=False)
+    return update_items(path, newInventories, force=False, keepHead=False)
 
+def find_full_file_path(name):
+    resultDir = _NETS_DIR_NAME
+    file = os.path.join(_ROOT_DIR, resultDir, name)
+    if not os.path.exists(file):
+        resultDir = _DSP_DIR_NAME
+        file = os.path.join(_ROOT_DIR, resultDir, name)
+        if not os.path.exists(file):
+            file = None
+    return file
 
-def update(networkName, force):
+def update(name, force):
+    file = find_full_file_path(name + ".txt")
+            
+    if not file:
+        file = find_full_file_path(select_ad_source(name))
+    
     newInventories = set()
     with open(os.path.join(_ROOT_DIR, _TEMP_FILE), 'r') as updateFile:
         for line in updateFile:
@@ -367,23 +384,17 @@ def update(networkName, force):
             if inventory.is_empty() or inventory.is_comment():
                 continue
             newInventories.add(inventory)
-    return update_items(networkName, newInventories, force, keepHead=True)
+    return update_items(file, newInventories, force, keepHead=True)
 
 
-def update_items(networkName, newInventories, force, keepHead):
+def update_items(netFile, newInventories, force, keepHead):
     duplicate = 0
     fillCertificate = args.fillCertificate
     keepInventories = list()
     inventorySet = set()
-    resultDir = _NETS_DIR_NAME
-
-    netFile = os.path.join(_ROOT_DIR, resultDir, networkName + ".txt")
-    if not os.path.exists(netFile):
-        resultDir = _DSP_DIR_NAME
-        netFile = os.path.join(_ROOT_DIR, resultDir, networkName + ".txt")
-        if not os.path.exists(netFile):
-            fatal_error("Unknown network name: " + networkName)
-
+    
+    networkName = os.path.splitext(os.path.basename(netFile))[0] 
+    
     with open(netFile, 'r') as sourceFile:
         for line in sourceFile:
             inventory = Inventory(line, networkName)
@@ -412,7 +423,7 @@ def update_items(networkName, newInventories, force, keepHead):
     for index, inventory in enumerate(diffInventories):
         sys.stdout.write("[New " + str(index) + "] " + inventory.to_line())
 
-    inputMessage = "- Y - to add new inventories\n- F - to remove obsolute inventories\n- N - to exit\nEnter: "
+    inputMessage = "- Y (yes) - to add new inventories\n- F (force) - to remove obsolute inventories\n- N (no) - to exit\nEnter: "
     if force:
         userSelect = 'f'
     elif sys.version_info[0] < 3:
@@ -426,7 +437,7 @@ def update_items(networkName, newInventories, force, keepHead):
         newInventories.update(inventorySet)
 
     if force or userSelect.lower() == 'y':
-        with open(os.path.join(_ROOT_DIR, resultDir, networkName + ".txt"), 'w') as sourceFile:
+        with open(netFile, 'w') as sourceFile:
             sourceFile.write("#=== " + networkName + " " +
                              date.today().strftime("%b %d, %Y") + '\n')
             for inventory in sorted(keepInventories):
@@ -443,6 +454,47 @@ def update_items(networkName, newInventories, force, keepHead):
         return True
     return False
 
+def select_ad_source(filter):
+    all_files = []
+
+    for f in _SOURCES:
+        if not filter or filter.lower() in f.lower():
+            all_files.append(f + ".txt")
+
+    for f in os.listdir(os.path.join(_ROOT_DIR, _DSP_DIR_NAME)):
+        if f.endswith('.txt'):
+            if not filter or filter.lower() in f.lower():
+                all_files.append(f)
+
+    if not all_files:
+        return select_ad_source(None)
+    
+    if len(all_files) == 1:
+        return all_files[0]    
+    
+    columns = 3
+    col_width = 30
+    rows = (len(all_files) + columns - 1) // columns  # Количество строк
+
+    for row in range(rows):
+        line = ""
+        for col in range(columns):
+            idx = col * rows + row
+            if idx < len(all_files):
+                item = all_files[idx]
+                line += f"{idx+1:3}: {item:<{col_width}}"
+        print(line)
+        
+    while True:
+        try:
+            choice = int(input("Enter ad source index: "))
+            if 1 <= choice <= len(all_files):
+                selected_file = all_files[choice - 1]
+                return selected_file
+            else:
+                print_warning("Index not found. Try again.")
+        except ValueError:
+            print_warning("Please enter just number.")
 
 if args.file == True:
     open(os.path.join(_ROOT_DIR, _TEMP_FILE), 'w+').close()
