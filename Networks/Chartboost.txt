@@ -545,7 +545,7 @@ sharethrough.com, ygdNCKm4, RESELLER, d53b998a7bd4ecd2
 showheroes.com, 6031, RESELLER
 signifad.com, 4674862556, RESELLER
 silvermob.com, 419, RESELLER
-smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
+smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
 smaato.com, 1100047589, RESELLER, 07bcf65f187117b4
 smaato.com, 1100048572, RESELLER, 07bcf65f187117b4
 smaato.com, 1100049757, RESELLER, 07bcf65f187117b4

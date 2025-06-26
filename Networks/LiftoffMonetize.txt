@@ -357,7 +357,7 @@ showheroes.com, 6031, RESELLER
 showheroes.com, 6037, RESELLER
 silvermob.com, 419, RESELLER
 singularads.com, 548745, RESELLER
-smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
+smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
 smaato.com, 1100044045, RESELLER, 07bcf65f187117b4
 smaato.com, 1100049757, RESELLER, 07bcf65f187117b4
 smaato.com, 1100051149, RESELLER, 07bcf65f187117b4

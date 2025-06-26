@@ -751,7 +751,7 @@ sharethrough.com, jXk2TGan, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, vQPyRXGt, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, ygdNCKm4, RESELLER, d53b998a7bd4ecd2
 sipo-inc.com, 658147, RESELLER
-smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
+smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
 smaato.com, 1100049696, DIRECT, 07bcf65f187117b4
 smaato.com, 1100049932, DIRECT, 07bcf65f187117b4
 smaato.com, 1100055641, DIRECT, 07bcf65f187117b4

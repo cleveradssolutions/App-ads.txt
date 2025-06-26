@@ -267,7 +267,7 @@ sharethrough.com, veuioj8F, RESELLER, d53b998a7bd4ecd2
 showheroes.com, 6018, RESELLER
 showheroes.com, 6031, RESELLER
 sipo-inc.com, 658147, RESELLER
-smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
+smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
 smaato.com, 1100056110, RESELLER, 07bcf65f187117b4
 smaato.com, 1100057444, RESELLER, 07bcf65f187117b4
 smaato.com, 1100058831, RESELLER, 07bcf65f187117b4

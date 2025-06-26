@@ -100,7 +100,7 @@ sharethrough.com, 62beb9db, DIRECT, d53b998a7bd4ecd2
 sharethrough.com, C8qqWCf0, DIRECT, d53b998a7bd4ecd2
 sharethrough.com, izM1hGJl, DIRECT, d53b998a7bd4ecd2
 singularads.com, 895023, RESELLER
-smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
+smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
 smaato.com, 1100058407, DIRECT, 07bcf65f187117b4
 smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
 smartadserver.com, 3447, DIRECT, 060d053dcf45cbf3
