@@ -205,42 +205,43 @@ class Inventory:
         if (isinstance(other, Inventory)
             and self.domain == other.domain
             and self.identifier == other.identifier
+            and self.type == other.type
             and self.comment == other.comment
-                and self.variable == other.variable):
-            if self.type != other.type:
-                print("One inventory have both relationship in " + self.source +
-                      "(" + self.type + ") and " + other.source + "(" + other.type + ")")
-                print("   " + other.to_line().strip())
+            and self.variable == other.variable):
+            # if self.type != other.type:
+            #     print("One inventory have both relationship in " + self.source +
+            #           "(" + self.type + ") and " + other.source + "(" + other.type + ")")
+            #     print("   " + other.to_line().strip())
 
-                if self.source == other.source:
-                    print("   Only " + _TYPE_DIRECT + " lines are added.")
-                    other.type = _TYPE_DIRECT
-                    self.type = _TYPE_DIRECT
-                elif self.source == 'TempUpdate.txt':
-                    print("   Only " + self.type + " lines are added.")
-                    other.type = self.type
-                elif other.source == 'TempUpdate.txt':
-                    print("   Only " + other.type + " lines are added.")
-                    self.type = other.type
-                else:
-                    inputMessage = "   Enter 'D' - to add DIRRECT or 'R' - to add RESELLER: "
-                    while True:
-                        if sys.version_info[0] < 3:
-                            userSelect = raw_input(inputMessage)
-                        else:
-                            userSelect = input(inputMessage)
+            #     if self.source == other.source:
+            #         print("   Only " + _TYPE_DIRECT + " lines are added.")
+            #         other.type = _TYPE_DIRECT
+            #         self.type = _TYPE_DIRECT
+            #     elif self.source == 'TempUpdate.txt':
+            #         print("   Only " + self.type + " lines are added.")
+            #         other.type = self.type
+            #     elif other.source == 'TempUpdate.txt':
+            #         print("   Only " + other.type + " lines are added.")
+            #         self.type = other.type
+            #     else:
+            #         inputMessage = "   Enter 'D' - to add DIRRECT or 'R' - to add RESELLER: "
+            #         while True:
+            #             if sys.version_info[0] < 3:
+            #                 userSelect = raw_input(inputMessage)
+            #             else:
+            #                 userSelect = input(inputMessage)
 
-                        if userSelect.lower() == 'd':
-                            other.type = _TYPE_DIRECT
-                            self.type = _TYPE_DIRECT
-                            break
-                        elif userSelect.lower() == 'r':
-                            other.type = _TYPE_RESELLER
-                            self.type = _TYPE_RESELLER
-                            break
-                        else:
-                            print("   Invalid input value")
-                print()
+            #             if userSelect.lower() == 'd':
+            #                 other.type = _TYPE_DIRECT
+            #                 self.type = _TYPE_DIRECT
+            #                 break
+            #             elif userSelect.lower() == 'r':
+            #                 other.type = _TYPE_RESELLER
+            #                 self.type = _TYPE_RESELLER
+            #                 break
+            #             else:
+            #                 print("   Invalid input value")
+            #     print()
             return True
         return False
 
@@ -260,7 +261,7 @@ class Inventory:
             return hash(self.variable)
         if not self.domain:
             return hash("")
-        return hash(hash(self.domain) + hash(self.identifier))
+        return hash(hash(self.domain) + hash(self.identifier) + hash(self.type))
 
     def is_comment(self):
         return self.comment
