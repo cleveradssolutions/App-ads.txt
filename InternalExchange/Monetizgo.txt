@@ -1,7 +1,8 @@
-#=== Monetizgo Nov 21, 2024
+#=== Monetizgo Jul 07, 2025
 omgstudios.com, 191120241, DIRECT, f08c47fec0942fa0
 appnexus.com, 9382, RESELLER, f5ab79cb980f11d1
 bigedition.com, 1411202401, DIRECT
+bigedition.com, 202411191, DIRECT, 3c91030819ca42ea
 conversantmedia.com, 100807, RESELLER, 03113cd04947736d
 grouprvn.com, B0NwjofVeY, DIRECT
 openx.com, 539131863, DIRECT, 6a698e2ec38604c6

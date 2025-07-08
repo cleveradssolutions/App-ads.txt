@@ -1,4 +1,4 @@
-#=== DSPExchange Apr 30, 2025
+#=== DSPExchange Jul 08, 2025
 152media.info, 152M50, RESELLER
 152media.info, 152M698, RESELLER
 152media.info, 152M890, RESELLER
@@ -197,12 +197,12 @@ onetag.com, 5adaad445a0a050, DIRECT, 0bfd66d529a55807
 onetag.com, 5adaad445a0a050-OB, DIRECT, 0bfd66d529a55807
 onetag.com, 7b7048166127e4c, DIRECT, 0bfd66d529a55807
 onetag.com, 7b7048166127e4c-OB, DIRECT, 0bfd66d529a55807
-onetag.com, 82e44d118b79600, RESELLER, 0bfd66d529a55807
 onetag.com, 8b77f25879b0642, DIRECT, 0bfd66d529a55807
 onetag.com, 8b77f25879b0642-OB, DIRECT, 0bfd66d529a55807
 onetag.com, 59aa7be4921bac8, RESELLER, 0bfd66d529a55807
 onetag.com, 77cc0899358027b, RESELLER, 0bfd66d529a55807
 onetag.com, 77cc0899358027b-OB, RESELLER, 0bfd66d529a55807
+onetag.com, 82e44d118b79600, RESELLER, 0bfd66d529a55807
 onetag.com, 8c90176af2e65c8, RESELLER, 0bfd66d529a55807
 openx.com, 537149888, RESELLER, 6a698e2ec38604c6
 openx.com, 538959099, RESELLER, 6a698e2ec38604c6
@@ -356,8 +356,10 @@ smartadserver.com, 3232, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 3713, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 3817, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4012, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4016, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4071, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4072, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4073, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4111, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4140, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4147, RESELLER, 060d053dcf45cbf3

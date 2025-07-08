@@ -1,4 +1,4 @@
-#=== Gadsme Jun 12, 2025
+#=== Gadsme Jul 08, 2025
 gadsme.com, cloyjpkob001arb0iqlpzv68m, DIRECT
 33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
 adagio.io, 1438, RESELLER
@@ -498,6 +498,7 @@ sharethrough.com, gjYi2qdJ, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, iBAzay96, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, j0nru1gr, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, z4z8ek6m, RESELLER, d53b998a7bd4ecd2
+singularads.com, 225023, RESELLER
 smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
 smaato.com, 1100048585, DIRECT, 07bcf65f187117b4
 smaato.com, 1100049216, DIRECT, 07bcf65f187117b5
@@ -508,6 +509,7 @@ smaato.com, 1100044045, RESELLER, 07bcf65f187117b4
 smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
 smaato.com, 1100049757, RESELLER, 07bcf65f187117b4
 smaato.com, 1100053700, RESELLER, 07bcf65f187117b4
+smaato.com, 1100054974, RESELLER, 07bcf65f187117b4
 smartadserver.com, 1331, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 3117, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 3172, RESELLER, 060d053dcf45cbf3

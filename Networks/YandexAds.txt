@@ -1,4 +1,4 @@
-#=== YandexAds Jun 25, 2025
+#=== YandexAds Jul 08, 2025
 yandex.com, 66051405, DIRECT
 152media.info, 152M312, RESELLER
 152media.info, 152M499, RESELLER
@@ -43,7 +43,7 @@ adswizz.com, entravision, RESELLER
 adsyield.com, 1069, RESELLER
 adtarget.com.tr, 751601, RESELLER
 adtarget.me, 64, RESELLER
-adtelligent.com, 640813, RESELLER
+adtelligent.com, 640813, RESELLER, 7de89dc7742b5b11
 advertising.com, 28246, RESELLER, e1a5b5b6e3255540
 advertising.com, 28764, RESELLER, e1a5b5b6e3255540
 adview.com, 77646260, RESELLER, 1b2cc038a11ea319
@@ -431,7 +431,7 @@ showheroes.com, 6036, RESELLER
 silvermob.com, 357, RESELLER
 silvermob.com, 449, RESELLER
 silvermob.com, 464, RESELLER
-smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
+smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
 smaato.com, 1100044045, RESELLER, 07bcf65f187117b4
 smaato.com, 1100044156, RESELLER, 07bcf65f187117b4
 smaato.com, 1100051149, RESELLER, 07bcf65f187117b4
@@ -457,8 +457,8 @@ smartyads.com, 368, RESELLER, fd2bde0ff2e62c5d
 sonobi.com, 4980f2fde3, RESELLER, d1a215d9eb5aee9e
 sonobi.com, a85c5f6129, RESELLER, d1a215d9eb5aee9e
 sovrn.com, 273644, RESELLER, fafdf38b16bf6b2b
-spinx.biz, 1373698864, RESELLER
-spinx.biz, spnx-1000021, RESELLER
+spinx.biz, 1373698864, RESELLER, 9f2711e9aaa9f992
+spinx.biz, spnx-1000021, RESELLER, 9f2711e9aaa9f992
 spotx.tv, 271911, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 271911, RESELLER, 7842df1d2fe2db34
 ssp.e-volution.ai, AJxF6R111a9M6CaTvK, RESELLER
