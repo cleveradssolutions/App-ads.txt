@@ -1,4 +1,4 @@
-#=== Chartboost May 14, 2025
+#=== Chartboost Jul 08, 2025
 chartboost.com, 5730bb1a04b0165b75d2e564, DIRECT
 152media.info, 152M608, RESELLER
 152media.info, 152M896, RESELLER
@@ -545,7 +545,7 @@ sharethrough.com, ygdNCKm4, RESELLER, d53b998a7bd4ecd2
 showheroes.com, 6031, RESELLER
 signifad.com, 4674862556, RESELLER
 silvermob.com, 419, RESELLER
-smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
+smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
 smaato.com, 1100047589, RESELLER, 07bcf65f187117b4
 smaato.com, 1100048572, RESELLER, 07bcf65f187117b4
 smaato.com, 1100049757, RESELLER, 07bcf65f187117b4
@@ -594,7 +594,7 @@ sonobi.com, ac6f1a9ded, RESELLER, d1a215d9eb5aee9e
 sonobi.com, b43e9530e7, RESELLER, d1a215d9eb5aee9e
 sonobi.com, d2b13d1c36, RESELLER, d1a215d9eb5aee9e
 sonobi.com, eaec54c63f, RESELLER, d1a215d9eb5aee9e
-spinx.biz, 1373698863, RESELLER
+spinx.biz, 1373698863, RESELLER, 9f2711e9aaa9f992
 spotx.tv, 234183, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 234183, RESELLER, 7842df1d2fe2db34
 ssp.e-volution.ai, AJxF6R189a9M6CaTvK, RESELLER
@@ -713,7 +713,7 @@ vidoomy.com, 8248728, RESELLER
 vidoomy.com, 9148331, RESELLER
 visiblemeasures.com, 1020, RESELLER
 visiblemeasures.com, 1078, RESELLER
-voisetech.com, 1034, RESELLER
+voisetech.com, 1034, RESELLER, 9009ef0379162448
 waardex.com, 103777, RESELLER
 webeyemob.com, 70098, RESELLER
 webeyemob.com, 70104, RESELLER

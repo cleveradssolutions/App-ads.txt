@@ -1,4 +1,4 @@
-#=== HyprMX May 14, 2025
+#=== HyprMX Jul 08, 2025
 hyprmx.com, 27570864242, DIRECT, 79540da20c07237e
 152media.info, 152M499, RESELLER
 152media.info, 152M5, RESELLER
@@ -131,7 +131,7 @@ jungroup.com, 27570864242, DIRECT, 79540da20c07237e
 krushmedia.com, AJxF6R490a9M6CaTvK, RESELLER
 leanback.digital, 567824, RESELLER, b1d30350acaf0176
 lemmatechnologies.com, 1543, RESELLER, 7829010c5bebd1fb
-lijit.com, 245697, DIRECT, fafdf38b16bf6b2b
+lijit.com, 245697, RESELLER, fafdf38b16bf6b2b
 lijit.com, 271355, RESELLER, fafdf38b16bf6b2b
 lijit.com, 273094, RESELLER, fafdf38b16bf6b2b
 lijit.com, 367217, RESELLER, fafdf38b16bf6b2b
@@ -166,7 +166,7 @@ media.net, 8CU7H33B7, RESELLER
 media.net, 8CUL4N1JW, RESELLER
 media.net, 8CUN37DCC, RESELLER
 media.net, 8CUR0N3IV, RESELLER
-media.net, 8CUT87EOU, DIRECT
+media.net, 8CUT87EOU, RESELLER
 media.net, 8CUXLXU0G, RESELLER
 mediaverse.ai, 302152862, RESELLER
 mediaverse.ai, 302189174, RESELLER
