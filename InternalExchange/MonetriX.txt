@@ -1,0 +1,12 @@
+monetrix.ai,142, DIRECT
+inmobi.com, edd282ac8f29464792bf2b7f3df2f9df, RESELLER, 83e75a7ae333ca9d
+pubmatic.com, 162588, RESELLER, 5d62403b186f2ace
+smartadserver.com, 4610, RESELLER, 060d053dcf45cbf3
+openx.com, 562174952, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 27386, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 906352066, RESELLER
+contextweb.com,563521,RESELLER,89ff185a4c4e857c
+zmaticoo.com, 114490, RESELLER
+ignitemediatech.com, pub_63596, DIRECT
+freewheel.tv, 1608893, RESELLER
+freewheel.tv, 1608897, RESELLER
