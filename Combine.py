@@ -277,8 +277,8 @@ class Inventory:
         result = self.domain + ', ' + self.identifier + ', ' + self.type
         if self.certification:
             result += ', ' + self.certification
-        elif fillCertificate and self.type != _TYPE_DIRECT and self.domain in certificateMap and certificateMap[self.domain]:
-            result += ', ' + certificateMap[self.domain]
+        #elif fillCertificate and self.type != _TYPE_DIRECT and self.domain in certificateMap and certificateMap[self.domain]:
+        #    result += ', ' + certificateMap[self.domain]
         return result + '\n'
 
 
