@@ -1,27 +1,28 @@
+#=== Programmaticx Jul 15, 2025
 programmaticx.ai, 6011112, DIRECT, b42d42eb28400efa
-targetbetter.com, 6412, DIRECT,
-conversantmedia.com, 100957, RESELLER
-inmobi.com, ae6d6d3e5c77453b8361651a9ce29870, RESELLER, 83e75a7ae333ca9d
-sonobi.com, f7b2a5d226, RESELLER, d1a215d9eb5aee9e
-instreamatic.com, 207, RESELLER
-trustedstack.com, TSV5NEQDW, RESELLER
-axonix.com, 59183, RESELLER
-themediagrid.com, 8ZRKBE, RESELLER
-media.net, 8CU4YBH24, RESELLER
-loopme.com, 14129, RESELLER, 6c8d5f95897a5a3b
-adform.com, 3243, RESELLER, 9f5210a2f0999e32
-opera.com, pub10858417946048, RESELLER, 55a0c5fd61378de3
-adtarget.com.tr, 767601, RESELLER
-lijit.com, 554656, RESELLER
-trustedstack.com, TSLAU41Q2, RESELLER
-adyoulike.com, 95dcbc06a550cd02bc6ad7371dd000c7, RESELLER
-improvedigital.com, 2558, RESELLER
-freewheel.tv, sg1248339, RESELLER
-freewheel.tv, 534996-r-524565, RESELLER
-freewheel.tv, 534996-r-523319, RESELLER
-media.net, 8CUH46N56, RESELLER
-consumable.com, 2001644, RESELLER
 33across.com, 001Pg000019IbWWIA0, RESELLER
+adform.com, 3243, RESELLER, 9f5210a2f0999e32
+adtarget.com.tr, 767601, RESELLER
+adyoulike.com, 95dcbc06a550cd02bc6ad7371dd000c7, RESELLER
 amxrtb.com, 105199922, RESELLER
+axonix.com, 59183, RESELLER
+consumable.com, 2001644, RESELLER
+conversantmedia.com, 100957, RESELLER
+freewheel.tv, 534996-r-523319, RESELLER
+freewheel.tv, 534996-r-524565, RESELLER
+freewheel.tv, sg1248339, RESELLER
 improvedigital.com, 1698, RESELLER
+improvedigital.com, 2558, RESELLER
+inmobi.com, ae6d6d3e5c77453b8361651a9ce29870, RESELLER, 83e75a7ae333ca9d
+instreamatic.com, 207, RESELLER
+lijit.com, 554656, RESELLER
+loopme.com, 14129, RESELLER, 6c8d5f95897a5a3b
+media.net, 8CU4YBH24, RESELLER
+media.net, 8CUH46N56, RESELLER
+opera.com, pub10858417946048, RESELLER, 55a0c5fd61378de3
 sonobi.com, 37dd19ad4a, RESELLER
+sonobi.com, f7b2a5d226, RESELLER, d1a215d9eb5aee9e
+targetbetter.com, 6412, DIRECT
+themediagrid.com, 8ZRKBE, RESELLER
+trustedstack.com, TSLAU41Q2, RESELLER
+trustedstack.com, TSV5NEQDW, RESELLER
