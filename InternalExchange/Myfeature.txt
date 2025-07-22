@@ -1,4 +1,5 @@
-#=== Myfeature Jul 15, 2025
+#=== Myfeature Jul 22, 2025
+myfeature.tv, 2AMmhnY5cgLJ5lbaukzW, DIRECT
 myfeature.tv, M0TtaRMF8BXFIWh0BGhx, DIRECT
 admixer.net, 8c6a51db-db70-4fdb-a41e-904f96005945, RESELLER
 connatix.com, 1979135427673080, RESELLER, 2af98acdee0e81ed
@@ -13,4 +14,3 @@ rubiconproject.com, 26984, DIRECT, 0bfd66d529a55807
 ssp.e-volution.ai, AJxF6R176a9M6CaTvK, RESELLER
 video.unrulymedia.com, 1876793108340587286, RESELLER
 zmaticoo.com, 114207, RESELLER
-myfeature.tv, 2AMmhnY5cgLJ5lbaukzW, DIRECT
