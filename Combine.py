@@ -6,6 +6,7 @@ import json
 import argparse
 from datetime import date
 
+# Check certification id by https://www.tagtoday.net/registry
 _CERTIFICATIONS_FILE = "CertificationIds.json"
 _RESULT_FILE = "app-ads.txt"
 _RESULT_FOR_GAMES_FILE = "app-ads-games.txt"
