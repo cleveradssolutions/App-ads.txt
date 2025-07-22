@@ -11,3 +11,16 @@ themediagrid.com, OTJDBI, RESELLER, 35d5010d7789b49d
 video.unrulymedia.com, 149448201, RESELLER
 xandr.com, 13291, RESELLER, f5ab79cb980f11d1
 xandr.com, 8283, RESELLER, f5ab79cb980f11d1
+xandr.com, 13291, RESELLER
+appnexus.com, 8283, RESELLER, f5ab79cb980f11d1
+appnexus.com, 10549, RESELLER
+pubmatic.com, 163283, RESELLER, 5d62403b186f2ace
+pubmatic.com, 163282, RESELLER, 5d62403b186f2ace
+pubmatic.com, 163009, RESELLER, 5d62403b186f2ace
+lijit.com, 391818, RESELLER, fafdf38b16bf6b2b
+inmobi.com, 222b3585ee444b248f8dee412bbb3d17, DIRECT, 83e75a7ae333ca9d
+conversantmedia.com, 100807, RESELLER, 03113cd04947736d
+rubiconproject.com, 23644, RESELLER, 0bfd66d529a55807
+pubmatic.com, 158100, RESELLER, 5d62403b186f2ace
+themediagrid.com, 4WPRHV, DIRECT, 35d5010d7789b49d
+themediagrid.com, OTJDBI, DIRECT, 35d5010d7789b49d
