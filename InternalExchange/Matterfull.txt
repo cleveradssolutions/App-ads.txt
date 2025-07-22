@@ -1,0 +1,13 @@
+bematterfull.com, 3418183840088, DIRECT
+bematterfull.com, 3418183840089, RESELLER
+loopme.com, 11597, RESELLER, 6c8d5f95897a5a3b
+lijit.com, 482639, RESELLER, fafdf38b16bf6b2b #SOVRN
+sonobi.com, 5da11ba10e, RESELLER, d1a215d9eb5aee9e
+Media.net, 8CUR0N3IV, RESELLER
+zetaglobal.net, 939, RESELLER
+inmobi.com, 30f3830cfef249a3ad46ee1a0bba7af3, RESELLER, 83e75a7ae333ca9d
+video.unrulymedia.com, 7418256711870870085, RESELLER
+improvedigital.com , 2518, RESELLER
+aniview.com, 6811763019ab911dd8056e6c, RESELLER, 78b21b97965ec3f8
+conversantmedia.com, 100948, RESELLER, 03113cd04947736d
+consumable.com, 2001635, RESELLER, aefcd3d2f45b5070
