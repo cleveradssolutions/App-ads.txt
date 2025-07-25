@@ -1,4 +1,4 @@
-#=== LiftoffMonetize Jul 22, 2025
+#=== LiftoffMonetize Jul 25, 2025
 vungle.com, 5730c2af2270cba25f000066, DIRECT, c107d686becd2d77
 vungle.com, 5c657afed9e6e60012bab5d9, DIRECT, c107d686becd2d77
 33across.com, 001Pg0000197KcKIAU, RESELLER, bbea06d9c4d2853c
@@ -206,6 +206,7 @@ leapmobs.com, 38056, RESELLER
 lijit.com, 273050, RESELLER, fafdf38b16bf6b2b
 lijit.com, 400766, RESELLER, fafdf38b16bf6b2b
 lijit.com, 417620, RESELLER, fafdf38b16bf6b2b
+lijit.com, 465542, RESELLER, fafdf38b16bf6b2b
 lijit.com, 481366, RESELLER, fafdf38b16bf6b2b
 lijit.com, 488437, RESELLER, fafdf38b16bf6b2b
 lijit.com, 500520, RESELLER, fafdf38b16bf6b2b
@@ -431,6 +432,7 @@ smaato.com, 1100051149, RESELLER, 07bcf65f187117b4
 smaato.com, 1100052485, RESELLER, 07bcf65f187117b4
 smaato.com, 1100055204, RESELLER, 07bcf65f187117b4
 smaato.com, 1100056110, RESELLER, 07bcf65f187117b4
+smaato.com, 1100058938, RESELLER, 07bcf65f187117b4
 smaato.com, 1100058954, RESELLER, 07bcf65f187117b4
 smartadserver.com, 1692, RESELLER
 smartadserver.com, 3117, RESELLER
