@@ -44,3 +44,9 @@ video.unrulymedia.com, 124775993, RESELLER
 vidoomy.com, 5498575, RESELLER
 xandr.com, 13167, RESELLER, f5ab79cb980f11d1
 xandr.com, 7847, RESELLER, f5ab79cb980f11d1
+adview.com, 36461459, RESELLER, 1b2cc038a11ea319
+openx.com, 540326226, RESELLER, 6a698e2ec38604c6
+mgid.com, 922286, DIRECT, d4c29acad76ce94f
+showheroes.com, 6645, RESELLER
+voisetech.com, 1244, DIRECT, 9009ef0379162448
+pubmatic.com, 165116, RESELLER
