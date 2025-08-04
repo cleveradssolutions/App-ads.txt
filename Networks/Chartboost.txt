@@ -1,4 +1,4 @@
-#=== chartboost Aug 04, 2025
+#=== Chartboost Aug 04, 2025
 chartboost.com, 5730bb1a04b0165b75d2e564, DIRECT
 152media.info, 152M608, RESELLER
 152media.info, 152M896, RESELLER
