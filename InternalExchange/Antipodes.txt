@@ -1,8 +1,8 @@
-#=== Antipodes Jul 22, 2025
+#=== Antipodes Aug 04, 2025
 inmobi.com, df0f01fab6f64f09a6eff6779cfa8663, RESELLER, 83e75a7ae333ca9d
-pubmatic.com, 166924, DIRECT, 5d62403b186f2ace
-xandr.com, 17724, DIRECT
-themediagrid.com, MRPYL1, RESELLER, 35d5010d7789b49d
-google.com, pub-8899876049562381, DIRECT, f08c47fec0942fa0
-aps.amazon.com,303685fa-fad8-4b02-b1d5-cc653187bc3b,DIRECT
 antipodesdigital.com, 2507001, DIRECT
+aps.amazon.com, 303685fa-fad8-4b02-b1d5-cc653187bc3b, DIRECT
+google.com, pub-8899876049562381, DIRECT, f08c47fec0942fa0
+pubmatic.com, 166924, DIRECT, 5d62403b186f2ace
+themediagrid.com, MRPYL1, RESELLER, 35d5010d7789b49d
+xandr.com, 17724, DIRECT

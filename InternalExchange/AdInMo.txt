@@ -1,4 +1,4 @@
-#=== AdInMo Jul 15, 2025
+#=== AdInMo Aug 04, 2025
 adinmo.com, 7db28bb2429a4f25b95905c79f1e13b2, DIRECT, c90e99bca95e8939
 152media.info, 152M5, RESELLER
 152media.info, 152M608, RESELLER
@@ -254,6 +254,9 @@ blasto.ai, 101, RESELLER, 7e936b1feafdaa61
 blis.com, 33, RESELLER, 61453ae19a4b73f4
 blis.com, 86, RESELLER, 61453ae19a4b73f4
 blueseasx.com, 204037, RESELLER, 7998eac5087f6110
+bold-win.com, 1275, DIRECT, 71746737d0bab951
+bold-win.com, 1276, DIRECT, 71746737d0bab951
+bold-win.com, 1277, DIRECT, 71746737d0bab951
 bold-win.com, 1005, RESELLER, 71746737d0bab951
 bold-win.com, 148, RESELLER, 71746737d0bab951
 bold-win.com, 160, RESELLER
@@ -709,6 +712,7 @@ mosher.media, 305, DIRECT
 motorik.io, 100076, RESELLER
 motorik.io, 100463, RESELLER
 movve.com, 4350252, RESELLER
+my-cast.tv, 987025, DIRECT
 my-cast.tv, 987025, RESELLER
 myfeature.tv, MehEp76Y1PNhVEXNGQ9r, RESELLER
 nativo.com, 5848, RESELLER, 59521ca7cc5e9fee
@@ -1286,6 +1290,7 @@ themediagrid.com, RABCQ1, RESELLER, 35d5010d7789b49d
 themediagrid.com, RUAPXH, RESELLER, 35d5010d7789b49d
 themediagrid.com, RYIDPE, RESELLER, 35d5010d7789b49d
 themediagrid.com, VXUPDG, RESELLER, 35d5010d7789b49d
+themediagrid.com, XBYGOC, RESELLER, 35d5010d7789b49d
 thunder-monetize.com, 1252316774, RESELLER
 thunder-monetize.com, 3905806597, RESELLER
 toponad.com, 16459e6f46bd75, RESELLER, 1d49fe424a1a456d
@@ -1320,6 +1325,7 @@ triplelift.com, 13042, RESELLER, 6c33edb13117fd86
 triplelift.com, 13894, RESELLER, 6c33edb13117fd86
 triplelift.com, 13907, RESELLER, 6c33edb13117fd86
 triplelift.com, 8446, RESELLER, 6c33edb13117fd86
+triplelift.com, 8614, RESELLER, 6c33edb13117fd86
 tritondigital.com, 106423, RESELLER, 19b4454d0b87b58b
 tritondigital.com, 222283, RESELLER, 19b4454d0b87b58b
 tritondigital.com, 38083, RESELLER, 19b4454d0b87b58b
