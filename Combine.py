@@ -365,6 +365,8 @@ def update_dsp(path, sourceNames):
     return update_items(path, newInventories, force=False, keepHead=False)
 
 def find_full_file_path(name):
+    if name.islower():
+        return None
     resultDir = _NETS_DIR_NAME
     file = os.path.join(_ROOT_DIR, resultDir, name)
     if not os.path.exists(file):
