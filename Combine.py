@@ -47,8 +47,7 @@ _SOURCE_DSP = [
     "A4G.txt",
     "AppBroda.txt",
     "Potensus.txt",
-    "ReklamUp.txt",
-    "QT.txt",
+    "ReklamUp.txt",    
     "AdPixis.txt",
     "PremiumAds.txt",
 ]
