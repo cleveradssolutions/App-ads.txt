@@ -1,4 +1,4 @@
-#=== Monetizgo Jul 22, 2025
+#=== Monetizgo Aug 12, 2025
 omgstudios.com, 191120241, DIRECT, f08c47fec0942fa0
 appnexus.com, 10549, RESELLER
 appnexus.com, 8283, RESELLER, f5ab79cb980f11d1
@@ -21,4 +21,3 @@ themediagrid.com, OTJDBI, RESELLER, 35d5010d7789b49d
 video.unrulymedia.com, 149448201, RESELLER
 xandr.com, 13291, RESELLER, f5ab79cb980f11d1
 xandr.com, 8283, RESELLER, f5ab79cb980f11d1
-themediagrid.com, 4WPRHV, DIRECT, 35d5010d7789b49d
