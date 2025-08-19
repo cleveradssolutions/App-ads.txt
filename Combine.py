@@ -51,8 +51,7 @@ _SOURCE_DSP = [
     "AdPixis.txt",
     "PremiumAds.txt",
 ]
-_SOURCE_IN_GAMES = [
-    "AdInMo.txt",
+_SOURCE_IN_GAMES = [    
     "Gadsme.txt",
 ]
 _NOT_CAS_SOURCES = set(_SOURCE_DSP + _SOURCE_IN_GAMES + ['.DS_Store'])
@@ -63,7 +62,7 @@ _BANS = [
 _VARIABLES = {  # SUPPORTED VARIABLES
     # "contact", # contact information
     # "subdomain", # pointer to a subdomain file
-    # "inventorypartnerdomain", # reference is followed to an ads.txt file only (not app-ads.txt)
+    "inventorypartnerdomain", # reference is followed to an ads.txt file only (not app-ads.txt)
     # "ownerdomain", # specifies the business domain of the business entity that owns the domain/site/app
     # "managerdomain", # Specifies the business domain of a primary or exclusive monetization partner of the publishers inventory
 }
