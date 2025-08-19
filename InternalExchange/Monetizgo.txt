@@ -21,3 +21,10 @@ themediagrid.com, OTJDBI, RESELLER, 35d5010d7789b49d
 video.unrulymedia.com, 149448201, RESELLER
 xandr.com, 13291, RESELLER, f5ab79cb980f11d1
 xandr.com, 8283, RESELLER, f5ab79cb980f11d1
+omgstudios.com, 191120241, DIRECT
+inventorypartnerdomain=omgstudios.com
+bigedition.com, 202411191, DIRECT
+inventorypartnerdomain=bigedition.com
+chatter.biz, ch100040, DIRECT
+inventorypartnerdomain=chatter.biz
+adagio.io, 1370, RESELLER
