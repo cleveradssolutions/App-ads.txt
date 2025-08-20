@@ -1,4 +1,7 @@
-#=== CASExchange Aug 12, 2025
+#=== CASExchange Aug 20, 2025
+inventorypartnerdomain=bigedition.com
+inventorypartnerdomain=chatter.biz
+inventorypartnerdomain=omgstudios.com
 152media.info, 152M1024, RESELLER
 152media.info, 152M1035, RESELLER
 152media.info, 152M238, RESELLER
@@ -15,8 +18,10 @@
 9dotsmedia.com, 1358, RESELLER, 45ff185b4c4e857d
 aceex.io, 1608, DIRECT, b1cf3c874d5c6682
 acexchange.co.kr, 1601362449, RESELLER
+adagio.io, 1370, RESELLER
 adagio.io, 1509, RESELLER
 adagio.io, 1525, RESELLER
+adagio.io, 1544, RESELLER
 adeclipse.io, 531196402, DIRECT
 adeclipse.io, 531196406, DIRECT
 adeclipse.io, 531196526, DIRECT
@@ -138,7 +143,7 @@ bidscube.com, 500119, RESELLER, 6ecc87a1e0269657
 bidtox.com, 37884, DIRECT
 bidtox.com, 37894, DIRECT
 bigedition.com, 1411202401, DIRECT
-bigedition.com, 202411191, DIRECT, 3c91030819ca42ea
+bigedition.com, 202411191, DIRECT
 blis.com, 33, RESELLER, 61453ae19a4b73f4
 blis.com, 86, RESELLER, 61453ae19a4b73f4
 bold-win.com, 1066, DIRECT, 71746737d0bab951
@@ -147,6 +152,8 @@ boostappi.com, 10013, RESELLER
 brightcom.com, 73523, RESELLER
 carbonatix.com, 176264355, RESELLER
 cazhype.com, efe937780e95574250dabe07151bdc2332800, RESELLER
+chatter.biz, ch100040, DIRECT
+chocolateplatform.com, 21704, RESELLER
 cignal.io, 6054, DIRECT, d9819e7b540bd6e3
 connatix.com, 1742365173855029, RESELLER, 2af98acdee0e81ed
 connatix.com, 1756208430631890, RESELLER, 2af98acdee0e81ed
