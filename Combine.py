@@ -248,6 +248,12 @@ class Inventory:
     def __lt__(self, other):
         if not isinstance(other, Inventory):
             return NotImplemented
+        if self.variable != other.variable:
+            if not self.variable:
+                return False
+            if not other.variable:
+                return True
+            return self.variable < other.variable
         if self.domain != other.domain:
             return self.domain < other.domain
         if self.type != other.type:

@@ -1,10 +1,15 @@
-#=== Monetizgo Aug 12, 2025
+#=== Monetizgo Aug 20, 2025
 omgstudios.com, 191120241, DIRECT, f08c47fec0942fa0
+inventorypartnerdomain=bigedition.com
+inventorypartnerdomain=chatter.biz
+inventorypartnerdomain=omgstudios.com
+adagio.io, 1370, RESELLER
 appnexus.com, 10549, RESELLER
 appnexus.com, 8283, RESELLER, f5ab79cb980f11d1
 appnexus.com, 9382, RESELLER, f5ab79cb980f11d1
 bigedition.com, 1411202401, DIRECT
-bigedition.com, 202411191, DIRECT, 3c91030819ca42ea
+bigedition.com, 202411191, DIRECT
+chatter.biz, ch100040, DIRECT
 conversantmedia.com, 100807, RESELLER, 03113cd04947736d
 grouprvn.com, B0NwjofVeY, DIRECT
 inmobi.com, 222b3585ee444b248f8dee412bbb3d17, DIRECT, 83e75a7ae333ca9d
@@ -21,10 +26,3 @@ themediagrid.com, OTJDBI, RESELLER, 35d5010d7789b49d
 video.unrulymedia.com, 149448201, RESELLER
 xandr.com, 13291, RESELLER, f5ab79cb980f11d1
 xandr.com, 8283, RESELLER, f5ab79cb980f11d1
-omgstudios.com, 191120241, DIRECT
-inventorypartnerdomain=omgstudios.com
-bigedition.com, 202411191, DIRECT
-inventorypartnerdomain=bigedition.com
-chatter.biz, ch100040, DIRECT
-inventorypartnerdomain=chatter.biz
-adagio.io, 1370, RESELLER
