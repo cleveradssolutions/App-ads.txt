@@ -8,7 +8,7 @@ appnexus.com, 11826, RESELLER, f5ab79cb980f11d1
 appnexus.com, 14230, RESELLER, f5ab79cb980f11d1
 google.com, pub-1386280613967939, RESELLER, f08c47fec0942fa0
 google.com, pub-2923085774557613, RESELLER, f08c47fec0942fa0
-google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa1
+google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa0
 hoopladigital.co.uk, 5046738227, RESELLER
 playwire.com, 1018531, RESELLER
 playwire.com, 1025000, RESELLER

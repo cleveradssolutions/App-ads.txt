@@ -22,7 +22,7 @@ facebook.com, 1081332032712445, DIRECT, c3e20eee3f780d68
 pangleglobal.com, 86231, DIRECT
 pangleglobal.com, 5015768, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
-#=== IronSource Aug 20, 2025
+#=== IronSource Jul 22, 2025
 ironsrc.com, 218335, DIRECT
 ironsrc.com, 406326, DIRECT
 ironsrc.com, 445197, DIRECT
@@ -1350,7 +1350,7 @@ kidoz.net, 15564, RESELLER, a109366414b7335e
 appnexus.com, 14230, RESELLER, f5ab79cb980f11d1
 google.com, pub-1386280613967939, RESELLER, f08c47fec0942fa0
 google.com, pub-2923085774557613, RESELLER, f08c47fec0942fa0
-google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa1
+google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa0
 hoopladigital.co.uk, 5046738227, RESELLER
 playwire.com, 1018531, RESELLER
 playwire.com, 1025000, RESELLER
@@ -2127,7 +2127,7 @@ yahoo.com, 59966, RESELLER, e1a5b5b6e3255540
 yeahmobi.com, 115446, RESELLER
 yeahmobi.com, 5135322, RESELLER
 zmaticoo.com, 115446, RESELLER
-#=== DTExchange Aug 20, 2025
+#=== DTExchange Aug 12, 2025
 fyber.com, 214373, DIRECT
 33across.com, 001Pg00001BT7yYIAT, RESELLER, bbea06d9c4d2853c
 adelement.com, 48222, RESELLER
