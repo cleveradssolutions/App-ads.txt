@@ -14,3 +14,4 @@ sharethrough.com, YJAbeVRT, RESELLER, d53b998a7bd4ecd2
 targetspot.com, 380, RESELLER, feb28ed826dcf532
 themediagrid.com, B9YKSI, DIRECT, 35d5010d7789b49d
 zetaglobal.net, 842, RESELLER
+Streamix-tv.com , 781914, Direct
