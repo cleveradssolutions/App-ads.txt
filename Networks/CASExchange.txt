@@ -1,4 +1,4 @@
-#=== CASExchange Sep 04, 2025
+#=== CASExchange Sep 10, 2025
 inventorypartnerdomain=bigedition.com
 inventorypartnerdomain=chatter.biz
 inventorypartnerdomain=omgstudios.com
@@ -392,6 +392,7 @@ lijit.com, 512006, RESELLER, fafdf38b16bf6b2b
 lijit.com, 516513, RESELLER, fafdf38b16bf6b2b
 lijit.com, 541964, RESELLER, fafdf38b16bf6b2b
 lijit.com, 554656, RESELLER
+lijit.com, 572209, RESELLER, fafdf38b16bf6b2b
 loopme.com, 11456, DIRECT, 6c8d5f95897a5a3b
 loopme.com, 12807, DIRECT, 6c8d5f95897a5a3b
 loopme.com, 14068, DIRECT, 6c8d5f95897a5a3b
@@ -588,6 +589,7 @@ pubmatic.com, 166270, RESELLER, 5d62403b186f2ace
 pubnative.net, 1006576, RESELLER, d641df8625486a7b
 pubnative.net, 1006951, RESELLER, d641df8625486a7b
 pubnative.net, 1007449, RESELLER, d641df8625486a7b
+pubnative.net, 1016768, RESELLER, d641df8625486a7b
 rhythmone.com, 2188085156, DIRECT, a670c89d4a324e47
 rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47
 rhythmone.com, 2148207460, RESELLER, a670c89d4a324e47
@@ -680,6 +682,7 @@ smaato.com, 1100049808, RESELLER, 07bcf65f187117b4
 smaato.com, 1100053415, RESELLER, 07bcf65f187117b4
 smaato.com, 1100055204, RESELLER, 07bcf65f187117b4
 smaato.com, 1100058368, RESELLER, 07bcf65f187117b4
+smaato.com, 1100059370, RESELLER, 07bcf65f187117b4
 smartadserver.com, 3447, DIRECT, 060d053dcf45cbf3
 smartadserver.com, 5253, DIRECT, 060d053dcf45cbf3
 smartadserver.com, 1894, RESELLER, 060d053dcf45cbf3
@@ -741,6 +744,7 @@ ssp.logan.ai, LG8, RESELLER
 sspmedia.co, 3843025461, DIRECT
 start.io, mgr, RESELLER
 streamix-tv.com, 738571, DIRECT
+streamix-tv.com, 781914, DIRECT
 streamkey.tv, 929221, RESELLER, f5ab793he40f11d1
 synacor.com, 82291, RESELLER, e108f11b2cdf7d5b
 targetbetter.com, 6412, DIRECT
