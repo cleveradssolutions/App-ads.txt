@@ -11,3 +11,5 @@ rubiconproject.com, 17974, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26184, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26270, RESELLER, 0bfd66d529a55807
 video.unrulymedia.com, 8167205979129043832, RESELLER
+smaato.com, 1100059370, RESELLER, 07bcf65f187117b4
+pubnative.net, 1016768, RESELLER, d641df8625486a7b
