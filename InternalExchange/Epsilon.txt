@@ -1,1 +1,12 @@
 conversantmedia.com, 100973, DIRECT, 03113cd04947736d
+rubiconproject.com, 23644, RESELLER, 0bfd66d529a55807
+openx.com, 540031703, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 158100, RESELLER, 5d62403b186f2ace
+lijit.com, 411121, RESELLER, fafdf38b16bf6b2b
+appnexus.com, 4052, RESELLER
+yahoo.com, 55771, RESELLER, e1a5b5b6e3255540
+smartyads.com, 300045, RESELLER, fd2bde0ff2e62c5d
+video.unrulymedia.com, 645663965, RESELLER
+152media.info,152M698,RESELLER
+e-planning.net, 1bf7b5d803f178c4, RESELLER, c1ba615865ed87b2
+admanmedia.com, 2050, RESELLER
