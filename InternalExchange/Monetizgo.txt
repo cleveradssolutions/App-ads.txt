@@ -26,3 +26,6 @@ themediagrid.com, OTJDBI, RESELLER, 35d5010d7789b49d
 video.unrulymedia.com, 149448201, RESELLER
 xandr.com, 13291, RESELLER, f5ab79cb980f11d1
 xandr.com, 8283, RESELLER, f5ab79cb980f11d1
+consumable.com, 2001598, DIRECT, aefcd3d2f45b5070
+admanmedia.com, 2286, DIRECT
+Media.net, 8CUCYCTY4, RESELLER
