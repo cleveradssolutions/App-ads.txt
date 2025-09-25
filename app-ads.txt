@@ -1365,15 +1365,18 @@ rubiconproject.com, 20152, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 20182, RESELLER, 0bfd66d529a55807
 #=== Kidoz Aug 20, 2025
 kidoz.net, 11645, DIRECT, a109366414b7335e
+kidoz.net, 14427, DIRECT, a109366414b7335e
 kidoz.net, 15467, RESELLER, a109366414b7335e
 kidoz.net, 15564, RESELLER, a109366414b7335e
+prado.co, 15504, DIRECT
+prado.co, 15612, DIRECT
+prado.co, 15564, RESELLER
 appnexus.com, 11826, RESELLER, f5ab79cb980f11d1
 appnexus.com, 14230, RESELLER, f5ab79cb980f11d1
 google.com, pub-1386280613967939, RESELLER, f08c47fec0942fa0
 google.com, pub-2923085774557613, RESELLER, f08c47fec0942fa0
 hoopladigital.co.uk, 5046738227, RESELLER
 playwire.com, 1025000, RESELLER
-prado.co, 15564, RESELLER
 smartclip.net, 13564, RESELLER
 telaria.com, 1deq6-zt59a, RESELLER, 1a4e959a1b50034a
 tremorhub.com, 1deq6-zt59a, RESELLER, 1a4e959a1b50034a
