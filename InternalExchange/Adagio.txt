@@ -1,0 +1,25 @@
+#=== Adagio Oct 07, 2025
+adagio.io, 1561, DIRECT
+appnexus.com, 13099, RESELLER
+appnexus.com, 15941, RESELLER
+e-planning.net, 83c06e81531537f4, RESELLER, c1ba615865ed87b2
+freewheel.tv, 1568036, RESELLER
+freewheel.tv, 1568041, RESELLER
+improvedigital.com, 1790, RESELLER
+lijit.com, 367236, RESELLER, fafdf38b16bf6b2b
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
+onetag.com, 6b859b96c564fbe, RESELLER
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+openx.com, 558899373, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159110, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 12186, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 19116, RESELLER, 0bfd66d529a55807
+sharethrough.com, OAW69Fon, RESELLER, d53b998a7bd4ecd2
+smartadserver.com, 3554, RESELLER
+triplelift.com, 13482, RESELLER, 6c33edb13117fd86
+zetaglobal.net, 891, RESELLER

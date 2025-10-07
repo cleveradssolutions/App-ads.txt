@@ -1,6 +1,9 @@
-#=== Zmaticoo Apr 15, 2025
+#=== Zmaticoo Oct 07, 2025
 zmaticoo.com, 118642, DIRECT
 pubmatic.com, 161136, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 24362, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26156, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26158, RESELLER, 0bfd66d529a55807
 smartadserver.com, 4457, RESELLER, 060d053dcf45cbf3
 video.unrulymedia.com, 158727213, RESELLER
+yeahmobi.com, 118642, DIRECT
