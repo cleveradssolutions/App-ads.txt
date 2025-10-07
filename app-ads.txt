@@ -3321,6 +3321,7 @@ zmaticoo.com, 5135759, RESELLER
 #=== Maticoo Oct 07, 2025
 zmaticoo.com, 79493, DIRECT
 zmaticoo.com, 84028, DIRECT
+zmaticoo.com, 86584, DIRECT
 152media.info, 152M1086, RESELLER
 152media.info, 152M1099, RESELLER
 152media.info, 152M166, RESELLER
@@ -3578,7 +3579,6 @@ yandex.com, 305143219, DIRECT
 yieldmo.com, 3377199372461613093, RESELLER
 zeta.com, 757, RESELLER
 zetaglobal.net, 927, RESELLER
-zmaticoo.com, 86584, DIRECT
 #=== HyprMX Sep 04, 2025
 hyprmx.com, 27570864242, DIRECT, 79540da20c07237e
 152media.info, 152M5, RESELLER
