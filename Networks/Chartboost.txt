@@ -1,4 +1,4 @@
-#=== Chartboost Sep 04, 2025
+#=== Chartboost Oct 07, 2025
 chartboost.com, 5730bb1a04b0165b75d2e564, DIRECT
 152media.info, 152M608, RESELLER
 152media.info, 152M896, RESELLER
@@ -483,6 +483,7 @@ rhebus.works, 5000863388, RESELLER
 rhebus.works, 8978398251, RESELLER
 richaudience.com, flNoR9ht06, RESELLER
 risecodes.com, 653107102cde0a0001fa6710, RESELLER
+risecodes.com, 688737623bd74300011c2180, RESELLER
 rixengine.com, 36069, RESELLER
 rubiconproject.com, 13132, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 14558, RESELLER, 0bfd66d529a55807
