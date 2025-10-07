@@ -1,4 +1,4 @@
-#=== IronSource Jul 22, 2025
+#=== IronSource Oct 07, 2025
 ironsrc.com, 218335, DIRECT
 ironsrc.com, 406326, DIRECT
 ironsrc.com, 445197, DIRECT
@@ -26,7 +26,6 @@ contextweb.com, 562726, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562791, RESELLER, 89ff185a4c4e857c
 contextweb.com, 563217, RESELLER, 89ff185a4c4e857c
 contextweb.com, 563521, RESELLER, 89ff185a4c4e857c
-contextweb.com, 563539, RESELLER, 89ff185a4c4e857c
 contextweb.com, 563595, RESELLER, 89ff185a4c4e857c
 conversantmedia.com, 100234, RESELLER, 03113cd04947736d
 conversantmedia.com, 100358, RESELLER, 03113cd04947736d
@@ -91,6 +90,7 @@ opera.com, pub10084465274176, RESELLER, 55a0c5fd61378de3
 opera.com, pub6148735850944, RESELLER, 55a0c5fd61378de3
 orangeclickmedia.com, C-1181, RESELLER
 outbrain.com, 0023749a2264ea0429a71b54ac9ca0de9a, RESELLER
+outbrain.com, 0073fa86cff719c752763d2c3ee52c8f00, RESELLER
 outbrain.com, 00ab8f68679cc060c8bbc1035e70030614, RESELLER
 playdigo.com, 1993, RESELLER
 playwire.com, 1025119, RESELLER
@@ -164,7 +164,6 @@ sharethrough.com, 6qlnf8SY, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, Bc6D1WHS, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, FTVCT81v, RESELLER
 sharethrough.com, OAW69Fon, RESELLER, d53b998a7bd4ecd2
-sharethrough.com, UbYLkrys, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, bXzzb1bR, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, f0oQSO2J, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, r9B1MG7E, RESELLER, d53b998a7bd4ecd2
@@ -193,6 +192,7 @@ themediagrid.com, FALINO, DIRECT, 35d5010d7789b49d
 themediagrid.com, A6CWLO, RESELLER, 35d5010d7789b49d
 themediagrid.com, A8X5S7, RESELLER, 35d5010d7789b49d
 themediagrid.com, B8N9YH, RESELLER, 35d5010d7789b49d
+themediagrid.com, NC7LXT, RESELLER, 35d5010d7789b49d
 themediagrid.com, RABCQ1, RESELLER, 35d5010d7789b49d
 thunder-monetize.com, 1421531493, RESELLER
 toponad.com, 164478a84dfe31, RESELLER, 1d49fe424a1a456d
