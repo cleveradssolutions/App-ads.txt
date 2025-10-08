@@ -1,4 +1,4 @@
-#=== Gadsme Sep 04, 2025
+#=== Gadsme Oct 08, 2025
 gadsme.com, cloyjpkob001arb0iqlpzv68m, DIRECT
 152media.info, 152M608, RESELLER
 33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
@@ -111,7 +111,6 @@ adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER, 4ad745ead2958bf7
 algorix.co, 604610, DIRECT, 5b394c12fea27a1d
 algorix.co, 54190, RESELLER
 algorix.co, 604605, RESELLER, 5b394c12fea27a1d
-alkimiexchange.com, 7339, DIRECT
 aloha-ads.com, 55555, RESELLER
 amplifier.audio, PUB2790444752, DIRECT
 amxrtb.com, 105199691, RESELLER
@@ -185,7 +184,9 @@ bematterfull.com, 92331746142, RESELLER
 betweendigital.com, 44180, RESELLER
 betweendigital.com, 44662, RESELLER
 betweendigital.com, 45128, RESELLER
+bidease.com, bidease_seller_53, RESELLER
 bidence.com, d35302328a4b1f129d376f9c2932b0b7, RESELLER
+bidmachine.io, 258, RESELLER
 bidmachine.io, 36, RESELLER
 bidmachine.io, 60, RESELLER
 bidmachine.io, 74, RESELLER
@@ -332,6 +333,7 @@ indexexchange.com, 191332, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 192410, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 194730, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 196124, RESELLER
+indexexchange.com, 214076, RESELLER, 50b1c356f2c5c8fc
 inmobi.com, 2b5cb5884a4248c0af6a3d1faf2e7ab8, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 55049d2e109d4ac1820ca1432dda4e13, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 59c7922793a3477b9419f0854d1da7e9, RESELLER, 83e75a7ae333ca9d
@@ -389,6 +391,7 @@ loopme.com, 11561, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 12858, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 13900, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 13920, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 15759, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 2896, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 9724, RESELLER, 6c8d5f95897a5a3b
@@ -444,6 +447,7 @@ onetag.com, 82bad7d17eccf7c, RESELLER
 onetag.com, 87f58fe90234d0e, RESELLER
 onetag.com, 9243a866f495acf, RESELLER
 onetag.com, 9300e400cf8cb88, RESELLER
+onetag.com, 942f11d96ca6d70, RESELLER
 onlinemediasolutions.com, 20480, RESELLER, b3868b187e4b6402
 onlinemediasolutions.com, 21079, RESELLER, b3868b187e4b6402
 openx.com, 559912325, DIRECT, 6a698e2ec38604c6
@@ -555,6 +559,7 @@ pubmatic.com, 165117, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165157, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165307, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165611, RESELLER, 5d62403b186f2ace
+pubmatic.com, 165980, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166165, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166166, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166553, RESELLER, 5d62403b186f2ace

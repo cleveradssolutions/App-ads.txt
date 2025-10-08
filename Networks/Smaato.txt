@@ -1,6 +1,6 @@
-#=== Smaato Aug 01, 2024
-smaato.com, 1100057426, DIRECT, 07bcf65f187117b4
+#=== Smaato Oct 08, 2025
 smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
+smaato.com, 1100057426, DIRECT, 07bcf65f187117b4
 advangelists.com, 9766527f2b5d3e95d4a733fcfb77bd7e, RESELLER, 60d26397ec060f98
 appnexus.com, 1752, RESELLER, f5ab79cb980f11d1
 contextweb.com, 558622, RESELLER, 89ff185a4c4e857c
@@ -16,6 +16,18 @@ rubiconproject.com, 13132, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24600, RESELLER, 0bfd66d529a55807
 sharethrough.com, iBAzay96, RESELLER, d53b998a7bd4ecd2
+smaato.com, 1100040398, RESELLER, 07bcf65f187117b4
+smaato.com, 1100048585, RESELLER, 07bcf65f187117b4
+smaato.com, 1100054974, RESELLER, 07bcf65f187117b4
+smaato.com, 1100055750, RESELLER, 07bcf65f187117b4
+smaato.com, 1100057503, RESELLER, 07bcf65f187117b4
+smaato.com, 1100058022, RESELLER, 07bcf65f187117b4
+smaato.com, 1100058165, RESELLER, 07bcf65f187117b4
+smaato.com, 1100058321, RESELLER, 07bcf65f187117b4
+smaato.com, 1100058728, RESELLER, 07bcf65f187117b4
+smaato.com, 1100058992, RESELLER, 07bcf65f187117b4
+smaato.com, 1100059341, RESELLER, 07bcf65f187117b4
+smaato.com, 1100059477, RESELLER, 07bcf65f187117b4
 smartadserver.com, 4762, RESELLER, 060d053dcf45cbf3
 thunder-monetize.com, 1252316774, RESELLER
 video.unrulymedia.com, 251620492, RESELLER
