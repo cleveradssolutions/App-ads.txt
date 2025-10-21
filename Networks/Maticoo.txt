@@ -1,4 +1,4 @@
-#=== Maticoo Oct 07, 2025
+#=== Maticoo Oct 21, 2025
 zmaticoo.com, 79493, DIRECT
 zmaticoo.com, 84028, DIRECT
 zmaticoo.com, 86584, DIRECT
@@ -50,6 +50,7 @@ adyoulike.com, f3d16fa10382ca99dca498bd4e9659c4, RESELLER
 adyoulike.com, f78b24039641337f06634ab9a3da4b48, RESELLER
 aidentity.ai, d70a045587, RESELLER
 alaska-gaming.com, 19880, RESELLER
+algorix.co, 604540, RESELLER, 5b394c12fea27a1d
 algorix.co, 604595, RESELLER, 5b394c12fea27a1d
 amxrtb.com, 105199734, RESELLER
 apester.com, 0220, RESELLER
@@ -308,6 +309,7 @@ opera.com, pub10084465274176, RESELLER, 55a0c5fd61378de3
 opera.com, pub5865193350528, RESELLER, 55a0c5fd61378de3
 opera.com, pub6148735850944, RESELLER, 55a0c5fd61378de3
 orangeclickmedia.com, C-1230, DIRECT
+pinklion.io, 190976912, RESELLER
 playdigo.com, 1957, RESELLER, 92011346d63d3c30
 pokkt.com, 7606, RESELLER, c45702d9311e25fd
 pokkt.com, 8507, RESELLER, c45702d9311e25fd
@@ -476,6 +478,7 @@ smartadserver.com, 5070, RESELLER, 060d053dcf45cbf3
 smartivi.ai, 357481, RESELLER
 smartyads.com, 300144, RESELLER, fd2bde0ff2e62c5d
 smilewanted.com, 3221, RESELLER
+smilewanted.com, 4137, RESELLER
 sonobi.com, 18a95783cc, RESELLER, d1a215d9eb5aee9e
 sonobi.com, 2b51f34067, RESELLER, d1a215d9eb5aee9e
 sonobi.com, 4a289cdd79, RESELLER, d1a215d9eb5aee9e
@@ -575,7 +578,6 @@ xandr.com, 15840, RESELLER
 xandr.com, 16124, RESELLER
 xandr.com, 8804, RESELLER, f5ab79cb980f11d1
 xandr.com, 8833, RESELLER
-xapads.com, 160200, DIRECT
 xapads.com, 144307, RESELLER
 yahoo.com, 59674, RESELLER, e1a5b5b6e3255540
 yandex.com, 305143219, DIRECT

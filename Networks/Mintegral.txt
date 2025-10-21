@@ -1,4 +1,4 @@
-#=== Mintegral Aug 20, 2025
+#=== Mintegral Oct 13, 2025
 mintegral.com, 25008, DIRECT, 0aeed750c80d6423
 mintegral.com, 52286, DIRECT, 0aeed750c80d6423
 33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c
@@ -219,6 +219,7 @@ eskimi.com, eas-2020000005, RESELLER
 flat-ads.com, 2196901, RESELLER
 freewheel.tv, 1137745, RESELLER
 freewheel.tv, 1138513, RESELLER
+freewheel.tv, 1138513-524565, RESELLER
 freewheel.tv, 1220655, RESELLER
 freewheel.tv, 1235183, RESELLER
 freewheel.tv, 1235279, RESELLER
@@ -228,6 +229,7 @@ freewheel.tv, 1601613, RESELLER
 freewheel.tv, 1606620, RESELLER
 freewheel.tv, 1606633, RESELLER
 freewheel.tv, 741650, RESELLER
+freewheel.tv, sg1258340, RESELLER
 gitberry.com, 325100011, RESELLER
 gitberry.com, 325100012, RESELLER
 gitberry.com, 3OJ, RESELLER
@@ -358,6 +360,7 @@ meazy.co, 15510, RESELLER
 media.net, 8CU12AQ1Y, RESELLER
 media.net, 8CU5L226O, RESELLER
 media.net, 8CU76268D, RESELLER
+media.net, 8CUE65SNU, RESELLER
 media.net, 8CUI89K0D, RESELLER
 media.net, 8CUN37DCC, RESELLER
 mediafuse.com, 316569, RESELLER
@@ -480,6 +483,7 @@ pubmatic.com, 165702, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165980, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166238, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166536, RESELLER, 5d62403b186f2ace
+pubmatic.com, 167188, RESELLER, 5d62403b186f2ace
 pubmatic.com, 92509, RESELLER, 5d62403b186f2ace
 pubnative.net, 1003601, RESELLER, d641df8625486a7b
 pubnative.net, 1006576, RESELLER, d641df8625486a7b
@@ -630,6 +634,7 @@ ssp.logan.ai, LG15, RESELLER
 ssp.zetaglobal.net, 815, RESELLER
 start.io, wbe, RESELLER
 startapp.com, wbe, RESELLER
+supply.colossusssp.com, 907, RESELLER
 synacor.com, 82171, RESELLER, e108f11b2cdf7d5b
 synacor.com, 82460, RESELLER, e108f11b2cdf7d5b
 targetspot.com, 270, RESELLER, feb28ed826dcf532
@@ -777,6 +782,7 @@ yieldmo.com, 3761877318507634863, RESELLER, 6a92c77cfc3d2258
 yieldnexus.com, 96204, RESELLER
 ylhglobal.com, 1930587443, RESELLER
 zetaglobal.com, 815, RESELLER
+zetaglobal.net, 512, RESELLER
 zetaglobal.net, 681, RESELLER
 zetaglobal.net, 815, RESELLER
 zmaticoo.com, 114490, RESELLER
