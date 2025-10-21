@@ -1,4 +1,4 @@
-#=== InMobi Sep 04, 2025
+#=== InMobi Oct 21, 2025
 inmobi.com, 30ff09752f2b48eb9974d28116cf9ff0, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 5abb702fde844f7cadd2090b3c7d61db, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 1e5e69fd2ff340dbb07654d0c6b826ef, RESELLER, 83e75a7ae333ca9d
@@ -30,6 +30,7 @@ axonix.com, 57716, RESELLER
 bidmachine.io, 100, RESELLER
 bidmachine.io, 101, RESELLER
 blis.com, 33, RESELLER, 61453ae19a4b73f4
+bluexad.ai, 1947919201712738304, RESELLER
 castify.ai, 1279123, RESELLER
 contextweb.com, 558638, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
@@ -45,6 +46,7 @@ improvedigital.com, 2602, RESELLER
 improvedigital.com, 2607, RESELLER
 lijit.com, 502742, RESELLER, fafdf38b16bf6b2b
 loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 15665, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 9724, RESELLER, 6c8d5f95897a5a3b
 lunamedia.io, b82743ba2ddf4bcaab3d1d4f91b1330e, RESELLER, 524ecb396915caaf
 mars.media, 1010450, RESELLER, 8624339f102fb076
@@ -52,6 +54,7 @@ mindtos.com, mt45eb5f865ce39e1b, RESELLER
 mintegral.com, 10003, RESELLER
 mman.kr, 32102, RESELLER
 mobismarter.com, 3294, RESELLER
+mobupps.com, c74d97b01eae257e44aa9d5bade97baf33094, RESELLER
 myfeature.tv, N1fNlXquFCVDX3gt6MJN, RESELLER
 onetag.com, 59aa7be4921bac8, RESELLER
 onlinemediasolutions.com, 29556, RESELLER, b3868b187e4b6402
@@ -83,6 +86,7 @@ smartyads.com, 478, RESELLER, fd2bde0ff2e62c5d
 ssp.e-volution.ai, AJxF6R378a9M6CaTvK, RESELLER
 thebrave.io, 1234568, RESELLER, c25b2154543746ac
 thunder-monetize.com, 3905806597, RESELLER
+tradplusad.com, ba761e9c72f279da, RESELLER
 verve.com, 5897, RESELLER, 0c8f5958fc2d6270
 video.unrulymedia.com, 188404962, RESELLER
 video.unrulymedia.com, 322585001, RESELLER
