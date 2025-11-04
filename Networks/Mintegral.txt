@@ -1,4 +1,4 @@
-#=== Mintegral Oct 13, 2025
+#=== Mintegral Nov 04, 2025
 mintegral.com, 25008, DIRECT, 0aeed750c80d6423
 mintegral.com, 52286, DIRECT, 0aeed750c80d6423
 33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c
@@ -647,6 +647,7 @@ themediagrid.com, B8N9YH, RESELLER, 35d5010d7789b49d
 themediagrid.com, NC7LXT, RESELLER, 35d5010d7789b49d
 themediagrid.com, NG9STC, RESELLER, 35d5010d7789b49d
 themediagrid.com, R28I9J, RESELLER, 35d5010d7789b49d
+themediagrid.com, WS2D8N, RESELLER, 35d5010d7789b49d
 thunder-monetize.com, 1125520627, RESELLER
 thunder-monetize.com, 1257832012, RESELLER
 thunder-monetize.com, 1723306631, RESELLER

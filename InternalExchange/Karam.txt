@@ -1,7 +1,8 @@
+#=== Karam Nov 04, 2025
 afex.tv, 5074, DIRECT
 filmzie.com, 5074, DIRECT
-smilewanted.com, 5836, RESELLER
 pubmatic.com, 165611, RESELLER, 5d62403b186f2ace
-smartadserver.com, 5044, RESELLER, 060d053dcf45cbf3
 rubiconproject.com, 27396, RESELLER, 0bfd66d529a55807
+smartadserver.com, 5044, RESELLER, 060d053dcf45cbf3
+smilewanted.com, 5836, RESELLER
 themediagrid.com, ZG1DBN, RESELLER, 35d5010d7789b49d

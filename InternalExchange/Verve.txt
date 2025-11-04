@@ -1,23 +1,23 @@
-#=== Verve Jun 25, 2025
+#=== Verve Nov 04, 2025
 smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
 smaato.com, 1100059247, DIRECT, 07bcf65f187117b4
 33across.com, 001Pg00000GWjtfIAD, RESELLER, bbea06d9c4d2853c
+bidmachine.io, 36, RESELLER
 blis.com, 86, RESELLER, 61453ae19a4b73f4
+eskimi.com, 2020000029, RESELLER
 loopme.com, 2896, RESELLER, 6c8d5f95897a5a3b
+lunamedia.io, a49272ae78e0ed4beb713268644928f0, RESELLER, 524ecb396915caaf
+opera.com, pub6843437470464, RESELLER
+pubmatic.com, 160493, RESELLER, 5d62403b186f2ace
+rtbhouse.com, 7VQaL76PBynk7Hu4jror, RESELLER, 4f3b94578e85950c
+rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
 sharethrough.com, 3blZyYks, RESELLER, d53b998a7bd4ecd2
 smartadserver.com, 4625, RESELLER, 060d053dcf45cbf3
+spinx.biz, 1373698865, RESELLER, 9f2711e9aaa9f992
 triplelift.com, 12158, RESELLER, 6c33edb13117fd86
+uis.mobfox.com, 1750, RESELLER, 5529a3d1f59865be
 video.unrulymedia.com, 2979066401945419350, RESELLER
+video.unrulymedia.com, 4201299756, RESELLER
 video.unrulymedia.com, 649652654350370180, RESELLER
 xandr.com, 13799, RESELLER, f5ab79cb980f11d1
-lunamedia.io, a49272ae78e0ed4beb713268644928f0, RESELLER, 524ecb396915caaf
-rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807
-eskimi.com, 2020000029, RESELLER
-spinx.biz, 1373698865, RESELLER, 9f2711e9aaa9f992
-pubmatic.com, 160493, RESELLER, 5d62403b186f2ace
-video.unrulymedia.com, 4201299756, RESELLER
-opera.com, pub6843437470464, RESELLER
-rtbhouse.com, 7VQaL76PBynk7Hu4jror, RESELLER, 4f3b94578e85950c
-uis.mobfox.com, 1750, RESELLER, 5529a3d1f59865be
-bidmachine.io, 36, RESELLER
