@@ -1,4 +1,4 @@
-#=== YandexAds Sep 04, 2025
+#=== YangoAds Sep 04, 2025
 yandex.com, 66051405, DIRECT
 152media.info, 152M312, RESELLER
 152media.info, 152M499, RESELLER
