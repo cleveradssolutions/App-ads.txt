@@ -1,0 +1,12 @@
+#=== Escalax Nov 04, 2025
+escalax.io, 82, DIRECT
+inventorypartnerdomain=voisetech.com
+appnexus.com, 17779, RESELLER
+google.com, pub-1682595508078257, RESELLER, f08c47fec0942fa0
+lijit.com, 511365, RESELLER, fafdf38b16bf6b2b
+pubmatic.com, 167130, RESELLER, 5d62403b186f2ace
+rtbmax.com, 68946d7afad94ad5e32322c5, DIRECT
+smartadserver.com, 4972, RESELLER, 060d053dcf45cbf3
+video.unrulymedia.com, 436487936, RESELLER
+voisetech.com, 1266, DIRECT, 9009ef0379162448
+xandr.com, 17779, RESELLER

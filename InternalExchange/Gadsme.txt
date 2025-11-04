@@ -1,4 +1,4 @@
-#=== Gadsme Oct 08, 2025
+#=== Gadsme Nov 04, 2025
 gadsme.com, cloyjpkob001arb0iqlpzv68m, DIRECT
 152media.info, 152M608, RESELLER
 33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
@@ -123,6 +123,8 @@ app-stock.com, 343264, RESELLER
 app-stock.com, 358747, RESELLER
 appads.in, 105886, RESELLER
 appads.in, 107606, RESELLER
+appnexus.com, 12252, DIRECT
+appnexus.com, 9726, DIRECT, f5ab79cb980f11d1
 appnexus.com, 1019, RESELLER, f5ab79cb980f11d1
 appnexus.com, 11111, RESELLER, f5ab79cb980f11d1
 appnexus.com, 11470, RESELLER
@@ -169,7 +171,7 @@ aralego.com, par-8A2AD843B76A2B93CB24D4B7D694B67E, RESELLER
 awg.la, 23210484553, DIRECT
 axis-marketplace.com, 251, RESELLER
 axonix.com, 56222, RESELLER
-axonix.com, 57264, RESELLER
+axonix.com, 57264, RESELLER, bc385f2b4a87b721
 axonix.com, 57716, RESELLER
 axonix.com, 59054, RESELLER, bc385f2b4a87b721
 axonix.com, 59107, RESELLER, bc385f2b4a87b721
@@ -285,6 +287,8 @@ freewheel.tv, 1604590, RESELLER
 freewheel.tv, 1604595, RESELLER
 freewheel.tv, 534605-r-523319, RESELLER
 freewheel.tv, 534605-r-524565, RESELLER
+freewheel.tv, 535851-r-523319, RESELLER
+freewheel.tv, 535851-r-524565, RESELLER
 freewheel.tv, 848065, RESELLER
 fromthetop.io, 65536, RESELLER
 gamoshi.io, 267-b3623, RESELLER, 20e30b2ae1f670f2
@@ -380,13 +384,14 @@ limpid.tv, 203721, RESELLER
 lkqd.net, 626, RESELLER, 59c49fa9598a0117
 lkqd.net, 647, RESELLER, 59c49fa9598a0117
 lkqd.net, 654, RESELLER, 59c49fa9598a0117
+loopme.com, 16697, DIRECT, 6c8d5f95897a5a3b
 loopme.com, 11362, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11386, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11424, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11426, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11436, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11499, RESELLER, 6c8d5f95897a5a3b
-loopme.com, 11528, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 11528, RESELLER, 6c805f95897a5a30
 loopme.com, 11561, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 12858, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 13900, RESELLER, 6c8d5f95897a5a3b
@@ -409,6 +414,7 @@ media.net, 8CU42SA73, RESELLER
 media.net, 8CU6O74SF, RESELLER
 media.net, 8CU95VZK4, RESELLER
 media.net, 8CUG45IT1, RESELLER
+media.net, 8CUIKIUHH, RESELLER
 media.net, 8CUM64E17, RESELLER
 media.net, 8CUQC3000, RESELLER
 media.net, 8CUVR9O22, RESELLER
@@ -493,6 +499,7 @@ pokkt.com, 7606, RESELLER, c45702d9311e25fd
 prequel.tv, 519, RESELLER
 programmaticx.ai, 6888889, RESELLER
 pubeasy.io, 110568, RESELLER
+pubmatic.com, 161831, DIRECT, 5d62403b186f2ace
 pubmatic.com, 165874, DIRECT, 5d62403b186f2ace
 pubmatic.com, 120391, RESELLER, 5d62403b186f2ace
 pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
@@ -842,6 +849,7 @@ video.unrulymedia.com, 322585001, RESELLER
 video.unrulymedia.com, 335119963, RESELLER
 video.unrulymedia.com, 3704396951, RESELLER
 video.unrulymedia.com, 3881266972, RESELLER
+video.unrulymedia.com, 390532592, RESELLER
 video.unrulymedia.com, 3948367200, RESELLER
 video.unrulymedia.com, 4201299756, RESELLER
 video.unrulymedia.com, 4631344382657206988, RESELLER

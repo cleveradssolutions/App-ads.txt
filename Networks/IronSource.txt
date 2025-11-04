@@ -1,4 +1,4 @@
-#=== IronSource Oct 07, 2025
+#=== IronSource Nov 04, 2025
 ironsrc.com, 218335, DIRECT
 ironsrc.com, 406326, DIRECT
 ironsrc.com, 445197, DIRECT
@@ -39,7 +39,10 @@ eskimi.com, 2020000545, RESELLER
 freewheel.tv, 741650, RESELLER
 freewheel.tv, sg1256363, RESELLER
 galaxyx-tech.com, 60056, RESELLER
+google.com, pub-1386280613967939, RESELLER, f08c47fec0942fa0
+google.com, pub-2923085774557613, RESELLER, f08c47fec0942fa0
 google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
+google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa1
 google.com, pub-7452201096415972, RESELLER, f08c47fec0942fa0
 ignitemediatech.com, pub_11113, RESELLER
 improvedigital.com, 1234, DIRECT
@@ -50,6 +53,8 @@ improvedigital.com, 2608, RESELLER
 inmobi.com, 3af76ebd8ed44d04b01d827c6f3bb5b4, RESELLER, 83e75a7ae333ca9d
 inmobi.com, b01aa06531c543d8a5fb9982f60afb00, RESELLER, 83e75a7ae333ca9d
 inmobi.com, edd282ac8f29464792bf2b7f3df2f9df, RESELLER, 83e75a7ae333ca9d
+kidoz.net, 15467, RESELLER, a109366414b7335e
+kidoz.net, 15648, RESELLER, a109366414b7335e
 krushmedia.com, AJxF6R585a9M6CaTvK, RESELLER
 lacunads.com, LC7dc692567a127a57, RESELLER
 lijit.com, 222372, RESELLER, fafdf38b16bf6b2b
@@ -96,6 +101,7 @@ playdigo.com, 1993, RESELLER
 playwire.com, 1025119, RESELLER
 pokkt.com, 5536, RESELLER, c45702d9311e25fd
 pokkt.com, 6246, RESELLER, c45702d9311e25fd
+prado.co, 15648, RESELLER
 prequel.tv, 552, RESELLER
 pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156520, RESELLER, 5d62403b186f2ace
@@ -105,6 +111,7 @@ pubmatic.com, 158100, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158481, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159087, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159668, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160318, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160456, RESELLER, 5d62403b186f2ace
@@ -118,6 +125,7 @@ pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164532, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165329, RESELLER, 5d62403b186f2ace
+pubmatic.com, 165438, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165980, RESELLER, 5d62403b186f2ace
 pubnative.net, 1006955, RESELLER, d641df8625486a7b
 pubnative.net, 1007040, RESELLER, d641df8625486a7b

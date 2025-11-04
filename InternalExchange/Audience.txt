@@ -1,6 +1,37 @@
-#=== Audience Oct 07, 2025
+#=== Audience Nov 04, 2025
 audienceconnect.io, 633, DIRECT
+audienceconnect.io, 530, RESELLER
+adform.com, 1762, RESELLER
+admixer.net, 216, RESELLER
+adtonos.com, PUB343972817, RESELLER
 appnexus.com, 12840, RESELLER, f5ab79cb980f11d1
+appnexus.com, 15670, RESELLER
+eskimi.com, 2020000875, RESELLER
 freewheel.tv, 535253-r-523319, RESELLER
 freewheel.tv, sg1256363, RESELLER
+google.com, pub-7079691902491759, RESELLER, f08c47fec0942fa0
+improvedigital.com, 2625, RESELLER
+lijit.com, 380632, RESELLER, fafdf38b16bf6b2b
+lijit.com, 502284, RESELLER, fafdf38b16bf6b2b
+lijit.com, 556520, RESELLER, fafdf38b16bf6b2b
+media.net, 8CU12AQ1Y, RESELLER
+onetag.com, 8c90176af2e65c8, RESELLER
+pubmatic.com, 159762, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160058, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160846, RESELLER, 5d62403b186f2ace
+pubrise.ai, 8, RESELLER
+risecodes.com, 68077c00c48f7e0001421731, RESELLER
+rubiconproject.com, 25692, RESELLER, 0bfd66d529a55807
+sharethrough.com, UvcAx8IL, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, bXzzb1bR, RESELLER, d53b998a7bd4ecd2
+smaato.com, 1100057444, RESELLER, 07bcf65f187117b4
+smartadserver.com, 3627, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4243, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4250, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4998, RESELLER
+sonobi.com, e128791470, RESELLER, d1a215d9eb5aee9e
+tritondigital.com, 38083, RESELLER, 19b4454d0b87b58b
+video.unrulymedia.com, 169764768, RESELLER
+video.unrulymedia.com, 498216989, RESELLER
+xapads.com, 204449, RESELLER
 zetaglobal.net, 749, RESELLER

@@ -31,7 +31,7 @@ _SOURCES = [
     "Kidoz",
     "InMobi",
     "Chartboost",
-    "YandexAds",
+    "YangoAds",
     "DTExchange",
     "Bigo",
     "CASExchange",
