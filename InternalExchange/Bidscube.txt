@@ -1,9 +1,0 @@
-#=== Bidscube Jul 22, 2025
-bidscube.com, 4000245, DIRECT, 6ecc87a1e0269657
-bidinfluence.com, 500561, DIRECT
-conversantmedia.com, 100334, DIRECT, 03113cd04947736d
-conversantmedia.com, 100960, RESELLER, 03113cd04947736d
-decenterads.com, 300635, DIRECT
-onetag.com, 758e0f1a8f05074, RESELLER, 0bfd66d529a55807
-smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
-smaato.com, 1100058165, DIRECT, 07bcf65f187117b4
