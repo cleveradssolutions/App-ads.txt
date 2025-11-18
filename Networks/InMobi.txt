@@ -1,4 +1,4 @@
-#=== InMobi Oct 21, 2025
+#=== Inmobi Nov 18, 2025
 inmobi.com, 30ff09752f2b48eb9974d28116cf9ff0, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 5abb702fde844f7cadd2090b3c7d61db, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 1e5e69fd2ff340dbb07654d0c6b826ef, RESELLER, 83e75a7ae333ca9d
@@ -42,7 +42,6 @@ eliteappgrade.com, 514554, RESELLER
 eskimi.com, 2020000030, RESELLER
 gamaigroup.com, 320201, RESELLER
 gitberry.com, 335100012, RESELLER
-improvedigital.com, 2602, RESELLER
 improvedigital.com, 2607, RESELLER
 lijit.com, 502742, RESELLER, fafdf38b16bf6b2b
 loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
@@ -60,6 +59,8 @@ onetag.com, 59aa7be4921bac8, RESELLER
 onlinemediasolutions.com, 29556, RESELLER, b3868b187e4b6402
 openx.com, 540298543, RESELLER, 6a698e2ec38604c6
 opera.com, pub6871903319744, RESELLER, 55a0c5fd61378de3
+outbrain.com, 00092743fa380569f00f929c5c50dfccf8, RESELLER
+outbrain.com, 0073fa86cff719c752763d2c3ee52c8f00, RESELLER
 peak226.com, 12904, RESELLER
 playwire.com, 1025119, RESELLER
 pubmatic.com, 156931, RESELLER, 5d62403b186f2ace
@@ -85,6 +86,7 @@ smartadserver.com, 3232, RESELLER, 060d053dcf45cbf3
 smartyads.com, 478, RESELLER, fd2bde0ff2e62c5d
 ssp.e-volution.ai, AJxF6R378a9M6CaTvK, RESELLER
 thebrave.io, 1234568, RESELLER, c25b2154543746ac
+themediagrid.com, WS2D8N, RESELLER, 35d5010d7789b49d
 thunder-monetize.com, 3905806597, RESELLER
 tradplusad.com, ba761e9c72f279da, RESELLER
 verve.com, 5897, RESELLER, 0c8f5958fc2d6270

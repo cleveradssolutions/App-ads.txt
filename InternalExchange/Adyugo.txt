@@ -1,4 +1,4 @@
-#=== Adyugo Oct 30, 2025
+#=== Adyugo Nov 18, 2025
 adyugo.com, 1005, DIRECT
 33across.com, 0015a00002oUk4aAAC, RESELLER, bbea06d9c4d2853c
 adagio.io, 1563, RESELLER
