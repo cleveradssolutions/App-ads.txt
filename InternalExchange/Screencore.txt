@@ -1,7 +1,0 @@
-#=== Screencore Jun 25, 2025
-screencore.io, 269, DIRECT
-adagio.io, 1525, RESELLER
-adiiix.com, aac5b385, RESELLER
-aralego.com, par-AA74A6896446B8AAC89A7B782D2DA8A9, RESELLER
-rubiconproject.com, 25482, RESELLER, 0bfd66d529a55807
-ucfunnel.com, par-AA74A6896446B8AAC89A7B782D2DA8A9, RESELLER

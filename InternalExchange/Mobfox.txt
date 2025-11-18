@@ -1,6 +1,0 @@
-#=== Mobfox Sep 14, 2024
-uis.mobfox.com, 2285, DIRECT, 5529a3d1f59865be
-contextweb.com, 562757, RESELLER, 89ff185a4c4e857c
-improvedigital.com, 2417, RESELLER
-lemmatechnologies.com, 942, RESELLER, 7829010c5bebd1fb
-pubmatic.com, 156451, RESELLER, 5d62403b186f2ace

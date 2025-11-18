@@ -42,13 +42,13 @@ _SOURCES = [
     "HyprMX",
     "StartIO",
     "Smaato",
+    "Verve",
 ]
 _SOURCE_DSP = [
-    "A4G.txt",
     "AppBroda.txt",
-    "Potensus.txt",
-    "ReklamUp.txt",    
+    "Potensus.txt", 
     "AdPixis.txt",
+    "Adyugo.txt",
     "PremiumAds.txt",
 ]
 _SOURCE_IN_GAMES = [    
@@ -82,7 +82,7 @@ arg_subparsers = arg_parser.add_subparsers()
 
 arg_init = arg_subparsers.add_parser(
     'init', help='Create ' + _TEMP_FILE + ' file to update network configuration.')
-arg_init.add_argument('file', action='store_true')
+arg_init.add_argument('file')
 arg_init.add_argument('-l', '--list', action='store_true',
                       help='List of available network names.')
 arg_init.set_defaults(network=None, release=False, unique_id=False)
