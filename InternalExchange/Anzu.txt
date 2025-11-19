@@ -1,0 +1,20 @@
+anzu.io,691302d0870ed0233ae68d7c,DIRECT,1c1b7acf4992136c
+anzu.io,6913058b870ed0233ae69001,RESELLER,1c1b7acf4992136c
+loopme.com, 11524, RESELLER
+rubiconproject.com, 17476, RESELLER
+openx.com, 543888036, RESELLER
+video.unrulymedia.com, 3890682751, RESELLER
+pubmatic.com, 166397, RESELLER
+pubmatic.com, 158903, RESELLER
+smaato.com, 1100059345, RESELLER
+smaato.com, 1100058237, RESELLER
+smaato.com, 1100043162, RESELLER
+smaato.com, 1100004890, RESELLER
+sharethrough.com, M7wv75fe, RESELLER
+smartadserver.com, 4024, RESELLER
+Media.net, 8CU47MDK1, RESELLER
+indexexchange.com, 192505, RESELLER
+tagoras.io, d632b9ee64c738b707673eb44b3020b7, RESELLER
+appnexus.com, 12616, RESELLER
+lijit.com, 524160, RESELLER
+iion.io, 10115, RESELLER
