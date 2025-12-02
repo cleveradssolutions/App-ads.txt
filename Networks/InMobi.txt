@@ -1,4 +1,4 @@
-#=== Inmobi Nov 18, 2025
+#=== InMobi Dec 02, 2025
 inmobi.com, 30ff09752f2b48eb9974d28116cf9ff0, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 5abb702fde844f7cadd2090b3c7d61db, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 1e5e69fd2ff340dbb07654d0c6b826ef, RESELLER, 83e75a7ae333ca9d
@@ -24,6 +24,7 @@ algorix.co, 54190, RESELLER, 5b394c12fea27a1d
 algorix.co, 60367, RESELLER, 5b394c12fea27a1d
 apester.com, 2212, RESELLER
 app-stock.com, 315417, RESELLER
+appnexus.com, 14077, RESELLER
 appnexus.com, 15670, RESELLER
 appnexus.com, 8178, RESELLER, f5ab79cb980f11d1
 axonix.com, 57716, RESELLER
@@ -86,6 +87,7 @@ smartadserver.com, 3232, RESELLER, 060d053dcf45cbf3
 smartyads.com, 478, RESELLER, fd2bde0ff2e62c5d
 ssp.e-volution.ai, AJxF6R378a9M6CaTvK, RESELLER
 thebrave.io, 1234568, RESELLER, c25b2154543746ac
+themediagrid.com, B8N9YH, RESELLER, 35d5010d7789b49d
 themediagrid.com, WS2D8N, RESELLER, 35d5010d7789b49d
 thunder-monetize.com, 3905806597, RESELLER
 tradplusad.com, ba761e9c72f279da, RESELLER

@@ -1,2 +1,3 @@
-maticway.com,22113,reseller
-maticway.com,22114,reseller
+#=== Maticway Dec 02, 2025
+maticway.com, 22113, RESELLER
+maticway.com, 22114, RESELLER
