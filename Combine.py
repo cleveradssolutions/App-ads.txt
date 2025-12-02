@@ -106,7 +106,7 @@ arg_update.add_argument('--unique-id', action='store_true',
 arg_update.add_argument('--no-fill-id', dest='fillCertificate', action='store_false',
                         help='Disable autocomplete of known certification identifiers for each domain.')
 
-arg_update.set_defaults(file=False, release=False)
+arg_update.set_defaults(file=False, release=False, findraw=False)
 
 arg_release = arg_subparsers.add_parser(
     'release', help='Final ' + _RESULT_FILE + ' file generation.')
