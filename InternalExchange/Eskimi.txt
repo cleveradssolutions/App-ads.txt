@@ -8,3 +8,21 @@ pubmatic.com, 162270, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 26250, RESELLER, 0bfd66d529a55807
 smartadserver.com, 4998, RESELLER, 060d053dcf45cbf3
 video.unrulymedia.com, 498216989, RESELLER
+eskimi.com, 2020000813, DIRECT
+appnexus.com, 15670, RESELLER
+rubiconproject.com, 26250, RESELLER, 0bfd66d529a55807
+pubmatic.com, 162270, RESELLER, 5d62403b186f2ace
+lijit.com, 502284, RESELLER, fafdf38b16bf6b2b
+onetag.com, 8c90176af2e65c8, RESELLER
+smartadserver.com, 4998, RESELLER
+video.unrulymedia.com, 498216989, RESELLER
+conversantmedia.com, PID 100999, RESELLER, 03113cd04947736d
+rubiconproject.com, 23644, RESELLER, 0bfd66d529a55807
+pubmatic.com, 158100, RESELLER, 5d62403b186f2ace
+bidinfluence.com, 700073, RESELLER
+smaato.com, 1100059548, RESELLER, 07bcf65f187117b4
+smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
+audienceconnect.io, 624, RESELLER
+adtarget.com.tr, 739050, RESELLER
+adsyield.com, 1238, RESELLER
+improvedigital.com, 2650, RESELLER
