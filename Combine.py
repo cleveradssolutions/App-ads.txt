@@ -53,6 +53,7 @@ _SOURCE_DSP = [
 ]
 _SOURCE_IN_GAMES = [    
     "Gadsme.txt",
+    "GadsmeRaw.txt",
 ]
 _NOT_CAS_SOURCES = set(_SOURCE_DSP + _SOURCE_IN_GAMES + ['.DS_Store'])
 _BANS = [
@@ -85,7 +86,12 @@ arg_init = arg_subparsers.add_parser(
 arg_init.add_argument('file')
 arg_init.add_argument('-l', '--list', action='store_true',
                       help='List of available network names.')
-arg_init.set_defaults(network=None, release=False, unique_id=False)
+
+arg_init.set_defaults(network=None, release=False, unique_id=False, findraw=False,)
+
+arg_find = arg_subparsers.add_parser(
+    'findraw', help='Check ' + _TEMP_FILE + ' file to missing lines in app-ads-games.txt.')
+arg_find.set_defaults(findraw=True, network=None, release=False, unique_id=False, file=False)
 
 arg_update = arg_subparsers.add_parser(
     'update', help='Check each inventory in ' + _TEMP_FILE + ' with inventories in network file.')
@@ -99,13 +105,15 @@ arg_update.add_argument('--unique-id', action='store_true',
                         help='Verification of unique certification identifiers for each domain.')
 arg_update.add_argument('--no-fill-id', dest='fillCertificate', action='store_false',
                         help='Disable autocomplete of known certification identifiers for each domain.')
+
 arg_update.set_defaults(file=False, release=False)
 
 arg_release = arg_subparsers.add_parser(
     'release', help='Final ' + _RESULT_FILE + ' file generation.')
 arg_release.add_argument('-g', '--for-games', dest='games',
                          action='store_true', help='Release App-ads-games.txt for Games.')
-arg_release.set_defaults(release=True, file=False,
+
+arg_release.set_defaults(release=True, file=False, findraw=False,
                          network=None, unique_id=False, fillCertificate=True)
 
 args = arg_parser.parse_args()
@@ -334,7 +342,7 @@ def release():
             for source in _SOURCE_IN_GAMES:
                 with open(os.path.join(_ROOT_DIR, _DSP_DIR_NAME, source), 'r') as sourceFile:
                     for line in sourceFile:
-                        if source.endswith('Raw'):
+                        if source.endswith('Raw.txt'):
                             if line.strip() and not line.startswith('#'):
                                 appAdsFile.write(line)
                         else:
@@ -342,7 +350,7 @@ def release():
                             if not inventory.is_empty() and inventory not in inventorySet:
                                 inventorySet.add(inventory)
                                 appAdsFile.write(inventory.to_line())
-
+        
     shiledInfo = {
         "schemaVersion": 1,
         "label": _RESULT_FILE,
@@ -505,12 +513,36 @@ def select_ad_source(filter):
         except ValueError:
             print_warning("Please enter just number.")
 
+def find_missing_raw_lines():
+    with open("app-ads-games.txt", "r", encoding="utf-8") as f1:
+        lines1 = set(line.rstrip("\n") for line in f1)
+
+    missing = []
+    with open("TempUpdate.txt", "r", encoding="utf-8") as f2:
+        for line in f2:
+            clean = line.rstrip("\n")
+            if clean not in lines1:
+                missing.append(clean)
+        
+    if missing:
+        print("Missing lines:")
+        for line in missing:
+            print(line)
+        # with open("app-ads-games.txt", "a", encoding="utf-8") as f1:
+        #     for line in missing:
+        #         f1.write(line + "\n")
+    else:
+        print("Missing lines not found")
+
 if args.file == True:
     open(os.path.join(_ROOT_DIR, _TEMP_FILE), 'w+').close()
     print('File ' + _TEMP_FILE + ' created')
 
     if args.list == True:
         print("Available networks: " + ", ".join(_SOURCES))
+    
+elif args.findraw == True:
+    find_missing_raw_lines()
 else:
     read_certifications()
 

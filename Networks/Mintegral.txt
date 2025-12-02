@@ -1,10 +1,11 @@
-#=== Mintegral Nov 18, 2025
+#=== Mintegral Dec 02, 2025
 mintegral.com, 25008, DIRECT, 0aeed750c80d6423
 mintegral.com, 52286, DIRECT, 0aeed750c80d6423
 33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c
 33across.com, 001Pg00000LoMyvIAF, RESELLER, bbea06d9c4d2853c
 acd.op.hicloud.com, PUB_HW_1003, RESELLER
 adagio.io, 1280, RESELLER
+adagio.io, 1581, RESELLER
 adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
 adcolony.com, 29b7f4a14dc689eb, RESELLER, 1ad675c9de6b5176
 adcolony.com, 7d04a18a58085918, RESELLER, 1ad675c9de6b5176
