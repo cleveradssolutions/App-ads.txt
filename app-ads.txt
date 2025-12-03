@@ -1,4 +1,4 @@
-# CAS.ai Updated Dec 02, 2025
+# CAS.ai Updated Dec 03, 2025
 OwnerDomain=cas.ai
 cas.ai, 922e6092, DIRECT
 #=== GoogleAds Jul 25, 2025
@@ -1478,7 +1478,7 @@ yeahmobi.com, 5135082, RESELLER
 yellowhead.com, 67b9c0a1d2e345, RESELLER
 zmaticoo.com, 113149, RESELLER
 zmaticoo.com, 5135082, RESELLER
-#=== Chartboost Nov 04, 2025
+#=== Chartboost Dec 02, 2025
 chartboost.com, 5730bb1a04b0165b75d2e564, DIRECT
 152media.info, 152M608, RESELLER
 152media.info, 152M896, RESELLER
@@ -1615,6 +1615,7 @@ fromthetop.io, 65527, RESELLER
 getmediamx.com, 1229559, RESELLER
 gitberry.com, 355100012, RESELLER
 gitberry.com, 577, RESELLER
+gitberry.com, 816110171, RESELLER
 google.com, pub-1682595508078257, RESELLER, f08c47fec0942fa0
 hindsightsolutions.net, 323-b5738, RESELLER, 20e30b2ae1f670f2
 ignitemediatech.com, pub_61112, RESELLER
@@ -2211,7 +2212,6 @@ flat-ads.com, 206, RESELLER
 gamaigroup.com, 423058, RESELLER
 gitberry.com, 345100012, RESELLER
 gitberry.com, 375100011, RESELLER
-gitberry.com, 816110171, RESELLER
 gumgum.com, 15908, RESELLER, ffdef49475d318a9
 ignitemediatech.com, pub_11117, RESELLER
 iion.io, 10192, RESELLER, 013a29748465dc57
@@ -3195,12 +3195,14 @@ vistarsagency.com, cs8h2ksujksc73aofdh0, RESELLER, 8db795910158017c
 yabbi.me, 2d576ffe-e44c-494f-95ed-f0ff3a07f9b8, DIRECT
 yeahmobi.com, 5135296, RESELLER
 zmaticoo.com, 5135759, RESELLER
-#=== Maticoo Dec 02, 2025
+#=== Maticoo Dec 03, 2025
 zmaticoo.com, 79493, DIRECT
 zmaticoo.com, 84028, DIRECT
 zmaticoo.com, 86584, DIRECT
 zmaticoo.com, 88186, DIRECT
 zmaticoo.com, 88371, DIRECT
+zmaticoo.com, 89507, DIRECT
+zmaticoo.com, 90274, DIRECT
 152media.info, 152M1086, RESELLER
 152media.info, 152M1099, RESELLER
 152media.info, 152M166, RESELLER
@@ -3312,6 +3314,7 @@ inmobi.com, 6bf32d37e0e544f492d93407e01ece51, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 9ee4d8a2685f422eacd68b95d1f3c019, RESELLER, 83e75a7ae333ca9d
 inmobi.com, ae6d6d3e5c77453b8361651a9ce29870, RESELLER, 83e75a7ae333ca9d
 insticator.com, 4376617d-da33-438d-b3a5-0b0135b08e60, DIRECT, b3511ffcafb23a32
+insticator.com, ClientUUID, DIRECT, b3511ffcafb23a32
 insticator.com, 1d1216ca-460d-43b2-ae1f-35da441c86e3, RESELLER, b3511ffcafb23a32
 instreamatic.com, 207, RESELLER
 ivs.tv, 745639, RESELLER
@@ -3335,6 +3338,7 @@ mangomob.net, 5j2k4L7pR1, RESELLER
 markappmedia.site, 483944, DIRECT
 markappmedia.site, 483944, RESELLER
 markito.tv, m70031, DIRECT
+mars.media, 10109917, RESELLER, 8624339f102fb076
 media.net, 8CU4YBH24, RESELLER
 media.net, 8CU7B073B, RESELLER
 media.net, 8CU95VZK4, RESELLER
@@ -3346,6 +3350,7 @@ minute.ly, a-1000, RESELLER
 my-cast.tv, 987126, RESELLER, 8c33fe1bd714ffd7
 nextmillennium.io, 16949, RESELLER, 65bd090fa4a1e3d6
 nexverse.ai, 24205, DIRECT
+oko.uk, ClientUUID, DIRECT, b3511ffcafb23a32
 oko.uk, 1d1216ca-460d-43b2-ae1f-35da441c86e3, RESELLER, b3511ffcafb23a32
 onetag.com, 67c71bd96716ca3, RESELLER
 onetag.com, 847013a8430d672, RESELLER
@@ -3369,7 +3374,7 @@ pinklion.io, 190976912, RESELLER
 playdigo.com, 1957, RESELLER, 92011346d63d3c30
 pokkt.com, 8507, RESELLER, c45702d9311e25fd
 programmaticians.com, PMVDO101, DIRECT
-programmaticx.ai, 6354211, RESELLER
+programmaticx.ai, 6354211, RESELLER, b42d42eb28400efa
 pubmatic.com, 157577, DIRECT, 5d62403b186f2ace
 pubmatic.com, 163761, DIRECT, 5d62403b186f2ace
 pubmatic.com, 156077, RESELLER, 5d62403b186f2ace
@@ -3418,7 +3423,7 @@ showheroes.com, 6596, DIRECT
 showheroes.com, 7341, DIRECT
 showheroes.com, 6596, RESELLER
 smaato.com, 1100058459, RESELLER, 07bcf65f187117b4
-smartadserver.com, 2058, RESELLER
+smartadserver.com, 2058, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 2161, RESELLER
 smartadserver.com, 2640, RESELLER
 smartadserver.com, 3630, RESELLER
@@ -3498,8 +3503,6 @@ yandex.com, 305143219, DIRECT
 yieldmo.com, 3377199372461613093, RESELLER
 zeta.com, 757, RESELLER
 zetaglobal.net, 927, RESELLER
-zmaticoo.com, 89507, DIRECT
-zmaticoo.com, 90274, DIRECT
 #=== HyprMX Dec 02, 2025
 hyprmx.com, 27570864242, DIRECT, 79540da20c07237e
 152media.info, 152M5, RESELLER

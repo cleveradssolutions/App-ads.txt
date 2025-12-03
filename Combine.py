@@ -174,7 +174,7 @@ class Inventory:
                         ". Must be " + _TYPE_RESELLER + " or " + _TYPE_DIRECT + " only.", line)
 
         self.identifier = pattern[1].strip()
-        if not re.match(_ID_PATTERN, self.identifier) or self.identifier == "ClientUUID":
+        if not re.match(_ID_PATTERN, self.identifier): #or self.identifier == "ClientUUID"
             fatal_error("Invalid publisher id in " + source, line)
 
         if len(pattern) == 4:
