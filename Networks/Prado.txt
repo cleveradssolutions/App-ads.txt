@@ -1,4 +1,4 @@
-#=== Kidoz Dec 17, 2025
+#=== Prado Dec 17, 2025
 prado.co, 15504, DIRECT
 prado.co, 15612, DIRECT
 kidoz.net, 14260, RESELLER, a109366414b7335e
