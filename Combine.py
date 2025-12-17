@@ -29,6 +29,7 @@ _SOURCES = [
     "LiftoffMonetize",
     "SuperAwesome",
     "Kidoz",
+    "Prado",
     "InMobi",
     "Chartboost",
     "YangoAds",

@@ -1,4 +1,4 @@
-#=== Bigo Dec 02, 2025
+#=== Bigo Dec 17, 2025
 bigo.sg, 10374, DIRECT
 152media.info, 152M698, RESELLER
 33across.com, 0010b00002MptSLAAZ, RESELLER, bbea06d9c4d2853c
@@ -67,13 +67,16 @@ betweendigital.com, 43713, RESELLER
 betweendigital.com, 44972, RESELLER
 betweendigital.com, 45426, RESELLER
 betweendigital.com, 45656, RESELLER
+bidease.com, bidease_seller_25, RESELLER
 bidedge.io, 12430300, RESELLER
 bidence.com, 9d48459c49a3b604e65e262102b559b4, RESELLER
 bidence.com, b8932c93bf4123ee6d969796302a037c, RESELLER
+bidmachine.io, 1269, RESELLER
 bidmachine.io, 98, RESELLER
 blueseasx.com, 203596, RESELLER, 7998eac5087f6110
 bold-win.com, 1117, RESELLER, 71746737d0bab951
 brightmountainmedia.com, 2686894, RESELLER
+caerulus.io, 3320-37140, RESELLER
 cas.ai, b2659234, DIRECT
 chocolateplatform.com, 14630, RESELLER, 49a66ce31a704197
 connekt.ai, 2852512, RESELLER
@@ -166,6 +169,7 @@ improvedigital.com, 2693, RESELLER
 improvedigital.com, 2702, RESELLER
 inmobi.com, 19c2d64f068541e7a796cf6f89ce29a8, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 23800006c42e4a739966c05ca0ac4854, RESELLER, 83e75a7ae333ca9d
+inmobi.com, 23d316d3d980453d8ea0dcf9caec4078, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 30f3830cfef249a3ad46ee1a0bba7af3, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 3a4f7da341dd490cbb7dde02b126275e, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 55049d2e109d4ac1820ca1432dda4e13, RESELLER, 83e75a7ae333ca9d
@@ -232,6 +236,7 @@ media.net, 8CUUQ286L, RESELLER
 media.net, 8CUXPR2GT, RESELLER
 mediafuse.com, 720, RESELLER
 metup.it, AJxF6R131a9M6CaTvK, RESELLER
+mindtos.com, mt0b219ff842ee3772, RESELLER
 mintegral.com, 10005, RESELLER
 mman.kr, 33085, RESELLER
 my-cast.tv, 987137, RESELLER, 8c33fe1bd714ffd7
@@ -286,6 +291,7 @@ pubmatic.com, 159527, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159668, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159941, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160846, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160989, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161018, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161058, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161136, RESELLER, 5d62403b186f2ace
@@ -316,6 +322,7 @@ pubmatic.com, 164532, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164891, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165117, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165438, RESELLER, 5d62403b186f2ace
+pubmatic.com, 165980, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166965, RESELLER, 5d62403b186f2ace
 pubnative.net, 1008060, DIRECT, d641df8625486a7b
 pubnative.net, 1007262, RESELLER, d641df8625486a7b
@@ -445,6 +452,7 @@ themediagrid.com, B8N9YH, RESELLER, 35d5010d7789b49d
 themediagrid.com, MRPYL1, RESELLER, 35d5010d7789b49d
 themediagrid.com, P3EONX, RESELLER, 35d5010d7789b49d
 themediagrid.com, RABCQ1, RESELLER, 35d5010d7789b49d
+themediagrid.com, SWH94X, RESELLER, 35d5010d7789b49d
 themediagrid.com, WS2D8N, RESELLER, 35d5010d7789b49d
 themediagrid.com, XBYGOC, RESELLER, 35d5010d7789b49d
 thunder-monetize.com, 1007055, RESELLER
@@ -455,6 +463,7 @@ thunder-monetize.com, 20744, RESELLER
 toponad.com, 16569723d4bfa4, RESELLER, 1d49fe424a1a456d
 toponad.com, 165a5011a17c2b, RESELLER, 1d49fe424a1a456d
 tpmn.io, 415, RESELLER
+tredio.io, 357a6fdf7642bf815a88822c447d9dc434414, RESELLER
 triplelift.com, 11457, RESELLER, 6c33edb13117fd86
 triplelift.com, 11656, RESELLER, 6c33edb13117fd86
 triplelift.com, 12908, RESELLER, 6c33edb13117fd86
@@ -501,6 +510,7 @@ vidoomy.com, 4433873, RESELLER
 vidoomy.com, 7646534, RESELLER
 vidoomy.com, 9148331, RESELLER
 visiblemeasures.com, 1004, RESELLER
+visiblemeasures.com, 1018, RESELLER
 xad.com, 963, RESELLER, 81cbf0a75a5e0e9a
 xandr.com, 10490, RESELLER
 xandr.com, 13363, RESELLER, f5ab79cb980f11d1
@@ -520,3 +530,4 @@ yieldmo.com, 2807970144171533194, RESELLER
 yieldmo.com, 3078438591206989879, RESELLER
 zetaglobal.net, 512, RESELLER
 zetaglobal.net, 848, RESELLER
+zmaticoo.com, 5135199, RESELLER

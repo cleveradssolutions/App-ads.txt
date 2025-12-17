@@ -1,6 +1,6 @@
-#=== Kidoz Dec 17, 2025
-kidoz.net, 11645, DIRECT, a109366414b7335e
-kidoz.net, 14427, DIRECT, a109366414b7335e
+#=== Prado Dec 17, 2025
+prado.co, 15504, DIRECT
+prado.co, 15612, DIRECT
 kidoz.net, 14260, RESELLER, a109366414b7335e
 kidoz.net, 15127, RESELLER, a109366414b7335e
 kidoz.net, 15467, RESELLER, a109366414b7335e
