@@ -26,3 +26,9 @@ video.unrulymedia.com, 2979066401945419350, RESELLER
 video.unrulymedia.com, 4201299756, RESELLER
 video.unrulymedia.com, 649652654350370180, RESELLER
 xandr.com, 13799, RESELLER, f5ab79cb980f11d1
+thebrave.io, 52353142, RESELLER, c25b2154543746ac
+adelement.com, 30208, RESELLER
+media.net, 8CU8L31YN, RESELLER
+inmobi.com, 30eb9116886a497db0c502e8cf0aa4d3, RESELLER, 83e75a7ae333ca9d
+start.io, 184783812, RESELLER
+advibe.media, 282121, RESELLER
