@@ -1,3 +1,4 @@
+#=== AdsyieldEx Dec 17, 2025
 adsyield.com, 2750, DIRECT
 empower.net, 63cb0332e4b01718f069d4cb, RESELLER
 google.com, pub-7983651257838282, RESELLER, f08c47fec0942fa0

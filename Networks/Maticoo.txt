@@ -1,4 +1,4 @@
-#=== Maticoo Dec 03, 2025
+#=== Maticoo Dec 17, 2025
 zmaticoo.com, 79493, DIRECT
 zmaticoo.com, 84028, DIRECT
 zmaticoo.com, 86584, DIRECT
@@ -108,6 +108,7 @@ betweendigital.com, 44098, RESELLER
 betweendigital.com, 44659, RESELLER
 bidease.com, bidease_seller_44, RESELLER
 bidence.com, 90863d4466f10fe4a352a7afbde0d54e, RESELLER
+bidinfluence.com, 502495, RESELLER
 bidmachine.io, 1085, RESELLER
 bidmachine.io, 1135, RESELLER
 bidmachine.io, 1176, RESELLER
@@ -192,6 +193,7 @@ improvedigital.com, 1734, RESELLER
 improvedigital.com, 2110, RESELLER
 improvedigital.com, 2226, RESELLER
 improvedigital.com, 2385, RESELLER
+improvedigital.com, 2418, RESELLER
 improvedigital.com, 2523, RESELLER
 improvedigital.com, 2542, RESELLER
 improvedigital.com, 2551, RESELLER
@@ -215,6 +217,7 @@ inmobi.com, 9ee4d8a2685f422eacd68b95d1f3c019, RESELLER, 83e75a7ae333ca9d
 inmobi.com, ae6d6d3e5c77453b8361651a9ce29870, RESELLER, 83e75a7ae333ca9d
 inmobi.com, b01aa06531c543d8a5fb9982f60afb00, RESELLER, 83e75a7ae333ca9d
 inmobi.com, ba5fd3fb82c5412989b23c3eec71baf7, RESELLER, 83e75a7ae333ca9d
+inmobi.com, ccbbac8e47044746baa5d273e6bd2a03, RESELLER, 83e75a7ae333ca9d
 inmobi.com, ddb41d8a9f434a918d05a0fc9999d9f9, RESELLER, 83e75a7ae333ca9d
 inmobi.com, e2ce6fad847d4642b368082d662cc088, RESELLER, 83e75a7ae333ca9d
 inmobi.com, ef083d721beb4c0f8776ced01e262c03, RESELLER, 83e75a7ae333ca9d
@@ -273,7 +276,9 @@ media.net, 8CU7B073B, RESELLER
 media.net, 8CU95VZK4, RESELLER
 media.net, 8CU9B72O6, RESELLER
 media.net, 8CU9U47UY, RESELLER
+media.net, 8CUFUG8L1, RESELLER
 media.net, 8CUN37DCC, RESELLER
+media.net, 8CUO2DQ17, RESELLER
 media.net, 8CUT8CWB6, RESELLER
 media.net, 8CUYS1Q52, RESELLER
 media.net, 8cun4y5y3, RESELLER
@@ -334,7 +339,7 @@ playdigo.com, 1957, RESELLER, 92011346d63d3c30
 pokkt.com, 7606, RESELLER, c45702d9311e25fd
 pokkt.com, 8507, RESELLER, c45702d9311e25fd
 programmaticians.com, PMVDO101, DIRECT
-programmaticx.ai, 6354211, RESELLER, b42d42eb28400efa
+programmaticx.ai, 6354211, RESELLER
 programmaticx.ai, 6845438, RESELLER
 pubmatic.com, 157577, DIRECT, 5d62403b186f2ace
 pubmatic.com, 163753, DIRECT, 5d62403b186f2ace
@@ -384,6 +389,7 @@ pubmatic.com, 165854, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165980, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166389, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166409, RESELLER, 5d62403b186f2ace
+pubmatic.com, 166553, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166665, RESELLER, 5d62403b186f2ace
 pubmatic.com, 167062, RESELLER, 5d62403b186f2ace
 pubmatic.com, 167176, RESELLER, 5d62403b186f2ace
@@ -453,8 +459,10 @@ rubiconproject.com, 26292, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26504, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26800, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26846, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26980, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 27096, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 27136, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 27957, RESELLER, 0bfd66d529a55807
 saharmedia.net, 1681021573, RESELLER
 screencore.io, 248, DIRECT
 se7en.es, 212503, RESELLER, 064bc410192443d8
@@ -484,8 +492,9 @@ smaato.com, 1100047589, RESELLER, 07bcf65f187117b4
 smaato.com, 1100049757, RESELLER, 07bcf65f187117b4
 smaato.com, 1100055204, RESELLER, 07bcf65f187117b4
 smaato.com, 1100058459, RESELLER, 07bcf65f187117b4
+smaato.com, 1100059563, RESELLER, 07bcf65f187117b4
 smartadserver.com, 1247, RESELLER, 060d053dcf45cbf3
-smartadserver.com, 2058, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 2058, RESELLER
 smartadserver.com, 2161, RESELLER
 smartadserver.com, 2640, RESELLER
 smartadserver.com, 3172, RESELLER, 060d053dcf45cbf3
@@ -505,6 +514,7 @@ smartadserver.com, 4865, RESELLER
 smartadserver.com, 4926, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 5070, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 5314, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 5530, RESELLER
 smartivi.ai, 357481, RESELLER
 smartyads.com, 300144, RESELLER, fd2bde0ff2e62c5d
 smilewanted.com, 3221, RESELLER
@@ -554,6 +564,7 @@ triplelift.com, 13042, RESELLER
 triplelift.com, 13530, RESELLER, 6c33edb13117fd86
 triplelift.com, 8614, RESELLER, 6c33edb13117fd86
 trustedstack.com, TS9GQ408T, RESELLER
+trustedstack.com, TS9V5HI46, RESELLER
 trustedstack.com, TSV5NEQDW, RESELLER
 tvp.tv, AR40, RESELLER, 1125b6434104a723
 ucfunnel.com, par-AA74A6896446B8AAC89A7B782D2DA8A9, RESELLER
@@ -623,3 +634,7 @@ yandex.com, 305143219, DIRECT
 yieldmo.com, 3377199372461613093, RESELLER
 zeta.com, 757, RESELLER
 zetaglobal.net, 927, RESELLER
+zmaticoo.com, 90483, DIRECT
+zmaticoo.com, 90548, DIRECT
+zmaticoo.com, 90587, DIRECT
+zmaticoo.com, 91246, DIRECT

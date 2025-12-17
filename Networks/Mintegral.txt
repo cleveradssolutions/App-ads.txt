@@ -1,4 +1,4 @@
-#=== Mintegral Dec 02, 2025
+#=== Mintegral Dec 17, 2025
 mintegral.com, 25008, DIRECT, 0aeed750c80d6423
 mintegral.com, 52286, DIRECT, 0aeed750c80d6423
 33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c
@@ -198,6 +198,8 @@ criteo.com, B-067384, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-070302, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-074375, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-081657, RESELLER, 9fac4a4a87c2a44f
+criteo.com, NC7LXT, RESELLER, 35d5010d7789b49d
+criteo.com, WS2D8N, RESELLER, 35d5010d7789b49d
 dauup.com, 34109, RESELLER
 display.io, 221372, RESELLER
 districtm.io, 101649, RESELLER, 3fd707be9c4527c3
