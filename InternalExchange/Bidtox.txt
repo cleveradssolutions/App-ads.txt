@@ -1,0 +1,6 @@
+bidtox.com,37884,DIRECT
+adagio.io, 1520, RESELLER
+freewheel.tv, 536359-r-524565, RESELLER
+rubiconproject.com, 19116, RESELLER, 0bfd66d529a55807
+pubmatic.com, 159110, RESELLER, 5d62403b186f2ace
+openx.com, 558899373, RESELLER, 6a698e2ec38604c6
