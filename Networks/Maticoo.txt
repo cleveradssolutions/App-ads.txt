@@ -1,4 +1,4 @@
-#=== Maticoo Dec 17, 2025
+#=== Maticoo Jan 05, 2026
 zmaticoo.com, 79493, DIRECT
 zmaticoo.com, 84028, DIRECT
 zmaticoo.com, 86584, DIRECT
@@ -6,6 +6,10 @@ zmaticoo.com, 88186, DIRECT
 zmaticoo.com, 88371, DIRECT
 zmaticoo.com, 89507, DIRECT
 zmaticoo.com, 90274, DIRECT
+zmaticoo.com, 90483, DIRECT
+zmaticoo.com, 90548, DIRECT
+zmaticoo.com, 90587, DIRECT
+zmaticoo.com, 91246, DIRECT
 152media.info, 152M1086, RESELLER
 152media.info, 152M1099, RESELLER
 152media.info, 152M166, RESELLER
@@ -65,6 +69,7 @@ app-stock.com, 677821, RESELLER, ed8c126ea5971415
 appads.in, 107606, RESELLER
 appads.in, 108507, RESELLER
 appi-fy.ai, AFVDO101, DIRECT
+appnerve.com, 693a55b362d584dce90441c8, RESELLER
 appnexus.com, 1019, RESELLER, f5ab79cb980f11d1
 appnexus.com, 10815, RESELLER, f5ab79cb980f11d1
 appnexus.com, 11487, RESELLER, f5ab79cb980f11d1
@@ -360,6 +365,7 @@ pubmatic.com, 158748, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159277, RESELLER
 pubmatic.com, 159382, RESELLER
 pubmatic.com, 159463, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159527, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159668, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159988, RESELLER, 5d62403b186f2ace
@@ -385,6 +391,7 @@ pubmatic.com, 164187, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164532, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165266, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165307, RESELLER, 5d62403b186f2ace
+pubmatic.com, 165438, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165854, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165980, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166389, RESELLER, 5d62403b186f2ace
@@ -562,6 +569,8 @@ triplelift.com, 12240, RESELLER, 6c33edb13117fd86
 triplelift.com, 12908, RESELLER, 6c33edb13117fd86
 triplelift.com, 13042, RESELLER
 triplelift.com, 13530, RESELLER, 6c33edb13117fd86
+triplelift.com, 14705, RESELLER, 6c33edb13117fd86
+triplelift.com, 14705-EB, RESELLER
 triplelift.com, 8614, RESELLER, 6c33edb13117fd86
 trustedstack.com, TS9GQ408T, RESELLER
 trustedstack.com, TS9V5HI46, RESELLER
@@ -634,7 +643,5 @@ yandex.com, 305143219, DIRECT
 yieldmo.com, 3377199372461613093, RESELLER
 zeta.com, 757, RESELLER
 zetaglobal.net, 927, RESELLER
-zmaticoo.com, 90483, DIRECT
-zmaticoo.com, 90548, DIRECT
-zmaticoo.com, 90587, DIRECT
-zmaticoo.com, 91246, DIRECT
+zmaticoo.com, 92067, DIRECT
+zmaticoo.com, 92717, DIRECT

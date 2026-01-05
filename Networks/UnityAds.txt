@@ -1,4 +1,4 @@
-#=== UnityAds Nov 04, 2025
+#=== UnityAds Jan 05, 2026
 unity.com, 1049822, DIRECT, 96cabb5fbdde37a7
 unity.com, 1773786, DIRECT, 96cabb5fbdde37a7
 unity.com, 4527131, DIRECT, 96cabb5fbdde37a7
@@ -13,9 +13,11 @@ admanmedia.com, 990, RESELLER
 advertising.com, 82632, RESELLER
 adyoulike.com, 994b7b4e03898048761c7110f11e56c2, RESELLER
 algorix.co, 54616, RESELLER, 5b394c12fea27a1d
+anzu.io, 691e95644e633a6eee2567ee, RESELLER, 1c1b7acf4992136c
 app-stock.com, 256917, RESELLER
 app-stock.com, 384491, RESELLER
 app-stock.com, 558223, RESELLER, ed8c126ea5971415
+app-stock.com, 562114, RESELLER, ed8c126ea5971415
 appads.in, 106246, RESELLER
 appnexus.com, 12061, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12878, RESELLER, f5ab79cb980f11d1
@@ -79,7 +81,9 @@ improvedigital.com, 2464, RESELLER
 improvedigital.com, 2525, RESELLER
 improvedigital.com, 2534, RESELLER
 improvedigital.com, 2609, RESELLER
+indexexchange.com, 192505, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 214183, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 214429, RESELLER, 50b1c356f2c5c8fc
 inmobi.com, 0c8e054083954c68a45044396a1c3df8, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 33f042dcf10549ae9fb1b9e2ee0ecfc3, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 7798aa742d014cd79627bb67ec431379, RESELLER, 83e75a7ae333ca9d
@@ -104,16 +108,19 @@ lijit.com, 546566, RESELLER, fafdf38b16bf6b2b
 lijit.com, 558045, RESELLER, fafdf38b16bf6b2b
 loopme.com, 11347, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11463, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 11524, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11561, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11605, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11635, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 14009, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 15601, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 15629, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 lunamedia.io, 2fdb16a1-5025-4c41-9b17-e01e47ebc8b4, RESELLER, 524ecb396915caaf
 mango.mp, 323120, RESELLER
 mars.media, 1010442, RESELLER, 8624339f102fb076
 media.net, 8CU12AQ1Y, RESELLER
+media.net, 8CU355VS4, RESELLER
 media.net, 8CU813E2H, RESELLER
 media.net, 8CU9B72O6, RESELLER
 onairglobal.com, 4357629, RESELLER
@@ -129,6 +136,7 @@ openx.com, 540857594, RESELLER, 6a698e2ec38604c6
 openx.com, 540861995, RESELLER, 6a698e2ec38604c6
 openx.com, 540871654, RESELLER, 6a698e2ec38604c6
 openx.com, 541017750, RESELLER, 6a698e2ec38604c6
+openx.com, 543888036, RESELLER, 6a698e2ec38604c6
 opera.com, pub6148735850944, RESELLER, 55a0c5fd61378de3
 opera.com, pub6650235485952, RESELLER, 55a0c5fd61378de3
 opera.com, pub6794361378752, RESELLER, 55a0c5fd61378de3
@@ -147,6 +155,7 @@ pubmatic.com, 156520, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158481, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158903, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159499, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159668, RESELLER, 5d62403b186f2ace
@@ -219,6 +228,7 @@ rubiconproject.com, 26846, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26958, RESELLER, 0bfd66d529a55807
 sabio.us, 100092, RESELLER, 96ed93aaa9795702
 screenil.com, 554156, RESELLER
+sharethrough.com, 4024, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 5294, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 6qlnf8SY, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, Bc6D1WHS, RESELLER, d53b998a7bd4ecd2
@@ -231,6 +241,7 @@ sharethrough.com, bXzzb1bR, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, r9B1MG7E, RESELLER, d53b998a7bd4ecd2
 smartadserver.com, 3172, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 3817, RESELLER
+smartadserver.com, 4024, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4190, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4343, RESELLER
 smartadserver.com, 4457, RESELLER, 060d053dcf45cbf3
@@ -277,6 +288,7 @@ video.unrulymedia.com, 2743945877, RESELLER
 video.unrulymedia.com, 324806554, RESELLER
 video.unrulymedia.com, 3634565696, RESELLER
 video.unrulymedia.com, 3881266972, RESELLER
+video.unrulymedia.com, 3890682751, RESELLER
 video.unrulymedia.com, 389957698, RESELLER
 video.unrulymedia.com, 498216989, RESELLER
 video.unrulymedia.com, 585054906, RESELLER

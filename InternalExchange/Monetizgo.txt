@@ -1,4 +1,4 @@
-#=== Monetizgo Nov 04, 2025
+#=== Monetizgo Jan 05, 2026
 omgstudios.com, 191120241, DIRECT, f08c47fec0942fa0
 inventorypartnerdomain=bigedition.com
 inventorypartnerdomain=chatter.biz
@@ -14,6 +14,7 @@ chatter.biz, ch100040, DIRECT
 consumable.com, 2001598, DIRECT, aefcd3d2f45b5070
 conversantmedia.com, 100807, RESELLER, 03113cd04947736d
 grouprvn.com, B0NwjofVeY, DIRECT
+grouprvn.com, 520211042, RESELLER
 improvedigital.com, 2702, RESELLER
 inmobi.com, 222b3585ee444b248f8dee412bbb3d17, DIRECT, 83e75a7ae333ca9d
 lijit.com, 391818, RESELLER, fafdf38b16bf6b2b
@@ -23,6 +24,7 @@ pubmatic.com, 158100, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163009, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163282, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163283, RESELLER, 5d62403b186f2ace
+qntv.io, 42011225, RESELLER
 rubiconproject.com, 23644, RESELLER, 0bfd66d529a55807
 sharethrough.com, inExmllk, DIRECT, d53b998a7bd4ecd2
 supply.colossusssp.com, 423, RESELLER
@@ -32,5 +34,3 @@ themediagrid.com, OTJDBI, RESELLER, 35d5010d7789b49d
 video.unrulymedia.com, 149448201, RESELLER
 xandr.com, 13291, RESELLER, f5ab79cb980f11d1
 xandr.com, 8283, RESELLER, f5ab79cb980f11d1
-grouprvn.com, 520211042, RESELLER
-qntv.io, 42011225, RESELLER

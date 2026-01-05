@@ -1,4 +1,4 @@
-#=== CASExchange Dec 17, 2025
+#=== CASExchange Jan 05, 2026
 inventorypartnerdomain=bigedition.com
 inventorypartnerdomain=chatter.biz
 inventorypartnerdomain=omgstudios.com
@@ -15,6 +15,7 @@ aceex.io, 1608, DIRECT, b1cf3c874d5c6682
 acexchange.co.kr, 1601362449, RESELLER
 adagio.io, 1370, RESELLER
 adagio.io, 1509, RESELLER
+adagio.io, 1520, RESELLER
 adagio.io, 1544, RESELLER
 adagio.io, 1546, RESELLER
 adcolony.com, 496220845654deec, RESELLER, 1ad675c9de6b5176
@@ -37,7 +38,6 @@ admanmedia.com, 2050, RESELLER
 admanmedia.com, 43, RESELLER
 admanmedia.com, 594, RESELLER
 admatic.com.tr, adm-pub-185375301865, RESELLER, uufps1dh5stc6euk
-admix.ortb.net, 579954698, DIRECT
 admixer.net, 216, RESELLER
 admixer.net, 8c6a51db-db70-4fdb-a41e-904f96005945, RESELLER
 admixer.net, eab09ea6-bcf7-4eff-965d-b4f43962c73c, RESELLER
@@ -102,6 +102,7 @@ bidinfluence.com, 501573, RESELLER
 bidinfluence.com, 700073, RESELLER
 bidmachine.io, 36, RESELLER
 bidscube.com, 500119, RESELLER, 6ecc87a1e0269657
+bidtox.com, 37884, DIRECT
 bigedition.com, 1411202401, DIRECT
 bigedition.com, 202411191, DIRECT
 blis.com, 86, RESELLER, 61453ae19a4b73f4
@@ -165,6 +166,7 @@ freewheel.tv, 1608897, RESELLER
 freewheel.tv, 20393, RESELLER, 74e8e47458f74754
 freewheel.tv, 24377, RESELLER, 74e8e47458f74754
 freewheel.tv, 535253-r-523319, RESELLER
+freewheel.tv, 536359-r-524565, RESELLER
 freewheel.tv, sg1256363, RESELLER
 fromthetop.io, 65407, DIRECT
 gamaigroup.com, 423050, DIRECT
@@ -175,11 +177,11 @@ google.com, pub-7079691902491759, RESELLER, f08c47fec0942fa0
 google.com, pub-7983651257838282, RESELLER, f08c47fec0942fa0
 google.com, pub-9941782557387032, RESELLER, f08c47fec0942fa0
 grouprvn.com, B0NwjofVeY, DIRECT
+grouprvn.com, 520211042, RESELLER
 growintech.co, 101696, RESELLER, 9d8dfe5c6b00fb37
 gumgum.com, 13706, RESELLER, ffdef49475d318a9
 hcodemedia.com, 585, DIRECT
 hindsightsolutions.net, 323-b5850, DIRECT, 20e30b2ae1f670f2
-hindsightsolutions.net, 667612430, DIRECT
 ignitemediatech.com, pub_63596, DIRECT
 iion.io, 10115, RESELLER
 improvedigital.com, 2623, DIRECT
@@ -271,7 +273,6 @@ myfeature.tv, M0TtaRMF8BXFIWh0BGhx, DIRECT
 nativo.com, 5848, RESELLER, 59521ca7cc5e9fee
 ninthdecimal.com, 1c383cd30b7c298ab50293adfecb7b18, RESELLER, 3aff2148687b274b
 nobid.io, 50603, RESELLER
-obyr-ortb.com, 54292171, DIRECT
 ogury.com, ede8d6ba-5a3f-4dfa-85aa-8cfb3c42f970, RESELLER
 omgstudios.com, 191120241, DIRECT, f08c47fec0942fa0
 onairglobal.com, 4357627, RESELLER
@@ -356,6 +357,7 @@ pubmatic.com, 166677, RESELLER, 5d62403b186f2ace
 pubmatic.com, 167323, RESELLER, 5d62403b186f2ace
 pubnative.net, 1006576, RESELLER, d641df8625486a7b
 pubrise.ai, 8, RESELLER
+qntv.io, 42011225, RESELLER
 redmob.io, 20251009000001, RESELLER
 rhebus.works, 5252004478, RESELLER
 rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47
