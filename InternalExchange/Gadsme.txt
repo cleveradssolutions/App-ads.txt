@@ -1,4 +1,4 @@
-#=== Gadsme Jan 05, 2026
+#=== Gadsme Jan 12, 2026
 gadsme.com, cloyjpkob001arb0iqlpzv68m, DIRECT
 152media.info, 152M608, RESELLER
 33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
@@ -381,6 +381,7 @@ lijit.com, 375328, RESELLER, fafdf38b16bf6b2b
 lijit.com, 411121, RESELLER, fafdf38b16bf6b2b
 lijit.com, 481061, RESELLER, fafdf38b16bf6b2b
 lijit.com, 481366, RESELLER, fafdf38b16bf6b2b
+lijit.com, 482612, RESELLER, fafdf38b16bf6b2b
 lijit.com, 486052, RESELLER, fafdf38b16bf6b2b
 lijit.com, 503707, RESELLER, fafdf38b16bf6b2b
 lijit.com, 504426, RESELLER, fafdf38b16bf6b2b
@@ -870,6 +871,7 @@ video.unrulymedia.com, 266978658, RESELLER
 video.unrulymedia.com, 270404831, RESELLER
 video.unrulymedia.com, 2736329702851206590, RESELLER
 video.unrulymedia.com, 2979066401945419350, RESELLER
+video.unrulymedia.com, 311396600, RESELLER
 video.unrulymedia.com, 322585001, RESELLER
 video.unrulymedia.com, 335119963, RESELLER
 video.unrulymedia.com, 3704396951, RESELLER
