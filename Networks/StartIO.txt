@@ -1,4 +1,5 @@
-#=== StartIO Jan 05, 2026
+#=== StartIO Jan 12, 2026
+start.io, 125650712, DIRECT
 start.io, 144185998, DIRECT
 start.io, 174388014, DIRECT
 152media.info, 152M1134, RESELLER
@@ -33,6 +34,7 @@ axonix.com, 59204, RESELLER
 bidedge.io, 12427296, RESELLER
 bidedge.io, 12500436, RESELLER
 bidmachine.io, 1201, RESELLER
+bidmachine.io, 1447, RESELLER
 blueseasx.com, 7138118, RESELLER, 7998eac5087f6110
 bold-win.com, 165, RESELLER, 71746737d0bab951
 conversantmedia.com, 100339, RESELLER, 03113cd04947736d
@@ -85,6 +87,7 @@ pubmatic.com, 163476, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164079, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164187, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164532, RESELLER, 5d62403b186f2ace
+pubmatic.com, 165611, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165708, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165750, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166536, RESELLER, 5d62403b186f2ace
@@ -129,9 +132,10 @@ smaato.com, 1100059563, RESELLER, 07bcf65f187117b4
 smartadserver.com, 3554, RESELLER
 smartadserver.com, 4342, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4343, RESELLER
+smartadserver.com, 5044, RESELLER, 060d053dcf45cbf3
+smilewanted.com, 5959, RESELLER
 sonobi.com, 18a95783cc, RESELLER, d1a215d9eb5aee9e
 sonobi.com, 4d1a8bf76a, RESELLER, d1a215d9eb5aee9e
-start.io, 125650712, DIRECT
 taboola.com, 1618213, DIRECT, c228e6794e811952
 target.my.com, 13033031, RESELLER
 thebrave.io, 1234765, RESELLER, c25b2154543746ac
@@ -148,6 +152,7 @@ uis.mobfox.com, 2290, RESELLER, 5529a3d1f59865be
 undertone.com, 4261, RESELLER
 vidazoo.com, 67aa86ac8effa21af881368d, RESELLER, b6ada874b4d7d0b2
 video.unrulymedia.com, 188404962, RESELLER
+video.unrulymedia.com, 2464975885, RESELLER
 video.unrulymedia.com, 3881266972, RESELLER
 video.unrulymedia.com, 389957698, RESELLER
 video.unrulymedia.com, 390532592, RESELLER

@@ -1,4 +1,4 @@
-#=== Mintegral Jan 05, 2026
+#=== Mintegral Jan 12, 2026
 mintegral.com, 25008, DIRECT, 0aeed750c80d6423
 mintegral.com, 52286, DIRECT, 0aeed750c80d6423
 33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c
@@ -59,6 +59,9 @@ adx-drru.op.hicloud.com, PUB_HW_1003, RESELLER
 adyoulike.com, 5e09d5fe0d58941e6adc167159cc9218, RESELLER
 adyoulike.com, 76375ac0f5abb5a550c87326b9063b59, RESELLER
 adyoulike.com, e48120b055ac0abcc41c0093bf3fe02e, RESELLER
+algogear.com, 406353d0e9db6c5d, RESELLER
+algogear.com, 7bce3c82e6da7741, RESELLER
+algogear.com, a6bc46b1ba706474, RESELLER
 algorix.co, 54510, RESELLER, 5b394c12fea27a1d
 algorix.co, 60084, RESELLER, 5b394c12fea27a1d
 algorix.co, 60095, RESELLER, 5b394c12fea27a1d
@@ -154,9 +157,12 @@ bold-win.com, 807, RESELLER, 71746737d0bab951
 brightcom.com, 29559, RESELLER
 caerulus.io, 3320-39849, RESELLER
 caerulus.io, 3320-44758, RESELLER
+carambo.la, 914730833, RESELLER
 castify.ai, 1210421, RESELLER
+cgnl.io, 7000, RESELLER
 chartboost.com, 5da62a1035b91e0aff190bf7, RESELLER
 chocolateplatform.com, 14637, RESELLER, 49a66ce31a704197
+cignal.io, 7000, RESELLER
 connatix.com, 1713048496211545, RESELLER, 2af98acdee0e81ed
 connekt.ai, 2852512, RESELLER
 consumable.com, 2001470, RESELLER, aefcd3d2f45b5070
@@ -398,6 +404,7 @@ onetag.com, 8668c16092f01e8, RESELLER
 onetag.com, 8dd92b4434e684b, RESELLER
 onetag.com, 8df76ed1d09d55e, RESELLER
 onlinemediasolutions.com, 43275, RESELLER, b3868b187e4b6402
+openx.com, 537140323, RESELLER, 6a698e2ec38604c6
 openx.com, 537140488, RESELLER, 6a698e2ec38604c6
 openx.com, 537149888, RESELLER, 6a698e2ec38604c6
 openx.com, 537152826, RESELLER, 6a698e2ec38604c6
@@ -456,6 +463,7 @@ pubmatic.com, 158565, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158615, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159277, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159382, RESELLER
+pubmatic.com, 159626, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160058, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160065, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160113, RESELLER, 5d62403b186f2ace
@@ -493,6 +501,7 @@ pubmatic.com, 165702, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165980, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166238, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166536, RESELLER, 5d62403b186f2ace
+pubmatic.com, 166836, RESELLER, 5d62403b186f2ace
 pubmatic.com, 167188, RESELLER, 5d62403b186f2ace
 pubmatic.com, 92509, RESELLER, 5d62403b186f2ace
 pubnative.net, 1003601, RESELLER, d641df8625486a7b

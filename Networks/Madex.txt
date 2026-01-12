@@ -1,31 +1,20 @@
-#=== Madex May 14, 2025
+#=== Madex Jan 12, 2026
 madex.world, 2d576ffe-e44c-494f-95ed-f0ff3a07f9b8, DIRECT
-adform.com, 2671, RESELLER, 9f5210a2f0999e32
 adform.com, 3141, RESELLER, 9f5210a2f0999e32
-adform.com, 3215, RESELLER, 9f5210a2f0999e32
-admanmedia.com, 2235, RESELLER
-adyoulike.com, 0254f1b35f852f0012593f724f6522e8, RESELLER, 4ad745ead2958bf7
+adform.com, 3215, RESELLER
 algorix.co, 604631, RESELLER, 5b394c12fea27a1d
 betweendigital.com, 43713, RESELLER
 bidinfluence.com, 501604, RESELLER
-bidmachine.io, 896, RESELLER
 bidscube.com, 4000356, RESELLER, 6ecc87a1e0269657
-conversantmedia.com, 100569, RESELLER, 03113cd04947736d
 ergadx.com, 4776, RESELLER
 hyperad.tech, 250, RESELLER
 improvedigital.com, 2480, RESELLER
-inmobi.com, 253350e46db84ec8a4607ddcb311f667, RESELLER, 83e75a7ae333ca9d
-lijit.com, 528054, RESELLER, fafdf38b16bf6b2b
-onetag.com, 758e0f1a8f05074, RESELLER, 0bfd66d529a55807
-openx.com, 561446248, RESELLER, 6a698e2ec38604c6
+onetag.com, 758e0f1a8f05074, RESELLER
 opera.com, pub12107878919616, RESELLER, 55a0c5fd61378de3
 opera.com, pub4261820774272, RESELLER, 55a0c5fd61378de3
 pubmatic.com, 160881, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 15044, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 23102, RESELLER, 0bfd66d529a55807
-smartadserver.com, 4543, RESELLER, 060d053dcf45cbf3
-toponad.com, 16740668176554, RESELLER, 1d49fe424a1a456d
-vistarsagency.com, cs8h2ksujksc73aofdh0, RESELLER, 8db795910158017c
 yabbi.me, 2d576ffe-e44c-494f-95ed-f0ff3a07f9b8, DIRECT
 yeahmobi.com, 5135296, RESELLER
 zmaticoo.com, 5135759, RESELLER
