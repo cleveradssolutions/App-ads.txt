@@ -2865,7 +2865,6 @@ opera.com, pub10908243052672, DIRECT, 55a0c5fd61378de3
 outbrain.com, 00bba279fec6daa01a0cb6fdccb023f0d5, RESELLER
 peak226.com, 12700, RESELLER
 pixelverge.com, 1005, DIRECT
-potensus.com, 5362872600, DIRECT
 potensus.com, 5707220331, DIRECT
 premiumads.com.br, 21425, DIRECT
 premiumads.net, 21425, DIRECT

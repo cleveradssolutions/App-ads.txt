@@ -1,5 +1,5 @@
 #=== Potensus Nov 28, 2024
-potensus.com, 5362872600, DIRECT
+potensus.com, 5707220331, DIRECT
 acexchange.co.kr, 1416775282, RESELLER
 adcolony.com, 197af3936679d34e, RESELLER, 1ad675c9de6b5176
 adelement.com, 30020, RESELLER
@@ -131,7 +131,6 @@ peak226.com, 12700, RESELLER
 peak226.com, 12900, RESELLER
 peak226.com, 12901, RESELLER
 pokkt.com, 7606, RESELLER, c45702d9311e25fd
-potensus.com, 5707220331, DIRECT
 prequel.tv, 518, RESELLER
 pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
 pubmatic.com, 155975, RESELLER, 5d62403b186f2ace
