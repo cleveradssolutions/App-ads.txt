@@ -1,12 +1,13 @@
-ivs.tv, 745639, RESELLER
+#=== ShowHeroes Jan 21, 2026
 ivs.tv, 745639, DIRECT
+ivs.tv, 745639, RESELLER
+adform.com, 2688, RESELLER, 9f5210a2f0999e32
+adform.com, 2845, RESELLER, 9f5210a2f0999e32
 appnexus.com, 11487, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13774, RESELLER, f5ab79cb980f11d1
 appnexus.com, 15325, RESELLER, f5ab79cb980f11d1
-adform.com,  2845, RESELLER, 9f5210a2f0999e32
-adform.com, 2688, RESELLER, 9f5210a2f0999e32
-openx.com, 540022851, RESELLER, 6a698e2ec38604c6
-rubiconproject.com,2600, RESELLER
-pubmatic.com, 120391, RESELLER, 5d62403b186f2ace
-sharethrough.com, z4z8ek6m, DIRECT, d53b998a7bd4ecd2
 improvedigital.com, 1057, RESELLER
+openx.com, 540022851, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 120391, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 2600, RESELLER
+sharethrough.com, z4z8ek6m, DIRECT, d53b998a7bd4ecd2

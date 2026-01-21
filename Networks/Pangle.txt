@@ -1,4 +1,5 @@
-#=== Pangle Dec 19, 2023
-pangleglobal.com, 86231, DIRECT
+#=== Pangle Jan 21, 2026
 pangleglobal.com, 5015768, DIRECT
+pangleglobal.com, 86231, DIRECT
+pangleglobal.com, 5035457, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace

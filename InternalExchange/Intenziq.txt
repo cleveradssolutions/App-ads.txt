@@ -1,4 +1,4 @@
-#=== Intenziq Sep 10, 2025
+#=== Intenziq Jan 21, 2026
 intenze.co, 200139, DIRECT
 152media.info, 152M968, RESELLER
 adagio.io, 1370, RESELLER
@@ -9,6 +9,7 @@ adyoulike.com, d56e3e148de35ef3f2fc06a8fe3a5d1a, DIRECT, 4ad745ead2958bf7
 appads.in, 108501, RESELLER
 chocolateplatform.com, 21704, RESELLER
 conversantmedia.com, 100275, DIRECT, 03113cd04947736d
+eskimi.com, 2020001208, DIRECT
 freewheel.tv, 1608319, RESELLER, 74e8e47458f74754
 freewheel.tv, 1608328, RESELLER, 74e8e47458f74754
 improvedigital.com, 2541, RESELLER
@@ -18,8 +19,7 @@ onetag.com, 8cc07948e3ea93c, DIRECT, 0bfd66d529a55807
 pokkt.com, 8501, RESELLER, c45702d9311e25fd
 rubiconproject.com, 15854, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 19116, RESELLER, 0bfd66d529a55807
+smilewanted.com, 5950, RESELLER
 ucfunnel.com, par-E2B43B6262396767C7248E623A98A6E3, RESELLER
 yeahmobi.com, 5135080, DIRECT
 zmaticoo.com, 5135080, DIRECT
-smilewanted.com, 5950, RESELLER
-eskimi.com, 2020001208, DIRECT

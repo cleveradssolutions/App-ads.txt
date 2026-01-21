@@ -1,4 +1,4 @@
-#=== Monetizgo Jan 05, 2026
+#=== Monetizgo Jan 21, 2026
 omgstudios.com, 191120241, DIRECT, f08c47fec0942fa0
 inventorypartnerdomain=bigedition.com
 inventorypartnerdomain=chatter.biz
@@ -30,8 +30,8 @@ sharethrough.com, inExmllk, DIRECT, d53b998a7bd4ecd2
 supply.colossusssp.com, 423, RESELLER
 themediagrid.com, 4WPRHV, DIRECT, 35d5010d7789b49d
 themediagrid.com, OTJDBI, DIRECT, 35d5010d7789b49d
+themediagrid.com, 4WPRHV, RESELLER, 35d5010d7789b49d
 themediagrid.com, OTJDBI, RESELLER, 35d5010d7789b49d
 video.unrulymedia.com, 149448201, RESELLER
 xandr.com, 13291, RESELLER, f5ab79cb980f11d1
 xandr.com, 8283, RESELLER, f5ab79cb980f11d1
-themediagrid.com, 4WPRHV, RESELLER, 35d5010d7789b49d

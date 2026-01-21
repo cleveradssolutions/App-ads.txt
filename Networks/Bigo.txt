@@ -1,4 +1,4 @@
-#=== Bigo Jan 12, 2026
+#=== Bigo Jan 21, 2026
 bigo.sg, 10374, DIRECT
 152media.info, 152M698, RESELLER
 33across.com, 0010b00002MptSLAAZ, RESELLER, bbea06d9c4d2853c
@@ -79,6 +79,7 @@ brightmountainmedia.com, 2686894, RESELLER
 caerulus.io, 3320-37140, RESELLER
 carambo.la, 914731121, RESELLER
 carambo.la, 914738127, RESELLER
+cas.ai, b2659234, DIRECT
 cgnl.io, 6185, RESELLER
 cgnl.io, 7001, RESELLER
 chocolateplatform.com, 14630, RESELLER, 49a66ce31a704197
