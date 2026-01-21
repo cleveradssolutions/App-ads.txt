@@ -35,3 +35,8 @@ themediagrid.com, OTJDBI, RESELLER, 35d5010d7789b49d
 video.unrulymedia.com, 149448201, RESELLER
 xandr.com, 13291, RESELLER, f5ab79cb980f11d1
 xandr.com, 8283, RESELLER, f5ab79cb980f11d1
+thisisglobal.com, 5329, RESELLER
+conversantmedia.com, 100087, RESELLER, 03113cd04947736d
+thisisglobal.com, 5330, RESELLER
+onetag.com, 7c5eba01acab359, RESELLER
+themediagrid.com, ZG1DBN, RESELLER, 35d5010d7789b49d
