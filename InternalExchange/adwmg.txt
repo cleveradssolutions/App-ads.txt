@@ -1,0 +1,5 @@
+#=== Adwmg Jan 21, 2026
+adwmg.com, 101451, DIRECT, c9688a22012618e7
+google.com, pub-8309773808661346, RESELLER, f08c47fec0942fa0
+media.net, 8CUIKIUHH, RESELLER
+sharethrough.com, 2f18331a, RESELLER, d53b998a7bd4ecd2
