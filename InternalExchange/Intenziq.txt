@@ -21,3 +21,5 @@ rubiconproject.com, 19116, RESELLER, 0bfd66d529a55807
 ucfunnel.com, par-E2B43B6262396767C7248E623A98A6E3, RESELLER
 yeahmobi.com, 5135080, DIRECT
 zmaticoo.com, 5135080, DIRECT
+smilewanted.com, 5950, RESELLER
+eskimi.com, 2020001208, DIRECT
