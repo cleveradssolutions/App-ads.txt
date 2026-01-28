@@ -1,4 +1,4 @@
-#=== Monetizgo Jan 21, 2026
+#=== Monetizgo Jan 28, 2026
 omgstudios.com, 191120241, DIRECT, f08c47fec0942fa0
 inventorypartnerdomain=bigedition.com
 inventorypartnerdomain=chatter.biz
@@ -12,6 +12,7 @@ bigedition.com, 1411202401, DIRECT
 bigedition.com, 202411191, DIRECT
 chatter.biz, ch100040, DIRECT
 consumable.com, 2001598, DIRECT, aefcd3d2f45b5070
+conversantmedia.com, 100087, RESELLER, 03113cd04947736d
 conversantmedia.com, 100807, RESELLER, 03113cd04947736d
 grouprvn.com, B0NwjofVeY, DIRECT
 grouprvn.com, 520211042, RESELLER
@@ -19,6 +20,7 @@ improvedigital.com, 2702, RESELLER
 inmobi.com, 222b3585ee444b248f8dee412bbb3d17, DIRECT, 83e75a7ae333ca9d
 lijit.com, 391818, RESELLER, fafdf38b16bf6b2b
 media.net, 8CUCYCTY4, RESELLER
+onetag.com, 7c5eba01acab359, RESELLER
 openx.com, 539131863, DIRECT, 6a698e2ec38604c6
 pubmatic.com, 158100, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163009, RESELLER, 5d62403b186f2ace
@@ -32,6 +34,9 @@ themediagrid.com, 4WPRHV, DIRECT, 35d5010d7789b49d
 themediagrid.com, OTJDBI, DIRECT, 35d5010d7789b49d
 themediagrid.com, 4WPRHV, RESELLER, 35d5010d7789b49d
 themediagrid.com, OTJDBI, RESELLER, 35d5010d7789b49d
+themediagrid.com, ZG1DBN, RESELLER, 35d5010d7789b49d
+thisisglobal.com, 5329, RESELLER
+thisisglobal.com, 5330, RESELLER
 video.unrulymedia.com, 149448201, RESELLER
 xandr.com, 13291, RESELLER, f5ab79cb980f11d1
 xandr.com, 8283, RESELLER, f5ab79cb980f11d1

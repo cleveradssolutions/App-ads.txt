@@ -1,4 +1,4 @@
-#=== Maticoo Jan 12, 2026
+#=== Maticoo Jan 28, 2026
 zmaticoo.com, 79493, DIRECT
 zmaticoo.com, 84028, DIRECT
 zmaticoo.com, 86584, DIRECT
@@ -234,7 +234,6 @@ inmobi.com, e2ce6fad847d4642b368082d662cc088, RESELLER, 83e75a7ae333ca9d
 inmobi.com, ef083d721beb4c0f8776ced01e262c03, RESELLER, 83e75a7ae333ca9d
 inmobi.com, fe4db13744124582a6a2b18964560ce7, RESELLER, 83e75a7ae333ca9d
 insticator.com, 4376617d-da33-438d-b3a5-0b0135b08e60, DIRECT, b3511ffcafb23a32
-insticator.com, ClientUUID, DIRECT, b3511ffcafb23a32
 insticator.com, 1d1216ca-460d-43b2-ae1f-35da441c86e3, RESELLER, b3511ffcafb23a32
 instreamatic.com, 207, RESELLER
 ivs.tv, 745639, RESELLER
@@ -305,7 +304,6 @@ my-cast.tv, 987126, RESELLER, 8c33fe1bd714ffd7
 nextmillennium.io, 14807, RESELLER, 65bd090fa4a1e3d6
 nextmillennium.io, 16949, RESELLER, 65bd090fa4a1e3d6
 nexverse.ai, 24205, DIRECT
-oko.uk, ClientUUID, DIRECT, b3511ffcafb23a32
 oko.uk, 1d1216ca-460d-43b2-ae1f-35da441c86e3, RESELLER, b3511ffcafb23a32
 onairglobal.com, 4357627, RESELLER
 onetag.com, 52a5b73146950c0, RESELLER
@@ -630,6 +628,7 @@ video.unrulymedia.com, 894246135, RESELLER
 videoheroes.tv, 21207, RESELLER, 064bc410192443d8
 videoheroes.tv, 212432, RESELLER, 064bc410192443d8
 videoheroes.tv, 212503, RESELLER, 064bc410192443d8
+videoheroes.tv, 212662, RESELLER, 064bc410192443d8
 videoheroes.tv, 212693, RESELLER, 064bc410192443d8
 vidoomy.com, 9148331, RESELLER
 viralize.com, 6596, DIRECT
@@ -656,3 +655,4 @@ yandex.com, 305143219, DIRECT
 yieldmo.com, 3377199372461613093, RESELLER
 zeta.com, 757, RESELLER
 zetaglobal.net, 927, RESELLER
+zmaticoo.com, 97126, DIRECT

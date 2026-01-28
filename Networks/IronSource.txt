@@ -1,4 +1,4 @@
-#=== IronSource Jan 05, 2026
+#=== IronSource Jan 28, 2026
 ironsrc.com, 218335, DIRECT
 ironsrc.com, 406326, DIRECT
 ironsrc.com, 445197, DIRECT
@@ -41,6 +41,7 @@ media.net, 8cu62mcq0, RESELLER
 media.net, 8cu9b72o6, RESELLER
 openx.com, 537153564, RESELLER, 6a698e2ec38604c6
 openx.com, 559912325, RESELLER, 6a698e2ec38604c6
+openx.com, 561446248, RESELLER, 6a698e2ec38604c6
 openx.com, 561470659, RESELLER, 6a698e2ec38604c6
 openx.com, 562174952, RESELLER, 6a698e2ec38604c6
 opera.com, pub6148735850944, RESELLER, 55a0c5fd61378de3
@@ -79,6 +80,7 @@ rubiconproject.com, 25978, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26132, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26292, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26958, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 28169, RESELLER, 0bfd66d529a55807
 sabio.us, 100160, RESELLER, 96ed93aaa9795702
 sharethrough.com, 3713, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 4237, RESELLER, d53b998a7bd4ecd2
