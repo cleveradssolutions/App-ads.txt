@@ -1,4 +1,4 @@
-#=== AppLovin Nov 04, 2025
+#=== AppLovin Jan 28, 2026
 applovin.com, 1b46f5e3cf2242caea5c383ca959e5dd, DIRECT
 applovin.com, 4d391c28b8c9b08646600303640192ea, DIRECT
 applovin.com, c0240449e33b7431936ee54233b9ffc9, DIRECT
