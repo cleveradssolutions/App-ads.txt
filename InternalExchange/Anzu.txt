@@ -1,0 +1,14 @@
+anzu.io,692eb33fa6edabbaaff0b103,RESELLER,1c1b7acf4992136c
+rubiconproject.com, 17476, RESELLER, 0bfd66d529a55807
+Media.net, 8CU47MDK1, RESELLER
+loopme.com,11524,RESELLER,6c8d5f95897a5a3b
+indexexchange.com, 192505,RESELLER, 50b1c356f2c5c8fc
+pubmatic.com,167515,RESELLER,5d62403b186f2ace
+anzu.io,691302d0870ed0233ae68d7c,DIRECT,1c1b7acf4992136c
+triplelift.com, 14709, RESELLER, 6c33edb13117fd86
+lijit.com,52416,RESELLER,fafdf38b16bf6b2b
+smaato.com,1100059345,RESELLER,07bcf65f187117b4
+openx.com,543888036,RESELLER,6a698e2ec38604c6
+appnexus.com,12616,RESELLER,f5ab79cb980f11d1
+smartadserver.com,4024,RESELLER,060d053dcf45cbf3
+sharethrough.com.4024,RESELLER,d53b998a7bd4ecd2
