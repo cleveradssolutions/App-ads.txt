@@ -1,4 +1,4 @@
-#=== Mintegral Jan 28, 2026
+#=== Mintegral Feb 16, 2026
 mintegral.com, 25008, DIRECT, 0aeed750c80d6423
 mintegral.com, 52286, DIRECT, 0aeed750c80d6423
 33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c
@@ -335,7 +335,6 @@ instreamatic.com, 78, RESELLER
 krushmedia.com, AJxF6R192a9M6CaTvK, RESELLER
 kubient.com, 5e2cb089c866, RESELLER, 4f12311e6ed900a3
 lacunads.com, LC136f79e999464edc, RESELLER
-liftoff.io, 7f6945815e6, RESELLER
 lijit.com, 273644, RESELLER, fafdf38b16bf6b2b
 lijit.com, 367217, RESELLER, fafdf38b16bf6b2b
 lijit.com, 380632, RESELLER, fafdf38b16bf6b2b
@@ -750,6 +749,8 @@ triplelift.com, 13423, RESELLER, 6c33edb13117fd86
 triplelift.com, 13792, RESELLER, 6c33edb13117fd86
 triplelift.com, 13907, RESELLER, 6c33edb13117fd86
 triplelift.com, 14697, RESELLER, 6c33edb13117fd86
+triplelift.com, 14734, RESELLER, 6c33edb13117fd86
+triplelift.com, 14734-EB, RESELLER
 triplelift.com, 6457, RESELLER, 6c33edb13117fd86
 tritondigital.com, 106423, RESELLER, 19b4454d0b87b58b
 ucfunnel.com, par-6272997D742EBBBB1E4B8B6D9EA8D3B7, RESELLER
