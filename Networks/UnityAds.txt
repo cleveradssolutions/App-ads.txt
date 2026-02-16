@@ -1,4 +1,4 @@
-#=== UnityAds Jan 28, 2026
+#=== UnityAds Feb 16, 2026
 unity.com, 1049822, DIRECT, 96cabb5fbdde37a7
 unity.com, 1773786, DIRECT, 96cabb5fbdde37a7
 unity.com, 4527131, DIRECT, 96cabb5fbdde37a7
@@ -54,6 +54,7 @@ media.net, 8cu355vs4, RESELLER
 media.net, 8cu5l226o, RESELLER
 media.net, 8cu9b72o6, RESELLER
 openx.com, 559912325, RESELLER, 6a698e2ec38604c6
+openx.com, 561446248, RESELLER, 6a698e2ec38604c6
 openx.com, 561470659, RESELLER, 6a698e2ec38604c6
 openx.com, 562174952, RESELLER, 6a698e2ec38604c6
 opera.com, pub6148735850944, RESELLER, 55a0c5fd61378de3
@@ -92,8 +93,11 @@ rubiconproject.com, 25978, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26132, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26292, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26958, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 28169, RESELLER, 0bfd66d529a55807
 sharethrough.com, 3713, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 5294, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, 5828, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, 5828-OB, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, bc6d1whs, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, bxzzb1br, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, ftvct81v, RESELLER
@@ -111,6 +115,8 @@ smartadserver.com, 4568, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4578, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4610, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 5294, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 5828, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 5828-OB, RESELLER, 060d053dcf45cbf3
 smartclip.net, 13564, RESELLER
 start.io, 168507669, RESELLER
 start.io, 197760873, RESELLER

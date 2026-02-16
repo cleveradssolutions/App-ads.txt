@@ -1,9 +1,10 @@
+#=== Haxmedia Feb 16, 2026
 hax.ortb.net, 657798, DIRECT
+adagio.io, 1587, RESELLER
+adform.com, 3215, RESELLER
+admatic.de, ade-pub-2666112605, RESELLER
 adyoulike.com, 283e6e26614a07d896da0933c3719127, DIRECT
-appnexus.com, 14808, Direct
-rubiconproject.com, 20736, RESELLER, 0bfd66d529a55807
+appnexus.com, 14808, DIRECT
 appnexus.com, 7664, RESELLER
 pubmatic.com, 160925, RESELLER, 5d62403b186f2ace
-adagio.io, 1587, RESELLER
-adform.com, 3215, reseller
-admatic.de, ade-pub-2666112605, RESELLER
+rubiconproject.com, 20736, RESELLER, 0bfd66d529a55807
