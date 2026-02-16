@@ -2136,7 +2136,6 @@ bold-win.com, 1117, RESELLER, 71746737d0bab951
 brightmountainmedia.com, 2686894, RESELLER
 carambo.la, 914731121, RESELLER
 carambo.la, 914738127, RESELLER
-cas.ai, b2659234, DIRECT
 cgnl.io, 6185, RESELLER
 cgnl.io, 7001, RESELLER
 chocolateplatform.com, 14630, RESELLER, 49a66ce31a704197
