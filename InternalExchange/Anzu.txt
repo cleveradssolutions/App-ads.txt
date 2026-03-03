@@ -13,3 +13,17 @@ sharethrough.com, 4024, RESELLER, d53b998a7bd4ecd2
 smaato.com, 1100059345, RESELLER, 07bcf65f187117b4
 smartadserver.com, 4024, RESELLER, 060d053dcf45cbf3
 triplelift.com, 14709, RESELLER, 6c33edb13117fd86
+indexexchange.com, 214429, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 167514, RESELLER, 5d62403b186f2ace
+pubmatic.com, 166397, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158903, RESELLER, 5d62403b186f2ace
+loopme.com, 15601, RESELLER, 6c8d5f95897a5a3b
+smaato.com, 1100058237, RESELLER, 07bcf65f187117b4
+smaato.com, 1100043162, RESELLER, 07bcf65f187117b4
+smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
+Media.net, 8CU59IU47, RESELLER
+opera.com, pub10083924095168, RESELLER,55a0c5fd61378de3
+video.unrulymedia.com, 3890682751, RESELLER
+admanmedia.com, 647, RESELLER
+app-stock.com, 562114,RESELLER, ed8c126ea5971415
+iion.io, 10115, RESELLER
