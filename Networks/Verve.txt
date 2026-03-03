@@ -254,7 +254,6 @@ brightcom.com, 20372, RESELLER, b3868b187e4b6402
 brightcom.com, 20522, RESELLER
 brightmountainmedia.com, 2686539, RESELLER
 carbonatix.com, 164931029, RESELLER
-cas.ai, 20d77a3e, RESELLER
 castify.ai, 1252012, RESELLER
 cazhype.com, efe937780e95574250dabe07151bdc2332794, RESELLER
 chocolateplatform.com, 21364, RESELLER
