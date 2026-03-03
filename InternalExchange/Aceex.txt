@@ -83,3 +83,5 @@ vidoomy.com, 5498575, RESELLER
 voisetech.com, 1244, DIRECT, 9009ef0379162448
 xandr.com, 13167, RESELLER, f5ab79cb980f11d1
 xandr.com, 7847, RESELLER, f5ab79cb980f11d1
+Media.net, 8CU9E48BW, RESELLER
+adsmartx.ai, 690445, RESELLER
