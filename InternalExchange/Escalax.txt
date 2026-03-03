@@ -1,3 +1,5 @@
 escalax.io, 82, DIRECT
 Supply.colossusssp.com, 849, RESELLER
 yieldmo.com, 3078438591206989879, RESELLER, #ortb
+videoshakers.tv, 58204917364291, RESELLER, 819580c2afa8a3aa
+appnexus.com, 17931, RESELLER, f5ab79cb980f11d1
