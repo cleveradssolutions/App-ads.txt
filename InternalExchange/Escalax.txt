@@ -1,0 +1,3 @@
+escalax.io, 82, DIRECT
+Supply.colossusssp.com, 849, RESELLER
+yieldmo.com, 3078438591206989879, RESELLER, #ortb
