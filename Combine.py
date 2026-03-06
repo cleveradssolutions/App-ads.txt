@@ -42,7 +42,6 @@ _SOURCES = [
     "Maticoo",
     "HyprMX",
     "StartIO",
-    "Smaato",
     "Verve",
 ]
 _SOURCE_DSP = [
