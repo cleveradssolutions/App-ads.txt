@@ -1,3 +1,7 @@
 #=== MCG Dec 02, 2025
 xandr.com, 15984, RESELLER
 mcgads.com, 7ZSTGP, DIRECT
+anyclip.com, N002, RESELLER
+pubmatic.com, 156610, RESELLER, 5d62403b186f2ace
+openx.com, 537139983, RESELLER, 6a698e2ec38604c6
+openx.com, 540917439, RESELLER, 6a698e2ec38604c6
