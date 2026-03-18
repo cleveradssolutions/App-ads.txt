@@ -1,4 +1,4 @@
-#=== Verve Mar 06, 2026
+#=== Verve Mar 12, 2026
 pubnative.net, 1017314, DIRECT, d641df8625486a7b
 pubnative.net, 1017315, DIRECT, d641df8625486a7b
 pubnative.net, 1007303, RESELLER, d641df8625486a7b
@@ -187,6 +187,7 @@ appnexus.com, 17417, RESELLER, f5ab79cb980f11d1
 appnexus.com, 17431, RESELLER, f5ab79cb980f11d1
 appnexus.com, 17539, RESELLER, f5ab79cb980f11d1
 appnexus.com, 17779, RESELLER, f5ab79cb980f11d1
+appnexus.com, 17941, RESELLER, f5ab79cb980f11d1
 appnexus.com, 4052, RESELLER, f5ab79cb980f11d1
 appnexus.com, 8233, RESELLER, f5ab79cb980f11d1
 appnexus.com, 9684, RESELLER, f5ab79cb980f11d1
@@ -1273,7 +1274,7 @@ videoheroes.tv, 212432, RESELLER, 064bc410192443d8
 videoheroes.tv, 212450, RESELLER, 064bc410192443d8
 videoheroes.tv, 212784, RESELLER, 064bc410192443d8
 visiblemeasures.com, 1003, RESELLER
-voisetech.com, 1004, RESELLER
+voisetech.com, 1004, RESELLER, 9009ef0379162448
 voisetech.com, 1216, RESELLER, 9009ef0379162448
 voisetech.com, 1244, RESELLER, 9009ef0379162448
 voisetech.com, 1328, RESELLER, 9009ef0379162448
@@ -1303,6 +1304,7 @@ xandr.com, 17539, RESELLER, f5ab79cb980f11d1
 xandr.com, 17779, RESELLER
 xandr.com, 17934, RESELLER, f5ab79cb980f11d1
 xandr.com, 17935, RESELLER, f5ab79cb980f11d1
+xandr.com, 17941, RESELLER, f5ab79cb980f11d1
 yahoo.com, 55771, RESELLER, e1a5b5b6e3255540
 yellowhead.com, e0a1d3b2c6f495, RESELLER
 yieldmo.com, 2807970144171533194, RESELLER
