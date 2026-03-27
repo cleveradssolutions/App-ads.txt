@@ -1,5 +1,212 @@
-#=== YangoAds Mar 18, 2026
+#=== YangoAds Mar 27, 2026
+yandex.com, 100032860, DIRECT
+yandex.com, 100440221, DIRECT
+yandex.com, 10074451, DIRECT
+yandex.com, 101469401, DIRECT
+yandex.com, 101953357, DIRECT
+yandex.com, 101958035, DIRECT
+yandex.com, 101972110, DIRECT
+yandex.com, 102054515, DIRECT
+yandex.com, 102109955, DIRECT
+yandex.com, 102507624, DIRECT
+yandex.com, 102773623, DIRECT
+yandex.com, 102924999, DIRECT
+yandex.com, 103362933, DIRECT
+yandex.com, 103503193, DIRECT
+yandex.com, 103597540, DIRECT
+yandex.com, 103725656, DIRECT
+yandex.com, 103764195, DIRECT
+yandex.com, 103783234, DIRECT
+yandex.com, 103799418, DIRECT
+yandex.com, 103852260, DIRECT
+yandex.com, 104222071, DIRECT
+yandex.com, 104398466, DIRECT
+yandex.com, 104434718, DIRECT
+yandex.com, 104511275, DIRECT
+yandex.com, 104716934, DIRECT
+yandex.com, 104819352, DIRECT
+yandex.com, 104960611, DIRECT
+yandex.com, 104980237, DIRECT
+yandex.com, 105015265, DIRECT
+yandex.com, 105026438, DIRECT
+yandex.com, 105132673, DIRECT
+yandex.com, 105204645, DIRECT
+yandex.com, 105209782, DIRECT
+yandex.com, 105212960, DIRECT
+yandex.com, 105214304, DIRECT
+yandex.com, 105232299, DIRECT
+yandex.com, 105255791, DIRECT
+yandex.com, 105277928, DIRECT
+yandex.com, 105293236, DIRECT
+yandex.com, 105294323, DIRECT
+yandex.com, 105324247, DIRECT
+yandex.com, 105361897, DIRECT
+yandex.com, 105442630, DIRECT
+yandex.com, 105535597, DIRECT
+yandex.com, 105583869, DIRECT
+yandex.com, 105608884, DIRECT
+yandex.com, 105674210, DIRECT
+yandex.com, 105702307, DIRECT
+yandex.com, 105812468, DIRECT
+yandex.com, 105880581, DIRECT
+yandex.com, 105915090, DIRECT
+yandex.com, 105930368, DIRECT
+yandex.com, 106429560, DIRECT
+yandex.com, 1064463, DIRECT
+yandex.com, 106459991, DIRECT
+yandex.com, 106475235, DIRECT
+yandex.com, 106535574, DIRECT
+yandex.com, 106549109, DIRECT
+yandex.com, 106702142, DIRECT
+yandex.com, 106995250, DIRECT
+yandex.com, 107006361, DIRECT
+yandex.com, 107078395, DIRECT
+yandex.com, 107135807, DIRECT
+yandex.com, 107243273, DIRECT
+yandex.com, 107285726, DIRECT
+yandex.com, 107294509, DIRECT
+yandex.com, 107398070, DIRECT
+yandex.com, 107467420, DIRECT
+yandex.com, 107686073, DIRECT
+yandex.com, 107725748, DIRECT
+yandex.com, 107811360, DIRECT
+yandex.com, 1079241, DIRECT
+yandex.com, 108089270, DIRECT
+yandex.com, 108109422, DIRECT
+yandex.com, 108229888, DIRECT
+yandex.com, 108233621, DIRECT
+yandex.com, 108295820, DIRECT
+yandex.com, 108405608, DIRECT
+yandex.com, 108412059, DIRECT
+yandex.com, 108552723, DIRECT
+yandex.com, 108616176, DIRECT
+yandex.com, 108751363, DIRECT
+yandex.com, 108764419, DIRECT
+yandex.com, 108777956, DIRECT
+yandex.com, 109070888, DIRECT
+yandex.com, 109203050, DIRECT
+yandex.com, 109409159, DIRECT
+yandex.com, 109446142, DIRECT
+yandex.com, 109523582, DIRECT
+yandex.com, 109937641, DIRECT
+yandex.com, 110016091, DIRECT
+yandex.com, 110293872, DIRECT
+yandex.com, 110775958, DIRECT
+yandex.com, 111062077, DIRECT
+yandex.com, 1836053, DIRECT
+yandex.com, 2180359, DIRECT
+yandex.com, 300099367, DIRECT
+yandex.com, 300716275, DIRECT
+yandex.com, 300797117, DIRECT
+yandex.com, 301026545, DIRECT
+yandex.com, 301114923, DIRECT
+yandex.com, 301492767, DIRECT
+yandex.com, 301556923, DIRECT
+yandex.com, 301576469, DIRECT
+yandex.com, 301880679, DIRECT
+yandex.com, 302104953, DIRECT
+yandex.com, 302342049, DIRECT
+yandex.com, 302374139, DIRECT
+yandex.com, 302446435, DIRECT
+yandex.com, 302483019, DIRECT
+yandex.com, 302617573, DIRECT
+yandex.com, 302660909, DIRECT
+yandex.com, 302690591, DIRECT
+yandex.com, 302733333, DIRECT
+yandex.com, 302748273, DIRECT
+yandex.com, 303081565, DIRECT
+yandex.com, 303164747, DIRECT
+yandex.com, 303255267, DIRECT
+yandex.com, 304114139, DIRECT
+yandex.com, 304141945, DIRECT
+yandex.com, 304860453, DIRECT
+yandex.com, 305011715, DIRECT
+yandex.com, 305143219, DIRECT
+yandex.com, 305184791, DIRECT
+yandex.com, 305232011, DIRECT
+yandex.com, 305465121, DIRECT
+yandex.com, 305746111, DIRECT
+yandex.com, 305964279, DIRECT
+yandex.com, 306253317, DIRECT
+yandex.com, 306473995, DIRECT
+yandex.com, 306513917, DIRECT
+yandex.com, 306531245, DIRECT
+yandex.com, 306536165, DIRECT
+yandex.com, 306703413, DIRECT
+yandex.com, 306862157, DIRECT
+yandex.com, 308037975, DIRECT
+yandex.com, 308274163, DIRECT
+yandex.com, 308421299, DIRECT
+yandex.com, 308572689, DIRECT
+yandex.com, 308823129, DIRECT
+yandex.com, 309052401, DIRECT
+yandex.com, 309194099, DIRECT
+yandex.com, 309542643, DIRECT
+yandex.com, 309626057, DIRECT
+yandex.com, 309820365, DIRECT
+yandex.com, 310471265, DIRECT
+yandex.com, 310690309, DIRECT
+yandex.com, 311328457, DIRECT
+yandex.com, 311898455, DIRECT
+yandex.com, 311930955, DIRECT
+yandex.com, 312522203, DIRECT
+yandex.com, 313285765, DIRECT
+yandex.com, 313913189, DIRECT
+yandex.com, 315783563, DIRECT
+yandex.com, 316579223, DIRECT
+yandex.com, 316977175, DIRECT
+yandex.com, 317234097, DIRECT
+yandex.com, 318365531, DIRECT
+yandex.com, 319094321, DIRECT
+yandex.com, 320543997, DIRECT
+yandex.com, 321387101, DIRECT
+yandex.com, 32262487, DIRECT
+yandex.com, 32691543, DIRECT
+yandex.com, 3827676, DIRECT
+yandex.com, 38777891, DIRECT
+yandex.com, 52649769, DIRECT
+yandex.com, 55753107, DIRECT
+yandex.com, 58079117, DIRECT
+yandex.com, 59817010, DIRECT
+yandex.com, 61799481, DIRECT
 yandex.com, 66051405, DIRECT
+yandex.com, 76768767, DIRECT
+yandex.com, 7906184, DIRECT
+yandex.com, 88340351, DIRECT
+yandex.com, 90612784, DIRECT
+yandex.com, 92070108, DIRECT
+yandex.com, 92248026, DIRECT
+yandex.com, 93241926, DIRECT
+yandex.com, 93437304, DIRECT
+yandex.com, 93455201, DIRECT
+yandex.com, 94047527, DIRECT
+yandex.com, 948597, DIRECT
+yandex.com, 95954877, DIRECT
+yandex.com, 96773357, DIRECT
+yandex.com, 96804212, DIRECT
+yandex.com, 96934425, DIRECT
+yandex.com, 97375443, DIRECT
+yandex.com, 97525920, DIRECT
+yandex.com, 97553251, DIRECT
+yandex.com, 97582033, DIRECT
+yandex.com, 97582782, DIRECT
+yandex.com, 97608289, DIRECT
+yandex.com, 98476141, DIRECT
+yandex.com, 98579611, DIRECT
+yandex.com, 98884524, DIRECT
+yandex.com, 98966348, DIRECT
+yandex.com, 98968858, DIRECT
+yandex.com, 99074063, DIRECT
+yandex.com, 99366953, DIRECT
+yandex.com, 99707801, DIRECT
+yandex.com, 99779490, DIRECT
+yandex.com, 99781847, DIRECT
+yandex.com, 999272, DIRECT
+yandex.com, 311761695, RESELLER
+yandex.com, 63904735, RESELLER
+yandex.com, 94923424, RESELLER
+yandex.com, 97539269, RESELLER
+yandex.com, 98384845, RESELLER
 152media.info, 152M1086, RESELLER
 152media.info, 152M1099, RESELLER
 152media.info, 152M166, RESELLER
@@ -27,6 +234,7 @@ acexchange.co.kr, 1075193414, RESELLER
 acexchange.co.kr, 1288659831, RESELLER
 acexchange.co.kr, 1317287336, RESELLER
 acexchange.co.kr, 1854269911, RESELLER
+adagio.io, 1054, RESELLER
 adagio.io, 1280, RESELLER
 adagio.io, 1522, RESELLER
 adagio.io, 1546, RESELLER
@@ -58,6 +266,7 @@ adform.com, 1762, RESELLER
 adform.com, 1942, RESELLER
 adform.com, 2664, RESELLER, 9f5210a2f0999e32
 adform.com, 2671, RESELLER
+adform.com, 2831, RESELLER, 9f5210a2f0999e32
 adform.com, 2995, RESELLER, 9f5210a2f0999e32
 adform.com, 3006, RESELLER, 9f5210a2f0999e32
 adform.com, 3016, RESELLER
@@ -201,9 +410,11 @@ amxrtb.com, 105199934, RESELLER
 aniview.com, 603f65a2e291680ef30af9c7, RESELLER, 78b21b97965ec3f8
 anzu.io, 6900b774b2404d7153408d09, RESELLER, 1c1b7acf4992136c
 anzu.io, 695a3f0d8f0e5ae09b669248, RESELLER
+anzu.io, 6968c4bda0340c3bb11175aa, RESELLER
 aol.com, 59025, RESELLER, e1a5b5b6e3255540
 apester.com, 0220, RESELLER
 apester.com, 0707, RESELLER
+apester.com, 1105, RESELLER
 apester.com, 2701, RESELLER
 apester.com, 49071, RESELLER
 apexflowsdk.com, nLRbLm1tkm, RESELLER
@@ -407,6 +618,7 @@ bidmachine.io, 138, RESELLER
 bidmachine.io, 187, RESELLER
 bidmachine.io, 195, RESELLER
 bidmachine.io, 198, RESELLER
+bidmachine.io, 200, RESELLER
 bidmachine.io, 258, RESELLER
 bidmachine.io, 35, RESELLER
 bidmachine.io, 55, RESELLER
@@ -423,7 +635,6 @@ bigo.sg, 1114681, RESELLER
 bigo.sg, 128, RESELLER
 bigo.sg, 130, RESELLER
 bigo.sg, 13867164, RESELLER
-bigo.sg, 885, RESELLER
 bizzclick.com, 101, RESELLER, 7e936b1feafdaa61
 blis.com, 74, RESELLER, 61453ae19a4b73f4
 blis.com, 86, RESELLER, 61453ae19a4b73f4
@@ -439,6 +650,7 @@ bold-win.com, 1106, RESELLER, 71746737d0bab951
 bold-win.com, 1117, RESELLER, 71746737d0bab951
 bold-win.com, 1131, RESELLER, 71746737d0bab951
 bold-win.com, 1139, RESELLER, 71746737d0bab951
+bold-win.com, 1145, RESELLER, 71746737d0bab951
 bold-win.com, 160, RESELLER, 71746737d0bab951
 bold-win.com, 555, RESELLER, 71746737d0bab951
 bold-win.com, 807, RESELLER, 71746737d0bab951
@@ -466,8 +678,6 @@ caerulus.io, 3320-75524, RESELLER
 carambo.la, 914730833, RESELLER
 carbonatix.com, 140984665, RESELLER
 carbonatix.com, 14840966, RESELLER
-cas.ai, 922e6092, DIRECT
-cas.ai, b2659234, DIRECT
 castify.ai, 1210421, RESELLER
 castify.ai, 1287331, RESELLER
 castify.ai, 1295183, RESELLER
@@ -750,7 +960,6 @@ hyperad.tech, 20, RESELLER
 hyperad.tech, 221, RESELLER
 hyperad.tech, 41, RESELLER
 ignitemediatech.com, pub_63615, DIRECT
-ignitemediatech.com, 101, RESELLER
 ignitemediatech.com, 13867164, RESELLER
 ignitemediatech.com, pub_1001, RESELLER
 ignitemediatech.com, pub_11112, RESELLER
@@ -761,7 +970,6 @@ ignitemediatech.com, pub_11128, RESELLER
 ignitemediatech.com, pub_61112, RESELLER
 ignitemediatech.com, pub_61118, RESELLER
 ignitemediatech.com, pub_61122, RESELLER
-ignitemediatech.com, pub_61317, RESELLER
 ignitemediatech.com, pub_61351, RESELLER
 iion.io, 10115, RESELLER
 iion.io, 10154, RESELLER, 013a29748465dc57
@@ -985,6 +1193,7 @@ lijit.com, 566447, RESELLER, fafdf38b16bf6b2b
 lijit.com, 568191, RESELLER, fafdf38b16bf6b2b
 lijit.com, 569924, RESELLER, fafdf38b16bf6b2b
 lijit.com, 571745, RESELLER, fafdf38b16bf6b2b
+lijit.com, 584539, RESELLER, fafdf38b16bf6b2b
 limpid.tv, 203715, RESELLER
 limpid.tv, 203721, RESELLER
 limpid.tv, 920937, RESELLER
@@ -1080,6 +1289,7 @@ media.net, 8CUF63MX7, RESELLER
 media.net, 8CUFUG8L1, RESELLER
 media.net, 8CUI89K0D, RESELLER
 media.net, 8CUJ45KQQ, RESELLER, 818f58666cabc936
+media.net, 8CUMM4JFW, RESELLER
 media.net, 8CUN37DCC, RESELLER, 818f58666cabc936
 media.net, 8CUO2DQ17, RESELLER
 media.net, 8CUO7P3WK, RESELLER
@@ -1340,6 +1550,7 @@ pubmatic.com, 156517, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156520, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156538, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156557, RESELLER
+pubmatic.com, 156559, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156592, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156631, RESELLER
 pubmatic.com, 156695, RESELLER
@@ -1564,7 +1775,6 @@ risecodes.com, 663cba61d3708c000172de04, RESELLER
 risecodes.com, 66b89f832f275900013903e2, RESELLER
 risecodes.com, 66fab6981efdb80001a3dadc, RESELLER
 risecodes.com, 67e92bf7698942000140acce, RESELLER
-risecodes.com, 685c25b72cb7980001e4ff27, RESELLER
 risecodes.com, 68d54e2fe125150001dd91e2, RESELLER
 rixengine.com, 130103, RESELLER
 rixengine.com, 36069, RESELLER
@@ -1588,6 +1798,7 @@ rubiconproject.com, 13380, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 13510, RESELLER
 rubiconproject.com, 13856, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 13918, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 14558, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 15044, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 15268, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 15278, RESELLER
@@ -1720,6 +1931,7 @@ sharethrough.com, 5EQ7ZF1q, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, Bc6D1WHS, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, CZ4W8fhF, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, FTVCT81v, RESELLER
+sharethrough.com, Fjkl1tSU, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, K5WDGAsP, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, K6tB2uM1, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, KnLYRz1v, RESELLER, d53b998a7bd4ecd2
@@ -2121,6 +2333,7 @@ triplelift.com, 13907, RESELLER, 6c33edb13117fd86
 triplelift.com, 14127, RESELLER, 6c33edb13117fd86
 triplelift.com, 14594, RESELLER, 6c33edb13117fd86
 triplelift.com, 14594-EB, RESELLER, 6c33edb13117fd86
+triplelift.com, 14699, RESELLER, 6c33edb13117fd86
 triplelift.com, 14705, RESELLER, 6c33edb13117fd86
 triplelift.com, 14705-EB, RESELLER
 triplelift.com, 7660, RESELLER, 6c33edb13117fd86
@@ -2353,213 +2566,12 @@ yahoo.com, 59531, RESELLER, e1a5b5b6e3255540
 yahoo.com, 59663, RESELLER, e1a5b5b6e3255540
 yahoo.com, 59674, RESELLER, e1a5b5b6e3255540
 yahoo.com, 60013, RESELLER, e1a5b5b6e3255540
-yandex.com, 100032860, DIRECT
-yandex.com, 100440221, DIRECT
-yandex.com, 10074451, DIRECT
-yandex.com, 101469401, DIRECT
-yandex.com, 101953357, DIRECT
-yandex.com, 101958035, DIRECT
-yandex.com, 101972110, DIRECT
-yandex.com, 102054515, DIRECT
-yandex.com, 102109955, DIRECT
-yandex.com, 102507624, DIRECT
-yandex.com, 102773623, DIRECT
-yandex.com, 102924999, DIRECT
-yandex.com, 103362933, DIRECT
-yandex.com, 103503193, DIRECT
-yandex.com, 103597540, DIRECT
-yandex.com, 103725656, DIRECT
-yandex.com, 103764195, DIRECT
-yandex.com, 103783234, DIRECT
-yandex.com, 103799418, DIRECT
-yandex.com, 103852260, DIRECT
-yandex.com, 104222071, DIRECT
-yandex.com, 104398466, DIRECT
-yandex.com, 104434718, DIRECT
-yandex.com, 104511275, DIRECT
-yandex.com, 104716934, DIRECT
-yandex.com, 104819352, DIRECT
-yandex.com, 104960611, DIRECT
-yandex.com, 104980237, DIRECT
-yandex.com, 105015265, DIRECT
-yandex.com, 105026438, DIRECT
-yandex.com, 105132673, DIRECT
-yandex.com, 105204645, DIRECT
-yandex.com, 105209782, DIRECT
-yandex.com, 105212960, DIRECT
-yandex.com, 105214304, DIRECT
-yandex.com, 105232299, DIRECT
-yandex.com, 105255791, DIRECT
-yandex.com, 105277928, DIRECT
-yandex.com, 105293236, DIRECT
-yandex.com, 105294323, DIRECT
-yandex.com, 105324247, DIRECT
-yandex.com, 105361897, DIRECT
-yandex.com, 105442630, DIRECT
-yandex.com, 105535597, DIRECT
-yandex.com, 105583869, DIRECT
-yandex.com, 105608884, DIRECT
-yandex.com, 105674210, DIRECT
-yandex.com, 105702307, DIRECT
-yandex.com, 105812468, DIRECT
-yandex.com, 105880581, DIRECT
-yandex.com, 105915090, DIRECT
-yandex.com, 105930368, DIRECT
-yandex.com, 106429560, DIRECT
-yandex.com, 1064463, DIRECT
-yandex.com, 106459991, DIRECT
-yandex.com, 106475235, DIRECT
-yandex.com, 106535574, DIRECT
-yandex.com, 106549109, DIRECT
-yandex.com, 106702142, DIRECT
-yandex.com, 106995250, DIRECT
-yandex.com, 107006361, DIRECT
-yandex.com, 107078395, DIRECT
-yandex.com, 107135807, DIRECT
-yandex.com, 107243273, DIRECT
-yandex.com, 107285726, DIRECT
-yandex.com, 107294509, DIRECT
-yandex.com, 107398070, DIRECT
-yandex.com, 107467420, DIRECT
-yandex.com, 107686073, DIRECT
-yandex.com, 107725748, DIRECT
-yandex.com, 107811360, DIRECT
-yandex.com, 1079241, DIRECT
-yandex.com, 108089270, DIRECT
-yandex.com, 108109422, DIRECT
-yandex.com, 108229888, DIRECT
-yandex.com, 108233621, DIRECT
-yandex.com, 108295820, DIRECT
-yandex.com, 108405608, DIRECT
-yandex.com, 108412059, DIRECT
-yandex.com, 108552723, DIRECT
-yandex.com, 108616176, DIRECT
-yandex.com, 108751363, DIRECT
-yandex.com, 108764419, DIRECT
-yandex.com, 108777956, DIRECT
-yandex.com, 109070888, DIRECT
-yandex.com, 109203050, DIRECT
-yandex.com, 109409159, DIRECT
-yandex.com, 109446142, DIRECT
-yandex.com, 109523582, DIRECT
-yandex.com, 109937641, DIRECT
-yandex.com, 110016091, DIRECT
-yandex.com, 110293872, DIRECT
-yandex.com, 110775958, DIRECT
-yandex.com, 111062077, DIRECT
-yandex.com, 1836053, DIRECT
-yandex.com, 2180359, DIRECT
-yandex.com, 300099367, DIRECT
-yandex.com, 300716275, DIRECT
-yandex.com, 300797117, DIRECT
-yandex.com, 301026545, DIRECT
-yandex.com, 301114923, DIRECT
-yandex.com, 301492767, DIRECT
-yandex.com, 301556923, DIRECT
-yandex.com, 301576469, DIRECT
-yandex.com, 301880679, DIRECT
-yandex.com, 302104953, DIRECT
-yandex.com, 302342049, DIRECT
-yandex.com, 302374139, DIRECT
-yandex.com, 302446435, DIRECT
-yandex.com, 302483019, DIRECT
-yandex.com, 302617573, DIRECT
-yandex.com, 302660909, DIRECT
-yandex.com, 302690591, DIRECT
-yandex.com, 302733333, DIRECT
-yandex.com, 302748273, DIRECT
-yandex.com, 303081565, DIRECT
-yandex.com, 303164747, DIRECT
-yandex.com, 303255267, DIRECT
-yandex.com, 304114139, DIRECT
-yandex.com, 304141945, DIRECT
-yandex.com, 304860453, DIRECT
-yandex.com, 305011715, DIRECT
-yandex.com, 305143219, DIRECT
-yandex.com, 305184791, DIRECT
-yandex.com, 305232011, DIRECT
-yandex.com, 305465121, DIRECT
-yandex.com, 305746111, DIRECT
-yandex.com, 305964279, DIRECT
-yandex.com, 306253317, DIRECT
-yandex.com, 306473995, DIRECT
-yandex.com, 306513917, DIRECT
-yandex.com, 306531245, DIRECT
-yandex.com, 306536165, DIRECT
-yandex.com, 306703413, DIRECT
-yandex.com, 306862157, DIRECT
-yandex.com, 308037975, DIRECT
-yandex.com, 308274163, DIRECT
-yandex.com, 308421299, DIRECT
-yandex.com, 308572689, DIRECT
-yandex.com, 308823129, DIRECT
-yandex.com, 309052401, DIRECT
-yandex.com, 309194099, DIRECT
-yandex.com, 309542643, DIRECT
-yandex.com, 309626057, DIRECT
-yandex.com, 309820365, DIRECT
-yandex.com, 310471265, DIRECT
-yandex.com, 310690309, DIRECT
-yandex.com, 311328457, DIRECT
-yandex.com, 311898455, DIRECT
-yandex.com, 311930955, DIRECT
-yandex.com, 312522203, DIRECT
-yandex.com, 313285765, DIRECT
-yandex.com, 313913189, DIRECT
-yandex.com, 315783563, DIRECT
-yandex.com, 316579223, DIRECT
-yandex.com, 316977175, DIRECT
-yandex.com, 317234097, DIRECT
-yandex.com, 318365531, DIRECT
-yandex.com, 319094321, DIRECT
-yandex.com, 320543997, DIRECT
-yandex.com, 321387101, DIRECT
-yandex.com, 32262487, DIRECT
-yandex.com, 32691543, DIRECT
-yandex.com, 3827676, DIRECT
-yandex.com, 38777891, DIRECT
-yandex.com, 52649769, DIRECT
-yandex.com, 55753107, DIRECT
-yandex.com, 58079117, DIRECT
-yandex.com, 59817010, DIRECT
-yandex.com, 61799481, DIRECT
-yandex.com, 76768767, DIRECT
-yandex.com, 7906184, DIRECT
-yandex.com, 88340351, DIRECT
-yandex.com, 90612784, DIRECT
-yandex.com, 92070108, DIRECT
-yandex.com, 92248026, DIRECT
-yandex.com, 93241926, DIRECT
-yandex.com, 93437304, DIRECT
-yandex.com, 93455201, DIRECT
-yandex.com, 94047527, DIRECT
-yandex.com, 948597, DIRECT
-yandex.com, 95954877, DIRECT
-yandex.com, 96773357, DIRECT
-yandex.com, 96804212, DIRECT
-yandex.com, 96934425, DIRECT
-yandex.com, 97375443, DIRECT
-yandex.com, 97525920, DIRECT
-yandex.com, 97553251, DIRECT
-yandex.com, 97582033, DIRECT
-yandex.com, 97582782, DIRECT
-yandex.com, 97608289, DIRECT
-yandex.com, 98476141, DIRECT
-yandex.com, 98579611, DIRECT
-yandex.com, 98884524, DIRECT
-yandex.com, 98966348, DIRECT
-yandex.com, 98968858, DIRECT
-yandex.com, 99074063, DIRECT
-yandex.com, 99366953, DIRECT
-yandex.com, 99707801, DIRECT
-yandex.com, 99779490, DIRECT
-yandex.com, 99781847, DIRECT
-yandex.com, 999272, DIRECT
-yandex.com, 311761695, RESELLER
-yandex.com, 63904735, RESELLER
-yandex.com, 94923424, RESELLER
-yandex.com, 97539269, RESELLER
-yandex.com, 98384845, RESELLER
+yandex.com, 109546366, DIRECT
+yandex.com, 110203459, DIRECT
+yandex.com, 304311817, DIRECT
+yandex.com, 318193601, DIRECT
+yandex.com, 321982427, DIRECT
+yandex.com, 96602871, DIRECT
 yango-ads.com, 100032860, DIRECT
 yango-ads.com, 100440221, DIRECT
 yango-ads.com, 10074451, DIRECT
@@ -2649,8 +2661,10 @@ yango-ads.com, 109203050, DIRECT
 yango-ads.com, 109409159, DIRECT
 yango-ads.com, 109446142, DIRECT
 yango-ads.com, 109523582, DIRECT
+yango-ads.com, 109546366, DIRECT
 yango-ads.com, 109937641, DIRECT
 yango-ads.com, 110016091, DIRECT
+yango-ads.com, 110203459, DIRECT
 yango-ads.com, 110293872, DIRECT
 yango-ads.com, 110775958, DIRECT
 yango-ads.com, 111062077, DIRECT
@@ -2680,6 +2694,7 @@ yango-ads.com, 303164747, DIRECT
 yango-ads.com, 303255267, DIRECT
 yango-ads.com, 304114139, DIRECT
 yango-ads.com, 304141945, DIRECT
+yango-ads.com, 304311817, DIRECT
 yango-ads.com, 304860453, DIRECT
 yango-ads.com, 305011715, DIRECT
 yango-ads.com, 305184791, DIRECT
@@ -2716,10 +2731,12 @@ yango-ads.com, 315783563, DIRECT
 yango-ads.com, 316579223, DIRECT
 yango-ads.com, 316977175, DIRECT
 yango-ads.com, 317234097, DIRECT
+yango-ads.com, 318193601, DIRECT
 yango-ads.com, 318365531, DIRECT
 yango-ads.com, 319094321, DIRECT
 yango-ads.com, 320543997, DIRECT
 yango-ads.com, 321387101, DIRECT
+yango-ads.com, 321982427, DIRECT
 yango-ads.com, 32262487, DIRECT
 yango-ads.com, 32691543, DIRECT
 yango-ads.com, 3827676, DIRECT
@@ -2742,6 +2759,7 @@ yango-ads.com, 93455201, DIRECT
 yango-ads.com, 94047527, DIRECT
 yango-ads.com, 948597, DIRECT
 yango-ads.com, 95954877, DIRECT
+yango-ads.com, 96602871, DIRECT
 yango-ads.com, 96773357, DIRECT
 yango-ads.com, 96804212, DIRECT
 yango-ads.com, 96934425, DIRECT
