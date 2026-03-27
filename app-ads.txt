@@ -1,7 +1,7 @@
-# CAS.ai Updated Mar 18, 2026
+# CAS.ai Updated Mar 27, 2026
 OwnerDomain=cas.ai
 cas.ai, 922e6092, DIRECT
-#=== GoogleAds Jul 25, 2025
+#=== GoogleAds Mar 27, 2026
 google.com, pub-1022958838828668, DIRECT, f08c47fec0942fa0
 google.com, pub-2418115348772836, DIRECT, f08c47fec0942fa0
 google.com, pub-2532668741646097, DIRECT, f08c47fec0942fa0
@@ -11,9 +11,10 @@ google.com, pub-4227603630470469, DIRECT, f08c47fec0942fa0
 google.com, pub-4382598503065232, DIRECT, f08c47fec0942fa0
 google.com, pub-6480664593997158, DIRECT, f08c47fec0942fa0
 google.com, pub-7022579750037037, DIRECT, f08c47fec0942fa0
+google.com, pub-7768138198684667, DIRECT, f08c47fec0942fa0
 google.com, pub-8858162097015410, DIRECT, f08c47fec0942fa0
 google.com, pub-9041187040625593, DIRECT, f08c47fec0942fa0
-google.com, pub-7768138198684667, DIRECT, f08c47fec0942fa0
+google.com, pub-6381641852239131, DIRECT, f08c47fec0942fa0
 #=== AudienceNetwork
 facebook.com, 1210467953459280, DIRECT, c3e20eee3f780d68
 facebook.com, 805069172997110, DIRECT, c3e20eee3f780d68
@@ -148,18 +149,17 @@ xandr.com, 13799, RESELLER
 xandr.com, 15840, RESELLER
 zetaglobal.net, 630, RESELLER
 zmaticoo.com, 5135703, RESELLER
-#=== AppLovin Jan 28, 2026
+#=== AppLovin Mar 27, 2026
 applovin.com, 1b46f5e3cf2242caea5c383ca959e5dd, DIRECT
 applovin.com, 4d391c28b8c9b08646600303640192ea, DIRECT
 applovin.com, c0240449e33b7431936ee54233b9ffc9, DIRECT
 applovin.com, f17e2a01debcc4f46927e0a075b90711, DIRECT
 adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
-algorix.co, 60532, RESELLER, 5b394c12fea27a1d
+bidease.com, bidease_seller_26, RESELLER
 contextweb.com, 562615, RESELLER, 89ff185a4c4e857c
 gamaigroup.com, 423056, RESELLER
 improvedigital.com, 2602, RESELLER
 indexexchange.com, 211341, RESELLER, 50b1c356f2c5c8fc
-lijit.com, 516975, RESELLER, fafdf38b16bf6b2b
 loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11424, RESELLER, 6c8d5f95897a5a3b
 media.net, 8CU12AQ1Y, RESELLER
@@ -181,7 +181,6 @@ sharethrough.com, NNB0Zl76, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, UbYLkrys, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, bXzzb1bR, RESELLER, d53b998a7bd4ecd2
 smartadserver.com, 3817, RESELLER
-thunder-monetize.com, 6343837988, RESELLER
 video.unrulymedia.com, 169764768, RESELLER
 video.unrulymedia.com, 322585001, RESELLER
 xandr.com, 14082, RESELLER
@@ -926,6 +925,7 @@ thunder-monetize.com, 5803687805, RESELLER
 thunder-monetize.com, 6124986497, RESELLER
 thunder-monetize.com, 6268002838, RESELLER
 thunder-monetize.com, 6329293809, RESELLER
+thunder-monetize.com, 6343837988, RESELLER
 thunder-monetize.com, 6394460651, RESELLER
 thunder-monetize.com, 6747258203, RESELLER
 thunder-monetize.com, 7169228962, RESELLER
@@ -1925,6 +1925,7 @@ algorix.co, 54845, RESELLER, 5b394c12fea27a1d
 algorix.co, 60322, RESELLER
 algorix.co, 604540, RESELLER, 5b394c12fea27a1d
 algorix.co, 604595, RESELLER, 5b394c12fea27a1d
+algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 aloha-ads.com, 50105, RESELLER
 amxrtb.com, 105199734, RESELLER
 amxrtb.com, 105199934, RESELLER
@@ -2228,6 +2229,7 @@ lijit.com, 408376, RESELLER, fafdf38b16bf6b2b
 lijit.com, 480816, RESELLER, fafdf38b16bf6b2b
 lijit.com, 491580, RESELLER, fafdf38b16bf6b2b
 lijit.com, 515843, RESELLER, fafdf38b16bf6b2b
+lijit.com, 516975, RESELLER, fafdf38b16bf6b2b
 lijit.com, 520578, RESELLER, fafdf38b16bf6b2b
 lijit.com, 523648, RESELLER, fafdf38b16bf6b2b
 lijit.com, 535014, RESELLER, fafdf38b16bf6b2b
