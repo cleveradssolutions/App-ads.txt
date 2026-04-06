@@ -10,6 +10,7 @@ from datetime import date
 _CERTIFICATIONS_FILE = "CertificationIds.json"
 _RESULT_FILE = "app-ads.txt"
 _RESULT_FOR_GAMES_FILE = "app-ads-games.txt"
+_RESULT_FOR_PARTNER_FILE = "app-ads-partner.txt"
 _TEMP_FILE = "TempUpdate.txt"
 _ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 _NETS_DIR_NAME = "Networks"
@@ -41,7 +42,7 @@ _SOURCES = [
     "Madex",
     "Maticoo",
     "HyprMX",
-    "StartIO",
+    "StartIO",    
     "Verve",
 ]
 _SOURCE_DSP = [
@@ -113,9 +114,13 @@ arg_release = arg_subparsers.add_parser(
     'release', help='Final ' + _RESULT_FILE + ' file generation.')
 arg_release.add_argument('-g', '--for-games', dest='games',
                          action='store_true', help='Release App-ads-games.txt for Games.')
+arg_release.add_argument('-p', '--for-partner', dest='partner',
+                         action='store_true', help='Release App-ads-partner.txt without CASExchange and cas.ai domains.')
 
 arg_release.set_defaults(release=True, file=False, findraw=False,
-                         network=None, unique_id=False, fillCertificate=True)
+                         network=None, unique_id=False, fillCertificate=True,
+                         games=False, partner=False)
+
 
 args = arg_parser.parse_args()
 
@@ -314,11 +319,16 @@ def release():
     totalLines = "0"
 
     update_dsp(os.path.join(_ROOT_DIR, _NETS_DIR_NAME, "DSPExchange.txt"), _SOURCE_DSP)
-    cas_sources = [f for f in os.listdir(os.path.join(_ROOT_DIR, _DSP_DIR_NAME)) 
-                   if f not in _NOT_CAS_SOURCES]
-    update_dsp(os.path.join(_ROOT_DIR, _NETS_DIR_NAME, "CASExchange.txt"), cas_sources)
+     
+    # Skip CASExchange if partner mode
+    if not args.partner:
+        cas_sources = [f for f in os.listdir(os.path.join(_ROOT_DIR, _DSP_DIR_NAME)) 
+                       if f not in _NOT_CAS_SOURCES]
+        update_dsp(os.path.join(_ROOT_DIR, _NETS_DIR_NAME, "CASExchange.txt"), cas_sources)
 
-    if args.games == True:
+    if args.partner:
+        mainFilePath = os.path.join(_ROOT_DIR, _RESULT_FOR_PARTNER_FILE)
+    elif args.games:
         mainFilePath = os.path.join(_ROOT_DIR, _RESULT_FOR_GAMES_FILE)
     else:
         mainFilePath = os.path.join(_ROOT_DIR, _RESULT_FILE)
@@ -330,15 +340,26 @@ def release():
     inventorySet = set()
     with open(mainFilePath, 'w') as appAdsFile:
         appAdsFile.write("# CAS.ai Updated " + currentDate + '\n')
-        appAdsFile.write("OwnerDomain=cas.ai\n")
-        appAdsFile.write("cas.ai, 922e6092, DIRECT\n")
-        for source in _SOURCES:
+        if not args.partner:
+            appAdsFile.write("OwnerDomain=cas.ai\n")
+            appAdsFile.write("cas.ai, 922e6092, DIRECT\n")
+        else:
+            appAdsFile.write("OwnerDomain=psvgamestudio.com\n")
+
+        sources = _SOURCES.copy()
+
+        if args.partner and "CASExchange" in sources:
+            sources.remove("CASExchange")
+
+        for source in sources:
             with open(os.path.join(_ROOT_DIR, _NETS_DIR_NAME, source + ".txt"), 'r') as sourceFile:
                 for line in sourceFile:
                     inventory = Inventory(line, source)
-                    if not inventory.is_empty() and inventory not in inventorySet:
+                    
+                    if (not inventory.is_empty() and inventory not in inventorySet and not (args.partner and inventory.domain and "cas.ai" in inventory.domain)):
                         inventorySet.add(inventory)
                         appAdsFile.write(inventory.to_line())
+
         if args.games == True:
             for source in _SOURCE_IN_GAMES:
                 with open(os.path.join(_ROOT_DIR, _DSP_DIR_NAME, source), 'r') as sourceFile:
@@ -348,7 +369,7 @@ def release():
                                 appAdsFile.write(line)
                         else:
                             inventory = Inventory(line, source)
-                            if not inventory.is_empty() and inventory not in inventorySet:
+                            if (not inventory.is_empty() and inventory not in inventorySet and not (args.partner and inventory.domain and "cas.ai" in inventory.domain)):
                                 inventorySet.add(inventory)
                                 appAdsFile.write(inventory.to_line())
         
@@ -378,16 +399,16 @@ def update_dsp(path, sourceNames):
     return update_items(path, newInventories, force=False, keepHead=False)
 
 def find_full_file_path(name):
-    if name.islower():
-        return None
-    resultDir = _NETS_DIR_NAME
-    file = os.path.join(_ROOT_DIR, resultDir, name)
-    if not os.path.exists(file):
-        resultDir = _DSP_DIR_NAME
-        file = os.path.join(_ROOT_DIR, resultDir, name)
-        if not os.path.exists(file):
-            file = None
-    return file
+    found = []
+    for directory in [_NETS_DIR_NAME, _DSP_DIR_NAME]:
+        file = os.path.join(_ROOT_DIR, directory, name)
+        if os.path.exists(file):
+            found.append(file)
+    
+    if len(found) > 1:
+        print_warning("File found in multiple directories, using " + found[0], name)
+    
+    return found[0] if found else None
 
 def update(name, force):
     file = find_full_file_path(name + ".txt")
@@ -420,8 +441,7 @@ def update_items(netFile, newInventories, force, keepHead):
                 continue
             if inventory in inventorySet:
                 duplicate += 1
-                print_warning("Duplicate in " + networkName,
-                              inventory.to_line())
+                print_warning("Duplicate in " + networkName, inventory.to_line())
                 continue
             if keepHead:
                 if not keepInventories or keepInventories[0].domain == inventory.domain:
@@ -437,7 +457,6 @@ def update_items(netFile, newInventories, force, keepHead):
     print("Update " + networkName + " inventories")
     for inventory in keepInventories:
         sys.stdout.write("[Keep] " + inventory.to_line())
-
     for index, inventory in enumerate(diffInventories):
         sys.stdout.write("[New " + str(index) + "] " + inventory.to_line())
 
@@ -457,18 +476,34 @@ def update_items(netFile, newInventories, force, keepHead):
     if force or userSelect.lower() == 'y':
         with open(netFile, 'w') as sourceFile:
             sourceFile.write("#=== " + networkName + " " +
-                             date.today().strftime("%b %d, %Y") + '\n')
-            for inventory in sorted(keepInventories):
-                sourceFile.write(inventory.to_line())
-                newInventories.discard(inventory)
+                         date.today().strftime("%b %d, %Y") + '\n')
+        
+            # Keep the network's own domain entries at the top
+            headDomain = keepInventories[0].domain if keepInventories else None
 
-            # result = list(newInventories)
-            # result.sort()
-            for inventory in sorted(newInventories):
+            if headDomain:
+                headNew = {inv for inv in newInventories if inv.domain == headDomain}
+                restNew = {inv for inv in newInventories if inv.domain != headDomain}
+            else:
+                headNew = set()
+                restNew = newInventories
+
+            # Write head domain entries first, merged and sorted
+            allHead = set(keepInventories) | headNew
+            for inventory in sorted(allHead):
+                sourceFile.write(inventory.to_line(fillCertificate))
+
+             # Force replaces obsolete entries, Y preserves them
+            if force:
+                restInventories = restNew
+            else:
+                restInventories = (restNew | inventorySet) - allHead
+
+            for inventory in sorted(restInventories):
                 sourceFile.write(inventory.to_line(fillCertificate))
 
         print("Updated " + networkName + " with " +
-              str(len(newInventories) + len(keepInventories)) + " inventories.")
+              str(len(allHead) + len(restInventories)) + " inventories.")
         return True
     return False
 
