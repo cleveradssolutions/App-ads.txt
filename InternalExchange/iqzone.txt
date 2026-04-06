@@ -1,2 +1,3 @@
+#=== Iqzone Apr 06, 2026
 iqzone.com, IQ396, DIRECT
-Media.net, 8CU574IRP, RESELLER
+media.net, 8CU574IRP, RESELLER
