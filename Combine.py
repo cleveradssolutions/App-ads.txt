@@ -44,6 +44,7 @@ _SOURCES = [
     "HyprMX",
     "StartIO",    
     "Verve",
+    "Monetrix",
 ]
 _SOURCE_DSP = [
     "AppBroda.txt",
