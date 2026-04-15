@@ -1,4 +1,4 @@
-#=== DTExchange Mar 03, 2026
+#=== DTExchange Apr 15, 2026
 fyber.com, 214373, DIRECT, 1ad675c9de6b5176
 33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c
 33across.com, 001Pg00001BT7yYIAT, RESELLER, bbea06d9c4d2853c
@@ -40,12 +40,14 @@ betweendigital.com, 44851, RESELLER
 bidease.com, bidease_seller_28, RESELLER
 bidmachine.io, 124, RESELLER
 bidmachine.io, 1269, RESELLER
+bidmachine.io, 1490, RESELLER
 bidnex.com, 206, RESELLER
 blis.com, 74, RESELLER, 61453ae19a4b73f4
 bold-win.com, 1139, RESELLER, 71746737d0bab951
 bold-win.com, 555, RESELLER, 71746737d0bab951
 brightmountainmedia.com, 26861065, RESELLER
 caerulus.io, 3320-37140, RESELLER
+carliba.io, 184101, RESELLER
 castify.ai, 1287331, RESELLER
 connekt.ai, 8897271402, RESELLER
 consumable.com, 2001583, RESELLER, aefcd3d2f45b5070
@@ -60,6 +62,7 @@ conversantmedia.com, 100455, RESELLER, 03113cd04947736d
 conversantmedia.com, 100863, RESELLER, 03113cd04947736d
 conversantmedia.com, 100877, RESELLER, 03113cd04947736d
 conversantmedia.com, 100886, RESELLER, 03113cd04947736d
+copper6.com, 318742, RESELLER
 cpmstar.com, 54396, RESELLER, 1b929e6459dfc260
 dauup.com, 34101, RESELLER, 4daba13e2b0dfd92
 dauup.com, 34105, RESELLER, 4daba13e2b0dfd92
@@ -235,6 +238,7 @@ pubnative.net, 1010070, RESELLER, d641df8625486a7b
 pubnative.net, 1016768, RESELLER, d641df8625486a7b
 pubnative.net, 1016803, RESELLER, d641df8625486a7b
 pubnative.net, 1016858, RESELLER, d641df8625486a7b
+pubnative.net, 1016862, RESELLER, d641df8625486a7b
 rhebus.works, 5000863388, RESELLER
 richaudience.com, O2hIZpokwO, RESELLER
 risecodes.com, 6548dccf58df6d00010625d2, RESELLER
@@ -281,6 +285,7 @@ rubiconproject.com, 27168, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 27386, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 27396, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 27784, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 27963, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 28169, RESELLER, 0bfd66d529a55807
 screenil.com, 554156, RESELLER
 selectmedia.asia, f8746b7ba39c258804d14ebc, RESELLER, e365c871a27c655d
@@ -289,6 +294,7 @@ sharethrough.com, 3439, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 3964, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 4284, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 4483, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, 4568, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 5015, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 5EQ7ZF1q, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 6qlnf8SY, RESELLER, d53b998a7bd4ecd2
@@ -358,6 +364,7 @@ thunder-monetize.com, 1007485, RESELLER
 toponad.com, 1658d4a00557ce, RESELLER, 1d49fe424a1a456d
 tredio.io, 357a6fdf7642bf815a88822c447d9dc434414, RESELLER
 triplelift.com, 11457, RESELLER, 6c33edb13117fd86
+triplelift.com, 11929, RESELLER, 6c33edb13117fd86
 triplelift.com, 12158, RESELLER, 6c33edb13117fd86
 triplelift.com, 12240, RESELLER, 6c33edb13117fd86
 triplelift.com, 12465, RESELLER, 6c33edb13117fd86
@@ -397,6 +404,7 @@ video.unrulymedia.com, 667989109, RESELLER
 video.unrulymedia.com, 739131256, RESELLER
 video.unrulymedia.com, 809865099, RESELLER
 video.unrulymedia.com, 848837292, RESELLER
+video.unrulymedia.com, 876890970, RESELLER
 video.unrulymedia.com, 906352066, RESELLER
 videoheroes.tv, 212428, RESELLER, 064bc410192443d8
 videoheroes.tv, 212504, RESELLER, 064bc410192443d8

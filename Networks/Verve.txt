@@ -1,4 +1,5 @@
-#=== Verve Mar 12, 2026
+#=== Verve Apr 15, 2026
+pubnative.net, 1009903, DIRECT, d641df8625486a7b
 pubnative.net, 1017314, DIRECT, d641df8625486a7b
 pubnative.net, 1017315, DIRECT, d641df8625486a7b
 pubnative.net, 1007303, RESELLER, d641df8625486a7b
@@ -1001,6 +1002,7 @@ showheroes.com, 6030, RESELLER
 showheroes.com, 7473, RESELLER
 singularads.com, 554789, RESELLER
 sipo-inc.com, 867525, RESELLER
+smaato.com, 1100057426, DIRECT, 07bcf65f187117b4
 smaato.com, 1100059779, DIRECT, 07bcf65f187117b4
 smaato.com, 1100059792, DIRECT, 07bcf65f187117b4
 smaato.com, 1100049757, RESELLER, 07bcf65f187117b4

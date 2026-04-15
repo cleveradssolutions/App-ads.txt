@@ -44,6 +44,7 @@ _SOURCES = [
     "HyprMX",
     "StartIO",    
     "Verve",
+    "Monetrix",
 ]
 _SOURCE_DSP = [
     "AppBroda.txt",
@@ -53,6 +54,8 @@ _SOURCE_DSP = [
     "PremiumAds.txt",
     "Reklamup.txt",
 ]
+# find GadsmeRaw:
+# comm -13 <(sort app-ads-games.txt) <(sort TempUpdate.txt) > InternalExchange/GadsmeRaw.txt
 _SOURCE_IN_GAMES = [    
     "Gadsme.txt",
     "GadsmeRaw.txt",
@@ -360,7 +363,7 @@ def release():
                         inventorySet.add(inventory)
                         appAdsFile.write(inventory.to_line())
 
-        if args.games == True:
+        if args.games == True or args.partner == True:
             for source in _SOURCE_IN_GAMES:
                 with open(os.path.join(_ROOT_DIR, _DSP_DIR_NAME, source), 'r') as sourceFile:
                     for line in sourceFile:
