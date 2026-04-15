@@ -1,33 +1,32 @@
-adform.com, 3141, RESELLER
-adform.com, 2967, RESELLER
 adform.com, 2795, RESELLER
-adform.com, 3283, RESELLER
+adform.com, 3141, RESELLER
+adview.com, 53849096, RESELLER, 1b2cc038a11ea319
+adyoulike.com, 4d5014f8da11fc0a70ebbda5d4537935, RESELLER
 algorix.co, 54190, RESELLER
-appnexus.com, 13099, RESELLER
 appnexus.com, 12501, RESELLER
-appnexus.com, 7664, RESELLER
-appnexus.com, 12622, RESELLER, f5ab79cb980f11d1
+appnexus.com, 13099, RESELLER
 axonix.com, 57264, RESELLER, bc385f2b4a87b721
 conversantmedia.com, 100396, RESELLER
+e-planning.net, 949b688810cb7439, RESELLER, c1ba615865ed87b2
 freewheel.tv, 1568036, RESELLER
 freewheel.tv, 1568041, RESELLER
 indexexchange.com, 184738, RESELLER
+inmobi.com, 86357825a302443d9a99c0b5dda0eafa, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 9e311c7a68e94888aac7fbb4272381e2, RESELLER
-loopme.com, 11528, RESELLER, 6c8d5f95897a5a3b
+media.net, 8CUCN7U08, RESELLER
 onetag.com, 6b859b96c564fbe, RESELLER
-pubmatic.com, 159277, RESELLER
-pubmatic.com, 160925, RESELLER
 pubmatic.com, 156557, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159277, RESELLER
+pubmatic.com, 159668, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160925, RESELLER
 rubiconproject.com, 20736, RESELLER
-smartadserver.com, 4284, RESELLER
+smartadserver.com, 3713, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4012, RESELLER
-smartadserver.com, 4016, RESELLER
-smartadserver.com, 4071, RESELLER
-smartadserver.com, 4073, RESELLER
-smartadserver.com, 4072, RESELLER
-smartadserver.com, 3117, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4284, RESELLER
 smartadserver.com, 4342, RESELLER
-smartadserver.com, 3554, RESELLER
+smartadserver.com, 4881, RESELLER, 060d053dcf45cbf3
 triplelift.com, 12552, RESELLER
-video.unrulymedia.com, 2564526802, RESELLER, 6f752381ad5ec0e5
+triplelift.com, 13042, RESELLER, 6c33edb13117fd86
+triplelift.com, 8446, RESELLER, 6c33edb13117fd86
 video.unrulymedia.com, 243575, RESELLER, a670c89d4a324e47
+video.unrulymedia.com, 2564526802, RESELLER, 6f752381ad5ec0e5
