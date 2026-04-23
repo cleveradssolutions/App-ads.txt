@@ -1,4 +1,4 @@
-# CAS.ai Updated Apr 15, 2026
+# CAS.ai Updated Apr 23, 2026
 OwnerDomain=cas.ai
 cas.ai, 922e6092, DIRECT
 #=== GoogleAds Mar 27, 2026
@@ -1285,7 +1285,7 @@ xandr.com, 12548, RESELLER
 #=== Prado Mar 03, 2026
 prado.co, 15504, DIRECT
 prado.co, 15612, DIRECT
-#=== InMobi Apr 15, 2026
+#=== InMobi Apr 23, 2026
 inmobi.com, 06d15e3ce4434f75b585f2fb7ce2e302, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 30ff09752f2b48eb9974d28116cf9ff0, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 53d2df309ec04bdeb78dc15d7487ca7a, DIRECT, 83e75a7ae333ca9d
@@ -1366,6 +1366,9 @@ voisetech.com, 1023, RESELLER
 yellowhead.com, 67b9c0a1d2e345, RESELLER
 zmaticoo.com, 113149, RESELLER
 zmaticoo.com, 5135082, RESELLER
+inmobi.com, 4d0da524572e4dd8aea20b1e5553937f, DIRECT, 83e75a7ae333ca9d
+conversantmedia.com, 100357, RESELLER, 03113cd04947736d
+selectmedia.asia, 645b5a31e427dc0a87094fc4, RESELLER, e365c871a27c655d
 #=== Chartboost Feb 16, 2026
 chartboost.com, 5730bb1a04b0165b75d2e564, DIRECT
 152media.info, 152M608, RESELLER
@@ -3281,7 +3284,6 @@ axis-marketplace.com, 308, RESELLER
 bidmachine.io, 1490, RESELLER
 bidnex.com, 206, RESELLER
 carliba.io, 184101, RESELLER
-conversantmedia.com, 100357, RESELLER, 03113cd04947736d
 copper6.com, 318742, RESELLER
 display.io, 232020, RESELLER
 lacunads.com, LC13f68588aa4ee212, RESELLER
@@ -3444,7 +3446,7 @@ video.unrulymedia.com, 829160295, RESELLER
 videoheroes.tv, 212747, RESELLER, 064bc410192443d8
 webeyemob.com, 80067, RESELLER
 zetaglobal.net, 989, RESELLER
-#=== CASExchange Apr 15, 2026
+#=== CASExchange Apr 23, 2026
 152media.info, 152M1003, RESELLER
 152media.info, 152M1024, RESELLER
 152media.info, 152M238, RESELLER
@@ -3492,6 +3494,7 @@ adyoulike.com, 16360cdda833ee868a626bb3b666f8fa, DIRECT, 4ad745ead2958bf7
 adyoulike.com, 283e6e26614a07d896da0933c3719127, DIRECT
 adyoulike.com, 4d5014f8da11fc0a70ebbda5d4537935, DIRECT, 4ad745ead2958bf7
 adyoulike.com, d56e3e148de35ef3f2fc06a8fe3a5d1a, DIRECT, 4ad745ead2958bf7
+adyoulike.com, 555e2711ab0a880b922eb2c65c19fe22, RESELLER
 adyoulike.com, a15d06368952401cd3310203631cb18b, RESELLER
 adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER, 4ad745ead2958bf7
 adyoulike.com, c1cb20fa2bbc39a8f2ec564ac0c157f7, RESELLER
@@ -3521,6 +3524,7 @@ aralego.com, par-8A26A34A22DB39D60B728A64AD47B324, RESELLER
 astartea.ai, PUB-1680, DIRECT
 audienceconnect.io, 624, RESELLER
 axis-marketplace.com, 120, DIRECT
+axis-marketplace.com, 359, DIRECT
 axis-marketplace.com, 40860, RESELLER
 axonix.com, 59218, RESELLER
 beachfront.com, 14513, RESELLER, e2541279e8e2ca4d
@@ -3621,6 +3625,8 @@ lijit.com, 52416, RESELLER, fafdf38b16bf6b2b
 lijit.com, 547982, RESELLER, fafdf38b16bf6b2b
 lijit.com, 554226, RESELLER, fafdf38b16bf6b2b
 lijit.com, 572209, RESELLER, fafdf38b16bf6b2b
+lijit.com, 595809, RESELLER, fafdf38b16bf6b2b
+lijit.com, 595809-eb, RESELLER, fafdf38b16bf6b2b
 loopme.com, 11456, DIRECT, 6c8d5f95897a5a3b
 loopme.com, 12807, DIRECT, 6c8d5f95897a5a3b
 loopme.com, 11524, RESELLER, 6c8d5f95897a5a3b
@@ -3699,10 +3705,12 @@ pubmatic.com, 166710, RESELLER, 5d62403b186f2ace
 pubmatic.com, 167216, RESELLER
 pubnative.net, 1007577, RESELLER, d641df8625486a7b
 redmob.io, 20251009000001, RESELLER
+revealon.media, 19132, DIRECT
 rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47
 rhythmone.com, 2148207460, RESELLER, a670c89d4a324e47
 rhythmone.com, 2564526802, RESELLER, a670c89d4a324e47
 richaudience.com, JAHJ4YZq4O, RESELLER
+richaudience.com, hAnjUfiAAr, RESELLER
 risecodes.com, 64c7a4acd6298f0001a7d867, RESELLER
 rtbhouse.com, 0JBassv1FjnNsC26dGmc, DIRECT
 rtbhouse.com, v4Y3snBsel6fYC6mSzdf, DIRECT
