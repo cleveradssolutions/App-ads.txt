@@ -1,4 +1,4 @@
-#=== Mintegral Apr 15, 2026
+#=== Mintegral Apr 27, 2026
 mintegral.com, 25008, DIRECT, 0aeed750c80d6423
 mintegral.com, 52286, DIRECT, 0aeed750c80d6423
 33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c
@@ -47,6 +47,7 @@ admixer.net, a80e4ca1-f52f-4aa5-98e1-010c8d08251b, RESELLER
 admixer.net, e58950b9-933f-4f5b-b49c-7ca927540db1, RESELLER
 admixer.net, eab09ea6-bcf7-4eff-965d-b4f43962c73c, RESELLER
 admixer.net, f6790c61-b9ce-49b0-b809-059710d60dfd, RESELLER
+adnimation.com, 20250084, RESELLER
 ads.vk.com, 18644219, RESELLER
 adsinteractive.com, 39993, RESELLER
 adswizz.com, 561, RESELLER
@@ -134,6 +135,7 @@ axonix.com, 57869, RESELLER
 axonix.com, 59054, RESELLER, bc385f2b4a87b721
 azberry.com, 721014, RESELLER
 beachfront.com, 7300, RESELLER
+beintoo.com, C7308, RESELLER
 bematterfull.com, 562499, RESELLER
 betweendigital.com, 43740, RESELLER
 betweendigital.com, 44095, RESELLER
@@ -157,6 +159,8 @@ bigo.sg, 1011110, RESELLER
 bigo.sg, 109, RESELLER
 bigo.sg, 128, RESELLER
 bigo.sg, 130, RESELLER
+bildapp.net, 164391510, RESELLER
+bluexad.ai, 2037130095256145920, RESELLER
 bold-win.com, 807, RESELLER, 71746737d0bab951
 brightcom.com, 29559, RESELLER
 caerulus.io, 3320-39849, RESELLER
@@ -388,6 +392,7 @@ mediafuse.com, 316569, RESELLER
 meitu.com, 654, RESELLER
 meitu.com, 663, RESELLER
 meitu.com, 699, RESELLER
+metup.it, AJxF6R674a9M6CaTvK, RESELLER
 mgid.com, 885240, RESELLER, d4c29acad76ce94f
 motorik.io, 100463, RESELLER
 myfeature.tv, UvnXhUMZHRvKfRk52QZy, RESELLER
@@ -439,12 +444,14 @@ pangleglobal.com, 45779, RESELLER
 peak226.com, 12400, RESELLER
 peak226.com, 12900, RESELLER
 peak226.com, 12901, RESELLER
+playdigo.com, 2091, RESELLER, 92011346d63d3c30
 playwire.com, 1025119, RESELLER
 pokkt.com, 6953, RESELLER, c45702d9311e25fd
 pokkt.com, 7139, RESELLER, c45702d9311e25fd
 pokkt.com, 7606, RESELLER, c45702d9311e25fd
 prequel.tv, 513, RESELLER
 prequel.tv, 515, RESELLER
+programmaticx.ai, 6000123, RESELLER, b42d42eb28400efa
 programmaticx.ai, 6845438, RESELLER
 pubeasy.io, 110039, RESELLER
 pubeasy.io, 110070, RESELLER
@@ -511,6 +518,7 @@ pubmatic.com, 165701, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165702, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165980, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166238, RESELLER, 5d62403b186f2ace
+pubmatic.com, 166335, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166536, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166836, RESELLER, 5d62403b186f2ace
 pubmatic.com, 167176, RESELLER, 5d62403b186f2ace
@@ -539,6 +547,8 @@ pubnative.net, 1010070, RESELLER, d641df8625486a7b
 pubnative.net, 1010071, RESELLER, d641df8625486a7b
 pubnative.net, 1010072, RESELLER, d641df8625486a7b
 pubnative.net, 1010073, RESELLER, d641df8625486a7b
+pubnative.net, 1017792, RESELLER, d641df8625486a7b
+refine.direct, 1000730C, RESELLER
 rhebus.works, 9347471687, RESELLER
 rhythmone.com, 123476257, RESELLER, a670c89d4a324e47
 rhythmone.com, 3383599585, RESELLER, a670c89d4a324e47
@@ -591,12 +601,14 @@ rubiconproject.com, 26694, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26958, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 27130, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 27386, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 27538, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 27987, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 28169, RESELLER, 0bfd66d529a55807
 sabio.us, 100032, RESELLER, 96ed93aaa9795702
 sabio.us, 100092, RESELLER, 96ed93aaa9795702
 se7en.es, 212450, RESELLER, 064bc410192443d8
 se7en.es, 212503, RESELLER, 064bc410192443d8
+serpensx.com, SRP25080073, RESELLER
 sharethrough.com, 3blZyYks, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 4762, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 5026, RESELLER, d53b998a7bd4ecd2
@@ -673,6 +685,7 @@ spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 307720, RESELLER, 7842df1d2fe2db34
 ssp.e-volution.ai, AJxF6R118a9M6CaTvK, RESELLER
 ssp.e-volution.ai, AJxF6R119a9M6CaTvK, RESELLER
+ssp.e-volution.ai, AJxF6R674a9M6CaTvK, RESELLER
 ssp.logan.ai, LG15, RESELLER
 ssp.zetaglobal.net, 815, RESELLER
 start.io, 150505487, RESELLER
@@ -781,6 +794,7 @@ video.unrulymedia.com, 170071695, RESELLER
 video.unrulymedia.com, 1876793108340587286, RESELLER
 video.unrulymedia.com, 2444764291, RESELLER
 video.unrulymedia.com, 2564526802, RESELLER
+video.unrulymedia.com, 290726769, RESELLER
 video.unrulymedia.com, 2979066401945419350, RESELLER
 video.unrulymedia.com, 3383599585, RESELLER
 video.unrulymedia.com, 3704396951, RESELLER
