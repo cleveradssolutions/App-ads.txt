@@ -45,6 +45,8 @@ _SOURCES = [
     "StartIO",    
     "Verve",
     "Monetrix",
+    "DisplayIO",
+    "Bidease"
 ]
 _SOURCE_DSP = [
     "AppBroda.txt",
@@ -54,11 +56,10 @@ _SOURCE_DSP = [
     "PremiumAds.txt",
     "Reklamup.txt",
 ]
-# find GadsmeRaw:
-# comm -13 <(sort app-ads-games.txt) <(sort TempUpdate.txt) > InternalExchange/GadsmeRaw.txt
+
+# Sources added only for Games and Partner release (written as-is, without parsing or deduplication)
 _SOURCE_IN_GAMES = [    
-    "Gadsme.txt",
-    "GadsmeRaw.txt",
+    "Gadsme.txt",    
 ]
 _NOT_CAS_SOURCES = set(_SOURCE_DSP + _SOURCE_IN_GAMES + ['.DS_Store'])
 _BANS = [
@@ -367,14 +368,8 @@ def release():
             for source in _SOURCE_IN_GAMES:
                 with open(os.path.join(_ROOT_DIR, _DSP_DIR_NAME, source), 'r') as sourceFile:
                     for line in sourceFile:
-                        if source.endswith('Raw.txt'):
-                            if line.strip() and not line.startswith('#'):
-                                appAdsFile.write(line)
-                        else:
-                            inventory = Inventory(line, source)
-                            if (not inventory.is_empty() and inventory not in inventorySet and not (args.partner and inventory.domain and "cas.ai" in inventory.domain)):
-                                inventorySet.add(inventory)
-                                appAdsFile.write(inventory.to_line())
+                        if line.strip() and not line.startswith('#'):
+                            appAdsFile.write(line)
         
     shiledInfo = {
         "schemaVersion": 1,

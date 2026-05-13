@@ -1,8 +1,8 @@
-#=== PWR-games Apr 30, 2026
-pwr-games.com, 843059, DIRECT
+#=== PWR-games May 13, 2026
+pwr-games.com, 843060, DIRECT
 lijit.com, 564990, RESELLER, fafdf38b16bf6b2b
 loopme.com, 15685, RESELLER, 6c8d5f95897a5a3b
 media.net, 8CA8O7D3V, RESELLER
-playlineentertainment.com, 94213, RESELLER
-ppingg.com, 101207, RESELLER
+playlineentertainment.com, 94214, RESELLER
+ppingg.com, 101208, RESELLER
 sharethrough.com, jLTNbU7J, RESELLER, d53b998a7bd4ecd2

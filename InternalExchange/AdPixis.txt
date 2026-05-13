@@ -1,10 +1,11 @@
-#=== AdPixis Oct 07, 2025
+#=== AdPixis May 13, 2026
 adpixis.com, 1009, DIRECT
 adingo.jp, 29005, RESELLER
 adster.tech, 1009, DIRECT
 appnexus.com, 16774, RESELLER, f5ab79cb980f11d1
 aps.amazon.com, d01b77a1-eb2e-40f1-8c68-14ae1eb1dcd9, DIRECT
 aps.amazon.com, 95cfe73f-4804-4f94-b2e6-467e2a14e787, RESELLER
+google.com, pub-1088508191391776, RESELLER, f08c47fec0942fa0
 google.com, pub-3790066164809976, RESELLER, f08c47fec0942fa0
 google.com, pub-9298860897894361, RESELLER, f08c47fec0942fa0
 google.com, pub-9422585382673566, RESELLER, f08c47fec0942fa0

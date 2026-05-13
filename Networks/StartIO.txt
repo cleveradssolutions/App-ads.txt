@@ -1,4 +1,4 @@
-#=== StartIO Apr 27, 2026
+#=== StartIO May 13, 2026
 start.io, 125650712, DIRECT
 start.io, 144185998, DIRECT
 start.io, 174388014, DIRECT
@@ -8,7 +8,6 @@ adelement.com, 48362, RESELLER
 adform.com, 3386, RESELLER, 9f5210a2f0999e32
 adgrid.io, 30264, RESELLER
 advlion.com, 3144, RESELLER
-adwmg.com, 100956, RESELLER, c9688a22012618e7
 adwmg.com, 101277, RESELLER, c9688a22012618e7
 adyoulike.com, 721f20f70910d379981dc19ec5da709f, RESELLER
 anzu.io, 69a01331e82ac6eac1054bf7, RESELLER
@@ -18,6 +17,7 @@ app-stock.com, 509221, RESELLER, ed8c126ea5971415
 appnexus.com, 1019, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12700, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13774, RESELLER, f5ab79cb980f11d1
+appnexus.com, 16525, RESELLER, f5ab79cb980f11d1
 appnexus.com, 17973, RESELLER, f5ab79cb980f11d1
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
 appnexus.com, 7664, RESELLER
@@ -45,11 +45,11 @@ loopme.com, 11318, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11463, RESELLER, 6c8d5f95897a5a3b
 media.net, 8CU65V935, RESELLER
 media.net, 8CU9B72O6, RESELLER
+media.net, 8CUFTC5O2, RESELLER
 media.net, 8CUIV8D19, RESELLER
 mediayo.ai, 2255103, RESELLER
 mobupps.com, c74d97b01eae257e44aa9d5bade97baf8099, RESELLER
 nativo.com, 5958, RESELLER, 59521ca7cc5e9fee
-openx.com, 540274407, RESELLER, 6a698e2ec38604c6
 openx.com, 540709535, RESELLER, 6a698e2ec38604c6
 openx.com, 559912325, RESELLER, 6a698e2ec38604c6
 opera.com, pub12998959884416, RESELLER, 55a0c5fd61378de3
@@ -103,6 +103,7 @@ taboola.com, 1618213, DIRECT, c228e6794e811952
 target.my.com, 13033031, RESELLER
 thebrave.io, 1234765, RESELLER, c25b2154543746ac
 themediagrid.com, FWN84J, DIRECT, 9fac4a4a87c2a44f
+themediagrid.com, JAZ4RI, RESELLER, 35d5010d7789b49d
 themediagrid.com, SJYVMZ, RESELLER, 35d5010d7789b49d
 toponad.com, 168240066616ab, RESELLER, 1d49fe424a1a456d
 triplelift.com, 11457, RESELLER, 6c33edb13117fd86

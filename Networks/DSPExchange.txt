@@ -1,4 +1,4 @@
-#=== DSPExchange Jan 28, 2026
+#=== DSPExchange May 13, 2026
 152media.info, 152M50, RESELLER
 152media.info, 152M698, RESELLER
 152media.info, 152M890, RESELLER
@@ -140,6 +140,7 @@ freewheel.tv, 24377, RESELLER, 74e8e47458f74754
 g-global.net, 21425, DIRECT
 gamaigroup.com, 320203, RESELLER
 gitberry.com, 31mbg, RESELLER
+google.com, pub-1088508191391776, RESELLER, f08c47fec0942fa0
 google.com, pub-1472835721311013, RESELLER, f08c47fec0942fa0
 google.com, pub-3184487253168181, RESELLER, f08c47fec0942fa0
 google.com, pub-3619045887187031, RESELLER, f08c47fec0942fa0
