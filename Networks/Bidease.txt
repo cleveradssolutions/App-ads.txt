@@ -1,4 +1,5 @@
 #=== Bidease May 13, 2026
+bidease.com, pm0IHPNO2j6y, DIRECT
 adform.com, 3344, RESELLER, 9f5210a2f0999e32
 ads.vk.com, 19832877, RESELLER
 adwmg.com, 101309, RESELLER, c9688a22012618e7
@@ -6,7 +7,6 @@ anzu.io, 69cbfb8ded7491b170e82374, RESELLER
 appnexus.com, 12616, RESELLER, f5ab79cb980f11d1
 appnexus.com, 15670, RESELLER, f5ab79cb980f11d1
 beachfront.com, 15310, RESELLER, e2541279e8e2ca4d
-bidease.com, pm0IHPNO2j6y, DIRECT
 bidmachine.io, 1269, RESELLER
 caerulus.io, 3320-37140, RESELLER
 conversantmedia.com, 100986, RESELLER, 03113cd04947736d
