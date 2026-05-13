@@ -45,6 +45,8 @@ _SOURCES = [
     "StartIO",    
     "Verve",
     "Monetrix",
+    "DisplayIO",
+    "Bidease"
 ]
 _SOURCE_DSP = [
     "AppBroda.txt",

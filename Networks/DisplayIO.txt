@@ -1,0 +1,16 @@
+#=== DisplayIO May 13, 2026
+display.io, 2529, DIRECT
+facebook.com, 1201343281634768, RESELLER, c3e20eee3f780d68
+gumgum.com, 15641, RESELLER, ffdef49475d318a9
+improvedigital.com, 2829, RESELLER
+loopme.com, 11229, RESELLER, 6c8d5f95897a5a3b
+media.net, 8CUF7U34W, RESELLER
+pubmatic.com, 158101, RESELLER, 5d62403b186f2ace
+pubmatic.com, 167332, RESELLER, 5d62403b186f2ace
+pubnative.net, 1008834, RESELLER, d641df8625486a7b
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 19938, RESELLER, 0bfd66d529a55807
+smaato.com, 1100051123, RESELLER, 07bcf65f187117b4
+smartadserver.com, 5412, RESELLER, 060d053dcf45cbf3
+verve.com, 15503, RESELLER, 0c8f5958fc2d6270
+vidazoo.com, 69de684e41d4b61ce11fa814, RESELLER, b6ada874b4d7d0b2
