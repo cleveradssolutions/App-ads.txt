@@ -1,4 +1,4 @@
-#=== CASExchange Apr 30, 2026
+#=== CASExchange May 13, 2026
 152media.info, 152M1003, RESELLER
 152media.info, 152M1024, RESELLER
 152media.info, 152M1195, RESELLER
@@ -333,10 +333,10 @@ opera.com, pub8465640532754, RESELLER, 55a0c5fd61378de3
 outbrain.com, 00e64972b5333d661db74cdc50be7ce364, DIRECT
 peak226.com, 12400, RESELLER
 pgamssp.com, 69e2671abaef2bd9750abbe3, DIRECT
-playlineentertainment.com, 94213, RESELLER
+playlineentertainment.com, 94214, RESELLER
 pokkt.com, 7606, RESELLER, c45702d9311e25fd
 pokkt.com, 8501, RESELLER, c45702d9311e25fd
-ppingg.com, 101207, RESELLER
+ppingg.com, 101208, RESELLER
 prequel.tv, 515, RESELLER
 programmaticx.ai, 5056823, RESELLER, b42d42eb28400efa
 programmaticx.ai, 6845438, RESELLER
@@ -387,7 +387,7 @@ pubmatic.com, 167514, RESELLER, 5d62403b186f2ace
 pubmatic.com, 167515, RESELLER, 5d62403b186f2ace
 pubnative.net, 1006576, RESELLER, d641df8625486a7b
 pubnative.net, 1007577, RESELLER, d641df8625486a7b
-pwr-games.com, 843059, DIRECT
+pwr-games.com, 843060, DIRECT
 redmob.io, 20251009000001, RESELLER
 revealon.media, 19132, DIRECT
 rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47

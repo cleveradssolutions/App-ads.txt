@@ -1,4 +1,4 @@
-#=== Bigo Apr 27, 2026
+#=== Bigo May 13, 2026
 bigo.sg, 10374, DIRECT
 152media.info, 152M1134, RESELLER
 152media.info, 152M698, RESELLER
@@ -32,9 +32,11 @@ admanmedia.com, 2286, DIRECT
 admanmedia.com, 2050, RESELLER
 admanmedia.com, 2269, RESELLER
 admatic.de, ade-pub-1044423220, RESELLER
+admatic.de, ade-pub-618749601, RESELLER
 admixer.net, 142f7ae2-b259-439a-801d-0b1146b8518d, DIRECT
 admixer.net, 142f7ae2-b259-439a-801d-0b1146b8518d, RESELLER
 adsolut.in, 18057, DIRECT
+adtelligent.com, 788016, RESELLER, 8ce87912eb022a51
 advertising.com, 82632, RESELLER
 advertising.com, 82655, RESELLER
 adview.com, 53849096, RESELLER, 1b2cc038a11ea319
@@ -54,6 +56,7 @@ amxrtb.com, 105199934, RESELLER
 apester.com, 49071, DIRECT
 apester.com, 49071, RESELLER
 apester.com, 91071, RESELLER
+app-stock.com, 155886, RESELLER
 app-stock.com, 358747, RESELLER
 app-stock.com, 509221, RESELLER, ed8c126ea5971415
 appnexus.com, 1019, RESELLER, f5ab79cb980f11d1
@@ -70,6 +73,7 @@ appnexus.com, 13099, RESELLER
 appnexus.com, 14080, RESELLER, f5ab79cb980f11d1
 appnexus.com, 15349, RESELLER, f5ab79cb980f11d1
 appnexus.com, 15670, RESELLER
+appnexus.com, 15774, RESELLER
 appnexus.com, 15941, RESELLER
 appnexus.com, 16220, RESELLER, f5ab79cb980f11d1
 appnexus.com, 4052, RESELLER, f5ab79cb980f11d1
@@ -181,6 +185,7 @@ eplanning.net, ecee0b96300f040e, RESELLER, c1ba615865ed87b2
 eskimi.com, 2020000041, RESELLER
 eskimi.com, 2020000104, RESELLER
 eskimi.com, 2020000186, RESELLER
+fasttvltd.com, e689c0c2, RESELLER
 filmzie.com, 5085, RESELLER
 freewheel.tv, 1601388, RESELLER
 freewheel.tv, 1603410, RESELLER
@@ -268,6 +273,7 @@ lijit.com, 489963, RESELLER, fafdf38b16bf6b2b
 lijit.com, 491580, RESELLER, fafdf38b16bf6b2b
 lijit.com, 502742, RESELLER, fafdf38b16bf6b2b
 lijit.com, 512006, RESELLER, fafdf38b16bf6b2b
+lijit.com, 516513, RESELLER, fafdf38b16bf6b2b
 lijit.com, 541964, RESELLER, fafdf38b16bf6b2b
 lijit.com, 568191, RESELLER, fafdf38b16bf6b2b
 lijit.com, 569924, RESELLER, fafdf38b16bf6b2b
@@ -302,6 +308,7 @@ media.net, 8CUCYCTY4, RESELLER
 media.net, 8CUE65SNU, RESELLER
 media.net, 8CUGG4P7J, RESELLER
 media.net, 8CUGTT682, RESELLER
+media.net, 8CUH46N56, RESELLER
 media.net, 8CUIKIUHH, RESELLER
 media.net, 8CUIV8D19, RESELLER
 media.net, 8CUSC3UJ7, RESELLER
@@ -367,6 +374,7 @@ playdigo.com, 1988, RESELLER
 playdigo.com, 2048, RESELLER, 92011346d63d3c30
 playstream.media, 3185, DIRECT
 prado.co, 15614, RESELLER
+programmaticx.ai, 10568600, RESELLER, b42d42eb28400efa
 pubeasy.io, 110013, RESELLER
 pubeasy.io, 110047, RESELLER
 pubgalaxy.com, 500001, RESELLER
@@ -594,7 +602,9 @@ stroeer.com, 25538, RESELLER
 supply.colossusssp.com, 821, DIRECT, 6c5b49d96ec1b458
 supply.colossusssp.com, 907, RESELLER
 taboola.com, 1618213, DIRECT, c228e6794e811952
+tagoras.io, 82f086910cc277680cae8f84f1570248, RESELLER
 target.my.com, 13033031, RESELLER
+targetbetter.com, 610568600, RESELLER
 taurusx.com, 80066, RESELLER
 taurusx.com, 80635, RESELLER
 thebrave.io, 1234764, DIRECT, c25b2154543746ac
@@ -607,6 +617,7 @@ themediagrid.com, 9FRCA5, DIRECT, 35d5010d7789b49d
 themediagrid.com, FWN84J, DIRECT, 35d5010d7789b49d
 themediagrid.com, Q6VXLE, DIRECT, 35d5010d7789b49d
 themediagrid.com, 8USKI6, RESELLER, 9fac4a4a87c2a44f
+themediagrid.com, 8ZRKBE, RESELLER
 themediagrid.com, A8X5S7, RESELLER, 35d5010d7789b49d
 themediagrid.com, B8N9YH, RESELLER, 35d5010d7789b49d
 themediagrid.com, DQ6AMB, RESELLER, 35d5010d7789b49d
@@ -640,6 +651,7 @@ triplelift.com, 13792, RESELLER, 6c33edb13117fd86
 triplelift.com, 13907, RESELLER, 6c33edb13117fd86
 triplelift.com, 14127, RESELLER, 6c33edb13117fd86
 triplelift.com, 14594, RESELLER, 6c33edb13117fd86
+triplelift.com, 14716, RESELLER, 6c33edb13117fd86
 triplelift.com, 14734, RESELLER, 6c33edb13117fd86
 triplelift.com, 14734-EB, RESELLER
 triplelift.com, 14740, RESELLER, 6c33edb13117fd86
