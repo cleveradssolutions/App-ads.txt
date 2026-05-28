@@ -1,4 +1,4 @@
-#=== Gadsme May 13, 2026
+#=== Gadsme May 28, 2026
 gadsme.com, cloyjpkob001arb0iqlpzv68m, DIRECT, 6e0ed2d8104a4234
 33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
 33across.com, 0015a00002oUk4aAAC, RESELLER, bbea06d9c4d2853c
@@ -750,6 +750,8 @@ taurusx.com, 80628, RESELLER
 thebrave.io, 52353142, RESELLER, c25b2154543746ac
 thebrave.io, 1234707, RESELLER, c25b2154543746ac
 thebrave.io, 1234688, DIRECT, c25b2154543746ac
+thebrave.io, 1234913, DIRECT, c25b2154543746ac
+thebrave.io, 1234918, DIRECT, c25b2154543746ac
 thebrave.io, 1234589, RESELLER, c25b2154543746ac
 thebrave.io, 1234746, RESELLER, c25b2154543746ac
 thebrave.io, 1234633, RESELLER, c25b2154543746ac
