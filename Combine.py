@@ -342,6 +342,7 @@ def release():
             totalLines = str(sum(1 for _ in appAdsFile) - 1)
 
     inventorySet = set()
+    linesSet = set()
     with open(mainFilePath, 'w') as appAdsFile:
         appAdsFile.write("# CAS.ai Updated " + currentDate + '\n')
         if not args.partner:
@@ -362,13 +363,16 @@ def release():
                     
                     if (not inventory.is_empty() and inventory not in inventorySet and not (args.partner and inventory.domain and "cas.ai" in inventory.domain)):
                         inventorySet.add(inventory)
-                        appAdsFile.write(inventory.to_line())
+                        line = inventory.to_line()
+                        linesSet.add(line)
+                        appAdsFile.write(line)
 
         if args.games == True or args.partner == True:
             for source in _SOURCE_IN_GAMES:
                 with open(os.path.join(_ROOT_DIR, _DSP_DIR_NAME, source), 'r') as sourceFile:
                     for line in sourceFile:
-                        if line.strip() and not line.startswith('#'):
+                        if line.strip() and not line.startswith('#') and line not in linesSet:
+                            linesSet.add(line)
                             appAdsFile.write(line)
         
     shiledInfo = {
