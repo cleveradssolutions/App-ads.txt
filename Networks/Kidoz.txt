@@ -1,4 +1,4 @@
-#=== Kidoz Mar 03, 2026
+#=== Kidoz Jun 12, 2026
 kidoz.net, 11645, DIRECT, a109366414b7335e
 kidoz.net, 14427, DIRECT, a109366414b7335e
 kidoz.net, 14260, RESELLER, a109366414b7335e
@@ -8,20 +8,12 @@ kidoz.net, 15564, RESELLER, a109366414b7335e
 kidoz.net, 15568, RESELLER, a109366414b7335e
 kidoz.net, 15633, RESELLER, a109366414b7335e
 kidoz.net, 15648, RESELLER, a109366414b7335e
-33across.com, 001Pg000009Gtq2IAC, RESELLER
 appnexus.com, 11826, RESELLER, f5ab79cb980f11d1
-appnexus.com, 14230, RESELLER, f5ab79cb980f11d1
 google.com, pub-1386280613967939, RESELLER, f08c47fec0942fa0
 google.com, pub-2923085774557613, RESELLER, f08c47fec0942fa0
 google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa0
 hoopladigital.co.uk, 5046738227, RESELLER
-krushmedia.com, AJxF6R196a9M6CaTvK, RESELLER
-loopme.com, 11468, RESELLER
-media.net, 8CU167Y53, RESELLER
-mobupps.com, c74d97b01eae257e44aa9d5bade97baf33192, RESELLER
-onetag.com, 9349f5ef285da58, RESELLER
-openx.com, 557083110, RESELLER, 6a698e2ec38604c6
-playwire.com, 1025000, RESELLER
+playwire.com, 1018531, RESELLER
 prado.co, 14260, RESELLER
 prado.co, 15127, RESELLER
 prado.co, 15564, RESELLER
@@ -29,17 +21,5 @@ prado.co, 15568, RESELLER
 prado.co, 15633, RESELLER
 prado.co, 15648, RESELLER
 pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
-pubmatic.com, 165438, RESELLER, 5d62403b186f2ace
-pubmatic.com, 165611, RESELLER, 5d62403b186f2ace
-rubiconproject.com, 12556, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 18202, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 27396, RESELLER, 0bfd66d529a55807
-smartadserver.com, 5044, RESELLER, 060d053dcf45cbf3
 smartclip.net, 13564, RESELLER
-smilewanted.com, 3299, RESELLER
-telaria.com, 1deq6-zt59a, RESELLER, 1a4e959a1b50034a
-themediagrid.com, ZG1DBN, RESELLER, 35d5010d7789b49d
-tremorhub.com, 1deq6-zt59a, RESELLER, 1a4e959a1b50034a
-video.unrulymedia.com, 1767448067723954599, RESELLER
-visoon.de, 64393, RESELLER
-xandr.com, 12548, RESELLER

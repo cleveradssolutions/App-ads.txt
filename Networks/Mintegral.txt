@@ -1,4 +1,4 @@
-#=== Mintegral May 28, 2026
+#=== Mintegral Jun 12, 2026
 mintegral.com, 25008, DIRECT, 0aeed750c80d6423
 mintegral.com, 52286, DIRECT, 0aeed750c80d6423
 33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c
@@ -72,6 +72,7 @@ algorix.co, 60204, RESELLER, 5b394c12fea27a1d
 algorix.co, 60206, RESELLER, 5b394c12fea27a1d
 algorix.co, 604550, RESELLER, 5b394c12fea27a1d
 aniview.com, 603f65a2e291680ef30af9c7, RESELLER, 78b21b97965ec3f8
+aniview.com, 69d24331b4476e4a300e1584, RESELLER, 78b21b97965ec3f8
 anzu.io, 69539c978f0e5ae09b63f880, RESELLER
 aol.com, 58935, RESELLER, e1a5b5b6e3255540
 aol.com, 59025, RESELLER, e1a5b5b6e3255540
@@ -149,6 +150,7 @@ bidmachine.io, 1064, RESELLER
 bidmachine.io, 1065, RESELLER
 bidmachine.io, 114, RESELLER
 bidmachine.io, 138, RESELLER
+bidmachine.io, 1592, RESELLER
 bidmachine.io, 35, RESELLER
 bidmachine.io, 55, RESELLER
 bidmachine.io, 59, RESELLER
@@ -295,6 +297,8 @@ improvedigital.com, 2530, RESELLER
 improvedigital.com, 2602, RESELLER
 improvedigital.com, 2603, RESELLER
 improvedigital.com, 2625, RESELLER
+improvedigital.com, 2883, RESELLER
+improvedigital.com, 2884, RESELLER
 indexexchange.com, 182257, RESELLER
 indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 191332, RESELLER, 50b1c356f2c5c8fc
@@ -381,6 +385,8 @@ mars.media, 1010421, RESELLER, 8624339f102fb076
 mars.media, 1010443, RESELLER, 8624339f102fb076
 max-mobi.com, 11456, RESELLER, 6c4d5f85197a5b3c
 meazy.co, 15510, RESELLER
+media.net, 8CA7BO5Y1, RESELLER, 818f58666cabc936
+media.net, 8CAOK5V3Y, RESELLER, 818f58666cabc936
 media.net, 8CU12AQ1Y, RESELLER
 media.net, 8CU47MDK1, RESELLER
 media.net, 8CU5L226O, RESELLER
@@ -399,6 +405,7 @@ myfeature.tv, UvnXhUMZHRvKfRk52QZy, RESELLER
 nobid.io, 22388449880, RESELLER
 nobid.io, 22501800598, RESELLER
 nobid.io, 22575233870, RESELLER
+ogury.com, 260f8f9c-5adc-46ca-9418-ed6ad8948af7, RESELLER
 olaex.biz, 100039, RESELLER
 omnifytv.com, 05096ffe925c11eda1eb0242ac120002, RESELLER
 onairglobal.com, 4357627, RESELLER
@@ -557,6 +564,7 @@ rhythmone.com, 3948367200, RESELLER, a670c89d4a324e47
 rhythmone.com, 4173858586, RESELLER, a670c89d4a324e47
 rhythmone.com, 689559416, RESELLER, a670c89d4a324e47
 richaudience.com, 9komJKwMhZ, RESELLER
+richaudience.com, x1vKpaGD9I, RESELLER
 risecodes.com, 6022acddc8b2f90001767980, RESELLER
 risecodes.com, 67e92bf7698942000140acce, RESELLER
 rubiconproject.com, 13856, RESELLER, 0bfd66d529a55807
