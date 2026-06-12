@@ -1,4 +1,4 @@
-#=== ShowHeroes Jan 21, 2026
+#=== ShowHeroes Jun 12, 2026
 ivs.tv, 745639, DIRECT
 ivs.tv, 745639, RESELLER
 adform.com, 2688, RESELLER, 9f5210a2f0999e32
@@ -11,3 +11,4 @@ openx.com, 540022851, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 120391, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 2600, RESELLER
 sharethrough.com, z4z8ek6m, DIRECT, d53b998a7bd4ecd2
+triplelift.com, 13567, RESELLER, 6c33edb13117fd86
