@@ -1,0 +1,10 @@
+#=== ShowcaseAds Jun 12, 2026
+showcasead.com, 806322774, DIRECT
+adagio.io, 1627, RESELLER
+appnexus.com, 13099, RESELLER
+improvedigital.com, 1790, RESELLER
+onetag.com, 6b859b96c564fbe, RESELLER
+pubmatic.com, 159110, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 19116, RESELLER, 0bfd66d529a55807
