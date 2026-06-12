@@ -1303,6 +1303,9 @@ prado.co, 15633, RESELLER
 #=== Prado Jun 12, 2026
 prado.co, 15504, DIRECT
 prado.co, 15612, DIRECT
+appnexus.com, 15670, RESELLER
+eskimi.com, 2020001211, RESELLER
+rubiconproject.com, 26250, RESELLER, 0bfd66d529a55807
 #=== InMobi Jun 12, 2026
 inmobi.com, 06d15e3ce4434f75b585f2fb7ce2e302, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 30ff09752f2b48eb9974d28116cf9ff0, DIRECT, 83e75a7ae333ca9d
@@ -1328,7 +1331,6 @@ algorix.co, 60367, RESELLER, 5b394c12fea27a1d
 anzu.io, 6995dd6e4b45334cc758cd8f, RESELLER
 apester.com, 2212, RESELLER
 app-stock.com, 315417, RESELLER
-appnexus.com, 15670, RESELLER
 axonix.com, 57716, RESELLER
 bidmachine.io, 100, RESELLER
 bidmachine.io, 101, RESELLER
@@ -2645,7 +2647,6 @@ rubiconproject.com, 24852, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24872, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24874, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26144, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 26250, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26360, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26768, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 27026, RESELLER, 0bfd66d529a55807
@@ -3269,6 +3270,7 @@ conversantmedia.com, 100264, RESELLER, 03113cd04947736d
 conversantmedia.com, 100342, RESELLER, 03113cd04947736d
 conversantmedia.com, 100432, RESELLER, 03113cd04947736d
 conversantmedia.com, 100739, RESELLER, 03113cd04947736d
+criteo.com, B-062970, DIRECT, 9fac4a4a87c2a44f
 criteo.com, B-064291, DIRECT, 9fac4a4a87c2a44f
 criteo.com, B-059922, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-06290, RESELLER, 9fac4a4a87c2a44f
@@ -3296,6 +3298,7 @@ google.com, pub-3619045887187031, RESELLER, f08c47fec0942fa0
 google.com, pub-3790066164809976, RESELLER, f08c47fec0942fa0
 google.com, pub-4568609371004228, RESELLER, f08c47fec0942fa0
 google.com, pub-5572725367182117, RESELLER, f08c47fec0942fa0
+google.com, pub-5610649146674306, RESELLER, f08c47fec0942fa0
 google.com, pub-5938970922136226, RESELLER, f08c47fec0942fa0
 google.com, pub-6075174367631946, RESELLER, f08c47fec0942fa0
 google.com, pub-7710996147715002, RESELLER, f08c47fec0942fa0
@@ -3314,6 +3317,8 @@ improvedigital.com, 2885, RESELLER
 incrementx.com, 60803, RESELLER, 8728b7e97e589da4
 indexexchange.com, 184738, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 19783, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 198783, RESELLER, 50b1c356f2c5c8fc
+inmobi.com, 445a21be4613492a9545763b8c4bc548, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 725952799f9b44528379f442e9fe91dc, DIRECT, 83e75a7ae333ca9d
 inmobi.com, e05e4461515245fc8ca91510ed240025, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 1e3bbb89cc344ba784515ed0d153e966, RESELLER, 83e75a7ae333ca9d
@@ -3364,6 +3369,7 @@ potensus.com, 5707220331, DIRECT
 premiumads.com.br, 21425, DIRECT
 premiumads.net, 21425, DIRECT
 prequel.tv, 518, RESELLER
+pubmatic.com, 161141, DIRECT, 5d62403b186f2ace
 pubmatic.com, 116521, RESELLER, 5d62403b186f2ace
 pubmatic.com, 126340, RESELLER, 5d62403b186f2ace
 pubmatic.com, 155495, RESELLER, 5d62403b186f2ace
@@ -3388,6 +3394,8 @@ reklamup.com, 5982408864, DIRECT
 rhythmone.com, 188404962, RESELLER, a670c89d4a324e47
 rhythmone.com, 2613193077, RESELLER, a670c89d4a324e47
 rhythmone.com, 5336134699710580000, RESELLER, a670c89d4a324e47
+rubiconproject.com, 23778, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 23780, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 15410, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 15478, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 19674, RESELLER, 0bfd66d529a55807
@@ -3402,6 +3410,7 @@ rubiconproject.com, 27266, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 27320, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 27322, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 2778, RESELLER, 0bfd66d529a55807
+sharethrough.com, nJscjtOy, DIRECT, d53b998a7bd4ecd2
 sharethrough.com, ArMVaNAc, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, nJscjt12Oy, RESELLER, d53b998a7bd4ecd2
 singularads.com, 895023, RESELLER
@@ -3420,6 +3429,8 @@ smartadserver.com, 4016, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4071, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4072, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4073, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4313, RESELLER
+smartadserver.com, 4313-OB, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4322, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4497, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4497-OB, RESELLER, 060d053dcf45cbf3
@@ -3441,6 +3452,7 @@ start.io, inm, RESELLER
 teads.tv, 13576, DIRECT, 15a9c44f6d26cbe1
 teads.tv, 17978, DIRECT, 15a9c44f6d26cbe1
 thejungletechnology.com, 1005, DIRECT
+themediagrid.com, 81MGSH, DIRECT, 35d5010d7789b49d
 themediagrid.com, DKRL8Y, DIRECT, 35d5010d7789b49d
 themediagrid.com, 1MGSH, RESELLER, 35d5010d7789b49d
 themediagrid.com, 2BYX51, RESELLER, 35d5010d7789b49d
@@ -3449,6 +3461,8 @@ themediagrid.com, A249ED, RESELLER, 35d5010d7789b49d
 themediagrid.com, FH3TKJ, RESELLER, 35d5010d7789b49d
 themediagrid.com, PLTXGE, RESELLER, 35d5010d7789b49d
 themediagrid.com, YUPM3V, RESELLER, 35d5010d7789b49d
+triplelift.com, 12193, RESELLER, 6c33edb13117fd86
+triplelift.com, 12193-EB, RESELLER, 6c33edb13117fd86
 triplelift.com, 9657, RESELLER, 6c33edb13117fd86
 triplelift.com, 9657-EB, RESELLER, 6c33edb13117fd86
 ucfunnel.com, par-9A2627866DA4BBE4F4AA4A67A3DDE686, RESELLER
@@ -4603,6 +4617,7 @@ adswizz.com, 571, RESELLER
 adswizz.com, 80, RESELLER
 audiomob.com, af1ac5336f59136a3bed70d9829d799, RESELLER, 4b0cec5c9072d7d7
 conversantmedia.com, 100260, RESELLER, 03113cd04947736d
+facebook.com, 1201343281634768, RESELLER, c3e20eee3f780d68
 gumgum.com, 15641, RESELLER, ffdef49475d318a9
 improvedigital.com, 2684, RESELLER
 improvedigital.com, 2829, RESELLER

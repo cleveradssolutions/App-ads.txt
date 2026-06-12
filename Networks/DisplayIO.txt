@@ -6,6 +6,7 @@ apester.com, 0707, RESELLER
 audiomob.com, af1ac5336f59136a3bed70d9829d799, RESELLER, 4b0cec5c9072d7d7
 conversantmedia.com, 100260, RESELLER, 03113cd04947736d
 dauup.com, 34109, RESELLER
+facebook.com, 1201343281634768, RESELLER, c3e20eee3f780d68
 gumgum.com, 15641, RESELLER, ffdef49475d318a9
 improvedigital.com, 2684, RESELLER
 improvedigital.com, 2829, RESELLER
