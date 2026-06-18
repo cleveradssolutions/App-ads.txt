@@ -1,4 +1,4 @@
-#=== Prado Jun 12, 2026
+#=== Prado Jun 18, 2026
 prado.co, 15504, DIRECT
 prado.co, 15612, DIRECT
 prado.co, 14260, RESELLER
@@ -9,6 +9,7 @@ prado.co, 15633, RESELLER
 prado.co, 15648, RESELLER
 appnexus.com, 11826, RESELLER, f5ab79cb980f11d1
 appnexus.com, 15670, RESELLER
+conversantmedia.com, 100357, RESELLER, 03113cd04947736d
 eskimi.com, 2020001211, RESELLER
 google.com, pub-1386280613967939, RESELLER, f08c47fec0942fa0
 google.com, pub-2923085774557613, RESELLER, f08c47fec0942fa0
@@ -25,4 +26,5 @@ pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162270, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 18202, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26250, RESELLER, 0bfd66d529a55807
+selectmedia.asia, 87nh4a31e427dc0a870jj4h6, RESELLER, e365c871a27c655d
 smartclip.net, 13564, RESELLER
