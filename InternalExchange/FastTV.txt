@@ -1,0 +1,7 @@
+#=== FastTV Jun 29, 2026
+fasttvltd.com, f31b93a7, DIRECT
+fasttvltd.com, f9b1e526, RESELLER
+appnexus.com, 16582, RESELLER
+freewheel.tv, 536059-r-523319, RESELLER
+improvedigital.com, 2818, RESELLER
+smartadserver.com, 5839, RESELLER, 060d053dcf45cbf3

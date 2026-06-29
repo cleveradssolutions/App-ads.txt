@@ -371,7 +371,7 @@ def release():
             for source in _SOURCE_IN_GAMES:
                 with open(os.path.join(_ROOT_DIR, _DSP_DIR_NAME, source), 'r') as sourceFile:
                     for line in sourceFile:
-                        if line.strip() and not line.startswith('#') and line not in linesSet:
+                        if line.strip() and line not in linesSet:
                             linesSet.add(line)
                             appAdsFile.write(line)
         

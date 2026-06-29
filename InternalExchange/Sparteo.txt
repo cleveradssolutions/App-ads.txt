@@ -1,0 +1,10 @@
+#=== Sparteo Jun 29, 2026
+flashb.id, 2ced450b-ece0-5bdb-b3ae-020df2ef44a8, DIRECT
+adform.com, 3125, RESELLER
+lijit.com, 447882, RESELLER, fafdf38b16bf6b2b
+media.net, 8CU7Y0Y2Y, RESELLER
+onetag.com, 5cca11704094eb8, RESELLER
+pubmatic.com, 160107, RESELLER, 5d62403b186f2ace
+triplelift.com, 12738, RESELLER, 6c33edb13117fd86
+trustedstack.com, TS9V5HI46, RESELLER
+video.unrulymedia.com, 273421059, RESELLER

@@ -1,4 +1,4 @@
-#=== Loyal Mar 03, 2026
+#=== Loyal Jun 29, 2026
 exchange.loyal.app, AJxF6R34a9M6CaTvK, DIRECT
 33across.com, 001Pg00001XXqAoIAL, RESELLER, bbea06d9c4d2853c
 admanmedia.com, 2294, DIRECT
@@ -8,4 +8,6 @@ loopme.com, 15660, RESELLER, 6c8d5f95897a5a3b
 pubmatic.com, 160145, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165919, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165945, RESELLER, 5d62403b186f2ace
+pubmatic.com, 166672, RESELLER, 5d62403b186f2ace
 video.unrulymedia.com, 228607987, RESELLER
+video.unrulymedia.com, 3350674472, RESELLER
