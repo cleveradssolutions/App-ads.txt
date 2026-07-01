@@ -291,7 +291,6 @@ krushmedia.com, AJxF6R192a9M6CaTvK, DIRECT
 krushmedia.com, AJxF6R192a9M6CaTvK, RESELLER
 kubient.com, 5e2cb089c866, RESELLER, 4f12311e6ed900a3
 lacunads.com, LC136f79e999464edc, RESELLER
-liftoff.io, 7f6945815e6, RESELLER
 lijit.com, 273644, RESELLER, fafdf38b16bf6b2b
 lijit.com, 367217, RESELLER, fafdf38b16bf6b2b
 lijit.com, 380632, RESELLER, fafdf38b16bf6b2b

@@ -65,6 +65,7 @@ _NOT_CAS_SOURCES = set(_SOURCE_DSP + _SOURCE_IN_GAMES + ['.DS_Store'])
 _BANS = [
     # (Reserved by Network name, Banned domain for other Networks)
     # ("AdMob", "google.com")
+    ("None", "liftoff.io") # Deprecated domain from LiftoffMonetize
 ]
 _VARIABLES = {  # SUPPORTED VARIABLES
     # "contact", # contact information
@@ -176,6 +177,7 @@ class Inventory:
         for banDomain in _BANS:
             if source != banDomain[0] and self.domain == banDomain[1]:
                 self.domain = None
+                fatal_error("Ban domain in " + source, line)
                 return
 
         self.type = pattern[2].split('#')[0].strip().upper()
