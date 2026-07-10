@@ -1,4 +1,4 @@
-#=== YangoAds Jun 29, 2026
+#=== YangoAds Jul 08, 2026
 yandex.com, 100032860, DIRECT
 yandex.com, 100440221, DIRECT
 yandex.com, 10074451, DIRECT
@@ -172,6 +172,7 @@ yandex.com, 321982427, DIRECT
 yandex.com, 32262487, DIRECT
 yandex.com, 32691543, DIRECT
 yandex.com, 327123643, DIRECT
+yandex.com, 327819693, DIRECT
 yandex.com, 3827676, DIRECT
 yandex.com, 38777891, DIRECT
 yandex.com, 52649769, DIRECT
@@ -387,6 +388,7 @@ video.unrulymedia.com, 894246135, RESELLER
 xandr.com, 13955, RESELLER, f5ab79cb980f11d1
 xandr.com, 15278, RESELLER, f5ab79cb980f11d1
 yango-ads.com, 327123643, DIRECT
+yango-ads.com, 327819693, DIRECT
 zetaglobal.net, 626, RESELLER
 zetaglobal.net, 689, RESELLER
 zmaticoo.com, 114122, RESELLER
