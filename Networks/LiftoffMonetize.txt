@@ -1,4 +1,4 @@
-#=== LiftoffMonetize Jul 10, 2026
+#=== LiftoffMonetize Jul 13, 2026
 vungle.com, 5730c2af2270cba25f000066, DIRECT, c107d686becd2d77
 vungle.com, 5c657afed9e6e60012bab5d9, DIRECT, c107d686becd2d77
 vungle.com, 6a50bc25f28c146c135c2aa5, DIRECT, c107d686becd2d77
@@ -33,7 +33,6 @@ app-stock.com, 358747, RESELLER
 appads.in, 106246, RESELLER
 appnexus.com, 11470, RESELLER
 appnexus.com, 11826, RESELLER, f5ab79cb980f11d1
-appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12061, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12700, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13293, RESELLER

@@ -1,4 +1,4 @@
-#=== Chartboost Jun 30, 2026
+#=== Chartboost Jul 13, 2026
 chartboost.com, 5730bb1a04b0165b75d2e564, DIRECT
 152media.info, 152M608, RESELLER
 152media.info, 152M896, RESELLER
@@ -68,7 +68,6 @@ appnexus.com, 10239, RESELLER, f5ab79cb980f11d1
 appnexus.com, 10549, RESELLER
 appnexus.com, 11801, RESELLER, f5ab79cb980f11d1
 appnexus.com, 11879, RESELLER, f5ab79cb980f11d1
-appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12061, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12366, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12622, RESELLER

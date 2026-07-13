@@ -1,4 +1,4 @@
-#=== Aceex May 28, 2026
+#=== Aceex Jul 13, 2026
 aceex.io, 1608, DIRECT, b1cf3c874d5c6682
 152media.info, 152M238, RESELLER
 152media.info, 152M890, RESELLER
@@ -17,7 +17,6 @@ algorix.co, 60126, DIRECT, 5b394c12fea27a1d
 amxrtb.com, 105199642, DIRECT
 amxrtb.com, 105199769, RESELLER
 appnexus.com, 11701, RESELLER
-appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
 appnexus.com, 7582, RESELLER, f5ab79cb980f11d1
 axonix.com, 59218, RESELLER
 brightcom.com, 73523, RESELLER
