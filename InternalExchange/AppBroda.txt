@@ -1,4 +1,4 @@
-#=== AppBroda Apr 29, 2025
+#=== AppBroda Jul 13, 2025
 appbroda.com, 926, DIRECT
 appbroda.com, 953, DIRECT
 152media.info, 152M698, RESELLER
@@ -12,7 +12,6 @@ admanmedia.com, 2050, RESELLER
 admanmedia.com, 43, RESELLER
 adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER, 4ad745ead2958bf7
 adyoulike.com, cea2adf686c5179d6d96c9b0bbac777e, RESELLER, 4ad745ead2958bf7
-appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13099, RESELLER, f5ab79cb980f11d1
 appnexus.com, 15670, RESELLER, f5ab79cb980f11d1
 appnexus.com, 3153, RESELLER, f5ab79cb980f11d1

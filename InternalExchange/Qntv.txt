@@ -1,8 +1,14 @@
-#=== Qntv May 28, 2026
+#=== qntv Jul 13, 2026
 qntv.io, 11710526, DIRECT
 appnexus.com, 17383, RESELLER
+aps.amazon.com, 4d4c8d3b-7851-43b9-afba-820ea7c3f5dc, RESELLER
+globalsun.io, 618, RESELLER
 improvedigital.com, 2693, RESELLER
 lijit.com, 556191, RESELLER, fafdf38b16bf6b2b
 openx.com, 564974596, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 165166, RESELLER, 5d62403b186f2ace
 pubx.ai, 134040580082541, RESELLER
 rubiconproject.com, 27172, RESELLER, 0bfd66d529a55807
+sharethrough.com, 5030, RESELLER, d53b998a7bd4ecd2
+shinka.io, 1000018, DIRECT
+video.unrulymedia.com, 244078412, RESELLER

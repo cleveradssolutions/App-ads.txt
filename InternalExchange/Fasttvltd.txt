@@ -1,0 +1,2 @@
+#=== Fasttvltd Jul 13, 2026
+inventorypartnerdomain=fasttvltd.com

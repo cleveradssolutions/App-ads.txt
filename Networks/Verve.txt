@@ -1,4 +1,4 @@
-#=== Verve Apr 15, 2026
+#=== Verve Jul 13, 2026
 pubnative.net, 1009903, DIRECT, d641df8625486a7b
 pubnative.net, 1017314, DIRECT, d641df8625486a7b
 pubnative.net, 1017315, DIRECT, d641df8625486a7b
@@ -307,7 +307,6 @@ conversantmedia.com, 100999, RESELLER, 03113cd04947736d
 conversantmedia.com, 101055, RESELLER, 03113cd04947736d
 conversantmedia.com, 101145, RESELLER, 03113cd04947736d
 conversantmedia.com, 41024, RESELLER, 03113cd04947736d
-conversantmedia.com, 41784, RESELLER, 03113cd04947736d
 copper6.com, 749492, RESELLER
 cpmstar.com, 54396, RESELLER, 1b929e6459dfc260
 dauup.com, 34101, RESELLER
@@ -379,7 +378,6 @@ gitberry.com, 375100011, RESELLER
 gitberry.com, 577, RESELLER
 gitberry.com, 816110171, RESELLER
 google.com, pub-1682595508078257, RESELLER, f08c47fec0942fa0
-google.com, pub-7734005103835923, RESELLER, f08c47fec0942fa0
 grouprvn.com, n1o21Ga0G23, RESELLER
 growintech.co, 36854, RESELLER
 ignitemediatech.com, pub_11130, RESELLER

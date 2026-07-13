@@ -1,0 +1,22 @@
+#=== Aniview Jul 13, 2026
+inventorypartnerdomain=aniview.com
+inventorypartnerdomain=vortexmedia.ai
+aniview.com, 6a4a6851b23972e6c70b2de4, DIRECT, 78b21b97965ec3f8
+aniview.com, 6a4c226f874cc5ef28003bf4, DIRECT, 78b21b97965ec3f8
+adagio.io, 1618, RESELLER
+benefit.media, 3563027, RESELLER
+dxkulture.com, 98845, RESELLER
+freewheel.tv, 536081-r-523319, RESELLER
+inmobi.com, 1e13a47050bc40e29ef24c145820180d, RESELLER, 83e75a7ae333ca9d
+loopme.com, 15685, RESELLER, d53b998a7bd4ecd2
+media.net, 8CA8O7D3V, RESELLER
+onetag.com, 970b1a7bf195228, RESELLER
+openx.com, 540844550, RESELLER, 6a698e2ec38604c6
+smaato.com, 1100060225, RESELLER, 07bcf65f187117b4
+smartadserver.com, 4536, RESELLER, d53b998a7bd4ecd2
+smartadserver.com, 5870, RESELLER, d53b998a7bd4ecd2
+smartadserver.com, 5883, RESELLER, 060d053dcf45cbf3
+smartbid.ai, SMB50008, RESELLER, 98eb473904e71631
+winvid.tv, 22286, RESELLER
+xandr.com, 15606, RESELLER
+zetaglobal.net, 883, RESELLER
