@@ -1096,7 +1096,7 @@ zetaglobal.net, 681, RESELLER
 zetaglobal.net, 815, RESELLER
 zmaticoo.com, 114490, RESELLER
 zmaticoo.com, 5135969, RESELLER
-#=== LiftoffMonetize Jul 10, 2026
+#=== LiftoffMonetize Jul 13, 2026
 vungle.com, 5730c2af2270cba25f000066, DIRECT, c107d686becd2d77
 vungle.com, 5c657afed9e6e60012bab5d9, DIRECT, c107d686becd2d77
 vungle.com, 6a50bc25f28c146c135c2aa5, DIRECT, c107d686becd2d77
@@ -1113,7 +1113,6 @@ adyoulike.com, 78afbc34fac571736717317117dfa247, RESELLER
 adyoulike.com, a2226c27fc2a6773f6a2b365e013513a, RESELLER
 algorix.co, 604633, RESELLER, 5b394c12fea27a1d
 appnexus.com, 11470, RESELLER
-appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12700, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13297, RESELLER, f5ab79cb980f11d1
 appnexus.com, 15349, RESELLER, f5ab79cb980f11d1
@@ -1403,7 +1402,7 @@ voisetech.com, 1023, RESELLER
 yellowhead.com, 67b9c0a1d2e345, RESELLER
 zmaticoo.com, 113149, RESELLER
 zmaticoo.com, 5135082, RESELLER
-#=== Chartboost Jun 30, 2026
+#=== Chartboost Jul 13, 2026
 chartboost.com, 5730bb1a04b0165b75d2e564, DIRECT
 152media.info, 152M608, RESELLER
 152media.info, 152M896, RESELLER
@@ -2800,6 +2799,10 @@ yieldmo.com, 3078438591206989879, RESELLER
 zetaglobal.net, 848, RESELLER
 zetaglobal.net, 989, RESELLER
 #=== CASExchange Jul 13, 2026
+inventorypartnerdomain=aniview.com
+inventorypartnerdomain=fasttvltd.com
+inventorypartnerdomain=streamix-tv.com
+inventorypartnerdomain=vortexmedia.ai
 152media.info, 152M1003, RESELLER
 152media.info, 152M1024, RESELLER
 152media.info, 152M238, RESELLER
@@ -3404,6 +3407,7 @@ aol.com, 55681, RESELLER, e1a5b5b6e3255540
 aol.com, 58905, RESELLER, e1a5b5b6e3255540
 appbroda.com, 926, DIRECT
 appbroda.com, 953, DIRECT
+appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12475, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12867, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13101, RESELLER, f5ab79cb980f11d1
@@ -3891,7 +3895,7 @@ zetaglobal.net, 735, RESELLER
 zetaglobal.net, 748, RESELLER
 zetaglobal.net, 767, RESELLER
 zetaglobal.net, 808, RESELLER
-#=== HyprMX Dec 02, 2025
+#=== HyprMX Jul 13, 2025
 hyprmx.com, 27570864242, DIRECT, 79540da20c07237e
 152media.info, 152M499, RESELLER
 152media.info, 152M5, RESELLER
@@ -3937,7 +3941,6 @@ conversantmedia.com, 100254, RESELLER, 03113cd04947736d
 conversantmedia.com, 100507, RESELLER, 03113cd04947736d
 conversantmedia.com, 100651, RESELLER, 03113cd04947736d
 conversantmedia.com, 34975, RESELLER, 03113cd04947736d
-conversantmedia.com, 41784, RESELLER, 03113cd04947736d
 criteo.com, B-060555, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-066057, RESELLER, 9fac4a4a87c2a44f
 digimedllc.com, T3CuGr490nI3eQCxtp, RESELLER
@@ -3949,7 +3952,6 @@ freewheel.tv, 1581157, RESELLER
 freewheel.tv, 1581210, RESELLER
 freewheel.tv, 1608200, RESELLER
 getmediamx.com, 1215801, RESELLER
-google.com, pub-7734005103835923, RESELLER, f08c47fec0942fa0
 google.com, pub-7983651257838282, RESELLER, f08c47fec0942fa0
 greedygame.com, 5437386, RESELLER
 growintech.co, 36854, RESELLER
@@ -4123,7 +4125,7 @@ smartadserver.com, 5791, RESELLER, 060d053dcf45cbf3
 themediagrid.com, GODNC4, RESELLER, 9fac4a4a87c2a44f
 truvid.com, 2643, RESELLER
 video.unrulymedia.com, 817753694, RESELLER
-#=== Verve Apr 15, 2026
+#=== Verve Jul 13, 2026
 pubnative.net, 1009903, DIRECT, d641df8625486a7b
 pubnative.net, 1017314, DIRECT, d641df8625486a7b
 pubnative.net, 1017315, DIRECT, d641df8625486a7b

@@ -1,4 +1,5 @@
 #=== Streamix-tv Jul 13, 2026
+inventorypartnerdomain=streamix-tv.com
 streamix-tv.com, 781914, DIRECT
 beachfront.com, 15303, RESELLER, e2541279e8e2ca4d
 lijit.com, 82132, RESELLER, fafdf38b16bf6b2b

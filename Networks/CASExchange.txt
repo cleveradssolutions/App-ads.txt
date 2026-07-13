@@ -1,4 +1,8 @@
 #=== CASExchange Jul 13, 2026
+inventorypartnerdomain=aniview.com
+inventorypartnerdomain=fasttvltd.com
+inventorypartnerdomain=streamix-tv.com
+inventorypartnerdomain=vortexmedia.ai
 152media.info, 152M1003, RESELLER
 152media.info, 152M1024, RESELLER
 152media.info, 152M238, RESELLER
@@ -112,7 +116,6 @@ appnexus.com, 11487, RESELLER, f5ab79cb980f11d1
 appnexus.com, 11701, RESELLER
 appnexus.com, 11716, RESELLER, f5ab79cb980f11d1
 appnexus.com, 11879, RESELLER, f5ab79cb980f11d1
-appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12616, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13099, RESELLER
 appnexus.com, 13774, RESELLER, f5ab79cb980f11d1

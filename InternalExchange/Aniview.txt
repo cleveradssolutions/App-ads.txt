@@ -1,4 +1,6 @@
 #=== Aniview Jul 13, 2026
+inventorypartnerdomain=aniview.com
+inventorypartnerdomain=vortexmedia.ai
 aniview.com, 6a4a6851b23972e6c70b2de4, DIRECT, 78b21b97965ec3f8
 aniview.com, 6a4c226f874cc5ef28003bf4, DIRECT, 78b21b97965ec3f8
 adagio.io, 1618, RESELLER
