@@ -1,4 +1,4 @@
-#=== Bigo Jun 12, 2026
+#=== Bigo Jul 13, 2026
 bigo.sg, 10374, DIRECT
 152media.info, 152M1134, RESELLER
 152media.info, 152M698, RESELLER
@@ -61,6 +61,7 @@ algorix.co, 54845, RESELLER, 5b394c12fea27a1d
 algorix.co, 604547, RESELLER, 5b394c12fea27a1d
 algorix.co, 604553, RESELLER, 5b394c12fea27a1d
 amxrtb.com, 105199934, RESELLER
+anzu.io, 6a3919f2db8ef8bc74b8fae8, RESELLER
 apester.com, 49071, DIRECT
 apester.com, 49071, RESELLER
 apester.com, 91071, RESELLER
@@ -201,6 +202,7 @@ eplanning.net, ecee0b96300f040e, RESELLER, c1ba615865ed87b2
 eskimi.com, 2020000041, RESELLER
 eskimi.com, 2020000104, RESELLER
 eskimi.com, 2020000186, RESELLER
+eskimi.com, 2020001211, RESELLER
 fasttvltd.com, e689c0c2, RESELLER
 filmzie.com, 5085, RESELLER
 freewheel.tv, 1601388, RESELLER
@@ -271,6 +273,7 @@ inmobi.com, ef083d721beb4c0f8776ced01e262c03, RESELLER, 83e75a7ae333ca9d
 insticator.com, a4eb11dd-9bc5-4d77-9877-71f69dcfc08f, RESELLER, b3511ffcafb23a32
 intenze.co, 200186, RESELLER
 iqzone.com, IQ272, RESELLER
+iqzone.com, IQ46, RESELLER
 kidoz.net, 15568, RESELLER, a109366414b7335e
 kidoz.net, 15614, RESELLER, a109366414b7335e
 krushmedia.com, AJxF6R572a9M6CaTvK, RESELLER
@@ -298,6 +301,7 @@ lijit.com, 568191, RESELLER, fafdf38b16bf6b2b
 lijit.com, 569924, RESELLER, fafdf38b16bf6b2b
 lijit.com, 583722, RESELLER, fafdf38b16bf6b2b
 lijit.com, 587508, RESELLER, fafdf38b16bf6b2b
+limpid.tv, 203709, RESELLER
 limpid.tv, 203715, RESELLER
 loopme.com, 11119, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11318, RESELLER, 6c8d5f95897a5a3b
@@ -397,6 +401,7 @@ playdigo.com, 2048, RESELLER, 92011346d63d3c30
 playstream.media, 3185, DIRECT
 playstream.media, 3185, RESELLER
 prado.co, 15614, RESELLER
+programmaticx.ai, 100451, RESELLER
 programmaticx.ai, 10568600, RESELLER, b42d42eb28400efa
 pubeasy.io, 110013, RESELLER
 pubeasy.io, 110047, RESELLER
@@ -593,6 +598,7 @@ smaato.com, 1100059370, RESELLER, 07bcf65f187117b4
 smaato.com, 1100059476, RESELLER, 07bcf65f187117b4
 smaato.com, 1100059563, RESELLER, 07bcf65f187117b4
 smartadserver.com, 1247, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 3439, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 3554, RESELLER
 smartadserver.com, 3713, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 3864, RESELLER
@@ -600,6 +606,7 @@ smartadserver.com, 3964, RESELLER
 smartadserver.com, 4342, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4343, RESELLER
 smartadserver.com, 4467, RESELLER
+smartadserver.com, 4483, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4568, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4610, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4695, RESELLER, 060d053dcf45cbf3
@@ -645,6 +652,7 @@ taboola.com, 1618213, RESELLER, c228e6794e811952
 tagoras.io, 82f086910cc277680cae8f84f1570248, RESELLER
 target.my.com, 13033031, RESELLER
 targetbetter.com, 610568600, RESELLER
+targetbetter.com, 6451, RESELLER, b42d42eb28400efa
 taurusx.com, 80066, RESELLER
 taurusx.com, 80635, RESELLER
 thebigred.co, 910601, RESELLER

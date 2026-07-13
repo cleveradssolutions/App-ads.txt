@@ -1,4 +1,4 @@
-#=== StartIO Jun 29, 2026
+#=== StartIO Jul 13, 2026
 start.io, 125650712, DIRECT
 start.io, 144185998, DIRECT
 start.io, 174388014, DIRECT
@@ -30,13 +30,16 @@ bidedge.io, 12427296, RESELLER
 bidmachine.io, 1447, RESELLER
 bigo.sg, 887, RESELLER
 blasto.ai, 585, RESELLER, 7e936b1feafdaa61
+brightcom.com, 43301, RESELLER
 conversantmedia.com, 100339, RESELLER, 03113cd04947736d
 conversantmedia.com, 100792, RESELLER, 03113cd04947736d
 copper6.com, 764121, RESELLER
 criteo.com, B-072730, RESELLER, 9fac4a4a87c2a44f
+e-planning.net, dfe3c13594cd35a3, RESELLER, c1ba615865ed87b2
 fourthdimentionconsulting.com, 19118819, RESELLER
 gitberry.com, 405100012, RESELLER
 growintech.co, 2723d092b63885e0d7c260cc007e8b9d81642, RESELLER, 9d8dfe5c6b00fb37
+ignitemediatech.com, pub_11154, RESELLER
 improvedigital.com, 1532, RESELLER
 improvedigital.com, 1785, RESELLER
 indexexchange.com, 215209, RESELLER, 50b1c356f2c5c8fc
@@ -54,6 +57,8 @@ media.net, 8CUIV8D19, RESELLER
 mediayo.ai, 2255103, RESELLER
 mobupps.com, c74d97b01eae257e44aa9d5bade97baf8099, RESELLER
 nativo.com, 5958, RESELLER, 59521ca7cc5e9fee
+onlinemediasolutions.com, 43301, RESELLER, b3868b187e4b6402
+onomagic.com, 43301, RESELLER
 openx.com, 540709535, RESELLER, 6a698e2ec38604c6
 openx.com, 559912325, RESELLER, 6a698e2ec38604c6
 opera.com, pub12998959884416, RESELLER, 55a0c5fd61378de3
@@ -72,8 +77,6 @@ pubmatic.com, 163476, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164125, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165750, RESELLER, 5d62403b186f2ace
 pubnative.net, 1007349, RESELLER, d641df8625486a7b
-pubnative.net, 1008289, RESELLER, d641df8625486a7b
-pubnative.net, 1008770, RESELLER, d641df8625486a7b
 richaudience.com, h44H1yPBlk, RESELLER
 rubiconproject.com, 24400, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 13510, RESELLER
@@ -125,12 +128,14 @@ triplelift.com, 8784, RESELLER, 6c33edb13117fd86
 triplelift.com, 9342, RESELLER, 6c33edb13117fd86
 trustedstack.com, TS28K5YY0, RESELLER
 trustedstack.com, TS677PGY3, RESELLER
+trustedstack.com, TSL72ADG4, RESELLER
 truvid.com, 2643, RESELLER
 twist.win, TW2400538, RESELLER
 uis.mobfox.com, 2290, RESELLER, 5529a3d1f59865be
 undertone.com, 4261, RESELLER
 vidazoo.com, 67aa86ac8effa21af881368d, RESELLER, b6ada874b4d7d0b2
 video.unrulymedia.com, 2464975885, RESELLER
+video.unrulymedia.com, 703273072, RESELLER
 video.unrulymedia.com, 799061815, RESELLER
 video.unrulymedia.com, 817753694, RESELLER
 videoheroes.tv, 212747, RESELLER, 064bc410192443d8
