@@ -1,0 +1,4 @@
+#=== Wecallmedia Jul 13, 2026
+wecallmedia.com, 1073, DIRECT
+wecallmedia.com, 1077, RESELLER
+smartadserver.com, 5881, RESELLER, 060d053dcf45cbf3
