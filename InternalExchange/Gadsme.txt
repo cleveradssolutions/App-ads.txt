@@ -1,4 +1,4 @@
-#=== Gadsme Jul 13, 2026
+#=== Gadsme Jul 27, 2026
 inventorypartnerdomain=gadsme.com
 gadsme.com, cloyjpkob001arb0iqlpzv68m, DIRECT, 6e0ed2d8104a4234
 33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
@@ -139,10 +139,10 @@ appnexus.com, 13099, RESELLER
 appnexus.com, 16912, RESELLER, f5ab79cb980f11d1
 appnexus.com, 15686, RESELLER, f5ab79cb980f11d1
 appnexus.com, 7265, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7065, RESELLER
 appnexus.com, 12742, RESELLER, f5ab79cb980f11d1
 appnexus.com, 3741, RESELLER
 appnexus.com, 6924, RESELLER, f5ab79cb980f11d1
-appnexus.com, 7065, RESELLER
 appnexus.com, 14808, RESELLER, f5ab79cb980f11d1
 appnexus.com, 7664, RESELLER
 appnexus.com, 11111, RESELLER, f5ab79cb980f11d1
@@ -282,6 +282,7 @@ gitberry.com, 415100011, RESELLER
 gitberry.com, 816100164, RESELLER
 gitberry.com, 812100164, RESELLER
 gitberry.com, 117000034, DIRECT
+google.com, pub-7756262923332577, RESELLER, f08c47fec0942fa0
 google.com, pub-6346866704322274, RESELLER, f08c47fec0942fa0
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0
 google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0
@@ -500,9 +501,9 @@ pubmatic.com, 163091, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165980, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161151, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158287, RESELLER, 5d62403b186f2ace
+pubmatic.com, 165611, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163476, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
-pubmatic.com, 165611, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162914, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156559, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165864, RESELLER, 5d62403b186f2ace
@@ -670,8 +671,8 @@ sharethrough.com, j0nru1gr, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, Vlox9WTu, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, a6Qdi6Dn, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 4881, RESELLER, d53b998a7bd4ecd2
-sharethrough.com, 5EQ7ZF1q, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, ArMVaNAc, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, 5EQ7ZF1q, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 6qInf8SY, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, bXzzb1bR, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, Bc6D1WHS, RESELLER, d53b998a7bd4ecd2
@@ -778,8 +779,8 @@ themediagrid.com, 2UFXZO, DIRECT, 35d5010d7789b49d
 themediagrid.com, FALINO, RESELLER, 35d5010d7789b49d
 themediagrid.com, A7OJMU, DIRECT, 35d5010d7789b49d
 themediagrid.com, a7ojmu, DIRECT, 9fac4a4a87c2a44f
-themediagrid.com, FWN84J, DIRECT, 35d5010d7789b49d
 themediagrid.com, ZG1DBN, RESELLER, 35d5010d7789b49d
+themediagrid.com, FWN84J, DIRECT, 35d5010d7789b49d
 themediagrid.com, DY1OVP, RESELLER, 35d5010d7789b49d
 themediagrid.com, 4DQHAP, RESELLER, 35d5010d7789b49d
 themediagrid.com, 3E8XIQ, RESELLER, 35d5010d7789b49d

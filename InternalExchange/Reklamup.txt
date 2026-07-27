@@ -1,4 +1,4 @@
-#=== Reklamup Jul 13, 2026
+#=== reklamup Jul 27, 2026
 reklamup.com, 5982408864, DIRECT
 adbite.com, 770, RESELLER
 admanmedia.com, 1063, RESELLER
@@ -45,5 +45,6 @@ themediagrid.com, 81MGSH, DIRECT, 35d5010d7789b49d
 themediagrid.com, 64NHQ1, RESELLER, 35d5010d7789b49d
 triplelift.com, 12193, RESELLER, 6c33edb13117fd86
 triplelift.com, 12193-EB, RESELLER, 6c33edb13117fd86
+vdo.ai, 5789, RESELLER
 vertoz.com, 500031, RESELLER, 8728b7e97e589da4
 video.unrulymedia.com, 498216989, RESELLER

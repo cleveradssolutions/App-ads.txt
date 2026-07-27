@@ -1,5 +1,7 @@
-#=== qntv Jul 13, 2026
+#=== Qntv Jul 27, 2026
 qntv.io, 11710526, DIRECT
+lobalsun.io, 618, DIRECT
+smartadserver.com, 5030, DIRECT, 060d053dcf45cbf3
 appnexus.com, 17383, RESELLER
 aps.amazon.com, 4d4c8d3b-7851-43b9-afba-820ea7c3f5dc, RESELLER
 globalsun.io, 618, RESELLER

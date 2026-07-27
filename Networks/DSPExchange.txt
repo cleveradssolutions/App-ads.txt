@@ -1,4 +1,4 @@
-#=== DSPExchange Jul 13, 2026
+#=== DSPExchange Jul 27, 2026
 152media.info, 152M50, RESELLER
 152media.info, 152M698, RESELLER
 152media.info, 152M890, RESELLER
@@ -53,7 +53,6 @@ appbroda.com, 926, DIRECT
 appbroda.com, 953, DIRECT
 appnexus.com, 1019, RESELLER, f5ab79cb980f11d1
 appnexus.com, 11450, RESELLER, f5ab79cb980f11d1
-appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12061, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12475, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12501, RESELLER, f5ab79cb980f11d1
@@ -466,6 +465,7 @@ ucfunnel.com, par-AA7B236BA32DD484C838E249362437B8, RESELLER
 udmserve.net, 4273, DIRECT, 0cf60ed62b5f3e40
 uis.mobfox.com, 2158, DIRECT, 5529a3d1f59865be
 uis.mobfox.com, 2310, RESELLER, 5529a3d1f59865be
+vdo.ai, 5789, RESELLER
 vertoz.com, 500031, RESELLER, 8728b7e97e589da4
 verve.com, 15503, RESELLER, 0c8f5958fc2d6270
 verve.com, 5897, RESELLER, 0c8f5958fc2d6270

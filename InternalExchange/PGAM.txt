@@ -1,2 +1,7 @@
-#=== PGAM Apr 30, 2026
+#=== PGAM Jul 27, 2026
 pgamssp.com, 69e2671abaef2bd9750abbe3, DIRECT
+adform.com, 3418, RESELLER, 9f5210a2f0999e32
+adyoulike.com, 790653932f75c37aa96cc76d850ff2d8, RESELLER
+bidmachine.io, 1618, RESELLER
+onetag.com, 87f80e5d9d55274, RESELLER
+richaudience.com, D0icIOZqSf, RESELLER

@@ -1,19 +1,33 @@
-#=== Monetrix May 13, 2026
+#=== Monetrix Jul 27, 2026
 monetrix.ai, 142, DIRECT
 inventorypartnerdomain=monetrix.ai
+33across.com, 0010b00002KBtyLAAT, RESELLER, bbea06d9c4d2853c
 33across.com, 0015a00003DKg9ZAAT, RESELLER, bbea06d9c4d2853c
 9dotsmedia.com, 5512, RESELLER, 45ff185b4c4e857d
+acexchange.co.kr, 1024274798, RESELLER
 adagio.io, 1522, RESELLER
+adagio.io, 1570, RESELLER
+adiiix.com, 45a0b607, RESELLER
 adnimation.com, 20250107, RESELLER
+adnimation.com, 20260054, RESELLER
+adyoulike.com, 37dc355eea6a93f29540b04cf8ef0731, RESELLER
 adyoulike.com, f78b24039641337f06634ab9a3da4b48, RESELLER
+amxrtb.com, 105199499, RESELLER
+amxrtb.com, 105200008, RESELLER
+apkpure.com, pub1020, RESELLER
 app-stock.com, 155886, RESELLER
+appnexus.com, 10815, RESELLER, f5ab79cb980f11d1
+aralego.com, par-E2B82A784DB779B7172D8DEB9B489647, RESELLER
+betweendigital.com, 45036, RESELLER
 betweendigital.com, 47386, RESELLER
 bidinfluence.com, 700171, RESELLER
 bidmachine.io, 1490, RESELLER
 bidscube.com, 300002, RESELLER, 6ecc87a1e0269657
 bold-win.com, 1131, RESELLER, 71746737d0bab951
 carliba.io, 766182, RESELLER
+consumable.com, 2001650, RESELLER
 contextweb.com, 563521, RESELLER, 89ff185a4c4e857c
+conversantmedia.com, 100872, RESELLER, 03113cd04947736d
 conversantmedia.com, 100886, RESELLER, 03113cd04947736d
 conversantmedia.com, 101211, RESELLER, 03113cd04947736d
 copper6.com, 766220, RESELLER
@@ -25,38 +39,58 @@ ignitemediatech.com, pub_63596, DIRECT
 improvedigital.com, 2525, RESELLER
 inmobi.com, 23d316d3d980453d8ea0dcf9caec4078, RESELLER, 83e75a7ae333ca9d
 inmobi.com, edd282ac8f29464792bf2b7f3df2f9df, RESELLER, 83e75a7ae333ca9d
+lijit.com, 242989, RESELLER, fafdf38b16bf6b2b
 lijit.com, 273644, RESELLER, fafdf38b16bf6b2b
 lijit.com, 583722, RESELLER, fafdf38b16bf6b2b
 lijit.com, 587508, RESELLER, fafdf38b16bf6b2b
+loopme.com, 15127, RESELLER, 6c8d5f95897a5a3b
 lunamedia.io, 1yoxx3u24n2zgmg3fqgxniuwcg9qww5a, RESELLER, 524ecb396915caaf
+media.net, 8CU92DEBR, RESELLER
 media.net, 8CUF63MX7, RESELLER
 metup.it, AJxF6R664a9M6CaTvK, RESELLER
+mobupps.com, c74d97b01eae257e44aa9d5bade97baf33228, RESELLER
 motorik.io, 1001178, RESELLER
 omgstudios.com, 301220251, RESELLER
 onetag.com, 5d1628750185ace, RESELLER
 onetag.com, 9349f5ef285da58, RESELLER
 onlinemediasolutions.com, 43275, RESELLER, b3868b187e4b6402
+openx.com, 537149535, RESELLER, 6a698e2ec38604c6
+openx.com, 557083110, RESELLER, 6a698e2ec38604c6
 openx.com, 562174952, RESELLER, 6a698e2ec38604c6
 openx.com, 563905670, RESELLER, 6a698e2ec38604c6
+openx.com, 566954904, RESELLER, 6a698e2ec38604c6
+opera.com, pub13378607116160, RESELLER, 55a0c5fd61378de3
 opera.com, pub8845742850816, RESELLER, 55a0c5fd61378de3
 pubmatic.com, 162588, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164798, RESELLER, 5d62403b186f2ace
+pubmatic.com, 166665, RESELLER, 5d62403b186f2ace
 pubmatic.com, 167844, RESELLER, 5d62403b186f2ace
 pubmatic.com, 167981, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 24664, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 27386, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 27396, RESELLER, 0bfd66d529a55807
 sabio.us, 100156, RESELLER, 96ed93aaa9795702
 sharethrough.com, 4610, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 5450, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, c7082970, RESELLER, d53b998a7bd4ecd2
+smartadserver.com, 4318, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4610, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 5044, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 5450, RESELLER, 060d053dcf45cbf3
 smilewanted.com, 6061, RESELLER
+smilewanted.com, 6194, RESELLER
 ssp.e-volution.ai, AJxF6R664a9M6CaTvK, RESELLER
+tagoras.io, 4039c2f2bf89441206dfd4fbc7961c4a, RESELLER
 themediagrid.com, 8USKI6, RESELLER, 9fac4a4a87c2a44f
+themediagrid.com, IWU9NP, RESELLER, 35d5010d7789b49d
 themediagrid.com, ZG1DBN, RESELLER, 9fac4a4a87c2a44f
 toponad.com, 165e994051461c, RESELLER, 1d49fe424a1a456d
+toponad.com, 16a5f2c6f88bad, RESELLER, 1d49fe424a1a456d
+triplelift.com, 12210, RESELLER, 6c33edb13117fd86
 trustedstack.com, TS3MF8KJ3, RESELLER
+ucfunnel.com, par-E2B82A784DB779B7172D8DEB9B489647, RESELLER
 video.unrulymedia.com, 146647607, RESELLER
+video.unrulymedia.com, 2823123989, RESELLER
+video.unrulymedia.com, 839999282, RESELLER
 video.unrulymedia.com, 906352066, RESELLER
 zmaticoo.com, 114490, RESELLER
