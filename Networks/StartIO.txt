@@ -1,4 +1,4 @@
-#=== StartIO Jul 13, 2026
+#=== StartIO Jul 27, 2026
 start.io, 125650712, DIRECT
 start.io, 144185998, DIRECT
 start.io, 174388014, DIRECT
@@ -13,7 +13,7 @@ advlion.com, 3144, RESELLER
 adwmg.com, 101277, RESELLER, c9688a22012618e7
 adyoulike.com, 721f20f70910d379981dc19ec5da709f, RESELLER
 anzu.io, 69a01331e82ac6eac1054bf7, RESELLER
-apester.com, 91071, DIRECT
+apester.com, 91071, RESELLER
 apexflowsdk.com, 1083, RESELLER
 app-stock.com, 509221, RESELLER, ed8c126ea5971415
 appnexus.com, 1019, RESELLER, f5ab79cb980f11d1
@@ -28,8 +28,10 @@ audioboost.com, ADsBSrsbPdWXF20UZWhN, RESELLER
 axonix.com, 59204, RESELLER
 bidedge.io, 12427296, RESELLER
 bidmachine.io, 1447, RESELLER
+bidmachine.io, 1700, RESELLER
 bigo.sg, 887, RESELLER
 blasto.ai, 585, RESELLER, 7e936b1feafdaa61
+bold-win.com, 1162, RESELLER, 71746737d0bab951
 brightcom.com, 43301, RESELLER
 conversantmedia.com, 100339, RESELLER, 03113cd04947736d
 conversantmedia.com, 100792, RESELLER, 03113cd04947736d
@@ -47,6 +49,7 @@ kidoz.net, 15568, RESELLER, a109366414b7335e
 lijit.com, 465542, RESELLER, fafdf38b16bf6b2b
 lijit.com, 488437, RESELLER, fafdf38b16bf6b2b
 lijit.com, 583722, RESELLER, fafdf38b16bf6b2b
+lijit.com, 584539, RESELLER, fafdf38b16bf6b2b
 loopme.com, 11318, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11463, RESELLER, 6c8d5f95897a5a3b
 media.net, 8CU65V935, RESELLER
@@ -101,14 +104,12 @@ rubiconproject.com, 27963, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 28075, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 28169, RESELLER, 0bfd66d529a55807
 screenil.com, 665898, RESELLER
-sharethrough.com, 3554, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 5791, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 5EQ7ZF1q, RESELLER, d53b998a7bd4ecd2
 showheroes.com, 6833, RESELLER
 smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
 smaato.com, 1100059282, RESELLER, 07bcf65f187117b4
 smaato.com, 1100059563, RESELLER, 07bcf65f187117b4
-smartadserver.com, 3554, RESELLER
 smartadserver.com, 4342, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 5791, RESELLER, 060d053dcf45cbf3
 taboola.com, 1618213, DIRECT, c228e6794e811952
@@ -124,6 +125,7 @@ triplelift.com, 12158, RESELLER, 6c33edb13117fd86
 triplelift.com, 12908, RESELLER, 6c33edb13117fd86
 triplelift.com, 13567, RESELLER, 6c33edb13117fd86
 triplelift.com, 14127, RESELLER, 6c33edb13117fd86
+triplelift.com, 14699, RESELLER, 6c33edb13117fd86
 triplelift.com, 8784, RESELLER, 6c33edb13117fd86
 triplelift.com, 9342, RESELLER, 6c33edb13117fd86
 trustedstack.com, TS28K5YY0, RESELLER

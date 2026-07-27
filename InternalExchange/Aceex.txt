@@ -1,4 +1,4 @@
-#=== Aceex Jul 13, 2026
+#=== Aceex Jul 27, 2026
 aceex.io, 1608, DIRECT, b1cf3c874d5c6682
 152media.info, 152M238, RESELLER
 152media.info, 152M890, RESELLER
@@ -41,6 +41,7 @@ loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
 media.net, 8CU1K8643, RESELLER
 media.net, 8CU9E48BW, RESELLER
 mgid.com, 922286, DIRECT, d4c29acad76ce94f
+onetag.com, 5e3b68a4a263f95, DIRECT
 onetag.com, 6b859b96c564fbe, RESELLER, 0bfd66d529a55807
 onetag.com, 7f4c72907117710, RESELLER
 openx.com, 540326226, RESELLER, 6a698e2ec38604c6

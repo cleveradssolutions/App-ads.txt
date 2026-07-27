@@ -1,4 +1,4 @@
-#=== HyprMX Jul 13, 2025
+#=== HyprMX Jul 27, 2026
 hyprmx.com, 27570864242, DIRECT, 79540da20c07237e
 152media.info, 152M499, RESELLER
 152media.info, 152M5, RESELLER
@@ -23,6 +23,7 @@ adsyield.com, 1236, RESELLER
 adyoulike.com, a5e6b05de7b5aa9a50a99349fa938b81, RESELLER, 4ad745ead2958bf7
 apg.digital, 27570864242, DIRECT, 79540da20c07237e
 appnexus.com, 11879, RESELLER, f5ab79cb980f11d1
+appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12223, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12976, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13099, RESELLER
@@ -71,6 +72,7 @@ conversantmedia.com, 100634, RESELLER, 03113cd04947736d
 conversantmedia.com, 100651, RESELLER, 03113cd04947736d
 conversantmedia.com, 100664, RESELLER, 03113cd04947736d
 conversantmedia.com, 34975, RESELLER, 03113cd04947736d
+conversantmedia.com, 41784, RESELLER, 03113cd04947736d
 criteo.com, B-060555, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-066057, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-067384, RESELLER, 9fac4a4a87c2a44f
@@ -96,6 +98,7 @@ freewheel.tv, 24377, RESELLER
 getmediamx.com, 1215801, RESELLER
 gitberry.com, 577, RESELLER
 google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
+google.com, pub-7734005103835923, RESELLER, f08c47fec0942fa0
 google.com, pub-7983651257838282, RESELLER, f08c47fec0942fa0
 greedygame.com, 5437386, RESELLER
 growintech.co, 36854, RESELLER

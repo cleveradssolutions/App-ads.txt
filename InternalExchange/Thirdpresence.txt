@@ -1,0 +1,10 @@
+#=== Thirdpresence Jul 27, 2026
+adyoulike.com, 84296e815d48eb5d7a004dfe8417884a, RESELLER
+lijit.com, 596502, RESELLER, fafdf38b16bf6b2b
+medialabtech.ai, 7825da23d23, DIRECT
+onetag.com, 94c58e64d9514e2, DIRECT
+openx.com, 540705615, RESELLER, 6a698e2ec38604c6
+smartadserver.com, 3402, DIRECT, 060d053dcf45cbf3
+smartadserver.com, 3402-OB, RESELLER, 060d053dcf45cbf3
+smartyads.com, 746, RESELLER, fd2bde0ff2e62c5d
+thirdpresence.com, 388, DIRECT

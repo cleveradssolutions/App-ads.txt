@@ -1,6 +1,9 @@
-#=== Mintegral Jul 13, 2026
+#=== Mintegral Jul 27, 2026
 mintegral.com, 25008, DIRECT, 0aeed750c80d6423
 mintegral.com, 52286, DIRECT, 0aeed750c80d6423
+mintegral.com, 71776, DIRECT, 0aeed750c80d6423
+inventorypartnerdomain=rhebus.works
+inventorypartnerdomain=thunder-monetize.com
 33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c
 33across.com, 001Pg00000LoMyvIAF, RESELLER, bbea06d9c4d2853c
 acd.op.hicloud.com, PUB_HW_1003, RESELLER
