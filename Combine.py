@@ -74,7 +74,7 @@ _VARIABLES = {  # SUPPORTED VARIABLES
     # "ownerdomain", # specifies the business domain of the business entity that owns the domain/site/app
     # "managerdomain", # Specifies the business domain of a primary or exclusive monetization partner of the publishers inventory
 }
-_DOMAIN_PATTERN = re.compile(r"^([a-z0-9-]{1,63}\.)+[a-z]{2,9}\Z")
+_DOMAIN_PATTERN = re.compile(r"^([a-z0-9_-]{1,63}\.)+[a-z]{2,9}\Z")
 _ID_PATTERN = re.compile("^[a-zA-Z0-9-_]+$")
 _CERTIFICATE_PATTERN = re.compile("^[a-zA-Z0-9]+$")
 
