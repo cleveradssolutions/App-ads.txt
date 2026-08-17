@@ -1,4 +1,4 @@
-#=== StartIO Jul 27, 2026
+#=== StartIO Aug 17, 2026
 start.io, 125650712, DIRECT
 start.io, 144185998, DIRECT
 start.io, 174388014, DIRECT
@@ -29,8 +29,10 @@ axonix.com, 59204, RESELLER
 bidedge.io, 12427296, RESELLER
 bidmachine.io, 1447, RESELLER
 bidmachine.io, 1700, RESELLER
+bidplay.ai, 2607009, RESELLER
 bigo.sg, 887, RESELLER
 blasto.ai, 585, RESELLER, 7e936b1feafdaa61
+bluexad.ai, 2064614586140594176, RESELLER
 bold-win.com, 1162, RESELLER, 71746737d0bab951
 brightcom.com, 43301, RESELLER
 conversantmedia.com, 100339, RESELLER, 03113cd04947736d
@@ -113,6 +115,7 @@ smaato.com, 1100059563, RESELLER, 07bcf65f187117b4
 smartadserver.com, 4342, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 5791, RESELLER, 060d053dcf45cbf3
 taboola.com, 1618213, DIRECT, c228e6794e811952
+taipeidigital.com, 01012311678, RESELLER
 target.my.com, 13033031, RESELLER
 thebrave.io, 1234765, RESELLER, c25b2154543746ac
 themediagrid.com, FWN84J, DIRECT, 9fac4a4a87c2a44f

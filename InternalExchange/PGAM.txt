@@ -1,7 +1,11 @@
-#=== PGAM Jul 27, 2026
+#=== PGAM Aug 17, 2026
 pgamssp.com, 69e2671abaef2bd9750abbe3, DIRECT
+adelement.com, 48617, RESELLER
 adform.com, 3418, RESELLER, 9f5210a2f0999e32
 adyoulike.com, 790653932f75c37aa96cc76d850ff2d8, RESELLER
 bidmachine.io, 1618, RESELLER
+conversantmedia.com, 101161, RESELLER, 03113cd04947736d
 onetag.com, 87f80e5d9d55274, RESELLER
 richaudience.com, D0icIOZqSf, RESELLER
+risecodes.com, 661fc591c3a3ef0001984071, DIRECT
+themediagrid.com, OD62J8, RESELLER, 9fac4a4a87c2a44f
