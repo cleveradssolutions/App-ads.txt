@@ -1,0 +1,4 @@
+#=== Pgammedia Aug 18, 2026
+conversantmedia.com, 101161, RESELLER, 03113cd04947736d
+smilewanted.com, 5314, RESELLER
+tagoras.io, be463bb452756aa9d86c6efc8d3e6766, RESELLER
