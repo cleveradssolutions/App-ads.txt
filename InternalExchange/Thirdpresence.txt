@@ -1,10 +1,15 @@
-#=== Thirdpresence Jul 27, 2026
+#=== Thirdpresence Aug 18, 2026
 thirdpresence.com, 388, DIRECT
 adyoulike.com, 84296e815d48eb5d7a004dfe8417884a, RESELLER
 lijit.com, 596502, RESELLER, fafdf38b16bf6b2b
+medialabtech.ai, 7825da23d16, DIRECT
 medialabtech.ai, 7825da23d23, DIRECT
 onetag.com, 94c58e64d9514e2, DIRECT
 openx.com, 540705615, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 167445, RESELLER, 5d62403b186f2ace
+pubnative.net, 1016934, RESELLER, d641df8625486a7b
+rubiconproject.com, 17560, RESELLER, 0bfd66d529a55807
 smartadserver.com, 3402, DIRECT, 060d053dcf45cbf3
 smartadserver.com, 3402-OB, RESELLER, 060d053dcf45cbf3
 smartyads.com, 746, RESELLER, fd2bde0ff2e62c5d
+verticalscope.com, 22536578545, DIRECT

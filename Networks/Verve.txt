@@ -1,4 +1,4 @@
-#=== Verve Jul 13, 2026
+#=== Verve Aug 18, 2026
 pubnative.net, 1009903, DIRECT, d641df8625486a7b
 pubnative.net, 1017314, DIRECT, d641df8625486a7b
 pubnative.net, 1017315, DIRECT, d641df8625486a7b
@@ -1003,6 +1003,7 @@ smaato.com, 1100057426, DIRECT, 07bcf65f187117b4
 smaato.com, 1100059779, DIRECT, 07bcf65f187117b4
 smaato.com, 1100059792, DIRECT, 07bcf65f187117b4
 smaato.com, 1100049757, RESELLER, 07bcf65f187117b4
+smaato.com, 1100059247, RESELLER, 07bcf65f187117b4
 smaato.com, 1100059548, RESELLER, 07bcf65f187117b4
 smartadserver.com, 1247, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 2058, RESELLER, 060d053dcf45cbf3

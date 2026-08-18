@@ -1,6 +1,7 @@
-#=== Mobfox Jul 27, 2026
+#=== Mobfox Aug 18, 2026
 kidoz.net, 15467, RESELLER, a109366414b7335e
 kidoz.net, 15568, RESELLER, a109366414b7335e
 prado.co, 15568, RESELLER
 pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165438, RESELLER, 5d62403b186f2ace
+trustedstack.com, TSX326Z4K, RESELLER
