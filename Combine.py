@@ -55,6 +55,7 @@ _SOURCE_DSP = [
     "Adyugo.txt",
     "PremiumAds.txt",
     "Reklamup.txt",
+    "AdsYield.txt",
 ]
 
 # Sources added only for Games and Partner release (written as-is, without parsing or deduplication)
