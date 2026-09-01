@@ -1,0 +1,4 @@
+#=== Screencore Aug 31, 2026
+adagio.io, 1525, RESELLER
+adagio.io, 1661, RESELLER
+screencore.io, 269, DIRECT

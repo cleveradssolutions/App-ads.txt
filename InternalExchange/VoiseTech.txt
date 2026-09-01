@@ -1,0 +1,7 @@
+#=== VoiseTech Sep 01, 2026
+inventorypartnerdomain=voisetech.com
+voisetech.com, 1467, DIRECT, 9009ef0379162448
+google.com, pub-1682595508078257, RESELLER, f08c47fec0942fa0
+pubmatic.com, 166206, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
+video.unrulymedia.com, 947386756, RESELLER
