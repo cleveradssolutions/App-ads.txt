@@ -1,4 +1,5 @@
-#=== DSPExchange Aug 31, 2026
+#=== DSPExchange Sep 01, 2026
+inventorypartnerdomain=voisetech.com
 152media.info, 152M50, RESELLER
 152media.info, 152M698, RESELLER
 152media.info, 152M890, RESELLER
@@ -31,7 +32,8 @@ admixer.co.kr, 1511, RESELLER
 adpixis.com, 1009, DIRECT
 adsmovil.com, JKHGrlkjds16, RESELLER
 adster.tech, 1009, DIRECT
-adsyield.com, 6012, DIRECT
+adsyield.com, 2355, DIRECT
+adsyield.com, 6012, RESELLER
 advertising.com, 28246, RESELLER, e1a5b5b6e3255540
 adview.com, 33633363, RESELLER, 1b2cc038a11ea319
 adview.com, 70432372, RESELLER, 1b2cc038a11ea319
@@ -152,6 +154,7 @@ gamaigroup.com, 320203, RESELLER
 gitberry.com, 31mbg, RESELLER
 google.com, pub-1088508191391776, RESELLER, f08c47fec0942fa0
 google.com, pub-1472835721311013, RESELLER, f08c47fec0942fa0
+google.com, pub-1682595508078257, RESELLER, f08c47fec0942fa0
 google.com, pub-3184487253168181, RESELLER, f08c47fec0942fa0
 google.com, pub-3619045887187031, RESELLER, f08c47fec0942fa0
 google.com, pub-3790066164809976, RESELLER, f08c47fec0942fa0
@@ -294,6 +297,7 @@ premiumads.com.br, 21425, DIRECT
 premiumads.net, 21425, DIRECT
 prequel.tv, 518, RESELLER
 pubmatic.com, 161141, DIRECT, 5d62403b186f2ace
+pubmatic.com, 166206, DIRECT, 5d62403b186f2ace
 pubmatic.com, 116521, RESELLER, 5d62403b186f2ace
 pubmatic.com, 126340, RESELLER, 5d62403b186f2ace
 pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
@@ -361,6 +365,7 @@ rhythmone.com, 3948367200, RESELLER, a670c89d4a324e47
 rhythmone.com, 4173858586, RESELLER, a670c89d4a324e47
 rhythmone.com, 5336134699710580000, RESELLER, a670c89d4a324e47
 risecodes.com, 680b33a1fc57d10001c035e1, RESELLER
+rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 23778, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 23780, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
@@ -518,11 +523,13 @@ video.unrulymedia.com, 564934834, RESELLER
 video.unrulymedia.com, 586616193, RESELLER
 video.unrulymedia.com, 645663965, RESELLER
 video.unrulymedia.com, 8167205979129043832, RESELLER
+video.unrulymedia.com, 947386756, RESELLER
 videoheroes.tv, 212430, RESELLER, 064bc410192443d8
 vidoomy.com, 4930225, RESELLER
 vidoomy.com, 60653, RESELLER
 vidoomy.com, 6858194, RESELLER
 vidoomy.com, 9783712, RESELLER
+voisetech.com, 1467, DIRECT, 9009ef0379162448
 voisetech.com, 1457, RESELLER, 9009ef0379162448
 waardex.com, 204496, DIRECT
 webeyemob.com, 70104, RESELLER

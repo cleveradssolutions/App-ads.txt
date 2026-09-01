@@ -1,5 +1,6 @@
 #=== AdsYield Aug 31, 2026
-adsyield.com, 6012, DIRECT
+adsyield.com, 2355, DIRECT
+adsyield.com, 6012, RESELLER
 adform.com, 3167, RESELLER, 9f5210a2f0999e32
 improvedigital.com, 2320, RESELLER
 google.com, pub-9941782557387032, RESELLER, f08c47fec0942fa0

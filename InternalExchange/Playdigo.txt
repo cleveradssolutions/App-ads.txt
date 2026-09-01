@@ -1,9 +1,9 @@
 #=== Playdigo Aug 31, 2026
+playdigo.com, 2204, DIRECT, 92011346d63d3c30
 adagio.io, 1640, RESELLER
 adyoulike.com, ff5fc9a322b4a4fe5a762ca97f9673e3, RESELLER, 4ad745ead2958bf7
 alaska-gaming.com, 17134, DIRECT
 bluexad.ai, 2001235160242065408, RESELLER
-playdigo.com, 2204, DIRECT, 92011346d63d3c30
 pubnative.net, 1018175, RESELLER, d641df8625486a7b
 smilewanted.com, 5572, RESELLER
 sonobi.com, 292d7cb147, RESELLER, d1a215d9eb5aee9e

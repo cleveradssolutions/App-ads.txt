@@ -1,4 +1,4 @@
-#=== Chartboost Jul 27, 2026
+#=== Chartboost Aug 31, 2026
 chartboost.com, 5730bb1a04b0165b75d2e564, DIRECT
 152media.info, 152M608, RESELLER
 152media.info, 152M896, RESELLER
@@ -668,6 +668,7 @@ twist.win, TW2400003, RESELLER
 ucfunnel.com, par-E2B3A33EAA4286BEF7ADD9AA28A922D2, RESELLER
 uis.mobfox.com, 1750, RESELLER, 5529a3d1f59865be
 uis.mobfox.com, 82593, RESELLER, 5529a3d1f59865be
+verve.com, 1007485, RESELLER, 0c8f5958fc2d6283
 verve.com, 15503, RESELLER, 0c8f5958fc2d6270
 vidazoo.com, 66a936797145df0667ebe4e0, RESELLER, b6ada874b4d7d0b2
 video.unrulymedia.com, 1058378980, RESELLER

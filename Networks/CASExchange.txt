@@ -1,4 +1,4 @@
-#=== CASExchange Aug 31, 2026
+#=== CASExchange Sep 01, 2026
 inventorypartnerdomain=aniview.com
 inventorypartnerdomain=fasttvltd.com
 inventorypartnerdomain=streamix-tv.com
@@ -232,6 +232,7 @@ eskimi.com, 2020001208, DIRECT
 eskimi.com, 2020000029, RESELLER
 eskimi.com, 2020000813, RESELLER
 eskimi.com, eas-2020000005, RESELLER
+essentiads.com, 32d9f147, DIRECT
 exchange.loyal.app, AJxF6R34a9M6CaTvK, DIRECT
 exelbid.com, 200, RESELLER
 eyeconicspot.com, 4819, RESELLER, 2cec374be7db7217

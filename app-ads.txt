@@ -1,4 +1,4 @@
-# CAS.ai Updated Aug 31, 2026
+# CAS.ai Updated Sep 01, 2026
 OwnerDomain=cas.ai
 cas.ai, 922e6092, DIRECT
 #=== GoogleAds Apr 27, 2026
@@ -1433,7 +1433,7 @@ yellowhead.com, 67b9c0a1d2e345, RESELLER
 zetaglobal.net, 630, RESELLER
 zmaticoo.com, 113149, RESELLER
 zmaticoo.com, 5135082, RESELLER
-#=== Chartboost Jul 27, 2026
+#=== Chartboost Aug 31, 2026
 chartboost.com, 5730bb1a04b0165b75d2e564, DIRECT
 152media.info, 152M608, RESELLER
 152media.info, 152M896, RESELLER
@@ -1813,6 +1813,7 @@ tvp.tv, AR40, RESELLER, 1125b6434104a723
 twist.win, TW2400003, RESELLER
 uis.mobfox.com, 1750, RESELLER, 5529a3d1f59865be
 uis.mobfox.com, 82593, RESELLER, 5529a3d1f59865be
+verve.com, 1007485, RESELLER, 0c8f5958fc2d6283
 vidazoo.com, 66a936797145df0667ebe4e0, RESELLER, b6ada874b4d7d0b2
 video.unrulymedia.com, 1058378980, RESELLER
 video.unrulymedia.com, 1286320118, RESELLER
@@ -3470,7 +3471,7 @@ yandex.com, 98384845, RESELLER
 yieldmo.com, 3078438591206989879, RESELLER
 zetaglobal.net, 848, RESELLER
 zetaglobal.net, 989, RESELLER
-#=== CASExchange Aug 31, 2026
+#=== CASExchange Sep 01, 2026
 inventorypartnerdomain=aniview.com
 inventorypartnerdomain=fasttvltd.com
 inventorypartnerdomain=streamix-tv.com
@@ -3667,6 +3668,7 @@ eskimi.com, 2020000813, DIRECT
 eskimi.com, 2020001208, DIRECT
 eskimi.com, 2020000029, RESELLER
 eskimi.com, 2020000813, RESELLER
+essentiads.com, 32d9f147, DIRECT
 exchange.loyal.app, AJxF6R34a9M6CaTvK, DIRECT
 exelbid.com, 200, RESELLER
 eyeconicspot.com, 4819, RESELLER, 2cec374be7db7217
@@ -4127,7 +4129,7 @@ zmaticoo.com, 118642, DIRECT
 zmaticoo.com, 5135080, DIRECT
 zmaticoo.com, 114143, RESELLER
 zmaticoo.com, 114207, RESELLER
-#=== DSPExchange Aug 31, 2026
+#=== DSPExchange Sep 01, 2026
 152media.info, 152M50, RESELLER
 152media.info, 152M922, RESELLER
 33across.com, 0015a00002oUk4aAAC, RESELLER, bbea06d9c4d2853c
@@ -4151,7 +4153,8 @@ admixer.co.kr, 1511, RESELLER
 adpixis.com, 1009, DIRECT
 adsmovil.com, JKHGrlkjds16, RESELLER
 adster.tech, 1009, DIRECT
-adsyield.com, 6012, DIRECT
+adsyield.com, 2355, DIRECT
+adsyield.com, 6012, RESELLER
 adview.com, 70432372, RESELLER, 1b2cc038a11ea319
 adyoulike.com, 2a3352a12f5fdb64b653c9ade1e3b0fe, RESELLER
 adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER, 4ad745ead2958bf7
