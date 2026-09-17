@@ -1,4 +1,4 @@
-#=== Mintegral Aug 31, 2026
+#=== Mintegral Sep 17, 2026
 mintegral.com, 25008, DIRECT, 0aeed750c80d6423
 mintegral.com, 52286, DIRECT, 0aeed750c80d6423
 mintegral.com, 71776, DIRECT, 0aeed750c80d6423
@@ -24,6 +24,8 @@ adform.com, 1762, RESELLER
 adform.com, 2671, RESELLER
 adform.com, 2742, RESELLER
 adform.com, 3283, RESELLER
+adform.com, 3428, RESELLER, 9f5210a2f0999e32
+adform.com, 3429, RESELLER, 9f5210a2f0999e32
 adiiix.com, db716a4c, RESELLER
 adingenious.com, 75075, RESELLER
 adingo.jp, 31054, RESELLER
@@ -166,6 +168,7 @@ bigo.sg, 1011110, RESELLER
 bigo.sg, 109, RESELLER
 bigo.sg, 128, RESELLER
 bigo.sg, 130, RESELLER
+bigo.sg, t8wi09riwv, RESELLER
 bildapp.net, 164391510, RESELLER
 blueseasx.com, 7138154, RESELLER, 7998eac5087f6110
 bluexad.ai, 2037130095256145920, RESELLER
@@ -460,6 +463,7 @@ openx.com, 561436793, RESELLER, 6a698e2ec38604c6
 openx.com, 561446248, RESELLER, 6a698e2ec38604c6
 openx.com, 562174952, RESELLER, 6a698e2ec38604c6
 outbrain.com, 0005bfbc60db1570e63954937b4bec06de, RESELLER
+outbrain.com, 002084f3cc5242e7bbd2fb9a69e220a36a, RESELLER
 outbrain.com, 009003959a5821f830a09d0bc562b43c62, RESELLER
 pangleglobal.com, 45779, RESELLER
 peak226.com, 12400, RESELLER
@@ -549,6 +553,10 @@ pubmatic.com, 167514, RESELLER, 5d62403b186f2ace
 pubmatic.com, 167515, RESELLER, 5d62403b186f2ace
 pubmatic.com, 167636, RESELLER, 5d62403b186f2ace
 pubmatic.com, 167981, RESELLER, 5d62403b186f2ace
+pubmatic.com, 168362, RESELLER, 5d62403b186f2ace
+pubmatic.com, 168363, RESELLER, 5d62403b186f2ace
+pubmatic.com, 168366, RESELLER, 5d62403b186f2ace
+pubmatic.com, 168367, RESELLER, 5d62403b186f2ace
 pubmatic.com, 92509, RESELLER, 5d62403b186f2ace
 pubnative.net, 1003601, RESELLER, d641df8625486a7b
 pubnative.net, 1006576, RESELLER, d641df8625486a7b
@@ -668,6 +676,7 @@ smaato.com, 1100057628, RESELLER, 07bcf65f187117b4
 smaato.com, 1100058459, RESELLER, 07bcf65f187117b4
 smaato.com, 1100058954, RESELLER, 07bcf65f187117b4
 smaato.com, 1100059375, RESELLER, 07bcf65f187117b4
+smaato.com, 1100060441, RESELLER, 07bcf65f187117b4
 smartadserver.com, 1692, RESELLER
 smartadserver.com, 3627, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 3713, RESELLER

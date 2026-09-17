@@ -1,0 +1,39 @@
+#=== BlueSea Sep 17, 2026
+blueseasx.com, 7138175, DIRECT, 7998eac5087f6110
+aceex.io, 2578, RESELLER, b1cf3c874d5c6682
+adagio.io, 1558, RESELLER
+adingo.jp, 33045, RESELLER
+adnimation.com, 20260014, RESELLER
+adorphic.com, 4049, RESELLER
+anzu.io, 69661fa0cfe6b82adfb712a3, RESELLER
+appnexus.com, 7044, RESELLER
+betweendigital.com, 47110, DIRECT
+bidinfluence.com, 700180, RESELLER
+bold-win.com, 1139, RESELLER, 71746737d0bab951
+display.io, 237352, RESELLER
+lijit.com, 558045, RESELLER, fafdf38b16bf6b2b
+limpid.tv, 203726, RESELLER
+metup.it, AJxF6R111a9M6CaTvK, RESELLER
+nativo.com, 6123, RESELLER, 59521ca7cc5e9fee
+nativo.com, 6190, RESELLER, 59521ca7cc5e9fee
+onetag.com, 9544924dc316cfd, RESELLER
+onlinemediasolutions.com, 43282, RESELLER, b3868b187e4b6402
+openx.com, 537149535, RESELLER, 6a698e2ec38604c6
+opera.com, pub14480597952768, RESELLER, 55a0c5fd61378de3
+outbrain.com, 00ab8f68679cc060c8bbc1035e70030614, RESELLER
+pgamssp.com, 69b2e68bf45c64a442086174, RESELLER
+playdigo.com, 2041, RESELLER, 92011346d63d3c30
+programmaticx.ai, 688233, RESELLER, b42d42eb28400efa
+pubmatic.com, 166078, RESELLER, 5d62403b186f2ace
+pubmatic.com, 167542, RESELLER, 5d62403b186f2ace
+pubnative.net, 1009966, RESELLER, d641df8625486a7b
+risecodes.com, 685c25b72cb7980001e4ff27, RESELLER
+rubiconproject.com, 26132, RESELLER, 0bfd66d529a55807
+spinx.biz, 1373698901, RESELLER, 9f2711e9aaa9f992
+targetbetter.com, B32432, RESELLER
+triplelift.com, 14594, RESELLER, 6c33edb13117fd86
+truvid.com, 2669, RESELLER
+video.unrulymedia.com, 389957698, RESELLER
+yandex.com, 98384845, RESELLER
+zetaglobal.net, 626, RESELLER
+zetaglobal.net, 689, RESELLER

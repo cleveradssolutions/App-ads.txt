@@ -1,11 +1,17 @@
-#=== Ogury Jun 12, 2026
+#=== Ogury Sep 17, 2026
 ogury.com, 432e59bf-cea1-4835-909f-ce67b46743c4, DIRECT
+anzu.io, 6971f3a9795f3bd730fbe69d, RESELLER, 1c1b7acf4992136c
+app-stock.com, 754634, RESELLER
 appnexus.com, 11470, RESELLER
 dauup.com, 34141, RESELLER
+programmaticx.ai, 697561, RESELLER, b42d42eb28400efa
 pubmatic.com, 163238, RESELLER, 5d62403b186f2ace
+richaudience.com, uZBUkzcLJe, RESELLER
 rubiconproject.com, 25198, RESELLER, 0bfd66d529a55807
 sharethrough.com, 4537, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4537, RESELLER, 060d053dcf45cbf3
 thebrave.io, 1234746, RESELLER, c25b2154543746ac
 toponad.com, 16719c20554a4f, RESELLER, 1d49fe424a1a456d
+triplelift.com, 14705-EB, RESELLER
 video.unrulymedia.com, 533898005, RESELLER
+zmaticoo.com, 5135992, RESELLER

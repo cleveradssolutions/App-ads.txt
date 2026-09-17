@@ -1,11 +1,17 @@
-#=== Thirdpresence Aug 31, 2026
+#=== Thirdpresence Sep 17, 2026
 thirdpresence.com, 388, DIRECT
 adyoulike.com, 84296e815d48eb5d7a004dfe8417884a, RESELLER
+bidlok.com, PxHAuVqp, RESELLER
 bidmachine.io, 1201, RESELLER
+blasto.ai, 271, RESELLER, 7e936b1feafdaa61
+conneqtmedia.com, 982010, RESELLER
+freewheel.tv, sg1256499, RESELLER
 lijit.com, 254001, RESELLER, fafdf38b16bf6b2b
 lijit.com, 596502, RESELLER, fafdf38b16bf6b2b
 medialabtech.ai, 7825da23d16, DIRECT
 medialabtech.ai, 7825da23d23, DIRECT
+metup.it, AJxF6R176a9M6CaTvK, RESELLER
+myfeature.tv, sgz3efD4J6pbQ7nxsdvo, RESELLER
 onetag.com, 94c58e64d9514e2, DIRECT
 openx.com, 540705615, RESELLER, 6a698e2ec38604c6
 programmaticx.ai, 100464, RESELLER
@@ -16,5 +22,7 @@ sharethrough.com, 4926, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 3402, DIRECT, 060d053dcf45cbf3
 smartadserver.com, 3402-OB, RESELLER, 060d053dcf45cbf3
 smartyads.com, 746, RESELLER, fd2bde0ff2e62c5d
+smilewanted.com, 5914, RESELLER
 verticalscope.com, 22536578545, DIRECT
 video.unrulymedia.com, 1566669042, RESELLER
+zetaglobal.net, 615, RESELLER

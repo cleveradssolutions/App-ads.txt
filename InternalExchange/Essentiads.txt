@@ -1,2 +1,22 @@
-#=== Essentiads Sep 01, 2026
+#=== Essentiads Sep 17, 2026
 essentiads.com, 32d9f147, DIRECT
+bidmachine.io, 1823, RESELLER
+disqus.com, 891, DIRECT
+e-planning.net, d3fc3653e466078b, RESELLER, c1ba615865ed87b2
+epom.com, c012536d-8aaf-4072-be41-7c5c6f51512b, DIRECT
+google.com, pub-3795324172534729, DIRECT, f08c47fec0942fa0
+improvedigital.com, 1556, RESELLER
+openx.com, 541031350, DIRECT, 6a698e2ec38604c6
+pubmatic.com, 156631, RESELLER, 5d62403b186f2ace
+roockmobile.com, 8414a907260d, DIRECT
+rubiconproject.com, 25286, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 25288, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 12186, RESELLER, 0bfd66d529a55807
+smartadserver.com, 5449, DIRECT, 060d053dcf45cbf3
+smartadserver.com, 5449-OB, RESELLER, 060d053dcf45cbf3
+triplelift.com, 13277, DIRECT, 6c33edb13117fd86
+triplelift.com, 13277-EB, DIRECT, 6c33edb13117fd86
+trustedstack.com, TSL72ADG4, DIRECT
+viqeotv.com, 1001, DIRECT
+zeta.com, 891, DIRECT
+zetaglobal.net, 891, DIRECT

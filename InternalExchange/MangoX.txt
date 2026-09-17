@@ -1,4 +1,5 @@
-#=== MangoX Aug 31, 2026
+#=== MangoX Sep 17, 2026
+inventorypartnerdomain=mangomob.net
 adagio.io, 1571, RESELLER
 inmobi.com, cf78669cd16d4cc9af0c3705b697564c, RESELLER, 83e75a7ae333ca9d
 media.net, 8CA4HY78G, RESELLER

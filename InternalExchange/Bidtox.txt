@@ -1,14 +1,15 @@
-#=== Bidtox Jan 05, 2026
+#=== Bidtox Sep 17, 2026
 bidtox.com, 37884, DIRECT
 adagio.io, 1520, RESELLER
+adform.com, 3137, RESELLER
+admatic.de, ade-pub-5839424557, RESELLER
+appnexus.com, 11716, RESELLER, f5ab79cb980f11d1
+conversantmedia.com, 100898, RESELLER, 03113cd04947736d
 freewheel.tv, 536359-r-524565, RESELLER
+inmobi.com, 8f01765913af4b83a53649cc19b3c126, RESELLER, 83e75a7ae333ca9d
+netaddiction.it, 2007, RESELLER
+openx.com, 540717821, RESELLER, 6a698e2ec38604c6
 openx.com, 558899373, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 159110, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 19116, RESELLER, 0bfd66d529a55807
-conversantmedia.com, 100898, RESELLER, 03113cd04947736d
-admatic.de, ade-pub-5839424557, RESELLER
-netaddiction.it, 2007, RESELLER
-appnexus.com, 11716, RESELLER, f5ab79cb980f11d1
-adform.com, 3137, RESELLER
-openx.com, 540717821, RESELLER, 6a698e2ec38604c6
 rubiconproject.com, 27026, RESELLER, 0bfd66d529a55807
