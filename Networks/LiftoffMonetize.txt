@@ -1,4 +1,4 @@
-#=== LiftoffMonetize Sep 17, 2026
+#=== LiftoffMonetize Sep 29, 2026
 vungle.com, 5730c2af2270cba25f000066, DIRECT, c107d686becd2d77
 vungle.com, 5c657afed9e6e60012bab5d9, DIRECT, c107d686becd2d77
 vungle.com, 6a50bc25f28c146c135c2aa5, DIRECT, c107d686becd2d77
@@ -105,6 +105,7 @@ improvedigital.com, 2604, RESELLER
 improvedigital.com, 2605, RESELLER
 improvedigital.com, 2606, RESELLER
 improvedigital.com, 2607, RESELLER
+indexexchange.com, 219174, RESELLER, 50b1c356f2c5c8fc
 inmobi.com, 22e5354e453f49348325184e25464adb, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 5d2c913a0c5f4142acc7412723ee15d7, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 867c89bb53994aaeb9dae3ce75b03e78, RESELLER, 83e75a7ae333ca9d
@@ -211,6 +212,8 @@ pubmatic.com, 166536, RESELLER, 5d62403b186f2ace
 pubmatic.com, 167188, RESELLER, 5d62403b186f2ace
 pubmatic.com, 168216, RESELLER, 5d62403b186f2ace
 pubmatic.com, 168244, RESELLER, 5d62403b186f2ace
+pubmatic.com, 168363, RESELLER, 5d62403b186f2ace
+pubmatic.com, 168367, RESELLER, 5d62403b186f2ace
 pubnative.net, 1007249, RESELLER, d641df8625486a7b
 pubnative.net, 1007262, RESELLER, d641df8625486a7b
 pubnative.net, 1007303, RESELLER, d641df8625486a7b

@@ -1,10 +1,9 @@
-#=== StartIO Sep 17, 2026
+#=== StartIO Sep 29, 2026
 start.io, 125650712, DIRECT
 start.io, 144185998, DIRECT
 start.io, 174388014, DIRECT
 acexchange.co.kr, 1746357004, RESELLER
 adagio.io, 1529, RESELLER
-adelement.com, 48362, RESELLER
 adform.com, 1942, RESELLER
 adform.com, 3386, RESELLER, 9f5210a2f0999e32
 adgrid.io, 30264, RESELLER
@@ -30,11 +29,12 @@ bidedge.io, 12427296, RESELLER
 bidmachine.io, 1447, RESELLER
 bidmachine.io, 1700, RESELLER
 bidplay.ai, 2607009, RESELLER
-bigo.sg, 887, RESELLER
+bigo.sg, tef1q2vbni, RESELLER
 blasto.ai, 585, RESELLER, 7e936b1feafdaa61
 bluexad.ai, 2064614586140594176, RESELLER
 bold-win.com, 1162, RESELLER, 71746737d0bab951
 brightcom.com, 43301, RESELLER
+consumable.com, 2001689, RESELLER, aefcd3d2f45b5070
 conversantmedia.com, 100339, RESELLER, 03113cd04947736d
 conversantmedia.com, 100792, RESELLER, 03113cd04947736d
 copper6.com, 764121, RESELLER
@@ -48,13 +48,13 @@ improvedigital.com, 1532, RESELLER
 improvedigital.com, 1785, RESELLER
 improvedigital.com, 2417, RESELLER
 indexexchange.com, 215209, RESELLER, 50b1c356f2c5c8fc
+inmobi.com, 21dafc7bf4da4c399c6916da78462fb4, RESELLER, 83e75a7ae333ca9d
 kidoz.net, 15568, RESELLER, a109366414b7335e
 lijit.com, 465542, RESELLER, fafdf38b16bf6b2b
 lijit.com, 488437, RESELLER, fafdf38b16bf6b2b
 lijit.com, 583722, RESELLER, fafdf38b16bf6b2b
 lijit.com, 584539, RESELLER, fafdf38b16bf6b2b
 loopme.com, 11318, RESELLER, 6c8d5f95897a5a3b
-loopme.com, 11463, RESELLER, 6c8d5f95897a5a3b
 media.net, 8CU65V935, RESELLER
 media.net, 8CU9B72O6, RESELLER
 media.net, 8CUFTC5O2, RESELLER
@@ -80,6 +80,7 @@ pubeasy.io, 110047, RESELLER
 pubmatic.com, 156500, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160145, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160925, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161151, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163476, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164125, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165750, RESELLER, 5d62403b186f2ace
@@ -95,7 +96,6 @@ rubiconproject.com, 19116, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 19396, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 20736, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 22134, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 22544, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24600, RESELLER, 0bfd66d529a55807
@@ -118,6 +118,7 @@ smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
 smaato.com, 1100059282, RESELLER, 07bcf65f187117b4
 smaato.com, 1100059563, RESELLER, 07bcf65f187117b4
 smartadserver.com, 4342, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4568, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 5791, RESELLER, 060d053dcf45cbf3
 taboola.com, 1618213, DIRECT, c228e6794e811952
 taipeidigital.com, 01012311678, RESELLER

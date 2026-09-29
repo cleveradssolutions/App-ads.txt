@@ -1,4 +1,4 @@
-#=== YangoAds Sep 01, 2026
+#=== YangoAds Sep 29, 2026
 yango-ads.com, 100032860, DIRECT
 yango-ads.com, 100440221, DIRECT
 yango-ads.com, 10074451, DIRECT
@@ -31,6 +31,7 @@ yango-ads.com, 104980237, DIRECT
 yango-ads.com, 105015265, DIRECT
 yango-ads.com, 105026438, DIRECT
 yango-ads.com, 105132673, DIRECT
+yango-ads.com, 105156037, DIRECT
 yango-ads.com, 105204645, DIRECT
 yango-ads.com, 105209782, DIRECT
 yango-ads.com, 105212960, DIRECT
@@ -56,6 +57,7 @@ yango-ads.com, 106428122, DIRECT
 yango-ads.com, 106429560, DIRECT
 yango-ads.com, 1064463, DIRECT
 yango-ads.com, 106459991, DIRECT
+yango-ads.com, 106462571, DIRECT
 yango-ads.com, 106475235, DIRECT
 yango-ads.com, 106495970, DIRECT
 yango-ads.com, 106535574, DIRECT
@@ -104,7 +106,9 @@ yango-ads.com, 110203459, DIRECT
 yango-ads.com, 110293872, DIRECT
 yango-ads.com, 110604609, DIRECT
 yango-ads.com, 110775958, DIRECT
+yango-ads.com, 110914306, DIRECT
 yango-ads.com, 111062077, DIRECT
+yango-ads.com, 1120162, DIRECT
 yango-ads.com, 1836053, DIRECT
 yango-ads.com, 2082238, DIRECT
 yango-ads.com, 2180359, DIRECT
@@ -135,6 +139,7 @@ yango-ads.com, 303255267, DIRECT
 yango-ads.com, 304114139, DIRECT
 yango-ads.com, 304141945, DIRECT
 yango-ads.com, 304311817, DIRECT
+yango-ads.com, 304685037, DIRECT
 yango-ads.com, 304860453, DIRECT
 yango-ads.com, 305011715, DIRECT
 yango-ads.com, 305184791, DIRECT
@@ -143,6 +148,7 @@ yango-ads.com, 305465121, DIRECT
 yango-ads.com, 305746111, DIRECT
 yango-ads.com, 305964279, DIRECT
 yango-ads.com, 306253317, DIRECT
+yango-ads.com, 306276583, DIRECT
 yango-ads.com, 306473995, DIRECT
 yango-ads.com, 306513917, DIRECT
 yango-ads.com, 306531245, DIRECT
@@ -182,12 +188,14 @@ yango-ads.com, 319094321, DIRECT
 yango-ads.com, 320543997, DIRECT
 yango-ads.com, 321387101, DIRECT
 yango-ads.com, 321982427, DIRECT
+yango-ads.com, 322434831, DIRECT
 yango-ads.com, 322577339, DIRECT
 yango-ads.com, 322597063, DIRECT
 yango-ads.com, 32262487, DIRECT
 yango-ads.com, 323074473, DIRECT
 yango-ads.com, 323546441, DIRECT
 yango-ads.com, 323870971, DIRECT
+yango-ads.com, 325160803, DIRECT
 yango-ads.com, 325900551, DIRECT
 yango-ads.com, 326209243, DIRECT
 yango-ads.com, 326543363, DIRECT
@@ -196,12 +204,14 @@ yango-ads.com, 32691543, DIRECT
 yango-ads.com, 327123643, DIRECT
 yango-ads.com, 327129793, DIRECT
 yango-ads.com, 327332713, DIRECT
+yango-ads.com, 327338411, DIRECT
 yango-ads.com, 327573069, DIRECT
 yango-ads.com, 327658171, DIRECT
 yango-ads.com, 328572005, DIRECT
 yango-ads.com, 328575363, DIRECT
 yango-ads.com, 329807847, DIRECT
 yango-ads.com, 329838487, DIRECT
+yango-ads.com, 329900547, DIRECT
 yango-ads.com, 3827676, DIRECT
 yango-ads.com, 38777891, DIRECT
 yango-ads.com, 52649769, DIRECT
@@ -2568,6 +2578,7 @@ yandex.com, 104980237, DIRECT
 yandex.com, 105015265, DIRECT
 yandex.com, 105026438, DIRECT
 yandex.com, 105132673, DIRECT
+yandex.com, 105156037, DIRECT
 yandex.com, 105204645, DIRECT
 yandex.com, 105209782, DIRECT
 yandex.com, 105212960, DIRECT
@@ -2593,6 +2604,7 @@ yandex.com, 106428122, DIRECT
 yandex.com, 106429560, DIRECT
 yandex.com, 1064463, DIRECT
 yandex.com, 106459991, DIRECT
+yandex.com, 106462571, DIRECT
 yandex.com, 106475235, DIRECT
 yandex.com, 106495970, DIRECT
 yandex.com, 106535574, DIRECT
@@ -2609,6 +2621,7 @@ yandex.com, 107294509, DIRECT
 yandex.com, 107398070, DIRECT
 yandex.com, 107467420, DIRECT
 yandex.com, 107515030, DIRECT
+yandex.com, 107607309, DIRECT
 yandex.com, 107686073, DIRECT
 yandex.com, 107725748, DIRECT
 yandex.com, 107811360, DIRECT
@@ -2640,7 +2653,9 @@ yandex.com, 110203459, DIRECT
 yandex.com, 110293872, DIRECT
 yandex.com, 110604609, DIRECT
 yandex.com, 110775958, DIRECT
+yandex.com, 110914306, DIRECT
 yandex.com, 111062077, DIRECT
+yandex.com, 1120162, DIRECT
 yandex.com, 1836053, DIRECT
 yandex.com, 2082238, DIRECT
 yandex.com, 2180359, DIRECT
@@ -2671,6 +2686,7 @@ yandex.com, 303255267, DIRECT
 yandex.com, 304114139, DIRECT
 yandex.com, 304141945, DIRECT
 yandex.com, 304311817, DIRECT
+yandex.com, 304685037, DIRECT
 yandex.com, 304860453, DIRECT
 yandex.com, 305011715, DIRECT
 yandex.com, 305184791, DIRECT
@@ -2679,6 +2695,7 @@ yandex.com, 305465121, DIRECT
 yandex.com, 305746111, DIRECT
 yandex.com, 305964279, DIRECT
 yandex.com, 306253317, DIRECT
+yandex.com, 306276583, DIRECT
 yandex.com, 306473995, DIRECT
 yandex.com, 306513917, DIRECT
 yandex.com, 306531245, DIRECT
@@ -2718,12 +2735,14 @@ yandex.com, 319094321, DIRECT
 yandex.com, 320543997, DIRECT
 yandex.com, 321387101, DIRECT
 yandex.com, 321982427, DIRECT
+yandex.com, 322434831, DIRECT
 yandex.com, 322577339, DIRECT
 yandex.com, 322597063, DIRECT
 yandex.com, 32262487, DIRECT
 yandex.com, 323074473, DIRECT
 yandex.com, 323546441, DIRECT
 yandex.com, 323870971, DIRECT
+yandex.com, 325160803, DIRECT
 yandex.com, 325900551, DIRECT
 yandex.com, 326209243, DIRECT
 yandex.com, 326543363, DIRECT
@@ -2732,12 +2751,14 @@ yandex.com, 32691543, DIRECT
 yandex.com, 327123643, DIRECT
 yandex.com, 327129793, DIRECT
 yandex.com, 327332713, DIRECT
+yandex.com, 327338411, DIRECT
 yandex.com, 327573069, DIRECT
 yandex.com, 327658171, DIRECT
 yandex.com, 328572005, DIRECT
 yandex.com, 328575363, DIRECT
 yandex.com, 329807847, DIRECT
 yandex.com, 329838487, DIRECT
+yandex.com, 329900547, DIRECT
 yandex.com, 3827676, DIRECT
 yandex.com, 38777891, DIRECT
 yandex.com, 52649769, DIRECT

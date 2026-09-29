@@ -1,4 +1,4 @@
-#=== Monetizgo Sep 17, 2026
+#=== Monetizgo Sep 29, 2026
 omgstudios.com, 191120241, DIRECT
 appnexus.com, 17564, DIRECT, f5ab79cb980f11d1
 appnexus.com, 10478, RESELLER, f5ab79cb980f11d1
@@ -9,6 +9,7 @@ evermont.io, 1014, RESELLER
 evermont.io, 1015, RESELLER
 firstimpression.io, 5017, DIRECT
 firstimpression.io, 5017, RESELLER
+firstimpression.io, 6017, RESELLER
 improvedigital.com, 2702, RESELLER
 kodigital.io, KO100019, DIRECT
 lijit.com, 243408, RESELLER, fafdf38b16bf6b2b

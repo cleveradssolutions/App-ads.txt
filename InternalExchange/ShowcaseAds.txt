@@ -1,9 +1,10 @@
-#=== ShowcaseAds Sep 17, 2026
+#=== ShowcaseAds Sep 29, 2026
 showcasead.com, 806322774, DIRECT
 adagio.io, 1627, RESELLER
 admagnetix.io, 202071, RESELLER
 antipodesdigital.com, 336, RESELLER
 appnexus.com, 13099, RESELLER
+contxtful.com, 260421, RESELLER
 conversantmedia.com, 101170, RESELLER, 03113cd04947736d
 ergadx.com, 5492, DIRECT
 firstimpression.io, 5014, RESELLER
