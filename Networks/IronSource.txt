@@ -1,4 +1,4 @@
-#=== IronSource Sep 17, 2026
+#=== IronSource Sep 29, 2026
 ironsrc.com, 218335, DIRECT
 ironsrc.com, 406326, DIRECT
 ironsrc.com, 445197, DIRECT
@@ -78,6 +78,7 @@ rubiconproject.com, 25386, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 25978, RESELLER
 rubiconproject.com, 27987, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 28169, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 28409, RESELLER, 0bfd66d529a55807
 sharethrough.com, 3817, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 4237, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 4322, RESELLER, d53b998a7bd4ecd2
@@ -121,8 +122,8 @@ video.unrulymedia.com, 703273072, RESELLER
 video.unrulymedia.com, 848837292, RESELLER
 videoheroes.tv, 212550, RESELLER, 064bc410192443d8
 voisetech.com, 1066, RESELLER
-xandr.com, 13058, RESELLER
 xandr.com, 13799, RESELLER
+xandr.com, 13923, RESELLER
 xandr.com, 16856, RESELLER
 xandr.com, 17779, RESELLER
 zmaticoo.com, 5135703, RESELLER

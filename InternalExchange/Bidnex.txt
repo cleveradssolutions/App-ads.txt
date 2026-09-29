@@ -1,0 +1,8 @@
+#=== Bidnex Sep 29, 2026
+bidnex.com, 2211030, DIRECT
+flat-ads.com, 2211030, DIRECT
+anzu.io, 6a2a775b38d14281b41b2e6b, RESELLER, 1c1b7acf4992136c
+inmobi.com, 6f65b5031524420089f13ae98adf94d3, RESELLER, 83e75a7ae333ca9d
+pubnative.net, 1016755, RESELLER, d641df8625486a7b
+rubiconproject.com, 28299, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 174356361, RESELLER
