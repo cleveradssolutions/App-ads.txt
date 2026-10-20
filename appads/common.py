@@ -97,18 +97,40 @@ def parse_domains(text):
     return list(dict.fromkeys(domains))
 
 
+def resembles(name, domain):
+    """The domain looks like the network's own: Adplify -> adplify.ai, AWG -> awg.la."""
+    key = normalize(name)
+    for label in domain.split(".")[:-1]:          # without the top-level part (.com, .ai)
+        label = normalize(label)
+        if label and (label == key or (min(len(label), len(key)) >= 4 and (label in key or key in label))):
+            return True
+    return False
+
+
+def head_suggestions(name, incoming):
+    """[(domain, reason)]: inventorypartnerdomain, then domains that look like the name, then DIRECT domains."""
+    found = {}
+    for v in incoming.variables:
+        found.setdefault(v.value, "inventorypartnerdomain")
+    for r in incoming.records:
+        if resembles(name, r.domain):
+            found.setdefault(r.domain, "same name as the network")
+    for r in incoming.records:
+        if r.relation == DIRECT:
+            found.setdefault(r.domain, "DIRECT")
+    return list(found.items())
+
+
 def ask_head(name, incoming):
     """Head domain of a network that is not in networks.json yet; suggestions come from the new lines."""
-    suggestions = [v.value for v in incoming.variables]
-    suggestions += [r.domain for r in incoming.records if r.relation == DIRECT]
-    suggestions = list(dict.fromkeys(suggestions))
+    suggestions = head_suggestions(name, incoming)
     print(f"Head domain for {name} is not set.")
-    for i, domain in enumerate(suggestions, 1):
-        print(f"  {i}) {domain}")
+    for i, (domain, reason) in enumerate(suggestions, 1):
+        print(f"  {i}) {domain}  ({reason})")
     while True:
         answer = ask("Number or domain (empty = network has no head domain): ")
         if answer.isdigit() and 1 <= int(answer) <= len(suggestions):
-            return [suggestions[int(answer) - 1]]
+            return [suggestions[int(answer) - 1][0]]
         try:
             return parse_domains(answer) if answer else []
         except SystemExit as error:
@@ -116,14 +138,14 @@ def ask_head(name, incoming):
 
 
 def check_head(name, heads, records):
-    """Warns when there is no head DIRECT line to put on top of the file."""
+    """Warns when nothing can be put on top of the file."""
     if not heads:
-        problem = f"{name} has no head domain in {HEADS_FILE}"
-    elif not any(r.relation == DIRECT and r.domain in heads for r in records):
-        problem = f"{name} has no DIRECT line of its head domain ({', '.join(heads)})"
+        problem = f"{name} has no head domain in {HEADS_FILE}; all DIRECT lines are sorted alphabetically"
+    elif not any(r.domain in heads for r in records):
+        problem = f"{name} has no lines of its head domain ({', '.join(heads)})"
     else:
         return
-    warn(f"{problem}; all DIRECT lines are sorted alphabetically.\n"
+    warn(f"{problem}.\n"
          f"      Check the file and set the head domain: python3 -m appads head {name} <domain>")
 
 

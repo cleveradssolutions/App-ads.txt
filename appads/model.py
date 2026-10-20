@@ -12,7 +12,7 @@ from .config import BANNED_DOMAINS, VARIABLES
 DIRECT, RESELLER = "DIRECT", "RESELLER"
 
 DOMAIN_RE = re.compile(r"^([a-z0-9_-]{1,63}\.)+[a-z]{2,9}$")
-ID_RE = re.compile(r"^[A-Za-z0-9_-]+$")
+ID_RE = re.compile(r"^[A-Za-z0-9._-]+$")   # letters, digits, dot, underscore, dash
 CERT_RE = re.compile(r"^[a-z0-9]+$")
 
 
