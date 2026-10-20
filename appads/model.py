@@ -248,7 +248,7 @@ def build(current: Parsed, incoming: Parsed, heads, mode):
             kept = [r for r in old if r not in new and (r.relation == DIRECT or r.domain in heads)]
             if kept:
                 print(f"  Kept {len(kept)} existing DIRECT/head line(s) missing from the update "
-                      f"(remove them with `table remove` if needed):")
+                      f"(remove them with `update -r` or `table remove` if needed):")
                 for r in order(kept, heads):
                     print(f"    [keep] {r.to_line()}")
                 records.update({r: r for r in kept})

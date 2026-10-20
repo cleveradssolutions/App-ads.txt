@@ -5,7 +5,7 @@ import shutil
 from .common import (DIRS, Quit, all_files, ask, confirm, default_mode, is_generated, load_heads, normalize,
                      parse_domains, save_heads, set_head, update_network, update_raw)
 from .config import DRIVE_DIR, GENERATED, HEADS_FILE, RAW, RELEASE_NETWORKS, TABLES_DIR, TEMP_FILE
-from .model import build, read_file, to_lines, warn, write_file
+from .model import CERTS, build, read_file, to_lines, warn, write_file
 from .names import match_network, resolve
 
 
@@ -19,7 +19,7 @@ def ask_mode(path, yes):
     if not path.exists():
         return "force"          # a new network: both modes give the same result
     if yes:
-        raise SystemExit("With -y pass the mode: -f (force) or -m (merge).")
+        raise SystemExit("With -y pass the mode: -f (force), -m (merge) or -r (remove).")
     hint = " (usually m for this network)" if default_mode(path.stem) == "merge" else ""
     while True:
         answer = ask(f"Mode{hint}: [f] force - remove lines missing from the update / "
@@ -35,19 +35,27 @@ def cmd_update(args, root):
     source = root / TEMP_FILE
     if not source.exists():
         raise SystemExit(f"{TEMP_FILE} not found. Create it with: python3 -m appads init")
+    if args.remove:
+        CERTS.learn = False    # lines being removed must not teach new certification ids
     try:
-        path = resolve(root, args.name, args.yes)
+        path = resolve(root, args.name, args.yes, allow_create=not args.remove)
         if path is None:
             print("Cancelled.")
             return 1
         if path.stem in RAW:   # copied as-is, the mode does not matter
+            if args.remove:
+                raise SystemExit(f"{path.stem} is copied as-is: put the lines to keep into {TEMP_FILE} "
+                                 f"and run `update {path.stem}`.")
             update_raw(path, [source.read_text(encoding="utf-8", errors="replace")], args.yes)
             return 0
 
         incoming = read_file(source, source.name)
         if incoming.empty:
             raise SystemExit(f"No valid lines in {TEMP_FILE}.")
-        mode = "force" if args.force else "merge" if args.merge else ask_mode(path, args.yes)
+        if args.remove:
+            mode = "remove"
+        else:
+            mode = "force" if args.force else "merge" if args.merge else ask_mode(path, args.yes)
         status = update_network(root, path, incoming, mode, args.yes)
     except Quit:
         status = "declined"

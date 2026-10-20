@@ -46,7 +46,7 @@ def run(args, root):
     removing = args.action == "remove"
     CERTS.learn = not removing   # lines being removed must not teach new certification ids
     groups = read_tables(input_folder(args.folder, root))
-    result = {"updated": [], "unchanged": [], "declined": [], "not found": []}
+    result = {"updated": [], "deleted": [], "unchanged": [], "declined": [], "not found": []}
 
     try:
         # 1. names -> networks

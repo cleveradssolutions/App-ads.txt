@@ -4,7 +4,7 @@ import json
 import re
 from pathlib import Path
 
-from .config import EXCHANGE_DIR, GENERATED, HEADS_FILE, MERGE, NETWORKS_DIR
+from .config import EXCHANGE_DIR, GENERATED, HEADS_FILE, MERGE, NETWORKS_DIR, RELEASE_NETWORKS
 from .model import DIRECT, DOMAIN_RE, build, read_file, to_lines, today, warn, write_file, write_lines
 
 DIRS = {"n": NETWORKS_DIR, "e": EXCHANGE_DIR}   # answer letter -> folder, used when creating a network
@@ -159,7 +159,8 @@ def show_changes(root, path, current, variables, records, heads, mode):
     """Prints the new file with [+]/[-] marks. Returns (variables, records), or None if nothing changes."""
     new_lines = to_lines(variables, records)
     print(f"Update {path.relative_to(root)} ({mode}), head: {', '.join(heads) or '-'}")
-    check_head(path.stem, heads, records)
+    if new_lines:                      # an emptied file is deleted, no head to check
+        check_head(path.stem, heads, records)
     if new_lines == current.lines:
         print("No changes.")
         return None
@@ -179,7 +180,7 @@ def update_network(root, path, incoming, mode, yes=False):
     mode: force | merge | remove (see model.build)
     The head domain comes from domains.json; a network missing there is asked for (unless -y
     or remove). domains.json is saved only when the update is applied or nothing changes.
-    Returns "updated", "unchanged" or "declined".
+    Returns "updated", "unchanged", "declined" or "deleted" (remove left no lines: the file is deleted).
     """
     name = path.stem
     known = load_heads(root)
@@ -188,6 +189,8 @@ def update_network(root, path, incoming, mode, yes=False):
 
     current = read_file(path)
     plan = show_changes(root, path, current, *build(current, incoming, heads, mode), heads, mode)
+    if plan is not None and mode == "remove" and not any(plan) and path.exists():
+        return delete_empty(root, path, yes)
     if plan is not None:
         if not confirm(f"{'Remove lines from' if mode == 'remove' else 'Update'} {name}?", yes):
             return "declined"
@@ -195,6 +198,22 @@ def update_network(root, path, incoming, mode, yes=False):
     if save:
         set_head(root, name, heads)
     return "updated" if plan is not None else "unchanged"
+
+
+def delete_empty(root, path, yes=False):
+    """All lines of a network were removed: delete its file and its entry in domains.json."""
+    name = path.stem
+    print(f"  No lines left in {name}: the file will be deleted and {name} removed from {HEADS_FILE}.")
+    if not confirm(f"Delete {path.relative_to(root)}?", yes):
+        return "declined"
+    path.unlink()
+    heads = load_heads(root)
+    if heads.pop(name, None) is not None:
+        save_heads(root, heads)
+    print(f"Deleted {path.relative_to(root)}.")
+    if path.parent.name == NETWORKS_DIR and name in RELEASE_NETWORKS:
+        warn(f"{name} is in RELEASE_NETWORKS: remove it from appads/config.py, otherwise release stops")
+    return "deleted"
 
 
 def raw_lines(texts):

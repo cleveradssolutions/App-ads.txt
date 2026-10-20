@@ -32,11 +32,13 @@ def build_parser():
     def yes(p, text="Do not ask for confirmation."):
         p.add_argument("-y", "--yes", action="store_true", help=text)
 
-    p = add("update", "manual:cmd_update", f"Update a network from {TEMP_FILE}; without -f/-m the mode is asked.")
+    p = add("update", "manual:cmd_update", f"Update a network from {TEMP_FILE}; without -f/-m/-r the mode is asked.")
     p.add_argument("name", help="Network name or part of it.")
     mode = p.add_mutually_exclusive_group()
     mode.add_argument("-f", "--force", action="store_true", help="Remove lines missing from the update.")
     mode.add_argument("-m", "--merge", action="store_true", help="Keep existing lines, only add new ones.")
+    mode.add_argument("-r", "--remove", action="store_true",
+                      help="Remove the lines of TempUpdate.txt from the network (an emptied network is deleted).")
     yes(p, "Do not ask for confirmation (the mode must be given).")
 
     p = add("init", "manual:cmd_init", f"Create {TEMP_FILE}, {DRIVE_DIR}/ and {TABLES_DIR}/ if missing.")
