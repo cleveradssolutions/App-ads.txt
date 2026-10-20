@@ -64,7 +64,7 @@ def cmd_remove(args, root):
     try:
         path = match_network(root, args.name)
         if path is None:
-            # the file may be deleted by hand already: offer to clean networks.json only
+            # the file may be deleted by hand already: offer to clean domains.json only
             names = [n for n in heads if normalize(n) == normalize(args.name)]
             if names:
                 if not confirm(f"{names[0]} has no file. Remove it from {HEADS_FILE}?", args.yes):

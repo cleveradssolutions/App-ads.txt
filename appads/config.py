@@ -2,7 +2,7 @@
 NETWORKS_DIR = "Networks"            # big networks
 EXCHANGE_DIR = "InternalExchange"    # DSPs / exchanges
 TEMP_FILE = "TempUpdate.txt"         # input of `update`
-HEADS_FILE = "networks.json"         # head domain(s) of every network
+HEADS_FILE = "domains.json"          # head domain(s) of every network
 CERT_FILE = "CertificationIds.json"  # known certification ids: domain -> id ("" = domain must have none)
 DRIVE_DIR = "GoogleDrive"            # default input folder of `drive`
 TABLES_DIR = "Tables"                # default input folder of `table`

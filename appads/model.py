@@ -217,8 +217,8 @@ def order(records, heads):
 
 def build(current: Parsed, incoming: Parsed, heads, mode):
     """Returns (variables, records) of the updated file. Modes:
-      force:  incoming lines replace the file; head-domain lines are kept when
-              the incoming lines have none of them (protection against partial updates)
+      force:  incoming lines replace the file, but existing DIRECT lines and head-domain
+              lines are always kept (sources such as Google Drive often have only a part of them)
       merge:  incoming lines are added, existing lines are kept
       remove: incoming lines are removed from the file
     """
@@ -245,11 +245,13 @@ def build(current: Parsed, incoming: Parsed, heads, mode):
             variables = list(dict.fromkeys(current.variables + incoming.variables))
         else:
             records = dict(new)
-            if heads and not any(r.domain in heads for r in new):
-                kept = [r for r in old if r.domain in heads]
-                if kept:
-                    warn(f"no lines of {', '.join(heads)} in the update; kept {len(kept)} existing head line(s)")
-                    records.update({r: r for r in kept})
+            kept = [r for r in old if r not in new and (r.relation == DIRECT or r.domain in heads)]
+            if kept:
+                print(f"  Kept {len(kept)} existing DIRECT/head line(s) missing from the update "
+                      f"(remove them with `table remove` if needed):")
+                for r in order(kept, heads):
+                    print(f"    [keep] {r.to_line()}")
+                records.update({r: r for r in kept})
             variables = incoming.variables or current.variables
 
     variables = sorted(variables, key=lambda v: (v.name, v.value))

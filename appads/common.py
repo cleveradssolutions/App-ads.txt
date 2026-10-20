@@ -70,7 +70,7 @@ def input_folder(value, root):
     return folder
 
 
-# ---------------------------------------------------------------- networks.json (head domains)
+# ---------------------------------------------------------------- domains.json (head domains)
 
 def load_heads(root):
     """{"Streamix-tv": ["streamix-tv.com"], "Madstream": []}; [] = the network has no head domain."""
@@ -122,7 +122,7 @@ def head_suggestions(name, incoming):
 
 
 def ask_head(name, incoming):
-    """Head domain of a network that is not in networks.json yet; suggestions come from the new lines."""
+    """Head domain of a network that is not in domains.json yet; suggestions come from the new lines."""
     suggestions = head_suggestions(name, incoming)
     print(f"Head domain for {name} is not set.")
     for i, (domain, reason) in enumerate(suggestions, 1):
@@ -174,11 +174,11 @@ def show_changes(root, path, current, variables, records, heads, mode):
 
 
 def update_network(root, path, incoming, mode, yes=False):
-    """The flow every command uses: head domain -> show changes -> confirm -> write -> networks.json.
+    """The flow every command uses: head domain -> show changes -> confirm -> write -> domains.json.
 
     mode: force | merge | remove (see model.build)
-    The head domain comes from networks.json; a network missing there is asked for (unless -y
-    or remove). networks.json is saved only when the update is applied or nothing changes.
+    The head domain comes from domains.json; a network missing there is asked for (unless -y
+    or remove). domains.json is saved only when the update is applied or nothing changes.
     Returns "updated", "unchanged" or "declined".
     """
     name = path.stem
