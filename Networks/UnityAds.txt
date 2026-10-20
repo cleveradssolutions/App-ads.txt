@@ -1,4 +1,4 @@
-#=== UnityAds Sep 29, 2026
+#=== UnityAds Oct 20, 2026
 unity.com, 1049822, DIRECT, 96cabb5fbdde37a7
 unity.com, 135230921, DIRECT, 96cabb5fbdde37a7
 unity.com, 1773786, DIRECT, 96cabb5fbdde37a7
@@ -84,6 +84,7 @@ pubmatic.com, 163117, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165438, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165750, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165854, RESELLER, 5d62403b186f2ace
+pubmatic.com, 165874, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166335, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166385, RESELLER, 5d62403b186f2ace
 pubmatic.com, 167130, RESELLER, 5d62403b186f2ace
@@ -118,6 +119,7 @@ sharethrough.com, uvcax8il, RESELLER, d53b998a7bd4ecd2
 smaato.com, 1100047589, RESELLER, 07bcf65f187117b4
 smaato.com, 1100055750, RESELLER, 07bcf65f187117b4
 smaato.com, 1100058938, RESELLER, 07bcf65f187117b4
+smaato.com, 1100059345, RESELLER, 07bcf65f187117b4
 smaato.com, 1100059563, RESELLER, 07bcf65f187117b4
 smartadserver.com, 3964, RESELLER
 smartadserver.com, 4456, RESELLER
@@ -130,6 +132,7 @@ smartadserver.com, 5828, RESELLER, 060d053dcf45cbf3
 smartclip.net, 14679, RESELLER
 smartclip.net, 15458, RESELLER
 spinx.biz, 1373698903, RESELLER, 9f2711e9aaa9f992
+start.io, 131192070, RESELLER
 start.io, 197760873, RESELLER
 stroeer.com, 17379, RESELLER
 targetbetter.com, 82228, RESELLER

@@ -1,4 +1,4 @@
-#=== Qntv Sep 29, 2026
+#=== Qntv Oct 20, 2026
 qntv.io, 11710526, DIRECT
 appnexus.com, 17383, RESELLER
 aps.amazon.com, 4d4c8d3b-7851-43b9-afba-820ea7c3f5dc, RESELLER
@@ -6,7 +6,6 @@ datacygnal.io, 15201035, RESELLER
 globalsun.io, 618, DIRECT
 improvedigital.com, 2693, RESELLER
 lijit.com, 556191, RESELLER, fafdf38b16bf6b2b
-lobalsun.io, 618, DIRECT
 openx.com, 561968148, RESELLER, 6a698e2ec38604c6
 openx.com, 564974596, RESELLER, 6a698e2ec38604c6
 openx.com, 609660800, RESELLER, 6a698e2ec38604c6

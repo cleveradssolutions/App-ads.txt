@@ -1,7 +1,27 @@
-#=== Woven Sep 29, 2026
+#=== Woven Oct 20, 2026
 wovenaudience.com, 1029, RESELLER
+adgrid.io, 37931, RESELLER
 adipolo.com, woven226, RESELLER
+amxrtb.com, 105199776, RESELLER
+appnexus.com, 12690, RESELLER
+getmediamx.com, 1221159, RESELLER
+improvedigital.com, 2116, RESELLER
+lijit.com, 374814, RESELLER, fafdf38b16bf6b2b
 onetag.com, 973abf4686535df, RESELLER
+onlinemediasolutions.com, 21159, RESELLER, b3868b187e4b6402
+onomagic.com, 211591, RESELLER
+openx.com, 537153209, RESELLER, 6a698e2ec38604c6
+opera.com, pub9444418699648, RESELLER, 55a0c5fd61378de3
+pgamssp.com, 65c4dab8199399cda607f238, RESELLER
+pubmatic.com, 165321, RESELLER, 5d62403b186f2ace
 richaudience.com, dAs91iDiUH, RESELLER
+risecodes.com, 636cc1381c35e10001b200c7, RESELLER
 risecodes.com, 6a96c62bdd67120001aa344a, RESELLER
 seedtag.com, 6a624e838e3b4c0007587b5b, RESELLER
+spotim.market, e9a771d72c076dbe3cafc2c6477f9238, RESELLER, 077e5f709d15bdbb
+themediagrid.com, HW1PGR, RESELLER, 9fac4a4a87c2a44f
+triplelift.com, 14566, RESELLER, 6c33edb13117fd86
+triplelift.com, 7592, RESELLER, 6c33edb13117fd86
+video.unrulymedia.com, 208864022, RESELLER
+video.unrulymedia.com, 468729161, RESELLER
+xandr.com, 11201, RESELLER

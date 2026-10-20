@@ -1,4 +1,4 @@
-#=== Mintegral Sep 29, 2026
+#=== Mintegral Oct 20, 2026
 mintegral.com, 25008, DIRECT, 0aeed750c80d6423
 mintegral.com, 52286, DIRECT, 0aeed750c80d6423
 mintegral.com, 71776, DIRECT, 0aeed750c80d6423
@@ -267,8 +267,11 @@ freewheel.tv, 1601610, RESELLER
 freewheel.tv, 1601613, RESELLER
 freewheel.tv, 1606620, RESELLER
 freewheel.tv, 1606633, RESELLER
+freewheel.tv, 548888-r-523319, RESELLER
+freewheel.tv, 548888-r-524565, RESELLER
 freewheel.tv, 741650, RESELLER
 freewheel.tv, sg1258340, RESELLER
+freewheel.tv, sg1332502, RESELLER
 gitberry.com, 325100011, RESELLER
 gitberry.com, 325100012, RESELLER
 gitberry.com, 3OJ, RESELLER
@@ -332,6 +335,7 @@ indexexchange.com, 195812, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 198417, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 216513, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 219174, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 220189, RESELLER, 50b1c356f2c5c8fc
 inmobi.com, 062029933580429f9920bad476d8d70a, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 0c2fa8130b884712913cc0bfc84e1c31, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 22e5354e453f49348325184e25464adb, RESELLER, 83e75a7ae333ca9d
@@ -360,6 +364,7 @@ inmobi.com, ebc44eef6c104f7fbf7bc52ee29f7939, RESELLER, 83e75a7ae333ca9d
 inmobi.com, edd282ac8f29464792bf2b7f3df2f9df, RESELLER, 83e75a7ae333ca9d
 inmobi.com, f3924290136e4129a5c082ff982c3a58, RESELLER, 83e75a7ae333ca9d
 inmobi.com, fe4db13744124582a6a2b18964560ce7, RESELLER, 83e75a7ae333ca9d
+insticator.com, e2d3e33c-9911-477a-8ae2-f059870c67c0, RESELLER, b3511ffcafb23a32
 instreamatic.com, 78, RESELLER
 jambojar.com, 2026J77, RESELLER
 krushmedia.com, AJxF6R192a9M6CaTvK, RESELLER
@@ -596,6 +601,7 @@ pubnative.net, 1010072, RESELLER, d641df8625486a7b
 pubnative.net, 1010073, RESELLER, d641df8625486a7b
 pubnative.net, 1017792, RESELLER, d641df8625486a7b
 pubnative.net, 1018245, RESELLER, d641df8625486a7b
+pubnative.net, 1018294, RESELLER, d641df8625486a7b
 refine.direct, 1000730C, RESELLER
 rhebus.works, 9347471687, RESELLER
 rhythmone.com, 123476257, RESELLER, a670c89d4a324e47

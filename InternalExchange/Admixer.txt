@@ -1,0 +1,11 @@
+#=== Admixer Oct 20, 2026
+admixer.net, 299, DIRECT
+admixer.net, 299, RESELLER
+152media.info, 152M244, RESELLER
+33across.com, 0010b00002ZoRYhAAN, RESELLER, bbea06d9c4d2853c
+adyoulike.com, b9be997b0d8268fff3ee35e29b313526, RESELLER
+flashb.id, 03c8e749-23dd-54bc-956c-1103538f4adf, RESELLER
+freewheel.tv, sg1256491, RESELLER
+intenze.co, 13, RESELLER
+pubmatic.com, 167254, RESELLER, 5d62403b186f2ace
+smilewanted.com, 2457, RESELLER

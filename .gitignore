@@ -4,3 +4,8 @@
 /Others.txt
 /app-ads-games.txt
 /app-ads-partner.txt
+
+__pycache__/
+.pytest_cache/
+GoogleDrive
+Tables

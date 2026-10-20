@@ -1,4 +1,4 @@
-#=== Gadsme Sep 29, 2026
+#=== Gadsme Oct 20, 2026
 inventorypartnerdomain=gadsme.com
 gadsme.com, cloyjpkob001arb0iqlpzv68m, DIRECT, 6e0ed2d8104a4234
 33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
@@ -19,6 +19,7 @@ adcolony.com, f5e40265723efb01, RESELLER, 1ad675c9de6b5176
 adelement.com, 30208, RESELLER
 adelement.com, 48268, RESELLER
 adelement.com, 30273, RESELLER
+adform.com, 3268, RESELLER, 9f5210a2f0999e32
 adform.com, 2795, RESELLER
 adform.com, 2742, RESELLER
 adform.com, 3083, RESELLER
@@ -146,8 +147,8 @@ appnexus.com, 9726, DIRECT, f5ab79cb980f11d1
 appnexus.com, 12252, DIRECT
 appnexus.com, 11180, RESELLER, f5ab79cb980f11d1
 appnexus.com, 14256, RESELLER, f5ab79cb980f11d1
-appnexus.com, 7664, RESELLER
 appnexus.com, 11111, RESELLER, f5ab79cb980f11d1
+appnexus.com, 7664, RESELLER
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12501, RESELLER
 appnexus.com, 8178, RESELLER, f5ab79cb980f11d1
@@ -247,6 +248,7 @@ emxdgt.com, 2009, RESELLER, 1e1d41537f7cad7f
 engagebdr.com, 16, RESELLER
 ergadx.com, 5111, DIRECT
 escalax.io, 77, DIRECT
+eskimi.com, 2020001208, RESELLER
 eskimi.com, 2020000807, RESELLER
 eskimi.com, 2020001167, RESELLER
 eskimi.com, 2020000539, DIRECT
@@ -284,6 +286,7 @@ hax.ortb.net, 655942, RESELLER
 iion.io, 10258, RESELLER, 013a29748465dc57
 iion.io, 10209, RESELLER, 013a29748465dc57
 imds.tv, AM1601, RESELLER, ae6c32151e71f19d
+improvedigital.com, 2541, RESELLER
 improvedigital.com, 1408, RESELLER
 improvedigital.com, 2566, RESELLER
 improvedigital.com, 2174_303, RESELLER
@@ -325,6 +328,7 @@ insticator.com, 9a78f9d0-9cb7-4e5e-b869-eb0d9c344f13, RESELLER, b3511ffcafb23a32
 instreamatic.com, 78, RESELLER
 instreamatic.com, 99, RESELLER
 integralstream.com, 2, RESELLER
+intenze.co, 315, RESELLER
 iqzone.com, IQ326, RESELLER
 k-words.io, 10032, DIRECT
 k-words.io, 100032, DIRECT
@@ -400,6 +404,7 @@ movve.com, 4350252, RESELLER
 my-cast.tv, 986754, RESELLER, 71746737d0bab951
 nativo.com, 6054, RESELLER, 59521ca7cc5e9fee
 nativo.com, 5957, RESELLER, 59521ca7cc5e9fee
+nativo.com, 6137, RESELLER, 59521ca7cc5e9fee
 nextmillennium.io, 16760, RESELLER, 65bd090fa4a1e3d6
 nextmillennium.io, 17219, RESELLER, 65bd090fa4a1e3d6
 nexverse.ai, 24337, RESELLER
@@ -420,6 +425,7 @@ onetag.com, 69f48c2160c8113, RESELLER
 onetag.com, 942f11d96ca6d70, RESELLER
 onetag.com, 5d1628750185ace, RESELLER
 onetag.com, 699899629dbed80, RESELLER
+onetag.com, 5649f68000b2f63, RESELLER
 onetag.com, 7a07370227fc000, RESELLER
 onetag.com, 59aa7be4921bac8, RESELLER
 onetag.com, 6b859b96c564fbe, RESELLER
@@ -439,6 +445,7 @@ openx.com, 559912325, DIRECT, 6a698e2ec38604c6
 openx.com, 537140488, RESELLER, 6a698e2ec38604c6
 openx.com, 558899373, RESELLER, 6a698e2ec38604c6
 openx.com, 540804929, RESELLER, 6a698e2ec38604c6
+openx.com, 609225366, RESELLER, 6a698e2ec38604c6
 openx.com, 540298543, RESELLER, 6a698e2ec38604c6
 openx.com, 559898899, RESELLER, 6a698e2ec38604c6
 openx.com, 540022851, RESELLER, 6a698e2ec38604c6
@@ -514,8 +521,8 @@ pubmatic.com, 157230, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161831, DIRECT, 5d62403b186f2ace
 pubmatic.com, 167945, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160080, RESELLER, 5d62403b186f2ace
-pubmatic.com, 156451, RESELLER, 5d62403b186f2ace
 pubmatic.com, 157663, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156451, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158651, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159035, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156517, RESELLER, 5d62403b186f2ace
@@ -561,6 +568,7 @@ rhebus.works, 8978398251, RESELLER
 rhebus.works, 5252004478, RESELLER
 rhythmone.com, 4201299756, RESELLER, a670c89d4a324e47
 rhythmone.com, 188404962, RESELLER, a670c89d4a324e47
+richaudience.com, 5wLa5vAlFn, RESELLER
 richaudience.com, 4AoWPWXbVu, RESELLER
 richaudience.com, MMuGgvZcVd, RESELLER
 risecodes.com, 66387b961eb0af000195fb9f, RESELLER
