@@ -1,0 +1,10 @@
+#=== Medialabtech Oct 20, 2026
+medialabtech.ai, cai1231231, RESELLER
+adagio.io, 1592, RESELLER
+adsinteractive.com, 31014148, RESELLER
+adyoulike.com, 5ac3085797d3dc513401ead53abcc2cc, RESELLER
+appnexus.com, 3796, RESELLER, f5ab79cb980f11d1
+redmob.io, 20260409000001, RESELLER
+smilewanted.com, 6197, RESELLER
+verticalscope.com, 45503228, RESELLER
+verticalscope.com, 500001, RESELLER

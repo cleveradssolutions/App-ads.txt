@@ -31,7 +31,7 @@ RELEASE_NETWORKS = [
     "GoogleAds", "AudienceNetwork", "Pangle", "IronSource", "AppLovin", "UnityAds", "Mintegral",
     "LiftoffMonetize", "SuperAwesome", "Kidoz", "Prado", "InMobi", "Chartboost", "YangoAds",
     "DTExchange", "Bigo", "CASExchange", "DSPExchange", "Ogury", "Madex", "Maticoo", "HyprMX",
-    "StartIO", "Verve", "Monetrix", "DisplayIO", "Bidease", "BlueSea",
+    "StartIO", "Verve", "Monetrix", "DisplayIO", "Bidease", "BlueSea", "BidMachine"
 ]
 
 # InternalExchange/ files collected into DSPExchange. All the other exchanges go to CASExchange.

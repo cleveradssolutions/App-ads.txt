@@ -1,12 +1,16 @@
-#=== Mobfox Sep 29, 2026
+#=== Mobfox Oct 20, 2026
+betweendigital.com, 44827, RESELLER
 kidoz.net, 15467, RESELLER, a109366414b7335e
 kidoz.net, 15568, RESELLER, a109366414b7335e
-betweendigital.com, 44827, RESELLER
+lijit.com, 502252, RESELLER, fafdf38b16bf6b2b
 prado.co, 15568, RESELLER
 pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160851, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165438, RESELLER, 5d62403b186f2ace
+risecodes.com, 6a4376bd36870a0001a4d265, RESELLER
 sharethrough.com, 5450, RESELLER, d53b998a7bd4ecd2
 smartadserver.com, 5450, RESELLER, 060d053dcf45cbf3
 themediagrid.com, 8USKI6, RESELLER, 9fac4a4a87c2a44f
 trustedstack.com, TSX326Z4K, RESELLER
+truvid.com, 2734, RESELLER
 video.unrulymedia.com, 146647607, RESELLER

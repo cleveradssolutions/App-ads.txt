@@ -5,8 +5,17 @@
   "Aceex": [
     "aceex.io"
   ],
+  "Adelment": [
+    "adelement.com"
+  ],
+  "Admixer": [
+    "admixer.net"
+  ],
   "AdPixis": [
     "adpixis.com"
+  ],
+  "Adplify": [
+    "adplify.ai"
   ],
   "AdsYield": [
     "adsyield.com"
@@ -38,11 +47,17 @@
   "AudienceNetwork": [
     "facebook.com"
   ],
+  "AWG": [
+    "awg.la"
+  ],
   "Axis": [
     "axis-marketplace.com"
   ],
   "Bidease": [
     "bidease.com"
+  ],
+  "BidMachine": [
+    "bidmachine.io"
   ],
   "Bidnex": [
     "bidnex.com"
@@ -99,6 +114,9 @@
   "GoogleAds": [
     "google.com"
   ],
+  "Gravite": [
+    "gravite.net"
+  ],
   "HNHace": [],
   "HyprMX": [
     "hyprmx.com"
@@ -153,6 +171,9 @@
   "Meazy": [
     "meazy.tech"
   ],
+  "Medialabtech": [
+    "medialabtech.ai"
+  ],
   "Mintegral": [
     "mintegral.com"
   ],
@@ -185,6 +206,9 @@
   "Pangle": [
     "pangleglobal.com"
   ],
+  "PeopleAds": [
+    "peopleads.co"
+  ],
   "PGAM": [
     "pgamssp.com"
   ],
@@ -199,7 +223,8 @@
     "prado.co"
   ],
   "PremiumAds": [
-    "premiumads.net"
+    "premiumads.net",
+    "premiumads.com.br"
   ],
   "Pubmatic": [
     "pubmatic.com"
@@ -277,6 +302,9 @@
   ],
   "VerveEx": [
     "smaato.com"
+  ],
+  "VistarsAgency": [
+    "vistarsagency.com"
   ],
   "VoiseTech": [
     "voisetech.com"

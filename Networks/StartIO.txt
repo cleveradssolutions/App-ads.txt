@@ -1,7 +1,5 @@
-#=== StartIO Sep 29, 2026
+#=== StartIO Oct 20, 2026
 start.io, 125650712, DIRECT
-start.io, 144185998, DIRECT
-start.io, 174388014, DIRECT
 acexchange.co.kr, 1746357004, RESELLER
 adagio.io, 1529, RESELLER
 adform.com, 1942, RESELLER

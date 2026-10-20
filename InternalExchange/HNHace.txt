@@ -1,4 +1,4 @@
-#=== HNHace Aug 17, 2026
+#=== HNHace Oct 20, 2026
 adbro.me, ddb75a63-1726-4176-af2a-cb4527edc652, RESELLER
 admixer.co.kr, 1252, RESELLER
 admize.io, p_4765925189486858, RESELLER
@@ -8,7 +8,10 @@ bidence.com, 1c671a01123b03e998a4d4b1ea9e7141, RESELLER
 exelbid.com, 200, RESELLER
 mman.kr, 30769, RESELLER
 openx.com, 563677663, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 163120, RESELLER, 5d62403b186f2ace
+pubmatic.com, 165611, RESELLER, 5d62403b186f2ace
 pubnative.net, 1007249, RESELLER, d641df8625486a7b
+smartadserver.com, 5044, RESELLER, 060d053dcf45cbf3
 smartyads.com, 100102, RESELLER, fd2bde0ff2e62c5d
 toponad.com, 166da7c3309b0c, RESELLER, 1d49fe424a1a456d
 tpmn.io, 218, RESELLER

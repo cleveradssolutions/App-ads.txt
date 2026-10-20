@@ -1,4 +1,4 @@
-#=== YangoAds Sep 29, 2026
+#=== YangoAds Oct 20, 2026
 yango-ads.com, 100032860, DIRECT
 yango-ads.com, 100440221, DIRECT
 yango-ads.com, 10074451, DIRECT
@@ -13,6 +13,7 @@ yango-ads.com, 102773623, DIRECT
 yango-ads.com, 102924999, DIRECT
 yango-ads.com, 103362933, DIRECT
 yango-ads.com, 103503193, DIRECT
+yango-ads.com, 103535381, DIRECT
 yango-ads.com, 103597540, DIRECT
 yango-ads.com, 103725656, DIRECT
 yango-ads.com, 103764195, DIRECT
@@ -95,6 +96,7 @@ yango-ads.com, 108764419, DIRECT
 yango-ads.com, 108777036, DIRECT
 yango-ads.com, 108777956, DIRECT
 yango-ads.com, 109070888, DIRECT
+yango-ads.com, 109118163, DIRECT
 yango-ads.com, 109203050, DIRECT
 yango-ads.com, 109409159, DIRECT
 yango-ads.com, 109446142, DIRECT
@@ -662,6 +664,8 @@ bidmachine.io, 67, RESELLER
 bidmachine.io, 896, RESELLER
 bidmachine.io, 98, RESELLER
 bidnex.com, 206, RESELLER
+bigo.sg, 1114849, DIRECT
+bigo.sg, 23170818, DIRECT
 bigo.sg, 880, DIRECT
 bigo.sg, 1011110, RESELLER
 bigo.sg, 109, RESELLER
@@ -2560,6 +2564,7 @@ yandex.com, 102773623, DIRECT
 yandex.com, 102924999, DIRECT
 yandex.com, 103362933, DIRECT
 yandex.com, 103503193, DIRECT
+yandex.com, 103535381, DIRECT
 yandex.com, 103597540, DIRECT
 yandex.com, 103725656, DIRECT
 yandex.com, 103764195, DIRECT
@@ -2642,6 +2647,7 @@ yandex.com, 108764419, DIRECT
 yandex.com, 108777036, DIRECT
 yandex.com, 108777956, DIRECT
 yandex.com, 109070888, DIRECT
+yandex.com, 109118163, DIRECT
 yandex.com, 109203050, DIRECT
 yandex.com, 109409159, DIRECT
 yandex.com, 109446142, DIRECT

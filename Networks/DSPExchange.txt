@@ -1,4 +1,4 @@
-#=== DSPExchange Sep 01, 2026
+#=== DSPExchange Oct 20, 2026
 inventorypartnerdomain=voisetech.com
 152media.info, 152M50, RESELLER
 152media.info, 152M698, RESELLER
@@ -285,6 +285,7 @@ opera.com, pub10908243052672, DIRECT, 55a0c5fd61378de3
 opera.com, pub10014056052800, RESELLER, 55a0c5fd61378de3
 opera.com, pub5865193350528, RESELLER, 55a0c5fd61378de3
 opera.com, pub6871903319744, RESELLER, 55a0c5fd61378de3
+opera.com, pub9444418699648, RESELLER, 55a0c5fd61378de3
 outbrain.com, 002d7f7ba0bd74452f2b155d0dfb5cd6c8, RESELLER
 outbrain.com, 00bba279fec6daa01a0cb6fdccb023f0d5, RESELLER
 peak226.com, 12700, RESELLER
@@ -516,6 +517,7 @@ video.unrulymedia.com, 188404962, RESELLER
 video.unrulymedia.com, 2444764291, RESELLER
 video.unrulymedia.com, 2564526802, RESELLER
 video.unrulymedia.com, 308885445, RESELLER
+video.unrulymedia.com, 311574873, RESELLER
 video.unrulymedia.com, 321428479, RESELLER
 video.unrulymedia.com, 4631344382657206988, RESELLER
 video.unrulymedia.com, 498216989, RESELLER

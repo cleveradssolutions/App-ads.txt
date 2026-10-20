@@ -1,0 +1,11 @@
+#=== AWG Oct 20, 2026
+AWG.LA, CAS.IA-01, DIRECT
+beachfront.com, 15306, RESELLER, e2541279e8e2ca4d
+google.com, pub-9130183266015225, RESELLER, f08c47fec0942fa0
+pubmatic.com, 167936, RESELLER, 5d62403b186f2ace
+sharethrough.com, 32IYPxUt, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, 5848, RESELLER, 060d053dcf45cbf3
+sharethrough.com, ZyFU6AWv, RESELLER, d53b998a7bd4ecd2
+smartadserver.com, 5848, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 5848-OB, RESELLER, 060d053dcf45cbf3
+triplelift.com, 8743, RESELLER, 6c33edb13117fd86

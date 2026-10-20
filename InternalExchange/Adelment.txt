@@ -1,0 +1,31 @@
+#=== Adelment Oct 20, 2026
+adelement.com, 48631, DIRECT
+adelement.com, 48632, DIRECT
+adyoulike.com, 9519b1e972120e4089dd996b9d21ebc0, RESELLER
+bigo.sg, 876, RESELLER
+captiv.ai, 3475, RESELLER
+captiv.ai, 3476, RESELLER
+conversantmedia.com, 100447, RESELLER, 03113cd04947736d
+conversantmedia.com, 100876, RESELLER, 03113cd04947736d
+conversantmedia.com, 100913, RESELLER, 03113cd04947736d
+e-planning.net, 8531992c955a0666, RESELLER, c1ba615865ed87b2
+elixirvideo.co, 6524, RESELLER
+elixirvideo.co, 6525, RESELLER
+improvedigital.com, 2299, RESELLER
+improvedigital.com, 2852, RESELLER
+mobimight.com, 76043, RESELLER
+mobimight.com, 76044, RESELLER
+onetag.com, 6d9d434caf08ff8, RESELLER
+pubgrowth.com, 50301, RESELLER
+pubgrowth.com, 50302, RESELLER
+pubmatic.com, 161858, RESELLER, 5d62403b186f2ace
+smrtconnect.com, 820615, RESELLER
+smrtconnect.com, 820616, RESELLER
+start.io, 165434750, RESELLER
+thebigred.co, 900626, RESELLER
+thebigred.co, 900627, RESELLER
+triplelift.com, 11582, RESELLER, 6c33edb13117fd86
+triplelift.com, 14816, RESELLER, 6c33edb13117fd86
+ubrikvideo.com, 420493, RESELLER
+ubrikvideo.com, 420494, RESELLER
+video.unrulymedia.com, 596021798, RESELLER

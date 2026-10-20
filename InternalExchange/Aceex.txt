@@ -1,7 +1,8 @@
-#=== Aceex Jul 27, 2026
+#=== Aceex Oct 20, 2026
 aceex.io, 1608, DIRECT, b1cf3c874d5c6682
 152media.info, 152M238, RESELLER
 152media.info, 152M890, RESELLER
+33across.com, 0015a00003EknbHAAR, RESELLER, bbea06d9c4d2853c
 33across.com, 001Pg000006oOlnIAE, RESELLER, bbea06d9c4d2853c
 adagio.io, 1509, RESELLER
 adform.com, 3062, RESELLER, 9f5210a2f0999e32
@@ -59,6 +60,9 @@ pubmatic.com, 162458, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162968, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165116, RESELLER
 pubmatic.com, 166270, RESELLER, 5d62403b186f2ace
+rtbhouse.com, EMqiNHmL9gYVmfmLkD4Q, RESELLER, 4f3b94578e85950c
+rtbhouse.com, T4bjmgNj6DjXvM3ONO4R, RESELLER, 4f3b94578e85950c
+rtbhouse.com, tUVBiIDDXo03WlMeWVQ7, RESELLER, 4f3b94578e85950c
 rubiconproject.com, 11106, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 19116, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 20736, RESELLER, 0bfd66d529a55807
