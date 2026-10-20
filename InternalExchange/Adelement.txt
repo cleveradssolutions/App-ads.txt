@@ -1,4 +1,4 @@
-#=== Adelment Oct 20, 2026
+#=== Adelement Oct 20, 2026
 adelement.com, 48631, DIRECT
 adelement.com, 48632, DIRECT
 adyoulike.com, 9519b1e972120e4089dd996b9d21ebc0, RESELLER

@@ -6,7 +6,6 @@ datacygnal.io, 15201035, RESELLER
 globalsun.io, 618, DIRECT
 improvedigital.com, 2693, RESELLER
 lijit.com, 556191, RESELLER, fafdf38b16bf6b2b
-globalsun.io, 618, DIRECT
 openx.com, 561968148, RESELLER, 6a698e2ec38604c6
 openx.com, 564974596, RESELLER, 6a698e2ec38604c6
 openx.com, 609660800, RESELLER, 6a698e2ec38604c6

@@ -368,6 +368,7 @@ sonobi.com, d121fc6e49, RESELLER, d1a215d9eb5aee9e
 sonobi.com, e128791470, RESELLER, d1a215d9eb5aee9e
 sovrn.com, 253233, RESELLER, fafdf38b16bf6b2b
 sovrn.com, 400766, RESELLER, fafdf38b16bf6b2b
+spinx.biz, 1373698936, DIRECT
 start.io, 150505487, DIRECT
 start.io, 150505487, RESELLER
 supply.colossusssp.com, 332, RESELLER, 6c5b49d96ec1b458
