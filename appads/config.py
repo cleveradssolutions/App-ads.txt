@@ -22,6 +22,15 @@ MERGE = {"Bigo"}
 BANNED_DOMAINS = {
     "liftoff.io",  # deprecated LiftoffMonetize domain
 }
+
+# Lines removed by every update (update -f/-m, drive, table update), both from the new lines
+# and from the network file. Other lines of the same domain stay. Not used by release.
+#   ("domain", "DIRECT")              every DIRECT line of the domain
+#   ("domain", "account id", "DIRECT") only this exact line
+UPDATE_SKIP_LINES = [
+    ("cas.ai", "DIRECT"),  # (Bigo)
+]
+
 # Supported `name=value` lines; others are skipped with a warning.
 VARIABLES = {"inventorypartnerdomain"}
 
@@ -42,10 +51,15 @@ GAMES_ONLY = ["Gadsme"]
 
 # release target -> (output file, lines after the "# CAS.ai Updated <date>" header)
 RELEASE_TARGETS = {
-    "main": ("app-ads.txt", ["OwnerDomain=cas.ai", "cas.ai, 922e6092, DIRECT"]),
-    "games": ("app-ads-games.txt", ["OwnerDomain=cas.ai", "cas.ai, 922e6092, DIRECT"]),
+    "main": ("app-ads.txt", ["OwnerDomain=cas.ai"]),
+    "games": ("app-ads-games.txt", ["OwnerDomain=cas.ai"]),
     "partner": ("app-ads-partner.txt", ["OwnerDomain=psvgamestudio.com"]),
 }
+
+# you can also add lines into array
+# "main": ("app-ads.txt", ["OwnerDomain=cas.ai", "cas.ai, 922e6092, DIRECT"]),
+# "games": ("app-ads-games.txt", ["OwnerDomain=cas.ai", "cas.ai, 922e6092, DIRECT"]),
+# "partner": ("app-ads-partner.txt", ["OwnerDomain=psvgamestudio.com"]),
 
 # The partner file drops CASExchange and every record whose domain contains this text.
 PARTNER_EXCLUDE = "cas.ai"

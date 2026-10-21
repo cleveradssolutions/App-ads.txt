@@ -1,4 +1,4 @@
-#=== CASExchange Oct 20, 2026
+#=== CASExchange Oct 21, 2026
 inventorypartnerdomain=fasttvltd.com
 inventorypartnerdomain=mangomob.net
 inventorypartnerdomain=streamix-tv.com
