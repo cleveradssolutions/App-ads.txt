@@ -1,4 +1,4 @@
-# CAS.ai Updated Oct 20, 2026
+# CAS.ai Updated Oct 21, 2026
 OwnerDomain=cas.ai
 cas.ai, 922e6092, DIRECT
 #=== GoogleAds Apr 27, 2026
@@ -3311,7 +3311,7 @@ vidazoo.com, 6a04bf983b6b70e1f48a52c2, RESELLER, b6ada874b4d7d0b2
 video.unrulymedia.com, 244078412, RESELLER
 video.unrulymedia.com, 2743945877, RESELLER
 video.unrulymedia.com, 8167205979129043832, RESELLER
-#=== Bigo Oct 20, 2026
+#=== Bigo Oct 21, 2026
 bigo.sg, 10374, DIRECT
 bigo.sg, tq08ir3ffk, DIRECT
 bigo.sg, tqbnqp3mfn, DIRECT
@@ -3382,7 +3382,6 @@ bold-win.com, 165, RESELLER, 71746737d0bab951
 brightmountainmedia.com, 2686894, RESELLER
 carambo.la, 914731121, RESELLER
 carambo.la, 914738127, RESELLER
-cas.ai, b2659234, DIRECT
 cgnl.io, 6185, RESELLER
 cgnl.io, 7001, RESELLER
 cignal.io, 6185, RESELLER
@@ -3659,7 +3658,7 @@ yieldmo.com, 3078438591206989879, RESELLER
 yieldmo.com, 4159765376676077684, RESELLER
 zetaglobal.net, 848, RESELLER
 zetaglobal.net, 989, RESELLER
-#=== CASExchange Oct 20, 2026
+#=== CASExchange Oct 21, 2026
 inventorypartnerdomain=fasttvltd.com
 inventorypartnerdomain=mangomob.net
 inventorypartnerdomain=streamix-tv.com
