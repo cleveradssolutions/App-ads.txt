@@ -4,8 +4,8 @@ import json
 import re
 from pathlib import Path
 
-from .config import EXCHANGE_DIR, GENERATED, HEADS_FILE, MERGE, NETWORKS_DIR, RELEASE_NETWORKS
-from .model import DIRECT, DOMAIN_RE, build, read_file, to_lines, today, warn, write_file, write_lines
+from .config import EXCHANGE_DIR, GENERATED, HEADS_FILE, MERGE, NETWORKS_DIR, RELEASE_NETWORKS, UPDATE_SKIP_LINES
+from .model import DIRECT, DOMAIN_RE, Parsed, build, read_file, to_lines, today, warn, write_file, write_lines
 
 DIRS = {"n": NETWORKS_DIR, "e": EXCHANGE_DIR}   # answer letter -> folder, used when creating a network
 
@@ -174,6 +174,27 @@ def show_changes(root, path, current, variables, records, heads, mode):
     return variables, records
 
 
+def skipped(record):
+    """True for lines listed in UPDATE_SKIP_LINES (config.py)."""
+    for rule in UPDATE_SKIP_LINES:
+        domain, relation = rule[0].lower(), rule[-1].upper()
+        if record.domain == domain and record.relation == relation:
+            if len(rule) == 2 or record.account_id == rule[1]:
+                return True
+    return False
+
+
+def drop_skipped(parsed, source):
+    """Copy of parsed without UPDATE_SKIP_LINES lines (lines as written are kept to show the change)."""
+    dropped = [r for r in parsed.records if skipped(r)]
+    for r in dropped:
+        warn(f"{source}: line from UPDATE_SKIP_LINES skipped", r.to_line())
+    if not dropped:
+        return parsed
+    return Parsed(variables=parsed.variables, records=[r for r in parsed.records if not skipped(r)],
+                  lines=parsed.lines, header=parsed.header)
+
+
 def update_network(root, path, incoming, mode, yes=False):
     """The flow every command uses: head domain -> show changes -> confirm -> write -> domains.json.
 
@@ -183,11 +204,15 @@ def update_network(root, path, incoming, mode, yes=False):
     Returns "updated", "unchanged", "declined" or "deleted" (remove left no lines: the file is deleted).
     """
     name = path.stem
+    if mode != "remove":                       # UPDATE_SKIP_LINES are dropped before anything else
+        incoming = drop_skipped(incoming, f"{name} (new lines)")
     known = load_heads(root)
     save = name not in known and not yes and mode != "remove"
     heads = ask_head(name, incoming) if save else known.get(name, [])
 
     current = read_file(path)
+    if mode != "remove":                       # ... also from the network file
+        current = drop_skipped(current, f"{name} (file)")
     plan = show_changes(root, path, current, *build(current, incoming, heads, mode), heads, mode)
     if plan is not None and mode == "remove" and not any(plan) and path.exists():
         return delete_empty(root, path, yes)

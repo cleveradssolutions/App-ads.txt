@@ -22,6 +22,15 @@ MERGE = {"Bigo"}
 BANNED_DOMAINS = {
     "liftoff.io",  # deprecated LiftoffMonetize domain
 }
+
+# Lines removed by every update (update -f/-m, drive, table update), both from the new lines
+# and from the network file. Other lines of the same domain stay. Not used by release.
+#   ("domain", "DIRECT")              every DIRECT line of the domain
+#   ("domain", "account id", "DIRECT") only this exact line
+UPDATE_SKIP_LINES = [
+    ("cas.ai", "DIRECT"),  # (Bigo)
+]
+
 # Supported `name=value` lines; others are skipped with a warning.
 VARIABLES = {"inventorypartnerdomain"}
 
