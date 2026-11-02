@@ -24,11 +24,13 @@ BANNED_DOMAINS = {
 }
 
 # Lines removed by every update (update -f/-m, drive, table update), both from the new lines
-# and from the network file. Other lines of the same domain stay. Not used by release.
-#   ("domain", "DIRECT")              every DIRECT line of the domain
+# and from the network file. Not used by release, sort and removing.
+#   "domain"                           every line of the domain
+#   ("domain", "DIRECT")               every DIRECT line of the domain (other lines stay)
 #   ("domain", "account id", "DIRECT") only this exact line
 UPDATE_SKIP_LINES = [
     ("cas.ai", "DIRECT"),  # (Bigo)
+    "lumeriq.net",         # every lumeriq.net line
 ]
 
 # Supported `name=value` lines; others are skipped with a warning.
@@ -51,8 +53,8 @@ GAMES_ONLY = ["Gadsme"]
 
 # release target -> (output file, lines after the "# CAS.ai Updated <date>" header)
 RELEASE_TARGETS = {
-    "main": ("app-ads.txt", ["OwnerDomain=cas.ai"]),
-    "games": ("app-ads-games.txt", ["OwnerDomain=cas.ai"]),
+    "main": ("app-ads.txt", ["OwnerDomain=cas.ai", "cas.ai, 922e6092, DIRECT"]),
+    "games": ("app-ads-games.txt", ["OwnerDomain=cas.ai", "cas.ai, 922e6092, DIRECT"]),
     "partner": ("app-ads-partner.txt", ["OwnerDomain=psvgamestudio.com"]),
 }
 

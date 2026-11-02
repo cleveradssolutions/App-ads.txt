@@ -1,4 +1,4 @@
-#=== BidMachine Oct 20, 2026
+#=== BidMachine Nov 02, 2026
 bidmachine.io, 351, DIRECT
 bidmachine.io, 1187, RESELLER
 bidmachine.io, 1201, RESELLER
@@ -1151,7 +1151,6 @@ loopme.com, 22038, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 2896, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 9724, RESELLER, 6c8d5f95897a5a3b
-lumeriq.net, 111328, RESELLER
 lunamedia.io, 1a9f3d47b2e84cf1a6c3e8b5f72a4d91, RESELLER, 524ecb396915caaf
 lunamedia.io, 5faed6a9-d39b-456a-9bea-60b6a8763fa7, RESELLER, 524ecb396915caaf
 lunamedia.io, 7ab71ec1-a956-4ea7-9ca9-ad9cbfe0fb96, RESELLER, 524ecb396915caaf
