@@ -1,4 +1,4 @@
-#=== Bigo Oct 20, 2026
+#=== Bigo Oct 21, 2026
 bigo.sg, 10374, DIRECT
 bigo.sg, tq08ir3ffk, DIRECT
 bigo.sg, tqbnqp3mfn, DIRECT
@@ -137,7 +137,6 @@ carambo.la, 914731121, RESELLER
 carambo.la, 914731582, RESELLER, 08a6b436f8183ac9
 carambo.la, 914738127, RESELLER
 carliba.io, 184103, RESELLER
-cas.ai, b2659234, DIRECT
 cgnl.io, 6185, RESELLER
 cgnl.io, 7001, RESELLER
 chocolateplatform.com, 14630, RESELLER, 49a66ce31a704197

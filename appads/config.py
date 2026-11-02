@@ -22,6 +22,17 @@ MERGE = {"Bigo"}
 BANNED_DOMAINS = {
     "liftoff.io",  # deprecated LiftoffMonetize domain
 }
+
+# Lines removed by every update (update -f/-m, drive, table update), both from the new lines
+# and from the network file. Not used by release, sort and removing.
+#   "domain"                           every line of the domain
+#   ("domain", "DIRECT")               every DIRECT line of the domain (other lines stay)
+#   ("domain", "account id", "DIRECT") only this exact line
+UPDATE_SKIP_LINES = [
+    ("cas.ai", "DIRECT"),  # (Bigo)
+    "lumeriq.net",         # every lumeriq.net line
+]
+
 # Supported `name=value` lines; others are skipped with a warning.
 VARIABLES = {"inventorypartnerdomain"}
 
@@ -46,6 +57,11 @@ RELEASE_TARGETS = {
     "games": ("app-ads-games.txt", ["OwnerDomain=cas.ai", "cas.ai, 922e6092, DIRECT"]),
     "partner": ("app-ads-partner.txt", ["OwnerDomain=psvgamestudio.com"]),
 }
+
+# you can also add lines into array
+# "main": ("app-ads.txt", ["OwnerDomain=cas.ai", "cas.ai, 922e6092, DIRECT"]),
+# "games": ("app-ads-games.txt", ["OwnerDomain=cas.ai", "cas.ai, 922e6092, DIRECT"]),
+# "partner": ("app-ads-partner.txt", ["OwnerDomain=psvgamestudio.com"]),
 
 # The partner file drops CASExchange and every record whose domain contains this text.
 PARTNER_EXCLUDE = "cas.ai"

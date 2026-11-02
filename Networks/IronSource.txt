@@ -1,4 +1,4 @@
-#=== IronSource Sep 29, 2026
+#=== IronSource Nov 02, 2026
 ironsrc.com, 218335, DIRECT
 ironsrc.com, 406326, DIRECT
 ironsrc.com, 445197, DIRECT
@@ -33,6 +33,7 @@ media.net, 8CU5L226O, RESELLER
 media.net, 8CU675N41, RESELLER
 media.net, 8CU7H33B7, RESELLER
 media.net, 8CUH2L333, RESELLER
+monetrix.ai, 10697, RESELLER
 nativo.com, 5958, RESELLER, 59521ca7cc5e9fee
 odeeo.io, 199038217, RESELLER, 36cfd73091d5c3fc
 onlinemediasolutions.com, 20498, RESELLER, b3868b187e4b6402
