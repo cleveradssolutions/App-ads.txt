@@ -1,11 +1,30 @@
-#=== AWG Oct 20, 2026
+#=== AWG Nov 05, 2026
 awg.la, CAS.IA-01, DIRECT
+adform.com, 1889, RESELLER
 beachfront.com, 15306, RESELLER, e2541279e8e2ca4d
+eskimi.com, 2020001228, RESELLER
 google.com, pub-9130183266015225, RESELLER, f08c47fec0942fa0
+improvedigital.com, 1680, RESELLER
+insticator.com, 20c7c66d-3bf1-48f8-af88-3d27915ab28a, RESELLER, b3511ffcafb23a32
+lijit.com, 397546, RESELLER, fafdf38b16bf6b2b
+loopme.com, 11712, RESELLER, 6c8d5f95897a5a3b
+oko.uk, 20c7c66d-3bf1-48f8-af88-3d27915ab28a, RESELLER, b3511ffcafb23a32
+onetag.com, 75601b04186d260, RESELLER
+openx.com, 558758631, RESELLER, 6a698e2ec38604c6
+peopleads.co, 67f7fb873eaf29526a11a9b7ac33bfac37240, RESELLER
+pubmatic.com, 157743, RESELLER, 5d62403b186f2ace
+pubmatic.com, 167533, RESELLER, 5d62403b186f2ace
 pubmatic.com, 167936, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17280, RESELLER, 0bfd66d529a55807
+seedtag.com, 6ab41c5e1398800007c444aa, RESELLER
+sharethrough.com, 3050, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 32IYPxUt, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 5848, RESELLER, 060d053dcf45cbf3
+sharethrough.com, AXS5NfBr, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, ZyFU6AWv, RESELLER, d53b998a7bd4ecd2
+smartadserver.com, 3050, RESELLER
 smartadserver.com, 5848, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 5848-OB, RESELLER, 060d053dcf45cbf3
 triplelift.com, 8743, RESELLER, 6c33edb13117fd86
+video.unrulymedia.com, 724823153, RESELLER
+xandr.com, 4009, RESELLER, f5ab79cb980f11d1

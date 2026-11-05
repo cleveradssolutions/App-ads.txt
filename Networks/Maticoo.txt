@@ -1,4 +1,4 @@
-#=== Maticoo Oct 20, 2026
+#=== Maticoo Nov 05, 2026
 zmaticoo.com, 100749, DIRECT
 zmaticoo.com, 101312, DIRECT
 zmaticoo.com, 101341, DIRECT
@@ -22,14 +22,12 @@ zmaticoo.com, 97126, DIRECT
 152media.info, 152M1215, RESELLER
 33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
 33across.com, 001Pg000019xAwzIAE, RESELLER, bbea06d9c4d2853c
-34adform.com, 3076, RESELLER, 9f5210a2f0999e32
 9dotsmedia.com, 4507, RESELLER
 acexchange.co.kr, 1075193414, RESELLER
 adagio.io, 1050, RESELLER
 adagio.io, 1531, RESELLER
 adagio.io, 1547, RESELLER
 adagio.io, 1565, RESELLER
-adagio.io, 1570, RESELLER
 adform.com, 3083, RESELLER
 adform.com, 3354, RESELLER, 9f5210a2f0999e32
 adform.com, 3383, RESELLER
@@ -58,6 +56,7 @@ appnexus.com, 11487, RESELLER, f5ab79cb980f11d1
 appnexus.com, 11701, RESELLER
 appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12447, RESELLER, f5ab79cb980f11d1
+appnexus.com, 12622, RESELLER
 appnexus.com, 12700, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12840, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12976, RESELLER, f5ab79cb980f11d1
@@ -128,6 +127,7 @@ freewheel.tv, 535253-r-523319, RESELLER
 freewheel.tv, sg1256363, RESELLER
 freewheel.tv, sg1256478, RESELLER
 getmediamx.com, 1243239, RESELLER
+gravite.net, 7c2299f700e0c0d13c8fb9676bee040b, RESELLER, b3bb5a9415a362a1
 ignitemediatech.com, pub_11126, RESELLER
 improvedigital.com, 2573, RESELLER
 improvedigital.com, 2626, RESELLER
@@ -179,7 +179,6 @@ mman.kr, 33000, RESELLER
 monetrix.ai, 10693, RESELLER
 my-cast.tv, 987126, RESELLER, 8c33fe1bd714ffd7
 nativo.com, 5958, RESELLER, 59521ca7cc5e9fee
-nativo.com, 6089, RESELLER, 59521ca7cc5e9fee
 nativo.com, 6103, RESELLER, 59521ca7cc5e9fee
 nativo.com, 6137, RESELLER, 59521ca7cc5e9fee
 nativo.com, 6152, RESELLER, 59521ca7cc5e9fee
@@ -263,6 +262,7 @@ pubnative.net, 1016753, RESELLER, d641df8625486a7b
 pubnative.net, 1016768, RESELLER, d641df8625486a7b
 pubnative.net, 1016803, RESELLER, d641df8625486a7b
 pubnative.net, 1016858, RESELLER, d641df8625486a7b
+pubnative.net, 1017230, RESELLER, d641df8625486a7b
 pubnative.net, 1017356, RESELLER, d641df8625486a7b
 pubnative.net, 1018308, RESELLER, d641df8625486a7b
 pubx.ai, 13404058008254, RESELLER
@@ -370,6 +370,7 @@ sovrn.com, 253233, RESELLER, fafdf38b16bf6b2b
 sovrn.com, 400766, RESELLER, fafdf38b16bf6b2b
 spinx.biz, 1373698936, DIRECT
 start.io, 150505487, DIRECT
+start.io, 135168626, RESELLER
 start.io, 150505487, RESELLER
 supply.colossusssp.com, 332, RESELLER, 6c5b49d96ec1b458
 targetbetter.com, Z84235, DIRECT
@@ -378,9 +379,12 @@ theagenticx.ai, 881698, RESELLER
 thebrave.io, 1234769, RESELLER, c25b2154543746ac
 themediagrid.com, B8N9YH, RESELLER, 35d5010d7789b49d
 themediagrid.com, DQ6AMB, RESELLER, 9fac4a4a87c2a44f
+themediagrid.com, G1Q94U, RESELLER, 9fac4a4a87c2a44f
 themediagrid.com, IOSRAB, RESELLER, 9fac4a4a87c2a44f
+themediagrid.com, IRK975, RESELLER, 9fac4a4a87c2a44f
 themediagrid.com, IWU9NP, RESELLER, 35d5010d7789b49d
 themediagrid.com, RABCQ1, RESELLER, 35d5010d7789b49d
+themediagrid.com, SJYVMZ, RESELLER, 35d5010d7789b49d
 toponad.com, 166e12f3c48018, RESELLER, 1d49fe424a1a456d
 tpmn.io, 263, RESELLER
 tpmn.io, 663, RESELLER
@@ -413,7 +417,6 @@ triplelift.com, 14699, RESELLER, 6c33edb13117fd86
 triplelift.com, 14702, RESELLER, 6c33edb13117fd86
 triplelift.com, 14705, RESELLER, 6c33edb13117fd86
 triplelift.com, 14705-EB, RESELLER
-triplelift.com, 14709, RESELLER, 6c33edb13117fd86
 triplelift.com, 14713, RESELLER, 6c33edb13117fd86
 triplelift.com, 14716, RESELLER, 6c33edb13117fd86
 triplelift.com, 14747, RESELLER, 6c33edb13117fd86
@@ -423,6 +426,7 @@ triplelift.com, 14814, RESELLER, 6c33edb13117fd86
 triplelift.com, 14829, RESELLER, 6c33edb13117fd86
 triplelift.com, 14833, RESELLER, 6c33edb13117fd86
 triplelift.com, 14865, RESELLER, 6c33edb13117fd86
+triplelift.com, 14922, RESELLER, 6c33edb13117fd88
 triplelift.com, 6939, RESELLER, 6c33edb13117fd86
 triplelift.com, 6998, RESELLER, 6c33edb13117fd86
 trustedstack.com, TS4T2LX5I, RESELLER
@@ -457,6 +461,7 @@ viralize.com, 7349, RESELLER
 xandr.com, 13238, RESELLER, f5ab79cb980f11d1
 xandr.com, 14168, RESELLER
 xandr.com, 15688, RESELLER
+yahoo.com, 100067, RESELLER
 zetaglobal.net, 590, RESELLER
 zetaglobal.net, 630, RESELLER
 zetaglobal.net, 735, RESELLER

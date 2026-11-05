@@ -1,5 +1,6 @@
-#=== Qntv Oct 20, 2026
+#=== Qntv Nov 05, 2026
 qntv.io, 11710526, DIRECT
+adagio.io, 1481, RESELLER
 appnexus.com, 17383, RESELLER
 aps.amazon.com, 4d4c8d3b-7851-43b9-afba-820ea7c3f5dc, RESELLER
 datacygnal.io, 15201035, RESELLER

@@ -1,4 +1,4 @@
-#=== Anzu Sep 29, 2026
+#=== Anzu Nov 05, 2026
 anzu.io, 691302d0870ed0233ae68d7c, DIRECT, 1c1b7acf4992136c
 anzu.io, 692eb33fa6edabbaaff0b103, RESELLER, 1c1b7acf4992136c
 admanmedia.com, 647, RESELLER
@@ -51,4 +51,5 @@ toponad.com, 16952276e6b818, RESELLER, 1d49fe424a1a456d
 triplelift.com, 14709, RESELLER, 6c33edb13117fd86
 video.unrulymedia.com, 3890682751, RESELLER
 video.unrulymedia.com, 939308106, RESELLER
+yahoo.com, 100067, RESELLER
 zmaticoo.com, 114143, RESELLER

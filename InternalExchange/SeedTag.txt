@@ -1,0 +1,17 @@
+#=== SeedTag Nov 05, 2026
+seedtag.com, 6ae228500a0ea1bc927af300, DIRECT
+33across.com, 0010b00002MptHCAAZ, RESELLER, bbea06d9c4d2853c
+adform.com, 1889, RESELLER
+beachfront.com, 15250, RESELLER, e2541279e8e2ca4d
+improvedigital.com, 1680, RESELLER
+lijit.com, 397546, RESELLER, fafdf38b16bf6b2b
+loopme.com, 11712, RESELLER, 6c8d5f95897a5a3b
+onetag.com, 75601b04186d260, RESELLER
+openx.com, 558758631, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 157743, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17280, RESELLER, 0bfd66d529a55807
+sharethrough.com, 3050, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, AXS5NfBr, RESELLER, d53b998a7bd4ecd2
+smartadserver.com, 3050, RESELLER
+video.unrulymedia.com, 724823153, RESELLER
+xandr.com, 4009, RESELLER, f5ab79cb980f11d1

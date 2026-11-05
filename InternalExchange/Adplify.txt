@@ -1,4 +1,5 @@
-#=== Adplify Oct 20, 2026
+#=== Adplify Nov 05, 2026
+adplify.ai, 792995, DIRECT
 adplify.ai, 792995, RESELLER
 adyoulike.com, f8f0073344e7c7c167d8308bf73c6826, RESELLER
 onetag.com, 97c6c78c12dc1c6, RESELLER

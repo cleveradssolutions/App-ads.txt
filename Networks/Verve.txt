@@ -1,4 +1,4 @@
-#=== Verve Aug 18, 2026
+#=== Verve Nov 03, 2026
 pubnative.net, 1009903, DIRECT, d641df8625486a7b
 pubnative.net, 1017314, DIRECT, d641df8625486a7b
 pubnative.net, 1017315, DIRECT, d641df8625486a7b
@@ -1138,6 +1138,7 @@ themediagrid.com, U9FDTX, RESELLER, 35d5010d7789b49d
 themediagrid.com, VXUPDG, RESELLER, 35d5010d7789b49d
 themediagrid.com, YZ62AT, RESELLER, 35d5010d7789b49d
 themediagrid.com, ZG1DBN, RESELLER, 35d5010d7789b49d
+themediagrid.com, ZI54NS, RESELLER, 9fac4a4a87c2a44f
 themediagrid.com, ZWGUT3, RESELLER, 35d5010d7789b49d
 themediagrid.com, hgn8tk, RESELLER, 35d5010d7789b49d
 thunder-monetize.com, 3588802677, RESELLER
