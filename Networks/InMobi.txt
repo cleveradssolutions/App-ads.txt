@@ -1,4 +1,4 @@
-#=== InMobi Oct 20, 2026
+#=== InMobi Nov 05, 2026
 inmobi.com, 06d15e3ce4434f75b585f2fb7ce2e302, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 30ff09752f2b48eb9974d28116cf9ff0, DIRECT, 83e75a7ae333ca9d
 inmobi.com, 4d0da524572e4dd8aea20b1e5553937f, DIRECT, 83e75a7ae333ca9d
@@ -124,6 +124,7 @@ indexexchange.com, 216513, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 219174, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 220189, RESELLER, 50b1c356f2c5c8fc
 intenze.co, 200066, RESELLER
+iqzone.com, IQ341, RESELLER
 ivs.tv, 745639, RESELLER
 krushmedia.com, AJxF6R746a9M6CaTvK, RESELLER
 lijit.com, 465542, RESELLER, fafdf38b16bf6b2b
@@ -133,6 +134,7 @@ lijit.com, 503707, RESELLER, fafdf38b16bf6b2b
 lijit.com, 528054, RESELLER, fafdf38b16bf6b2b
 lijit.com, 528770, RESELLER, fafdf38b16bf6b2b
 lijit.com, 543478, RESELLER, fafdf38b16bf6b2b
+lijit.com, 554504, RESELLER, fafdf38b16bf6b2b
 lijit.com, 569924, RESELLER, fafdf38b16bf6b2b
 lijit.com, 571745, RESELLER
 loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
@@ -167,6 +169,7 @@ nativo.com, 6072, RESELLER, 59521ca7cc5e9fee
 nativo.com, 6114, RESELLER, 59521ca7cc5e9fee
 nativo.com, 6140, RESELLER, 59521ca7cc5e9fee
 newtonsmobi.com, 1c72568c304bd290, RESELLER
+nexverse.ai, 24177, RESELLER
 ogury.com, 260f8f9c-5adc-46ca-9418-ed6ad8948af7, RESELLER
 olaex.biz, 100184, RESELLER
 onetag.com, 59aa7be4921bac8, RESELLER
@@ -309,6 +312,7 @@ start.io, 150505487, RESELLER
 start.io, 196163636, RESELLER
 thebrave.io, 1234568, RESELLER, c25b2154543746ac
 themediagrid.com, 29IN8P, RESELLER, 9fac4a4a87c2a44f
+themediagrid.com, 64NHQ1, RESELLER, 35d5010d7789b49d
 themediagrid.com, A6CWLO, RESELLER, 35d5010d7789b49d
 themediagrid.com, IOSRAB, RESELLER, 9fac4a4a87c2a44f
 themediagrid.com, JVHG38, RESELLER, 9fac4a4a87c2a44f

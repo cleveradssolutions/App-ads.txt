@@ -1,6 +1,10 @@
-#=== Escalax Mar 03, 2026
+#=== Escalax Nov 05, 2026
 escalax.io, 82, DIRECT
 appnexus.com, 17931, RESELLER, f5ab79cb980f11d1
+bidfuse.com, 277, RESELLER
+conversantmedia.com, 101234, RESELLER, 03113cd04947736d
+ergadx.com, 5546, RESELLER
+onetag.com, 71fe05b4c725a84, RESELLER
 supply.colossusssp.com, 849, RESELLER
 videoshakers.tv, 58204917364291, RESELLER, 819580c2afa8a3aa
 yieldmo.com, 3078438591206989879, RESELLER

@@ -1,5 +1,6 @@
-#=== Apester Oct 20, 2026
+#=== Apester Nov 05, 2026
 apester.com, 2906, DIRECT
+152media.info, 152M1093, RESELLER
 adagio.io, 1290, RESELLER
 e-planning.net, 6180126a4324a5d2, RESELLER, c1ba615865ed87b2
 openx.com, 561520448, RESELLER, 6a698e2ec38604c6
@@ -7,7 +8,9 @@ opera.com, pub7109906608640, DIRECT, 55a0c5fd61378de3
 oxiem.com, 2f68c85a41, RESELLER, d1a215d9eb5aee9e
 pinklion.io, 190966702, DIRECT
 smartadserver.com, 3160, RESELLER, 060d053dcf45cbf3
+smilewanted.com, 4137, RESELLER
 smilewanted.com, 6123, RESELLER
 sonobi.com, 2f68c85a41, RESELLER, d1a215d9eb5aee9e
 supply.colossusssp.com, 932, RESELLER
 triplelift.com, 14856, RESELLER, 6c33edb13117fd86
+vdo.ai, 5995, RESELLER
