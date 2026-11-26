@@ -1,3 +1,5 @@
-#=== PeopleAds Oct 20, 2026
+#=== PeopleAds Nov 26, 2026
 peopleads.co, 67f7fb873eaf29526a11a9b7ac33bfac37245, DIRECT
+adwmg.com, 100522, RESELLER, c9688a22012618e7
+eskimi.com, 2020001345, RESELLER
 x.adprime.com, AJxF6R59a9M6CaTvK, RESELLER

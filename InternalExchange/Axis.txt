@@ -1,4 +1,4 @@
-#=== Axis Nov 05, 2026
+#=== Axis Nov 26, 2026
 axis-marketplace.com, 120, DIRECT
 axis-marketplace.com, 359, DIRECT
 axis-marketplace.com, 577, DIRECT
@@ -13,6 +13,7 @@ bluexad.ai, 2037455927942057984, DIRECT
 criteo.com, B-060738, DIRECT, 9fac4a4a87c2a44f
 freewheel.tv, 20393, RESELLER, 74e8e47458f74754
 freewheel.tv, 24377, RESELLER, 74e8e47458f74754
+iqzone.com, IQ408, RESELLER
 lijit.com, 481061, RESELLER, fafdf38b16bf6b2b
 media.net, 8CUP0ENJ2, DIRECT
 onetag.com, 8c85507deac979a, DIRECT, 0bfd66d529a55807
@@ -29,5 +30,9 @@ smartbid.ai, SMB12002, RESELLER, 12a9c44f6d26cbe1
 smartbid.ai, SMB12003, RESELLER, 12a9c44f6d26cbe1
 sonobi.com, 4d1a8bf76a, DIRECT, d1a215d9eb5aee9e
 spinx.io, 1373698871, RESELLER
+sponget.com, pub-847362910292, RESELLER
 triplelift.com, 13654, RESELLER, 6c33edb13117fd86
+uis.mobfox.com, 2531, RESELLER, 5529a3d1f59865be
+velonium.com, 817271, RESELLER
 video.unrulymedia.com, 579227028, RESELLER
+vidverto.com, 2339, RESELLER

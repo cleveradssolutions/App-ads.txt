@@ -1,10 +1,15 @@
-#=== Bidnex Oct 20, 2026
+#=== Bidnex Nov 26, 2026
 bidnex.com, 2211030, DIRECT
 bidnex.com, 2211031, DIRECT
+adagio.io, 1957, RESELLER
 anzu.io, 6a2a775b38d14281b41b2e6b, RESELLER, 1c1b7acf4992136c
 flat-ads.com, 2211030, DIRECT
 flat-ads.com, 2211031, DIRECT
+gravite.net, 9d09ed1404504d655019eb05533ae255, RESELLER, b3bb5a9415a362a1
 inmobi.com, 6f65b5031524420089f13ae98adf94d3, RESELLER, 83e75a7ae333ca9d
+pixfuture.com, 10803, RESELLER
 pubnative.net, 1016755, RESELLER, d641df8625486a7b
+rtbhouse.com, XPSLDtnX92XNGGFB6ith, RESELLER, 4f3b94578e85950c
 rubiconproject.com, 28299, RESELLER, 0bfd66d529a55807
 video.unrulymedia.com, 174356361, RESELLER
+x.adprime.com, AJxF6R92a9M6CaTvK, RESELLER

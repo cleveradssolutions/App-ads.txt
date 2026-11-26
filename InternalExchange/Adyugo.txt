@@ -1,4 +1,4 @@
-#=== AdYugo Jun 12, 2026
+#=== Adyugo Nov 26, 2026
 adyugo.com, 1005, DIRECT
 33across.com, 0015a00002oUk4aAAC, RESELLER, bbea06d9c4d2853c
 adagio.io, 1563, RESELLER
@@ -21,6 +21,8 @@ bidscube.com, 5000660, RESELLER, 6ecc87a1e0269657
 bidstark.com, 1005, DIRECT
 contextweb.com, 558511, RESELLER, 89ff185a4c4e857c
 criteo.com, B-06290, RESELLER, 9fac4a4a87c2a44f
+freewheel.tv, 545629-r-523319, RESELLER, 74e8e47458f74754
+freewheel.tv, 545629-r-524565, RESELLER, 74e8e47458f74754
 google.com, pub-9911740406682987, RESELLER, f08c47fec0942fa0
 improvedigital.com, 1790, RESELLER
 improvedigital.com, 2478, RESELLER

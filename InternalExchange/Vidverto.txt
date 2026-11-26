@@ -1,0 +1,24 @@
+#=== Vidverto Nov 26, 2026
+vidverto.com, 3178, DIRECT
+152media.info, 152M747, RESELLER
+adipolo.com, 207, RESELLER
+adscholars.com, 237325, RESELLER
+chocolateplatform.com, 22312, RESELLER
+firstimpression.io, 5175, RESELLER
+flashb.id, 9c91971a-d3ff-5865-9c92-87f9406a2b88, RESELLER
+gamoshi.io, 267-b6449, RESELLER, 20e30b2ae1f670f2
+google.com, pub-3328898302928686, RESELLER, f08c47fec0942fa0
+google.com, pub-5814872297601307, RESELLER, f08c47fec0942fa0
+google.com, pub-8087762769210930, RESELLER, f08c47fec0942fa0
+google.com, pub-8699255262206653, RESELLER, f08c47fec0942fa0
+google.com, pub-9368783394598679, RESELLER, f08c47fec0942fa0
+incrementx.com, 60709, RESELLER, 8728b7e97e589da4
+incrementx.com, 60820, RESELLER, 8728b7e97e589da4
+insticator.com, 6ed3a427-c6ec-49ed-82fe-d1fadce79a7b, RESELLER, b3511ffcafb23a32
+justbaat.com, 202605250059, RESELLER
+loopme.com, 19696, RESELLER, 6c8d5f95897a5a3b
+oko.uk, 6ed3a427-c6ec-49ed-82fe-d1fadce79a7b, RESELLER, b3511ffcafb23a32
+optimanetwork.com, 30030, RESELLER
+performist.net, 100073, RESELLER
+video.unrulymedia.com, 757420720, RESELLER
+voisetech.com, 1475, RESELLER, 9009ef0379162448
