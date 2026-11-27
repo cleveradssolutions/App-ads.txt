@@ -4,6 +4,7 @@
 /Others.txt
 /app-ads-games.txt
 /app-ads-partner.txt
+/remove-check.tsv
 
 __pycache__/
 .pytest_cache/

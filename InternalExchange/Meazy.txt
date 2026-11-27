@@ -1,2 +1,3 @@
-#=== Meazy Aug 18, 2026
+#=== Meazy Nov 26, 2026
 meazy.tech, 68007, DIRECT
+lijit.com, 595324, RESELLER, fafdf38b16bf6b2b

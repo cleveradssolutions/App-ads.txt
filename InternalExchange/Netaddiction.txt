@@ -1,9 +1,14 @@
-#=== Netaddiction Nov 05, 2026
+#=== Netaddiction Nov 26, 2026
 netaddiction.it, 1108, DIRECT
 adagio.io, 1473, RESELLER
+adsmovil.com, JKHGrlkjds89, RESELLER
 bidinfluence.com, 502631, RESELLER
 connectad.io, 459, RESELLER, 85ac85a30c93b3e5
+firstimpression.io, 5172, RESELLER, a960877e77e58dd6
+fliwe.com, 107, RESELLER
+kodigital.io, KO100036, RESELLER
 lijit.com, 261548, RESELLER, fafdf38b16bf6b2b
+omgstudios.com, 301020261, RESELLER
 onetag.com, 3bf0f6316a97f0, RESELLER
 openx.com, 541163168, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 155968, RESELLER, 5d62403b186f2ace

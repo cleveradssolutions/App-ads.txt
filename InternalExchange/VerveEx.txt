@@ -1,30 +1,53 @@
-#=== VerveEx Dec 17, 2025
+#=== VerveEx Nov 26, 2026
 smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
 smaato.com, 1100059247, DIRECT, 07bcf65f187117b4
+152media.info, 152M1227, RESELLER
 33across.com, 001Pg00000GWjtfIAD, RESELLER, bbea06d9c4d2853c
+acunexus.com, 0353ab4cbed5beae847a7ff6e220b5cf38927, RESELLER
 adelement.com, 30208, RESELLER
+adpixelgroup.com, 28327, RESELLER
 advibe.media, 282121, RESELLER
+adwmg.com, 100436, DIRECT, c9688a22012618e7
+adwmg.com, 100436, RESELLER, c9688a22012618e7
+antipodesdigital.com, ad0010, RESELLER
+anzu.io, 6ae84d7b8501300a16121150, RESELLER
 apester.com, 2801, RESELLER
+appnexus.com, 18113, RESELLER, f5ab79cb980f11d1
+appnexus.com, 18132, RESELLER, f5ab79cb980f11d1
 aralego.com, par-8A26A34A22DB39D60B728A64AD47B324, RESELLER
+awg.la, ver0001, RESELLER
 bidmachine.io, 36, RESELLER
 blis.com, 86, RESELLER, 61453ae19a4b73f4
+bluexad.ai, 2108469091432927232, RESELLER
+copper6.com, 764117, RESELLER
 eskimi.com, 2020000029, RESELLER
 inmobi.com, 30eb9116886a497db0c502e8cf0aa4d3, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 55049d2e109d4ac1820ca1432dda4e13, RESELLER, 83e75a7ae333ca9d
+lijit.com, 264114, RESELLER, fafdf38b16bf6b2b
 loopme.com, 2896, RESELLER, 6c8d5f95897a5a3b
 lunamedia.io, a49272ae78e0ed4beb713268644928f0, RESELLER, 524ecb396915caaf
+magna-mediagroup.digital, 4591825, RESELLER
 media.net, 8CU8L31YN, RESELLER
+nativo.com, 6207, RESELLER, 59521ca7cc5e9fee
+nexverse.ai, 24139, RESELLER
+omni-dex.io, 100117, RESELLER
 opera.com, pub6843437470464, RESELLER
 programmaticx.ai, 6888889, RESELLER
 pubmatic.com, 160493, RESELLER, 5d62403b186f2ace
+pubmatic.com, 164778, RESELLER, 5d62403b186f2ace
+pubmatic.com, 168105, RESELLER, 5d62403b186f2ace
+richaudience.com, qAh36TdqF6, RESELLER
 rtbhouse.com, 7VQaL76PBynk7Hu4jror, RESELLER, 4f3b94578e85950c
 rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
 sharethrough.com, 3blZyYks, RESELLER, d53b998a7bd4ecd2
 smartadserver.com, 4625, RESELLER, 060d053dcf45cbf3
+smilewanted.com, 6213, RESELLER
 spinx.biz, 1373698865, RESELLER, 9f2711e9aaa9f992
 start.io, 184783812, RESELLER
+surgemedia.space, 113599, RESELLER
 thebrave.io, 52353142, RESELLER, c25b2154543746ac
+theimpact.digital, 321579, RESELLER
 triplelift.com, 12158, RESELLER, 6c33edb13117fd86
 ucfunnel.com, par-8A26A34A22DB39D60B728A64AD47B324, RESELLER
 uis.mobfox.com, 1750, RESELLER, 5529a3d1f59865be
@@ -32,3 +55,4 @@ video.unrulymedia.com, 2979066401945419350, RESELLER
 video.unrulymedia.com, 4201299756, RESELLER
 video.unrulymedia.com, 649652654350370180, RESELLER
 xandr.com, 13799, RESELLER, f5ab79cb980f11d1
+xandr.com, 18132, RESELLER, f5ab79cb980f11d1
