@@ -1,4 +1,4 @@
-#=== CASExchange Nov 26, 2026
+#=== CASExchange Nov 27, 2026
 inventorypartnerdomain=streamix-tv.com
 152media.info, 152M1024, RESELLER
 152media.info, 152M1093, RESELLER
@@ -1002,6 +1002,7 @@ thebrave.io, 1234693, RESELLER, c25b2154543746ac
 thebrave.io, 52353142, RESELLER, c25b2154543746ac
 thegermanemedia.com, 1030, DIRECT
 theimpact.digital, 321579, RESELLER
+thejungletechnology.com, 3199548, DIRECT
 thejungletechnology.com, 3199716, DIRECT
 themediagrid.com, 4WPRHV, DIRECT, 9fac4a4a87c2a44f
 themediagrid.com, HIFRLS, DIRECT, 35d5010d7789b49d
